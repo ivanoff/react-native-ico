@@ -1,11 +1,11 @@
 {
   "name": "react-native-ico",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Icons for React Native",
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "react-native-svg": "^9.13.3",
+    "react-native-svg": "^9.13.3"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/ivanoff/react-native-ico/issues"
   },
-  "homepage": "https://github.com/ivanoff/react-native-ico",
+  "homepage": "https://github.com/ivanoff/react-native-ico"
 }
