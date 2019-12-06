@@ -1,5 +1,6 @@
 ## social-media
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./social-media/001-youtube.svg) | social-media | youtube | `<Icon group="social-media" name="youtube" />`
 ![](./social-media/002-yelp.svg) | social-media | yelp | `<Icon group="social-media" name="yelp" />`

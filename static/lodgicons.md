@@ -1,5 +1,6 @@
 ## lodgicons
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./lodgicons/1-star.svg) | lodgicons | 1-star | `<Icon group="lodgicons" name="1-star" />`
 ![](./lodgicons/2-stars-symbol.svg) | lodgicons | 2-stars-symbol | `<Icon group="lodgicons" name="2-stars-symbol" />`

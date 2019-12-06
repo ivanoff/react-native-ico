@@ -1,5 +1,6 @@
 ## coolicons
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./coolicons/accept-1.svg) | coolicons | accept-1 | `<Icon group="coolicons" name="accept-1" />`
 ![](./coolicons/accept.svg) | coolicons | accept | `<Icon group="coolicons" name="accept" />`

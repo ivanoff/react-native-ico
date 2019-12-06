@@ -1,5 +1,6 @@
 ## default
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./default/edit.svg) | default | edit | `<Icon group="default" name="edit" />`
 ![](./default/heart.svg) | default | heart | `<Icon group="default" name="heart" />`

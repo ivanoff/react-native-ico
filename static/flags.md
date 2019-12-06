@@ -1,5 +1,6 @@
 ## flags
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./flags/001-ethiopia.svg) | flags | ethiopia | `<Icon group="flags" name="ethiopia" />`
 ![](./flags/002-oman.svg) | flags | oman | `<Icon group="flags" name="oman" />`

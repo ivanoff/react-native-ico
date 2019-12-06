@@ -1,5 +1,6 @@
 ## essential
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./essential/add-1.svg) | essential | add-1 | `<Icon group="essential" name="add-1" />`
 ![](./essential/add-2.svg) | essential | add-2 | `<Icon group="essential" name="add-2" />`

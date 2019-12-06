@@ -1,5 +1,6 @@
 ## font-awesome
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./font-awesome/add-square-button.svg) | font-awesome | add-square-button | `<Icon group="font-awesome" name="add-square-button" />`
 ![](./font-awesome/adjust-contrast.svg) | font-awesome | adjust-contrast | `<Icon group="font-awesome" name="adjust-contrast" />`

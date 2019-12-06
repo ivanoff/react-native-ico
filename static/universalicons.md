@@ -1,5 +1,6 @@
 ## universalicons
- image | group | name | usage
+
+image | group | name | usage
 --|--|--
 ![](./universalicons/angry-face-of-square-shape-and-straight-lines.svg) | universalicons | angry-face-of-square-shape-and-straight-lines | `<Icon group="universalicons" name="angry-face-of-square-shape-and-straight-lines" />`
 ![](./universalicons/angry-face-of-square-shape-outline.svg) | universalicons | angry-face-of-square-shape-outline | `<Icon group="universalicons" name="angry-face-of-square-shape-outline" />`
