@@ -2,6 +2,6 @@
 
 |image | group | name | usage
 |--|--|--
-| ![](./menu/Groups.svg) | menu | Groups | `<Icon group="menu" name="Groups" />`
-| ![](./menu/Quiz.svg) | menu | Quiz | `<Icon group="menu" name="Quiz" />`
-| ![](./menu/Words.svg) | menu | Words | `<Icon group="menu" name="Words" />`
+| <img src="./menu/Groups.svg" alt="Groups" width="30" height="30"/> | menu | Groups | `<Icon group="menu" name="Groups" />`
+| <img src="./menu/Quiz.svg" alt="Quiz" width="30" height="30"/> | menu | Quiz | `<Icon group="menu" name="Quiz" />`
+| <img src="./menu/Words.svg" alt="Words" width="30" height="30"/> | menu | Words | `<Icon group="menu" name="Words" />`

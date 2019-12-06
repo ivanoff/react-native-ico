@@ -2,403 +2,403 @@
 
 |image | group | name | usage
 |--|--|--
-| ![](./coolicons/accept-1.svg) | coolicons | accept-1 | `<Icon group="coolicons" name="accept-1" />`
-| ![](./coolicons/accept.svg) | coolicons | accept | `<Icon group="coolicons" name="accept" />`
-| ![](./coolicons/advance-button.svg) | coolicons | advance-button | `<Icon group="coolicons" name="advance-button" />`
-| ![](./coolicons/airplane-black-shape.svg) | coolicons | airplane-black-shape | `<Icon group="coolicons" name="airplane-black-shape" />`
-| ![](./coolicons/alphabetical-order-from-a-to-z.svg) | coolicons | alphabetical-order-from-a-to-z | `<Icon group="coolicons" name="alphabetical-order-from-a-to-z" />`
-| ![](./coolicons/ambulance.svg) | coolicons | ambulance | `<Icon group="coolicons" name="ambulance" />`
-| ![](./coolicons/anchor-interface-symbol.svg) | coolicons | anchor-interface-symbol | `<Icon group="coolicons" name="anchor-interface-symbol" />`
-| ![](./coolicons/android-logo-1.svg) | coolicons | android-logo-1 | `<Icon group="coolicons" name="android-logo-1" />`
-| ![](./coolicons/android-logo.svg) | coolicons | android-logo | `<Icon group="coolicons" name="android-logo" />`
-| ![](./coolicons/angle-arrow-pointing-down.svg) | coolicons | angle-arrow-pointing-down | `<Icon group="coolicons" name="angle-arrow-pointing-down" />`
-| ![](./coolicons/apple-black-shape-logo-with-a-bite-hole.svg) | coolicons | apple-black-shape-logo-with-a-bite-hole | `<Icon group="coolicons" name="apple-black-shape-logo-with-a-bite-hole" />`
-| ![](./coolicons/arrow-angle-pointing-to-right.svg) | coolicons | arrow-angle-pointing-to-right | `<Icon group="coolicons" name="arrow-angle-pointing-to-right" />`
-| ![](./coolicons/arrow-long-angle-pointing-right.svg) | coolicons | arrow-long-angle-pointing-right | `<Icon group="coolicons" name="arrow-long-angle-pointing-right" />`
-| ![](./coolicons/arrow-pointing-upper-right-in-a-square.svg) | coolicons | arrow-pointing-upper-right-in-a-square | `<Icon group="coolicons" name="arrow-pointing-upper-right-in-a-square" />`
-| ![](./coolicons/arrows-shuffle-symbol.svg) | coolicons | arrows-shuffle-symbol | `<Icon group="coolicons" name="arrows-shuffle-symbol" />`
-| ![](./coolicons/asterisk-black-star-shape.svg) | coolicons | asterisk-black-star-shape | `<Icon group="coolicons" name="asterisk-black-star-shape" />`
-| ![](./coolicons/audio-tool-for-head.svg) | coolicons | audio-tool-for-head | `<Icon group="coolicons" name="audio-tool-for-head" />`
-| ![](./coolicons/baby-cradle-silhouette.svg) | coolicons | baby-cradle-silhouette | `<Icon group="coolicons" name="baby-cradle-silhouette" />`
-| ![](./coolicons/back.svg) | coolicons | back | `<Icon group="coolicons" name="back" />`
-| ![](./coolicons/backward-arrows-couple.svg) | coolicons | backward-arrows-couple | `<Icon group="coolicons" name="backward-arrows-couple" />`
-| ![](./coolicons/barcode-square-variant.svg) | coolicons | barcode-square-variant | `<Icon group="coolicons" name="barcode-square-variant" />`
-| ![](./coolicons/bars-interface-symbol.svg) | coolicons | bars-interface-symbol | `<Icon group="coolicons" name="bars-interface-symbol" />`
-| ![](./coolicons/basketball-ball-outline.svg) | coolicons | basketball-ball-outline | `<Icon group="coolicons" name="basketball-ball-outline" />`
-| ![](./coolicons/bell-black-tool-shape.svg) | coolicons | bell-black-tool-shape | `<Icon group="coolicons" name="bell-black-tool-shape" />`
-| ![](./coolicons/bell-outline.svg) | coolicons | bell-outline | `<Icon group="coolicons" name="bell-outline" />`
-| ![](./coolicons/birthday-cake-of-three-cakes.svg) | coolicons | birthday-cake-of-three-cakes | `<Icon group="coolicons" name="birthday-cake-of-three-cakes" />`
-| ![](./coolicons/bitbucket-logo-1.svg) | coolicons | bitbucket-logo-1 | `<Icon group="coolicons" name="bitbucket-logo-1" />`
-| ![](./coolicons/bitbucket-logo.svg) | coolicons | bitbucket-logo | `<Icon group="coolicons" name="bitbucket-logo" />`
-| ![](./coolicons/bitcoin-symbol.svg) | coolicons | bitcoin-symbol | `<Icon group="coolicons" name="bitcoin-symbol" />`
-| ![](./coolicons/black-back-closed-envelope-shape.svg) | coolicons | black-back-closed-envelope-shape | `<Icon group="coolicons" name="black-back-closed-envelope-shape" />`
-| ![](./coolicons/black-folder-interface-symbol.svg) | coolicons | black-folder-interface-symbol | `<Icon group="coolicons" name="black-folder-interface-symbol" />`
-| ![](./coolicons/black-hand-finger-pointing-up.svg) | coolicons | black-hand-finger-pointing-up | `<Icon group="coolicons" name="black-hand-finger-pointing-up" />`
-| ![](./coolicons/black-rounded-square-shape.svg) | coolicons | black-rounded-square-shape | `<Icon group="coolicons" name="black-rounded-square-shape" />`
-| ![](./coolicons/black-square-shape.svg) | coolicons | black-square-shape | `<Icon group="coolicons" name="black-square-shape" />`
-| ![](./coolicons/book-gross-black-shape.svg) | coolicons | book-gross-black-shape | `<Icon group="coolicons" name="book-gross-black-shape" />`
-| ![](./coolicons/bookmark-black-shape.svg) | coolicons | bookmark-black-shape | `<Icon group="coolicons" name="bookmark-black-shape" />`
-| ![](./coolicons/box-from-side-view.svg) | coolicons | box-from-side-view | `<Icon group="coolicons" name="box-from-side-view" />`
-| ![](./coolicons/broken-link-interface-symbol-of-chain-links-with-a-slash.svg) | coolicons | broken-link-interface-symbol-of-chain-links-with-a-slash | `<Icon group="coolicons" name="broken-link-interface-symbol-of-chain-links-with-a-slash" />`
-| ![](./coolicons/bug-variant-of-circular-shape-with-spots.svg) | coolicons | bug-variant-of-circular-shape-with-spots | `<Icon group="coolicons" name="bug-variant-of-circular-shape-with-spots" />`
-| ![](./coolicons/building-shape.svg) | coolicons | building-shape | `<Icon group="coolicons" name="building-shape" />`
-| ![](./coolicons/calendar.svg) | coolicons | calendar | `<Icon group="coolicons" name="calendar" />`
-| ![](./coolicons/call-black-auricular-shape.svg) | coolicons | call-black-auricular-shape | `<Icon group="coolicons" name="call-black-auricular-shape" />`
-| ![](./coolicons/call-symbol-of-an-auricular-in-a-square.svg) | coolicons | call-symbol-of-an-auricular-in-a-square | `<Icon group="coolicons" name="call-symbol-of-an-auricular-in-a-square" />`
-| ![](./coolicons/camping-tent.svg) | coolicons | camping-tent | `<Icon group="coolicons" name="camping-tent" />`
-| ![](./coolicons/camping.svg) | coolicons | camping | `<Icon group="coolicons" name="camping" />`
-| ![](./coolicons/cardinal-points-star-of-a-circle-with-four-triangles.svg) | coolicons | cardinal-points-star-of-a-circle-with-four-triangles | `<Icon group="coolicons" name="cardinal-points-star-of-a-circle-with-four-triangles" />`
-| ![](./coolicons/center-alignment-symbol.svg) | coolicons | center-alignment-symbol | `<Icon group="coolicons" name="center-alignment-symbol" />`
-| ![](./coolicons/check-mark-sign.svg) | coolicons | check-mark-sign | `<Icon group="coolicons" name="check-mark-sign" />`
-| ![](./coolicons/checkered-flag-on-a-pole.svg) | coolicons | checkered-flag-on-a-pole | `<Icon group="coolicons" name="checkered-flag-on-a-pole" />`
-| ![](./coolicons/circle-outline-with-a-central-dot.svg) | coolicons | circle-outline-with-a-central-dot | `<Icon group="coolicons" name="circle-outline-with-a-central-dot" />`
-| ![](./coolicons/circle-shape.svg) | coolicons | circle-shape | `<Icon group="coolicons" name="circle-shape" />`
-| ![](./coolicons/circular-arrow-line.svg) | coolicons | circular-arrow-line | `<Icon group="coolicons" name="circular-arrow-line" />`
-| ![](./coolicons/circular-arrow.svg) | coolicons | circular-arrow | `<Icon group="coolicons" name="circular-arrow" />`
-| ![](./coolicons/circular-arrows-couple.svg) | coolicons | circular-arrows-couple | `<Icon group="coolicons" name="circular-arrows-couple" />`
-| ![](./coolicons/circular-stairs-from-top-view.svg) | coolicons | circular-stairs-from-top-view | `<Icon group="coolicons" name="circular-stairs-from-top-view" />`
-| ![](./coolicons/clapper-for-cinema-filming.svg) | coolicons | clapper-for-cinema-filming | `<Icon group="coolicons" name="clapper-for-cinema-filming" />`
-| ![](./coolicons/clipboard-and-paper-sheet.svg) | coolicons | clipboard-and-paper-sheet | `<Icon group="coolicons" name="clipboard-and-paper-sheet" />`
-| ![](./coolicons/clock-circular-outline.svg) | coolicons | clock-circular-outline | `<Icon group="coolicons" name="clock-circular-outline" />`
-| ![](./coolicons/close-cross-sign-in-a-square-button.svg) | coolicons | close-cross-sign-in-a-square-button | `<Icon group="coolicons" name="close-cross-sign-in-a-square-button" />`
-| ![](./coolicons/cloud-black-shape.svg) | coolicons | cloud-black-shape | `<Icon group="coolicons" name="cloud-black-shape" />`
-| ![](./coolicons/code-interface-symbol-of-signs.svg) | coolicons | code-interface-symbol-of-signs | `<Icon group="coolicons" name="code-interface-symbol-of-signs" />`
-| ![](./coolicons/coffee-hot-black-cup-of-rounded-shapes.svg) | coolicons | coffee-hot-black-cup-of-rounded-shapes | `<Icon group="coolicons" name="coffee-hot-black-cup-of-rounded-shapes" />`
-| ![](./coolicons/commercial-label-black-shape.svg) | coolicons | commercial-label-black-shape | `<Icon group="coolicons" name="commercial-label-black-shape" />`
-| ![](./coolicons/compass-tool-1.svg) | coolicons | compass-tool-1 | `<Icon group="coolicons" name="compass-tool-1" />`
-| ![](./coolicons/compass-tool.svg) | coolicons | compass-tool | `<Icon group="coolicons" name="compass-tool" />`
-| ![](./coolicons/connection-interface-symbol-of-three-circles-with-lines-unions.svg) | coolicons | connection-interface-symbol-of-three-circles-with-lines-unions | `<Icon group="coolicons" name="connection-interface-symbol-of-three-circles-with-lines-unions" />`
-| ![](./coolicons/contrast-interface-circular-symbol-half-black-half-white.svg) | coolicons | contrast-interface-circular-symbol-half-black-half-white | `<Icon group="coolicons" name="contrast-interface-circular-symbol-half-black-half-white" />`
-| ![](./coolicons/control-of-rectangular-shape.svg) | coolicons | control-of-rectangular-shape | `<Icon group="coolicons" name="control-of-rectangular-shape" />`
-| ![](./coolicons/credit-card-back-view.svg) | coolicons | credit-card-back-view | `<Icon group="coolicons" name="credit-card-back-view" />`
-| ![](./coolicons/crop-interface-symbol.svg) | coolicons | crop-interface-symbol | `<Icon group="coolicons" name="crop-interface-symbol" />`
-| ![](./coolicons/cross-sign.svg) | coolicons | cross-sign | `<Icon group="coolicons" name="cross-sign" />`
-| ![](./coolicons/currency-symbol.svg) | coolicons | currency-symbol | `<Icon group="coolicons" name="currency-symbol" />`
-| ![](./coolicons/daily-calendar-empty-page.svg) | coolicons | daily-calendar-empty-page | `<Icon group="coolicons" name="daily-calendar-empty-page" />`
-| ![](./coolicons/delete-cross-interface-symbol.svg) | coolicons | delete-cross-interface-symbol | `<Icon group="coolicons" name="delete-cross-interface-symbol" />`
-| ![](./coolicons/descendant-arrow-angle.svg) | coolicons | descendant-arrow-angle | `<Icon group="coolicons" name="descendant-arrow-angle" />`
-| ![](./coolicons/diamond-ring-shape.svg) | coolicons | diamond-ring-shape | `<Icon group="coolicons" name="diamond-ring-shape" />`
-| ![](./coolicons/dice-on-three-face.svg) | coolicons | dice-on-three-face | `<Icon group="coolicons" name="dice-on-three-face" />`
-| ![](./coolicons/discapacity-wheels-chair-circular-sign.svg) | coolicons | discapacity-wheels-chair-circular-sign | `<Icon group="coolicons" name="discapacity-wheels-chair-circular-sign" />`
-| ![](./coolicons/dislike-hand-symbol.svg) | coolicons | dislike-hand-symbol | `<Icon group="coolicons" name="dislike-hand-symbol" />`
-| ![](./coolicons/dollar-bill.svg) | coolicons | dollar-bill | `<Icon group="coolicons" name="dollar-bill" />`
-| ![](./coolicons/dollar-symbol.svg) | coolicons | dollar-symbol | `<Icon group="coolicons" name="dollar-symbol" />`
-| ![](./coolicons/double-left-arrows-angles.svg) | coolicons | double-left-arrows-angles | `<Icon group="coolicons" name="double-left-arrows-angles" />`
-| ![](./coolicons/down-arrow-1.svg) | coolicons | down-arrow-1 | `<Icon group="coolicons" name="down-arrow-1" />`
-| ![](./coolicons/down-arrow-black-triangular-variant-symbol.svg) | coolicons | down-arrow-black-triangular-variant-symbol | `<Icon group="coolicons" name="down-arrow-black-triangular-variant-symbol" />`
-| ![](./coolicons/down-arrow-in-a-circle-1.svg) | coolicons | down-arrow-in-a-circle-1 | `<Icon group="coolicons" name="down-arrow-in-a-circle-1" />`
-| ![](./coolicons/down-arrow-in-a-circle-2.svg) | coolicons | down-arrow-in-a-circle-2 | `<Icon group="coolicons" name="down-arrow-in-a-circle-2" />`
-| ![](./coolicons/down-arrow-in-a-circle.svg) | coolicons | down-arrow-in-a-circle | `<Icon group="coolicons" name="down-arrow-in-a-circle" />`
-| ![](./coolicons/down-arrow-triangle-in-a-square-of-gross-line.svg) | coolicons | down-arrow-triangle-in-a-square-of-gross-line | `<Icon group="coolicons" name="down-arrow-triangle-in-a-square-of-gross-line" />`
-| ![](./coolicons/down-arrow.svg) | coolicons | down-arrow | `<Icon group="coolicons" name="down-arrow" />`
-| ![](./coolicons/down-black-arrow.svg) | coolicons | down-black-arrow | `<Icon group="coolicons" name="down-black-arrow" />`
-| ![](./coolicons/download-arrow.svg) | coolicons | download-arrow | `<Icon group="coolicons" name="download-arrow" />`
-| ![](./coolicons/download-from-internet-interface-symbol.svg) | coolicons | download-from-internet-interface-symbol | `<Icon group="coolicons" name="download-from-internet-interface-symbol" />`
-| ![](./coolicons/drop-shape.svg) | coolicons | drop-shape | `<Icon group="coolicons" name="drop-shape" />`
-| ![](./coolicons/dropbox-logo.svg) | coolicons | dropbox-logo | `<Icon group="coolicons" name="dropbox-logo" />`
-| ![](./coolicons/edit-interface-symbol-of-square-paper-with-a-pencil.svg) | coolicons | edit-interface-symbol-of-square-paper-with-a-pencil | `<Icon group="coolicons" name="edit-interface-symbol-of-square-paper-with-a-pencil" />`
-| ![](./coolicons/euro-currency-sign.svg) | coolicons | euro-currency-sign | `<Icon group="coolicons" name="euro-currency-sign" />`
-| ![](./coolicons/exclamation-sign-1.svg) | coolicons | exclamation-sign-1 | `<Icon group="coolicons" name="exclamation-sign-1" />`
-| ![](./coolicons/exclamation-sign-in-a-rhomb.svg) | coolicons | exclamation-sign-in-a-rhomb | `<Icon group="coolicons" name="exclamation-sign-in-a-rhomb" />`
-| ![](./coolicons/exclamation-sign.svg) | coolicons | exclamation-sign | `<Icon group="coolicons" name="exclamation-sign" />`
-| ![](./coolicons/eye-opened-shape-with-signal-connection-lines.svg) | coolicons | eye-opened-shape-with-signal-connection-lines | `<Icon group="coolicons" name="eye-opened-shape-with-signal-connection-lines" />`
-| ![](./coolicons/facebook-letter-logo.svg) | coolicons | facebook-letter-logo | `<Icon group="coolicons" name="facebook-letter-logo" />`
-| ![](./coolicons/facebook-logo.svg) | coolicons | facebook-logo | `<Icon group="coolicons" name="facebook-logo" />`
-| ![](./coolicons/fast-forward-multimedia-control-arrows.svg) | coolicons | fast-forward-multimedia-control-arrows | `<Icon group="coolicons" name="fast-forward-multimedia-control-arrows" />`
-| ![](./coolicons/fast-forward.svg) | coolicons | fast-forward | `<Icon group="coolicons" name="fast-forward" />`
-| ![](./coolicons/female-silhouette.svg) | coolicons | female-silhouette | `<Icon group="coolicons" name="female-silhouette" />`
-| ![](./coolicons/file-black-paper-sheet-interface-symbol.svg) | coolicons | file-black-paper-sheet-interface-symbol | `<Icon group="coolicons" name="file-black-paper-sheet-interface-symbol" />`
-| ![](./coolicons/file-gross-interface-symbol.svg) | coolicons | file-gross-interface-symbol | `<Icon group="coolicons" name="file-gross-interface-symbol" />`
-| ![](./coolicons/file-gross-outline-interface-symbol.svg) | coolicons | file-gross-outline-interface-symbol | `<Icon group="coolicons" name="file-gross-outline-interface-symbol" />`
-| ![](./coolicons/file-interface-symbol.svg) | coolicons | file-interface-symbol | `<Icon group="coolicons" name="file-interface-symbol" />`
-| ![](./coolicons/film-clapperboard.svg) | coolicons | film-clapperboard | `<Icon group="coolicons" name="film-clapperboard" />`
-| ![](./coolicons/film-strip-of-cinema-symbol.svg) | coolicons | film-strip-of-cinema-symbol | `<Icon group="coolicons" name="film-strip-of-cinema-symbol" />`
-| ![](./coolicons/fire-extinguisher-black-tool-shape.svg) | coolicons | fire-extinguisher-black-tool-shape | `<Icon group="coolicons" name="fire-extinguisher-black-tool-shape" />`
-| ![](./coolicons/fire-gross-flame-black-symbol.svg) | coolicons | fire-gross-flame-black-symbol | `<Icon group="coolicons" name="fire-gross-flame-black-symbol" />`
-| ![](./coolicons/fire-with-logs-cross.svg) | coolicons | fire-with-logs-cross | `<Icon group="coolicons" name="fire-with-logs-cross" />`
-| ![](./coolicons/first-aid-kit-box-with-cross-sign.svg) | coolicons | first-aid-kit-box-with-cross-sign | `<Icon group="coolicons" name="first-aid-kit-box-with-cross-sign" />`
-| ![](./coolicons/flag-black-tool-shape.svg) | coolicons | flag-black-tool-shape | `<Icon group="coolicons" name="flag-black-tool-shape" />`
-| ![](./coolicons/flag-of-rectangle-outline-on-a-pole.svg) | coolicons | flag-of-rectangle-outline-on-a-pole | `<Icon group="coolicons" name="flag-of-rectangle-outline-on-a-pole" />`
-| ![](./coolicons/flask-glass-container-with-liquid-inside.svg) | coolicons | flask-glass-container-with-liquid-inside | `<Icon group="coolicons" name="flask-glass-container-with-liquid-inside" />`
-| ![](./coolicons/flickr-logo-variant-of-two-dots-in-a-rounded-square.svg) | coolicons | flickr-logo-variant-of-two-dots-in-a-rounded-square | `<Icon group="coolicons" name="flickr-logo-variant-of-two-dots-in-a-rounded-square" />`
-| ![](./coolicons/floppy-disk-interface-symbol-for-save-option-button.svg) | coolicons | floppy-disk-interface-symbol-for-save-option-button | `<Icon group="coolicons" name="floppy-disk-interface-symbol-for-save-option-button" />`
-| ![](./coolicons/flower-with-ribbon-tails.svg) | coolicons | flower-with-ribbon-tails | `<Icon group="coolicons" name="flower-with-ribbon-tails" />`
-| ![](./coolicons/folder-black-shape.svg) | coolicons | folder-black-shape | `<Icon group="coolicons" name="folder-black-shape" />`
-| ![](./coolicons/folder-gross-outline-shape-interface-symbol.svg) | coolicons | folder-gross-outline-shape-interface-symbol | `<Icon group="coolicons" name="folder-gross-outline-shape-interface-symbol" />`
-| ![](./coolicons/folder-gross-symbol-for-interface.svg) | coolicons | folder-gross-symbol-for-interface | `<Icon group="coolicons" name="folder-gross-symbol-for-interface" />`
-| ![](./coolicons/font-interface-symbol.svg) | coolicons | font-interface-symbol | `<Icon group="coolicons" name="font-interface-symbol" />`
-| ![](./coolicons/four-circles-black-group.svg) | coolicons | four-circles-black-group | `<Icon group="coolicons" name="four-circles-black-group" />`
-| ![](./coolicons/four-horizontal-lines-interface-symbol.svg) | coolicons | four-horizontal-lines-interface-symbol | `<Icon group="coolicons" name="four-horizontal-lines-interface-symbol" />`
-| ![](./coolicons/four-squares-black-shapes.svg) | coolicons | four-squares-black-shapes | `<Icon group="coolicons" name="four-squares-black-shapes" />`
-| ![](./coolicons/funnel-black-shape-interface-symbol.svg) | coolicons | funnel-black-shape-interface-symbol | `<Icon group="coolicons" name="funnel-black-shape-interface-symbol" />`
-| ![](./coolicons/giftbox-black-variant-with-a-ribbon-on-top.svg) | coolicons | giftbox-black-variant-with-a-ribbon-on-top | `<Icon group="coolicons" name="giftbox-black-variant-with-a-ribbon-on-top" />`
-| ![](./coolicons/github-logo-face.svg) | coolicons | github-logo-face | `<Icon group="coolicons" name="github-logo-face" />`
-| ![](./coolicons/github-logo-silhouette-in-a-square.svg) | coolicons | github-logo-silhouette-in-a-square | `<Icon group="coolicons" name="github-logo-silhouette-in-a-square" />`
-| ![](./coolicons/glass-black-shape-for-wine.svg) | coolicons | glass-black-shape-for-wine | `<Icon group="coolicons" name="glass-black-shape-for-wine" />`
-| ![](./coolicons/golf-flag-and-field.svg) | coolicons | golf-flag-and-field | `<Icon group="coolicons" name="golf-flag-and-field" />`
-| ![](./coolicons/google-plus-logo.svg) | coolicons | google-plus-logo | `<Icon group="coolicons" name="google-plus-logo" />`
-| ![](./coolicons/google-plus-square-logo.svg) | coolicons | google-plus-square-logo | `<Icon group="coolicons" name="google-plus-square-logo" />`
-| ![](./coolicons/group-interface-symbol.svg) | coolicons | group-interface-symbol | `<Icon group="coolicons" name="group-interface-symbol" />`
-| ![](./coolicons/half-black-star-shape.svg) | coolicons | half-black-star-shape | `<Icon group="coolicons" name="half-black-star-shape" />`
-| ![](./coolicons/hand-black-shape-pointing-left-with-one-finger.svg) | coolicons | hand-black-shape-pointing-left-with-one-finger | `<Icon group="coolicons" name="hand-black-shape-pointing-left-with-one-finger" />`
-| ![](./coolicons/hand-finger-pointing-down-like-an-arrow.svg) | coolicons | hand-finger-pointing-down-like-an-arrow | `<Icon group="coolicons" name="hand-finger-pointing-down-like-an-arrow" />`
-| ![](./coolicons/hand-finger-pointing-to-right-direction-like-an-arrow.svg) | coolicons | hand-finger-pointing-to-right-direction-like-an-arrow | `<Icon group="coolicons" name="hand-finger-pointing-to-right-direction-like-an-arrow" />`
-| ![](./coolicons/hard-disc.svg) | coolicons | hard-disc | `<Icon group="coolicons" name="hard-disc" />`
-| ![](./coolicons/heart-black-shape.svg) | coolicons | heart-black-shape | `<Icon group="coolicons" name="heart-black-shape" />`
-| ![](./coolicons/heart-in-a-circle.svg) | coolicons | heart-in-a-circle | `<Icon group="coolicons" name="heart-in-a-circle" />`
-| ![](./coolicons/heart-outline-shape.svg) | coolicons | heart-outline-shape | `<Icon group="coolicons" name="heart-outline-shape" />`
-| ![](./coolicons/hide-interface-symbol.svg) | coolicons | hide-interface-symbol | `<Icon group="coolicons" name="hide-interface-symbol" />`
-| ![](./coolicons/home-black-shape.svg) | coolicons | home-black-shape | `<Icon group="coolicons" name="home-black-shape" />`
-| ![](./coolicons/hotel-building.svg) | coolicons | hotel-building | `<Icon group="coolicons" name="hotel-building" />`
-| ![](./coolicons/hotel-letter-sign.svg) | coolicons | hotel-letter-sign | `<Icon group="coolicons" name="hotel-letter-sign" />`
-| ![](./coolicons/html-3-logo.svg) | coolicons | html-3-logo | `<Icon group="coolicons" name="html-3-logo" />`
-| ![](./coolicons/html-5-logotype.svg) | coolicons | html-5-logotype | `<Icon group="coolicons" name="html-5-logotype" />`
-| ![](./coolicons/ice-cream-cone-black-shape.svg) | coolicons | ice-cream-cone-black-shape | `<Icon group="coolicons" name="ice-cream-cone-black-shape" />`
-| ![](./coolicons/id-card-interface-rectangular-symbol.svg) | coolicons | id-card-interface-rectangular-symbol | `<Icon group="coolicons" name="id-card-interface-rectangular-symbol" />`
-| ![](./coolicons/image-interface-symbol-of-a-landscape.svg) | coolicons | image-interface-symbol-of-a-landscape | `<Icon group="coolicons" name="image-interface-symbol-of-a-landscape" />`
-| ![](./coolicons/info-letter-interface-sign.svg) | coolicons | info-letter-interface-sign | `<Icon group="coolicons" name="info-letter-interface-sign" />`
-| ![](./coolicons/information-sign.svg) | coolicons | information-sign | `<Icon group="coolicons" name="information-sign" />`
-| ![](./coolicons/instagram-photo-camera-symbol.svg) | coolicons | instagram-photo-camera-symbol | `<Icon group="coolicons" name="instagram-photo-camera-symbol" />`
-| ![](./coolicons/interface-upload-up-arrow-symbol.svg) | coolicons | interface-upload-up-arrow-symbol | `<Icon group="coolicons" name="interface-upload-up-arrow-symbol" />`
-| ![](./coolicons/italic-text-option-interface-symbol.svg) | coolicons | italic-text-option-interface-symbol | `<Icon group="coolicons" name="italic-text-option-interface-symbol" />`
-| ![](./coolicons/jar-black-shape.svg) | coolicons | jar-black-shape | `<Icon group="coolicons" name="jar-black-shape" />`
-| ![](./coolicons/key-shape.svg) | coolicons | key-shape | `<Icon group="coolicons" name="key-shape" />`
-| ![](./coolicons/label-black-shape.svg) | coolicons | label-black-shape | `<Icon group="coolicons" name="label-black-shape" />`
-| ![](./coolicons/laptop-with-empty-screen.svg) | coolicons | laptop-with-empty-screen | `<Icon group="coolicons" name="laptop-with-empty-screen" />`
-| ![](./coolicons/leaf-shape.svg) | coolicons | leaf-shape | `<Icon group="coolicons" name="leaf-shape" />`
-| ![](./coolicons/leaves-on-a-branch-silhouette.svg) | coolicons | leaves-on-a-branch-silhouette | `<Icon group="coolicons" name="leaves-on-a-branch-silhouette" />`
-| ![](./coolicons/left-and-right-small-triangular-arrows-couple.svg) | coolicons | left-and-right-small-triangular-arrows-couple | `<Icon group="coolicons" name="left-and-right-small-triangular-arrows-couple" />`
-| ![](./coolicons/left-arrow-1.svg) | coolicons | left-arrow-1 | `<Icon group="coolicons" name="left-arrow-1" />`
-| ![](./coolicons/left-arrow-2.svg) | coolicons | left-arrow-2 | `<Icon group="coolicons" name="left-arrow-2" />`
-| ![](./coolicons/left-arrow-angle-variant.svg) | coolicons | left-arrow-angle-variant | `<Icon group="coolicons" name="left-arrow-angle-variant" />`
-| ![](./coolicons/left-arrow-angle.svg) | coolicons | left-arrow-angle | `<Icon group="coolicons" name="left-arrow-angle" />`
-| ![](./coolicons/left-arrow-black-triangular-shape.svg) | coolicons | left-arrow-black-triangular-shape | `<Icon group="coolicons" name="left-arrow-black-triangular-shape" />`
-| ![](./coolicons/left-arrow-in-a-circle-1.svg) | coolicons | left-arrow-in-a-circle-1 | `<Icon group="coolicons" name="left-arrow-in-a-circle-1" />`
-| ![](./coolicons/left-arrow-in-a-circle.svg) | coolicons | left-arrow-in-a-circle | `<Icon group="coolicons" name="left-arrow-in-a-circle" />`
-| ![](./coolicons/left-arrow-in-rounded-shape.svg) | coolicons | left-arrow-in-rounded-shape | `<Icon group="coolicons" name="left-arrow-in-rounded-shape" />`
-| ![](./coolicons/left-arrow-square.svg) | coolicons | left-arrow-square | `<Icon group="coolicons" name="left-arrow-square" />`
-| ![](./coolicons/left-arrow-variant.svg) | coolicons | left-arrow-variant | `<Icon group="coolicons" name="left-arrow-variant" />`
-| ![](./coolicons/left-arrow.svg) | coolicons | left-arrow | `<Icon group="coolicons" name="left-arrow" />`
-| ![](./coolicons/left-quotes-sign.svg) | coolicons | left-quotes-sign | `<Icon group="coolicons" name="left-quotes-sign" />`
-| ![](./coolicons/left-text-alignment-interface-option.svg) | coolicons | left-text-alignment-interface-option | `<Icon group="coolicons" name="left-text-alignment-interface-option" />`
-| ![](./coolicons/legal-hammer.svg) | coolicons | legal-hammer | `<Icon group="coolicons" name="legal-hammer" />`
-| ![](./coolicons/lemon-shape.svg) | coolicons | lemon-shape | `<Icon group="coolicons" name="lemon-shape" />`
-| ![](./coolicons/less-zoom-sign.svg) | coolicons | less-zoom-sign | `<Icon group="coolicons" name="less-zoom-sign" />`
-| ![](./coolicons/letter-a-sign-in-a-circle.svg) | coolicons | letter-a-sign-in-a-circle | `<Icon group="coolicons" name="letter-a-sign-in-a-circle" />`
-| ![](./coolicons/letter-b-symbol.svg) | coolicons | letter-b-symbol | `<Icon group="coolicons" name="letter-b-symbol" />`
-| ![](./coolicons/level-down-arrow.svg) | coolicons | level-down-arrow | `<Icon group="coolicons" name="level-down-arrow" />`
-| ![](./coolicons/lightbulb-gross-outline.svg) | coolicons | lightbulb-gross-outline | `<Icon group="coolicons" name="lightbulb-gross-outline" />`
-| ![](./coolicons/lightning-bolt-black-shape.svg) | coolicons | lightning-bolt-black-shape | `<Icon group="coolicons" name="lightning-bolt-black-shape" />`
-| ![](./coolicons/like-symbol-for-interface-of-black-hand-shape-with-thumb-up.svg) | coolicons | like-symbol-for-interface-of-black-hand-shape-with-thumb-up | `<Icon group="coolicons" name="like-symbol-for-interface-of-black-hand-shape-with-thumb-up" />`
-| ![](./coolicons/link-interface-symbol.svg) | coolicons | link-interface-symbol | `<Icon group="coolicons" name="link-interface-symbol" />`
-| ![](./coolicons/linked-in-logo-of-two-letters.svg) | coolicons | linked-in-logo-of-two-letters | `<Icon group="coolicons" name="linked-in-logo-of-two-letters" />`
-| ![](./coolicons/linkedin-square-logo.svg) | coolicons | linkedin-square-logo | `<Icon group="coolicons" name="linkedin-square-logo" />`
-| ![](./coolicons/linux-penguin.svg) | coolicons | linux-penguin | `<Icon group="coolicons" name="linux-penguin" />`
-| ![](./coolicons/list-1.svg) | coolicons | list-1 | `<Icon group="coolicons" name="list-1" />`
-| ![](./coolicons/list-interface-symbol.svg) | coolicons | list-interface-symbol | `<Icon group="coolicons" name="list-interface-symbol" />`
-| ![](./coolicons/list.svg) | coolicons | list | `<Icon group="coolicons" name="list" />`
-| ![](./coolicons/locked-padlock-security-interface-symbol.svg) | coolicons | locked-padlock-security-interface-symbol | `<Icon group="coolicons" name="locked-padlock-security-interface-symbol" />`
-| ![](./coolicons/logo-of-striped-rounded-square-speech-bubble-shape.svg) | coolicons | logo-of-striped-rounded-square-speech-bubble-shape | `<Icon group="coolicons" name="logo-of-striped-rounded-square-speech-bubble-shape" />`
-| ![](./coolicons/magic-wand.svg) | coolicons | magic-wand | `<Icon group="coolicons" name="magic-wand" />`
-| ![](./coolicons/magnet.svg) | coolicons | magnet | `<Icon group="coolicons" name="magnet" />`
-| ![](./coolicons/man-standing-black-silhouette.svg) | coolicons | man-standing-black-silhouette | `<Icon group="coolicons" name="man-standing-black-silhouette" />`
-| ![](./coolicons/marker-outline.svg) | coolicons | marker-outline | `<Icon group="coolicons" name="marker-outline" />`
-| ![](./coolicons/maxcdn-letter-logo.svg) | coolicons | maxcdn-letter-logo | `<Icon group="coolicons" name="maxcdn-letter-logo" />`
-| ![](./coolicons/md.svg) | coolicons | md | `<Icon group="coolicons" name="md" />`
-| ![](./coolicons/medical-tool-to-listen-heart-beats.svg) | coolicons | medical-tool-to-listen-heart-beats | `<Icon group="coolicons" name="medical-tool-to-listen-heart-beats" />`
-| ![](./coolicons/megaphone-silhouette.svg) | coolicons | megaphone-silhouette | `<Icon group="coolicons" name="megaphone-silhouette" />`
-| ![](./coolicons/menu-interface-symbol-of-four-horizontal-lines-with-dots.svg) | coolicons | menu-interface-symbol-of-four-horizontal-lines-with-dots | `<Icon group="coolicons" name="menu-interface-symbol-of-four-horizontal-lines-with-dots" />`
-| ![](./coolicons/menu-interface-symbol-of-three-horizontal-straight-lines.svg) | coolicons | menu-interface-symbol-of-three-horizontal-straight-lines | `<Icon group="coolicons" name="menu-interface-symbol-of-three-horizontal-straight-lines" />`
-| ![](./coolicons/message-black-speech-bubble-of-rectangular-shape.svg) | coolicons | message-black-speech-bubble-of-rectangular-shape | `<Icon group="coolicons" name="message-black-speech-bubble-of-rectangular-shape" />`
-| ![](./coolicons/microphone-voice-interface-symbol.svg) | coolicons | microphone-voice-interface-symbol | `<Icon group="coolicons" name="microphone-voice-interface-symbol" />`
-| ![](./coolicons/microphone-with-slash-interface-symbol-for-mute-audio.svg) | coolicons | microphone-with-slash-interface-symbol-for-mute-audio | `<Icon group="coolicons" name="microphone-with-slash-interface-symbol-for-mute-audio" />`
-| ![](./coolicons/minus-sign-in-a-square-1.svg) | coolicons | minus-sign-in-a-square-1 | `<Icon group="coolicons" name="minus-sign-in-a-square-1" />`
-| ![](./coolicons/minus-sign-in-a-square.svg) | coolicons | minus-sign-in-a-square | `<Icon group="coolicons" name="minus-sign-in-a-square" />`
-| ![](./coolicons/minus-sign.svg) | coolicons | minus-sign | `<Icon group="coolicons" name="minus-sign" />`
-| ![](./coolicons/minus-straight-horizontal-line-sign.svg) | coolicons | minus-straight-horizontal-line-sign | `<Icon group="coolicons" name="minus-straight-horizontal-line-sign" />`
-| ![](./coolicons/monitor.svg) | coolicons | monitor | `<Icon group="coolicons" name="monitor" />`
-| ![](./coolicons/moon-shape.svg) | coolicons | moon-shape | `<Icon group="coolicons" name="moon-shape" />`
-| ![](./coolicons/music-disc.svg) | coolicons | music-disc | `<Icon group="coolicons" name="music-disc" />`
-| ![](./coolicons/music-discs.svg) | coolicons | music-discs | `<Icon group="coolicons" name="music-discs" />`
-| ![](./coolicons/musical-disc.svg) | coolicons | musical-disc | `<Icon group="coolicons" name="musical-disc" />`
-| ![](./coolicons/musical-note-black-shape.svg) | coolicons | musical-note-black-shape | `<Icon group="coolicons" name="musical-note-black-shape" />`
-| ![](./coolicons/network-or-hierarchy-graphic.svg) | coolicons | network-or-hierarchy-graphic | `<Icon group="coolicons" name="network-or-hierarchy-graphic" />`
-| ![](./coolicons/new-email-black-back-envelope-symbol-of-interface.svg) | coolicons | new-email-black-back-envelope-symbol-of-interface | `<Icon group="coolicons" name="new-email-black-back-envelope-symbol-of-interface" />`
-| ![](./coolicons/numbered-list.svg) | coolicons | numbered-list | `<Icon group="coolicons" name="numbered-list" />`
-| ![](./coolicons/opposite-arrows-couple.svg) | coolicons | opposite-arrows-couple | `<Icon group="coolicons" name="opposite-arrows-couple" />`
-| ![](./coolicons/order-interface-symbol-with-down-arrow.svg) | coolicons | order-interface-symbol-with-down-arrow | `<Icon group="coolicons" name="order-interface-symbol-with-down-arrow" />`
-| ![](./coolicons/orientation-winds-star-pointing-cardinal-points.svg) | coolicons | orientation-winds-star-pointing-cardinal-points | `<Icon group="coolicons" name="orientation-winds-star-pointing-cardinal-points" />`
-| ![](./coolicons/overflowing-stacked-papers-tray.svg) | coolicons | overflowing-stacked-papers-tray | `<Icon group="coolicons" name="overflowing-stacked-papers-tray" />`
-| ![](./coolicons/padlock-locked-black-shape.svg) | coolicons | padlock-locked-black-shape | `<Icon group="coolicons" name="padlock-locked-black-shape" />`
-| ![](./coolicons/paperclip-spiral.svg) | coolicons | paperclip-spiral | `<Icon group="coolicons" name="paperclip-spiral" />`
-| ![](./coolicons/pause.svg) | coolicons | pause | `<Icon group="coolicons" name="pause" />`
-| ![](./coolicons/paw-black-shape.svg) | coolicons | paw-black-shape | `<Icon group="coolicons" name="paw-black-shape" />`
-| ![](./coolicons/pencil-black-tool-interface-symbol.svg) | coolicons | pencil-black-tool-interface-symbol | `<Icon group="coolicons" name="pencil-black-tool-interface-symbol" />`
-| ![](./coolicons/pencil-in-a-square-interface-symbol-of-gross-outline.svg) | coolicons | pencil-in-a-square-interface-symbol-of-gross-outline | `<Icon group="coolicons" name="pencil-in-a-square-interface-symbol-of-gross-outline" />`
-| ![](./coolicons/phone-keys-black-nine-squares.svg) | coolicons | phone-keys-black-nine-squares | `<Icon group="coolicons" name="phone-keys-black-nine-squares" />`
-| ![](./coolicons/phone-shape.svg) | coolicons | phone-shape | `<Icon group="coolicons" name="phone-shape" />`
-| ![](./coolicons/photo-camera-interface-symbol-1.svg) | coolicons | photo-camera-interface-symbol-1 | `<Icon group="coolicons" name="photo-camera-interface-symbol-1" />`
-| ![](./coolicons/photo-camera-interface-symbol.svg) | coolicons | photo-camera-interface-symbol | `<Icon group="coolicons" name="photo-camera-interface-symbol" />`
-| ![](./coolicons/photo-camera-of-square-shape.svg) | coolicons | photo-camera-of-square-shape | `<Icon group="coolicons" name="photo-camera-of-square-shape" />`
-| ![](./coolicons/pin-black-tool-shape.svg) | coolicons | pin-black-tool-shape | `<Icon group="coolicons" name="pin-black-tool-shape" />`
-| ![](./coolicons/pinterest-circular-logo-symbol.svg) | coolicons | pinterest-circular-logo-symbol | `<Icon group="coolicons" name="pinterest-circular-logo-symbol" />`
-| ![](./coolicons/pinterest-letter-logo-in-a-square.svg) | coolicons | pinterest-letter-logo-in-a-square | `<Icon group="coolicons" name="pinterest-letter-logo-in-a-square" />`
-| ![](./coolicons/placeholder-interface-symbol-for-maps.svg) | coolicons | placeholder-interface-symbol-for-maps | `<Icon group="coolicons" name="placeholder-interface-symbol-for-maps" />`
-| ![](./coolicons/placeholder.svg) | coolicons | placeholder | `<Icon group="coolicons" name="placeholder" />`
-| ![](./coolicons/placeholders.svg) | coolicons | placeholders | `<Icon group="coolicons" name="placeholders" />`
-| ![](./coolicons/play-square-button.svg) | coolicons | play-square-button | `<Icon group="coolicons" name="play-square-button" />`
-| ![](./coolicons/play-triangular-button-symbol-in-a-circle.svg) | coolicons | play-triangular-button-symbol-in-a-circle | `<Icon group="coolicons" name="play-triangular-button-symbol-in-a-circle" />`
-| ![](./coolicons/player-play-button-of-circular-shape.svg) | coolicons | player-play-button-of-circular-shape | `<Icon group="coolicons" name="player-play-button-of-circular-shape" />`
-| ![](./coolicons/player-play-button-symbol.svg) | coolicons | player-play-button-symbol | `<Icon group="coolicons" name="player-play-button-symbol" />`
-| ![](./coolicons/plus-sign-1.svg) | coolicons | plus-sign-1 | `<Icon group="coolicons" name="plus-sign-1" />`
-| ![](./coolicons/plus-sign-in-a-square-symbol-of-gross-line.svg) | coolicons | plus-sign-in-a-square-symbol-of-gross-line | `<Icon group="coolicons" name="plus-sign-in-a-square-symbol-of-gross-line" />`
-| ![](./coolicons/plus-sign-in-a-square.svg) | coolicons | plus-sign-in-a-square | `<Icon group="coolicons" name="plus-sign-in-a-square" />`
-| ![](./coolicons/plus-sign.svg) | coolicons | plus-sign | `<Icon group="coolicons" name="plus-sign" />`
-| ![](./coolicons/plus-zoom-interface-symbol.svg) | coolicons | plus-zoom-interface-symbol | `<Icon group="coolicons" name="plus-zoom-interface-symbol" />`
-| ![](./coolicons/power-symbol.svg) | coolicons | power-symbol | `<Icon group="coolicons" name="power-symbol" />`
-| ![](./coolicons/presentation-screen-tool-outline-symbol.svg) | coolicons | presentation-screen-tool-outline-symbol | `<Icon group="coolicons" name="presentation-screen-tool-outline-symbol" />`
-| ![](./coolicons/print-interface-symbol.svg) | coolicons | print-interface-symbol | `<Icon group="coolicons" name="print-interface-symbol" />`
-| ![](./coolicons/prohibition-symbol-of-a-circle-with-a-slash.svg) | coolicons | prohibition-symbol-of-a-circle-with-a-slash | `<Icon group="coolicons" name="prohibition-symbol-of-a-circle-with-a-slash" />`
-| ![](./coolicons/puzzle-piece-black-shape-of-border.svg) | coolicons | puzzle-piece-black-shape-of-border | `<Icon group="coolicons" name="puzzle-piece-black-shape-of-border" />`
-| ![](./coolicons/qr-code-variant.svg) | coolicons | qr-code-variant | `<Icon group="coolicons" name="qr-code-variant" />`
-| ![](./coolicons/question-mark-in-circular-shape.svg) | coolicons | question-mark-in-circular-shape | `<Icon group="coolicons" name="question-mark-in-circular-shape" />`
-| ![](./coolicons/question-sign.svg) | coolicons | question-sign | `<Icon group="coolicons" name="question-sign" />`
-| ![](./coolicons/rails.svg) | coolicons | rails | `<Icon group="coolicons" name="rails" />`
-| ![](./coolicons/rectangles-symbol.svg) | coolicons | rectangles-symbol | `<Icon group="coolicons" name="rectangles-symbol" />`
-| ![](./coolicons/rectangular-speech-bubble-of-chat.svg) | coolicons | rectangular-speech-bubble-of-chat | `<Icon group="coolicons" name="rectangular-speech-bubble-of-chat" />`
-| ![](./coolicons/recycle-bin.svg) | coolicons | recycle-bin | `<Icon group="coolicons" name="recycle-bin" />`
-| ![](./coolicons/renren-china-social-network-logo.svg) | coolicons | renren-china-social-network-logo | `<Icon group="coolicons" name="renren-china-social-network-logo" />`
-| ![](./coolicons/restaurant-interface-symbol-of-fork-and-knife-couple.svg) | coolicons | restaurant-interface-symbol-of-fork-and-knife-couple | `<Icon group="coolicons" name="restaurant-interface-symbol-of-fork-and-knife-couple" />`
-| ![](./coolicons/rewind-button.svg) | coolicons | rewind-button | `<Icon group="coolicons" name="rewind-button" />`
-| ![](./coolicons/right-arrow-angle-and-horizontal-down-line-code-signs.svg) | coolicons | right-arrow-angle-and-horizontal-down-line-code-signs | `<Icon group="coolicons" name="right-arrow-angle-and-horizontal-down-line-code-signs" />`
-| ![](./coolicons/right-arrow-angle-inside-a-square.svg) | coolicons | right-arrow-angle-inside-a-square | `<Icon group="coolicons" name="right-arrow-angle-inside-a-square" />`
-| ![](./coolicons/right-arrow-angle-of-two-shapes.svg) | coolicons | right-arrow-angle-of-two-shapes | `<Icon group="coolicons" name="right-arrow-angle-of-two-shapes" />`
-| ![](./coolicons/right-arrow-angle.svg) | coolicons | right-arrow-angle | `<Icon group="coolicons" name="right-arrow-angle" />`
-| ![](./coolicons/right-arrow-black-shape.svg) | coolicons | right-arrow-black-shape | `<Icon group="coolicons" name="right-arrow-black-shape" />`
-| ![](./coolicons/right-arrow-black-triangle-1.svg) | coolicons | right-arrow-black-triangle-1 | `<Icon group="coolicons" name="right-arrow-black-triangle-1" />`
-| ![](./coolicons/right-arrow-black-triangle.svg) | coolicons | right-arrow-black-triangle | `<Icon group="coolicons" name="right-arrow-black-triangle" />`
-| ![](./coolicons/right-arrow-direction.svg) | coolicons | right-arrow-direction | `<Icon group="coolicons" name="right-arrow-direction" />`
-| ![](./coolicons/right-arrow-for-forward-button-gross-symbol.svg) | coolicons | right-arrow-for-forward-button-gross-symbol | `<Icon group="coolicons" name="right-arrow-for-forward-button-gross-symbol" />`
-| ![](./coolicons/right-arrow-in-a-circle-1.svg) | coolicons | right-arrow-in-a-circle-1 | `<Icon group="coolicons" name="right-arrow-in-a-circle-1" />`
-| ![](./coolicons/right-arrow-in-a-circle.svg) | coolicons | right-arrow-in-a-circle | `<Icon group="coolicons" name="right-arrow-in-a-circle" />`
-| ![](./coolicons/right-arrow-symbol.svg) | coolicons | right-arrow-symbol | `<Icon group="coolicons" name="right-arrow-symbol" />`
-| ![](./coolicons/right-external-arrow-of-a-square.svg) | coolicons | right-external-arrow-of-a-square | `<Icon group="coolicons" name="right-external-arrow-of-a-square" />`
-| ![](./coolicons/right-long-black-arrow.svg) | coolicons | right-long-black-arrow | `<Icon group="coolicons" name="right-long-black-arrow" />`
-| ![](./coolicons/right-quotes-symbol.svg) | coolicons | right-quotes-symbol | `<Icon group="coolicons" name="right-quotes-symbol" />`
-| ![](./coolicons/rounded-square-corners-outline.svg) | coolicons | rounded-square-corners-outline | `<Icon group="coolicons" name="rounded-square-corners-outline" />`
-| ![](./coolicons/rss-feed-suscription-button-symbol-for-interface.svg) | coolicons | rss-feed-suscription-button-symbol-for-interface | `<Icon group="coolicons" name="rss-feed-suscription-button-symbol-for-interface" />`
-| ![](./coolicons/rss-feeds-symbol-in-a-rounded-square.svg) | coolicons | rss-feeds-symbol-in-a-rounded-square | `<Icon group="coolicons" name="rss-feeds-symbol-in-a-rounded-square" />`
-| ![](./coolicons/ruble-currency-sign.svg) | coolicons | ruble-currency-sign | `<Icon group="coolicons" name="ruble-currency-sign" />`
-| ![](./coolicons/sad-emoticon-face.svg) | coolicons | sad-emoticon-face | `<Icon group="coolicons" name="sad-emoticon-face" />`
-| ![](./coolicons/serious-emoticon-face.svg) | coolicons | serious-emoticon-face | `<Icon group="coolicons" name="serious-emoticon-face" />`
-| ![](./coolicons/shield-shape-outline.svg) | coolicons | shield-shape-outline | `<Icon group="coolicons" name="shield-shape-outline" />`
-| ![](./coolicons/shopping-cart-black-silhouette-rounded-variant.svg) | coolicons | shopping-cart-black-silhouette-rounded-variant | `<Icon group="coolicons" name="shopping-cart-black-silhouette-rounded-variant" />`
-| ![](./coolicons/sign-of-lines.svg) | coolicons | sign-of-lines | `<Icon group="coolicons" name="sign-of-lines" />`
-| ![](./coolicons/sign.svg) | coolicons | sign | `<Icon group="coolicons" name="sign" />`
-| ![](./coolicons/skype-logo.svg) | coolicons | skype-logo | `<Icon group="coolicons" name="skype-logo" />`
-| ![](./coolicons/small-truck-black-side-view-silhouette.svg) | coolicons | small-truck-black-side-view-silhouette | `<Icon group="coolicons" name="small-truck-black-side-view-silhouette" />`
-| ![](./coolicons/smiling-face.svg) | coolicons | smiling-face | `<Icon group="coolicons" name="smiling-face" />`
-| ![](./coolicons/sort-by-reverse-alphabet-order-interface-symbol.svg) | coolicons | sort-by-reverse-alphabet-order-interface-symbol | `<Icon group="coolicons" name="sort-by-reverse-alphabet-order-interface-symbol" />`
-| ![](./coolicons/sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines.svg) | coolicons | sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines | `<Icon group="coolicons" name="sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines" />`
-| ![](./coolicons/sort-interface-symbol-of-down-arrow-with-numbers.svg) | coolicons | sort-interface-symbol-of-down-arrow-with-numbers | `<Icon group="coolicons" name="sort-interface-symbol-of-down-arrow-with-numbers" />`
-| ![](./coolicons/sort-numerically-down-interface-symbol.svg) | coolicons | sort-numerically-down-interface-symbol | `<Icon group="coolicons" name="sort-numerically-down-interface-symbol" />`
-| ![](./coolicons/space-ship.svg) | coolicons | space-ship | `<Icon group="coolicons" name="space-ship" />`
-| ![](./coolicons/speaker-black-tool-shape-interface-symbol.svg) | coolicons | speaker-black-tool-shape-interface-symbol | `<Icon group="coolicons" name="speaker-black-tool-shape-interface-symbol" />`
-| ![](./coolicons/speaker-interface-audio-symbol.svg) | coolicons | speaker-interface-audio-symbol | `<Icon group="coolicons" name="speaker-interface-audio-symbol" />`
-| ![](./coolicons/speaker.svg) | coolicons | speaker | `<Icon group="coolicons" name="speaker" />`
-| ![](./coolicons/speech-bubble-couple-of-black-rectangular-shapes.svg) | coolicons | speech-bubble-couple-of-black-rectangular-shapes | `<Icon group="coolicons" name="speech-bubble-couple-of-black-rectangular-shapes" />`
-| ![](./coolicons/speech-bubbles-interface-chat-symbol.svg) | coolicons | speech-bubbles-interface-chat-symbol | `<Icon group="coolicons" name="speech-bubbles-interface-chat-symbol" />`
-| ![](./coolicons/speedometer.svg) | coolicons | speedometer | `<Icon group="coolicons" name="speedometer" />`
-| ![](./coolicons/square-outline-shape.svg) | coolicons | square-outline-shape | `<Icon group="coolicons" name="square-outline-shape" />`
-| ![](./coolicons/square-outline-with-up-arrow.svg) | coolicons | square-outline-with-up-arrow | `<Icon group="coolicons" name="square-outline-with-up-arrow" />`
-| ![](./coolicons/square-outline.svg) | coolicons | square-outline | `<Icon group="coolicons" name="square-outline" />`
-| ![](./coolicons/square-with-two-rectangles-inside.svg) | coolicons | square-with-two-rectangles-inside | `<Icon group="coolicons" name="square-with-two-rectangles-inside" />`
-| ![](./coolicons/star-black-shape-favourite-interface-symbol.svg) | coolicons | star-black-shape-favourite-interface-symbol | `<Icon group="coolicons" name="star-black-shape-favourite-interface-symbol" />`
-| ![](./coolicons/star-gross-outline.svg) | coolicons | star-gross-outline | `<Icon group="coolicons" name="star-gross-outline" />`
-| ![](./coolicons/star-on-vip-card.svg) | coolicons | star-on-vip-card | `<Icon group="coolicons" name="star-on-vip-card" />`
-| ![](./coolicons/star-shape-symbol-with-half-black-and-half-white.svg) | coolicons | star-shape-symbol-with-half-black-and-half-white | `<Icon group="coolicons" name="star-shape-symbol-with-half-black-and-half-white" />`
-| ![](./coolicons/status-interface-symbol.svg) | coolicons | status-interface-symbol | `<Icon group="coolicons" name="status-interface-symbol" />`
-| ![](./coolicons/strikethrough-text-option-interface-symbol-1.svg) | coolicons | strikethrough-text-option-interface-symbol-1 | `<Icon group="coolicons" name="strikethrough-text-option-interface-symbol-1" />`
-| ![](./coolicons/strikethrough-text-option-interface-symbol.svg) | coolicons | strikethrough-text-option-interface-symbol | `<Icon group="coolicons" name="strikethrough-text-option-interface-symbol" />`
-| ![](./coolicons/subscript-interface-option-symbol.svg) | coolicons | subscript-interface-option-symbol | `<Icon group="coolicons" name="subscript-interface-option-symbol" />`
-| ![](./coolicons/suitcase-black-shape-1.svg) | coolicons | suitcase-black-shape-1 | `<Icon group="coolicons" name="suitcase-black-shape-1" />`
-| ![](./coolicons/suitcase-black-shape.svg) | coolicons | suitcase-black-shape | `<Icon group="coolicons" name="suitcase-black-shape" />`
-| ![](./coolicons/sun-black-shape.svg) | coolicons | sun-black-shape | `<Icon group="coolicons" name="sun-black-shape" />`
-| ![](./coolicons/superscript-symbol.svg) | coolicons | superscript-symbol | `<Icon group="coolicons" name="superscript-symbol" />`
-| ![](./coolicons/table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape.svg) | coolicons | table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape | `<Icon group="coolicons" name="table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape" />`
-| ![](./coolicons/tablet-tool-variant.svg) | coolicons | tablet-tool-variant | `<Icon group="coolicons" name="tablet-tool-variant" />`
-| ![](./coolicons/tag-black-tool-shape.svg) | coolicons | tag-black-tool-shape | `<Icon group="coolicons" name="tag-black-tool-shape" />`
-| ![](./coolicons/target-concentric-circles-symbol.svg) | coolicons | target-concentric-circles-symbol | `<Icon group="coolicons" name="target-concentric-circles-symbol" />`
-| ![](./coolicons/targeting.svg) | coolicons | targeting | `<Icon group="coolicons" name="targeting" />`
-| ![](./coolicons/text-alignment-to-right.svg) | coolicons | text-alignment-to-right | `<Icon group="coolicons" name="text-alignment-to-right" />`
-| ![](./coolicons/text-height-format-interface-option-symbol.svg) | coolicons | text-height-format-interface-option-symbol | `<Icon group="coolicons" name="text-height-format-interface-option-symbol" />`
-| ![](./coolicons/text-option-interface-symbol-1.svg) | coolicons | text-option-interface-symbol-1 | `<Icon group="coolicons" name="text-option-interface-symbol-1" />`
-| ![](./coolicons/text-option-interface-symbol.svg) | coolicons | text-option-interface-symbol | `<Icon group="coolicons" name="text-option-interface-symbol" />`
-| ![](./coolicons/text-side-option-interface-symbol.svg) | coolicons | text-side-option-interface-symbol | `<Icon group="coolicons" name="text-side-option-interface-symbol" />`
-| ![](./coolicons/three-aligned-squares-in-vertical-line-interface-button.svg) | coolicons | three-aligned-squares-in-vertical-line-interface-button | `<Icon group="coolicons" name="three-aligned-squares-in-vertical-line-interface-button" />`
-| ![](./coolicons/three-black-squares.svg) | coolicons | three-black-squares | `<Icon group="coolicons" name="three-black-squares" />`
-| ![](./coolicons/three-gears-interface-symbol-for-settings.svg) | coolicons | three-gears-interface-symbol-for-settings | `<Icon group="coolicons" name="three-gears-interface-symbol-for-settings" />`
-| ![](./coolicons/three-rectangles-symbol.svg) | coolicons | three-rectangles-symbol | `<Icon group="coolicons" name="three-rectangles-symbol" />`
-| ![](./coolicons/three-squares-line.svg) | coolicons | three-squares-line | `<Icon group="coolicons" name="three-squares-line" />`
-| ![](./coolicons/thumb-down-symbol.svg) | coolicons | thumb-down-symbol | `<Icon group="coolicons" name="thumb-down-symbol" />`
-| ![](./coolicons/thumb-up-gross-line-symbol.svg) | coolicons | thumb-up-gross-line-symbol | `<Icon group="coolicons" name="thumb-up-gross-line-symbol" />`
-| ![](./coolicons/train-travelling-on-railroad.svg) | coolicons | train-travelling-on-railroad | `<Icon group="coolicons" name="train-travelling-on-railroad" />`
-| ![](./coolicons/tray-interface-symbol.svg) | coolicons | tray-interface-symbol | `<Icon group="coolicons" name="tray-interface-symbol" />`
-| ![](./coolicons/triangular-black-arrow-pointing-down.svg) | coolicons | triangular-black-arrow-pointing-down | `<Icon group="coolicons" name="triangular-black-arrow-pointing-down" />`
-| ![](./coolicons/triangular-up-arrow.svg) | coolicons | triangular-up-arrow | `<Icon group="coolicons" name="triangular-up-arrow" />`
-| ![](./coolicons/trophy-black-side-view-silhouette.svg) | coolicons | trophy-black-side-view-silhouette | `<Icon group="coolicons" name="trophy-black-side-view-silhouette" />`
-| ![](./coolicons/tumblr-letter-logo.svg) | coolicons | tumblr-letter-logo | `<Icon group="coolicons" name="tumblr-letter-logo" />`
-| ![](./coolicons/twitter-bird-logo-shape-in-a-square.svg) | coolicons | twitter-bird-logo-shape-in-a-square | `<Icon group="coolicons" name="twitter-bird-logo-shape-in-a-square" />`
-| ![](./coolicons/twitter-black-shape.svg) | coolicons | twitter-black-shape | `<Icon group="coolicons" name="twitter-black-shape" />`
-| ![](./coolicons/twitter-letter-logo-symbol-in-a-square.svg) | coolicons | twitter-letter-logo-symbol-in-a-square | `<Icon group="coolicons" name="twitter-letter-logo-symbol-in-a-square" />`
-| ![](./coolicons/two-arrows-in-angle-pointing-down.svg) | coolicons | two-arrows-in-angle-pointing-down | `<Icon group="coolicons" name="two-arrows-in-angle-pointing-down" />`
-| ![](./coolicons/two-arrows.svg) | coolicons | two-arrows | `<Icon group="coolicons" name="two-arrows" />`
-| ![](./coolicons/two-black-paper-sheets-symbol.svg) | coolicons | two-black-paper-sheets-symbol | `<Icon group="coolicons" name="two-black-paper-sheets-symbol" />`
-| ![](./coolicons/two-columns-layout.svg) | coolicons | two-columns-layout | `<Icon group="coolicons" name="two-columns-layout" />`
-| ![](./coolicons/two-opposite-arrows.svg) | coolicons | two-opposite-arrows | `<Icon group="coolicons" name="two-opposite-arrows" />`
-| ![](./coolicons/two-straight-arrows.svg) | coolicons | two-straight-arrows | `<Icon group="coolicons" name="two-straight-arrows" />`
-| ![](./coolicons/umbrella-black-shape.svg) | coolicons | umbrella-black-shape | `<Icon group="coolicons" name="umbrella-black-shape" />`
-| ![](./coolicons/underline-text-option-interface-symbol.svg) | coolicons | underline-text-option-interface-symbol | `<Icon group="coolicons" name="underline-text-option-interface-symbol" />`
-| ![](./coolicons/unlocked-padlock-symbol.svg) | coolicons | unlocked-padlock-symbol | `<Icon group="coolicons" name="unlocked-padlock-symbol" />`
-| ![](./coolicons/unlocked-padlock.svg) | coolicons | unlocked-padlock | `<Icon group="coolicons" name="unlocked-padlock" />`
-| ![](./coolicons/up-and-down-arrows.svg) | coolicons | up-and-down-arrows | `<Icon group="coolicons" name="up-and-down-arrows" />`
-| ![](./coolicons/up-and-down-small-triangular-arrows.svg) | coolicons | up-and-down-small-triangular-arrows | `<Icon group="coolicons" name="up-and-down-small-triangular-arrows" />`
-| ![](./coolicons/up-arrow-angle-1.svg) | coolicons | up-arrow-angle-1 | `<Icon group="coolicons" name="up-arrow-angle-1" />`
-| ![](./coolicons/up-arrow-angle.svg) | coolicons | up-arrow-angle | `<Icon group="coolicons" name="up-arrow-angle" />`
-| ![](./coolicons/up-arrow-in-a-circle-1.svg) | coolicons | up-arrow-in-a-circle-1 | `<Icon group="coolicons" name="up-arrow-in-a-circle-1" />`
-| ![](./coolicons/up-arrow-in-a-circle.svg) | coolicons | up-arrow-in-a-circle | `<Icon group="coolicons" name="up-arrow-in-a-circle" />`
-| ![](./coolicons/up-arrow-in-circular-shape.svg) | coolicons | up-arrow-in-circular-shape | `<Icon group="coolicons" name="up-arrow-in-circular-shape" />`
-| ![](./coolicons/up-arrow-inside-a-gross-circle.svg) | coolicons | up-arrow-inside-a-gross-circle | `<Icon group="coolicons" name="up-arrow-inside-a-gross-circle" />`
-| ![](./coolicons/up-arrow-triangle-in-a-square-gross-outline.svg) | coolicons | up-arrow-triangle-in-a-square-gross-outline | `<Icon group="coolicons" name="up-arrow-triangle-in-a-square-gross-outline" />`
-| ![](./coolicons/up-arrow-triangle.svg) | coolicons | up-arrow-triangle | `<Icon group="coolicons" name="up-arrow-triangle" />`
-| ![](./coolicons/up-arrow.svg) | coolicons | up-arrow | `<Icon group="coolicons" name="up-arrow" />`
-| ![](./coolicons/up-arrows-angles-couple.svg) | coolicons | up-arrows-angles-couple | `<Icon group="coolicons" name="up-arrows-angles-couple" />`
-| ![](./coolicons/up-level-arrow.svg) | coolicons | up-level-arrow | `<Icon group="coolicons" name="up-level-arrow" />`
-| ![](./coolicons/up-long-arrow.svg) | coolicons | up-long-arrow | `<Icon group="coolicons" name="up-long-arrow" />`
-| ![](./coolicons/up-triangular-arrow.svg) | coolicons | up-triangular-arrow | `<Icon group="coolicons" name="up-triangular-arrow" />`
-| ![](./coolicons/upload-to-the-cloud-interface-symbol.svg) | coolicons | upload-to-the-cloud-interface-symbol | `<Icon group="coolicons" name="upload-to-the-cloud-interface-symbol" />`
-| ![](./coolicons/upper-right-arrow-black-symbol.svg) | coolicons | upper-right-arrow-black-symbol | `<Icon group="coolicons" name="upper-right-arrow-black-symbol" />`
-| ![](./coolicons/user-black-shape.svg) | coolicons | user-black-shape | `<Icon group="coolicons" name="user-black-shape" />`
-| ![](./coolicons/user-image-on-phone-screen-in-horizontal-position.svg) | coolicons | user-image-on-phone-screen-in-horizontal-position | `<Icon group="coolicons" name="user-image-on-phone-screen-in-horizontal-position" />`
-| ![](./coolicons/verification-sign-in-a-circle.svg) | coolicons | verification-sign-in-a-circle | `<Icon group="coolicons" name="verification-sign-in-a-circle" />`
-| ![](./coolicons/verification-symbol-in-a-square-box.svg) | coolicons | verification-symbol-in-a-square-box | `<Icon group="coolicons" name="verification-symbol-in-a-square-box" />`
-| ![](./coolicons/verification-symbol.svg) | coolicons | verification-symbol | `<Icon group="coolicons" name="verification-symbol" />`
-| ![](./coolicons/verify.svg) | coolicons | verify | `<Icon group="coolicons" name="verify" />`
-| ![](./coolicons/video-camera.svg) | coolicons | video-camera | `<Icon group="coolicons" name="video-camera" />`
-| ![](./coolicons/view-eye-interface-symbol.svg) | coolicons | view-eye-interface-symbol | `<Icon group="coolicons" name="view-eye-interface-symbol" />`
-| ![](./coolicons/vimeo-letter-logo-in-a-square.svg) | coolicons | vimeo-letter-logo-in-a-square | `<Icon group="coolicons" name="vimeo-letter-logo-in-a-square" />`
-| ![](./coolicons/vk-logo-of-social-network.svg) | coolicons | vk-logo-of-social-network | `<Icon group="coolicons" name="vk-logo-of-social-network" />`
-| ![](./coolicons/war-airplane-bottom-view-black-shape.svg) | coolicons | war-airplane-bottom-view-black-shape | `<Icon group="coolicons" name="war-airplane-bottom-view-black-shape" />`
-| ![](./coolicons/wedding-rings-couple.svg) | coolicons | wedding-rings-couple | `<Icon group="coolicons" name="wedding-rings-couple" />`
-| ![](./coolicons/weekly-calendar-variant.svg) | coolicons | weekly-calendar-variant | `<Icon group="coolicons" name="weekly-calendar-variant" />`
-| ![](./coolicons/wheel-shape-variant.svg) | coolicons | wheel-shape-variant | `<Icon group="coolicons" name="wheel-shape-variant" />`
-| ![](./coolicons/windows-logo.svg) | coolicons | windows-logo | `<Icon group="coolicons" name="windows-logo" />`
-| ![](./coolicons/wireless-keyboard.svg) | coolicons | wireless-keyboard | `<Icon group="coolicons" name="wireless-keyboard" />`
-| ![](./coolicons/wireless-signal-interface-status-symbol-of-bars-group.svg) | coolicons | wireless-signal-interface-status-symbol-of-bars-group | `<Icon group="coolicons" name="wireless-signal-interface-status-symbol-of-bars-group" />`
-| ![](./coolicons/world-ball.svg) | coolicons | world-ball | `<Icon group="coolicons" name="world-ball" />`
-| ![](./coolicons/wrench-black-silhouette-of-tool.svg) | coolicons | wrench-black-silhouette-of-tool | `<Icon group="coolicons" name="wrench-black-silhouette-of-tool" />`
-| ![](./coolicons/xing-logo-1.svg) | coolicons | xing-logo-1 | `<Icon group="coolicons" name="xing-logo-1" />`
-| ![](./coolicons/xing-logo.svg) | coolicons | xing-logo | `<Icon group="coolicons" name="xing-logo" />`
-| ![](./coolicons/yen-symbol.svg) | coolicons | yen-symbol | `<Icon group="coolicons" name="yen-symbol" />`
-| ![](./coolicons/youtube-logo.svg) | coolicons | youtube-logo | `<Icon group="coolicons" name="youtube-logo" />`
-| ![](./coolicons/youtube-rounded-square-logo.svg) | coolicons | youtube-rounded-square-logo | `<Icon group="coolicons" name="youtube-rounded-square-logo" />`
+| <img src="./coolicons/accept-1.svg" alt="accept-1" width="30" height="30"/> | coolicons | accept-1 | `<Icon group="coolicons" name="accept-1" />`
+| <img src="./coolicons/accept.svg" alt="accept" width="30" height="30"/> | coolicons | accept | `<Icon group="coolicons" name="accept" />`
+| <img src="./coolicons/advance-button.svg" alt="advance-button" width="30" height="30"/> | coolicons | advance-button | `<Icon group="coolicons" name="advance-button" />`
+| <img src="./coolicons/airplane-black-shape.svg" alt="airplane-black-shape" width="30" height="30"/> | coolicons | airplane-black-shape | `<Icon group="coolicons" name="airplane-black-shape" />`
+| <img src="./coolicons/alphabetical-order-from-a-to-z.svg" alt="alphabetical-order-from-a-to-z" width="30" height="30"/> | coolicons | alphabetical-order-from-a-to-z | `<Icon group="coolicons" name="alphabetical-order-from-a-to-z" />`
+| <img src="./coolicons/ambulance.svg" alt="ambulance" width="30" height="30"/> | coolicons | ambulance | `<Icon group="coolicons" name="ambulance" />`
+| <img src="./coolicons/anchor-interface-symbol.svg" alt="anchor-interface-symbol" width="30" height="30"/> | coolicons | anchor-interface-symbol | `<Icon group="coolicons" name="anchor-interface-symbol" />`
+| <img src="./coolicons/android-logo-1.svg" alt="android-logo-1" width="30" height="30"/> | coolicons | android-logo-1 | `<Icon group="coolicons" name="android-logo-1" />`
+| <img src="./coolicons/android-logo.svg" alt="android-logo" width="30" height="30"/> | coolicons | android-logo | `<Icon group="coolicons" name="android-logo" />`
+| <img src="./coolicons/angle-arrow-pointing-down.svg" alt="angle-arrow-pointing-down" width="30" height="30"/> | coolicons | angle-arrow-pointing-down | `<Icon group="coolicons" name="angle-arrow-pointing-down" />`
+| <img src="./coolicons/apple-black-shape-logo-with-a-bite-hole.svg" alt="apple-black-shape-logo-with-a-bite-hole" width="30" height="30"/> | coolicons | apple-black-shape-logo-with-a-bite-hole | `<Icon group="coolicons" name="apple-black-shape-logo-with-a-bite-hole" />`
+| <img src="./coolicons/arrow-angle-pointing-to-right.svg" alt="arrow-angle-pointing-to-right" width="30" height="30"/> | coolicons | arrow-angle-pointing-to-right | `<Icon group="coolicons" name="arrow-angle-pointing-to-right" />`
+| <img src="./coolicons/arrow-long-angle-pointing-right.svg" alt="arrow-long-angle-pointing-right" width="30" height="30"/> | coolicons | arrow-long-angle-pointing-right | `<Icon group="coolicons" name="arrow-long-angle-pointing-right" />`
+| <img src="./coolicons/arrow-pointing-upper-right-in-a-square.svg" alt="arrow-pointing-upper-right-in-a-square" width="30" height="30"/> | coolicons | arrow-pointing-upper-right-in-a-square | `<Icon group="coolicons" name="arrow-pointing-upper-right-in-a-square" />`
+| <img src="./coolicons/arrows-shuffle-symbol.svg" alt="arrows-shuffle-symbol" width="30" height="30"/> | coolicons | arrows-shuffle-symbol | `<Icon group="coolicons" name="arrows-shuffle-symbol" />`
+| <img src="./coolicons/asterisk-black-star-shape.svg" alt="asterisk-black-star-shape" width="30" height="30"/> | coolicons | asterisk-black-star-shape | `<Icon group="coolicons" name="asterisk-black-star-shape" />`
+| <img src="./coolicons/audio-tool-for-head.svg" alt="audio-tool-for-head" width="30" height="30"/> | coolicons | audio-tool-for-head | `<Icon group="coolicons" name="audio-tool-for-head" />`
+| <img src="./coolicons/baby-cradle-silhouette.svg" alt="baby-cradle-silhouette" width="30" height="30"/> | coolicons | baby-cradle-silhouette | `<Icon group="coolicons" name="baby-cradle-silhouette" />`
+| <img src="./coolicons/back.svg" alt="back" width="30" height="30"/> | coolicons | back | `<Icon group="coolicons" name="back" />`
+| <img src="./coolicons/backward-arrows-couple.svg" alt="backward-arrows-couple" width="30" height="30"/> | coolicons | backward-arrows-couple | `<Icon group="coolicons" name="backward-arrows-couple" />`
+| <img src="./coolicons/barcode-square-variant.svg" alt="barcode-square-variant" width="30" height="30"/> | coolicons | barcode-square-variant | `<Icon group="coolicons" name="barcode-square-variant" />`
+| <img src="./coolicons/bars-interface-symbol.svg" alt="bars-interface-symbol" width="30" height="30"/> | coolicons | bars-interface-symbol | `<Icon group="coolicons" name="bars-interface-symbol" />`
+| <img src="./coolicons/basketball-ball-outline.svg" alt="basketball-ball-outline" width="30" height="30"/> | coolicons | basketball-ball-outline | `<Icon group="coolicons" name="basketball-ball-outline" />`
+| <img src="./coolicons/bell-black-tool-shape.svg" alt="bell-black-tool-shape" width="30" height="30"/> | coolicons | bell-black-tool-shape | `<Icon group="coolicons" name="bell-black-tool-shape" />`
+| <img src="./coolicons/bell-outline.svg" alt="bell-outline" width="30" height="30"/> | coolicons | bell-outline | `<Icon group="coolicons" name="bell-outline" />`
+| <img src="./coolicons/birthday-cake-of-three-cakes.svg" alt="birthday-cake-of-three-cakes" width="30" height="30"/> | coolicons | birthday-cake-of-three-cakes | `<Icon group="coolicons" name="birthday-cake-of-three-cakes" />`
+| <img src="./coolicons/bitbucket-logo-1.svg" alt="bitbucket-logo-1" width="30" height="30"/> | coolicons | bitbucket-logo-1 | `<Icon group="coolicons" name="bitbucket-logo-1" />`
+| <img src="./coolicons/bitbucket-logo.svg" alt="bitbucket-logo" width="30" height="30"/> | coolicons | bitbucket-logo | `<Icon group="coolicons" name="bitbucket-logo" />`
+| <img src="./coolicons/bitcoin-symbol.svg" alt="bitcoin-symbol" width="30" height="30"/> | coolicons | bitcoin-symbol | `<Icon group="coolicons" name="bitcoin-symbol" />`
+| <img src="./coolicons/black-back-closed-envelope-shape.svg" alt="black-back-closed-envelope-shape" width="30" height="30"/> | coolicons | black-back-closed-envelope-shape | `<Icon group="coolicons" name="black-back-closed-envelope-shape" />`
+| <img src="./coolicons/black-folder-interface-symbol.svg" alt="black-folder-interface-symbol" width="30" height="30"/> | coolicons | black-folder-interface-symbol | `<Icon group="coolicons" name="black-folder-interface-symbol" />`
+| <img src="./coolicons/black-hand-finger-pointing-up.svg" alt="black-hand-finger-pointing-up" width="30" height="30"/> | coolicons | black-hand-finger-pointing-up | `<Icon group="coolicons" name="black-hand-finger-pointing-up" />`
+| <img src="./coolicons/black-rounded-square-shape.svg" alt="black-rounded-square-shape" width="30" height="30"/> | coolicons | black-rounded-square-shape | `<Icon group="coolicons" name="black-rounded-square-shape" />`
+| <img src="./coolicons/black-square-shape.svg" alt="black-square-shape" width="30" height="30"/> | coolicons | black-square-shape | `<Icon group="coolicons" name="black-square-shape" />`
+| <img src="./coolicons/book-gross-black-shape.svg" alt="book-gross-black-shape" width="30" height="30"/> | coolicons | book-gross-black-shape | `<Icon group="coolicons" name="book-gross-black-shape" />`
+| <img src="./coolicons/bookmark-black-shape.svg" alt="bookmark-black-shape" width="30" height="30"/> | coolicons | bookmark-black-shape | `<Icon group="coolicons" name="bookmark-black-shape" />`
+| <img src="./coolicons/box-from-side-view.svg" alt="box-from-side-view" width="30" height="30"/> | coolicons | box-from-side-view | `<Icon group="coolicons" name="box-from-side-view" />`
+| <img src="./coolicons/broken-link-interface-symbol-of-chain-links-with-a-slash.svg" alt="broken-link-interface-symbol-of-chain-links-with-a-slash" width="30" height="30"/> | coolicons | broken-link-interface-symbol-of-chain-links-with-a-slash | `<Icon group="coolicons" name="broken-link-interface-symbol-of-chain-links-with-a-slash" />`
+| <img src="./coolicons/bug-variant-of-circular-shape-with-spots.svg" alt="bug-variant-of-circular-shape-with-spots" width="30" height="30"/> | coolicons | bug-variant-of-circular-shape-with-spots | `<Icon group="coolicons" name="bug-variant-of-circular-shape-with-spots" />`
+| <img src="./coolicons/building-shape.svg" alt="building-shape" width="30" height="30"/> | coolicons | building-shape | `<Icon group="coolicons" name="building-shape" />`
+| <img src="./coolicons/calendar.svg" alt="calendar" width="30" height="30"/> | coolicons | calendar | `<Icon group="coolicons" name="calendar" />`
+| <img src="./coolicons/call-black-auricular-shape.svg" alt="call-black-auricular-shape" width="30" height="30"/> | coolicons | call-black-auricular-shape | `<Icon group="coolicons" name="call-black-auricular-shape" />`
+| <img src="./coolicons/call-symbol-of-an-auricular-in-a-square.svg" alt="call-symbol-of-an-auricular-in-a-square" width="30" height="30"/> | coolicons | call-symbol-of-an-auricular-in-a-square | `<Icon group="coolicons" name="call-symbol-of-an-auricular-in-a-square" />`
+| <img src="./coolicons/camping-tent.svg" alt="camping-tent" width="30" height="30"/> | coolicons | camping-tent | `<Icon group="coolicons" name="camping-tent" />`
+| <img src="./coolicons/camping.svg" alt="camping" width="30" height="30"/> | coolicons | camping | `<Icon group="coolicons" name="camping" />`
+| <img src="./coolicons/cardinal-points-star-of-a-circle-with-four-triangles.svg" alt="cardinal-points-star-of-a-circle-with-four-triangles" width="30" height="30"/> | coolicons | cardinal-points-star-of-a-circle-with-four-triangles | `<Icon group="coolicons" name="cardinal-points-star-of-a-circle-with-four-triangles" />`
+| <img src="./coolicons/center-alignment-symbol.svg" alt="center-alignment-symbol" width="30" height="30"/> | coolicons | center-alignment-symbol | `<Icon group="coolicons" name="center-alignment-symbol" />`
+| <img src="./coolicons/check-mark-sign.svg" alt="check-mark-sign" width="30" height="30"/> | coolicons | check-mark-sign | `<Icon group="coolicons" name="check-mark-sign" />`
+| <img src="./coolicons/checkered-flag-on-a-pole.svg" alt="checkered-flag-on-a-pole" width="30" height="30"/> | coolicons | checkered-flag-on-a-pole | `<Icon group="coolicons" name="checkered-flag-on-a-pole" />`
+| <img src="./coolicons/circle-outline-with-a-central-dot.svg" alt="circle-outline-with-a-central-dot" width="30" height="30"/> | coolicons | circle-outline-with-a-central-dot | `<Icon group="coolicons" name="circle-outline-with-a-central-dot" />`
+| <img src="./coolicons/circle-shape.svg" alt="circle-shape" width="30" height="30"/> | coolicons | circle-shape | `<Icon group="coolicons" name="circle-shape" />`
+| <img src="./coolicons/circular-arrow-line.svg" alt="circular-arrow-line" width="30" height="30"/> | coolicons | circular-arrow-line | `<Icon group="coolicons" name="circular-arrow-line" />`
+| <img src="./coolicons/circular-arrow.svg" alt="circular-arrow" width="30" height="30"/> | coolicons | circular-arrow | `<Icon group="coolicons" name="circular-arrow" />`
+| <img src="./coolicons/circular-arrows-couple.svg" alt="circular-arrows-couple" width="30" height="30"/> | coolicons | circular-arrows-couple | `<Icon group="coolicons" name="circular-arrows-couple" />`
+| <img src="./coolicons/circular-stairs-from-top-view.svg" alt="circular-stairs-from-top-view" width="30" height="30"/> | coolicons | circular-stairs-from-top-view | `<Icon group="coolicons" name="circular-stairs-from-top-view" />`
+| <img src="./coolicons/clapper-for-cinema-filming.svg" alt="clapper-for-cinema-filming" width="30" height="30"/> | coolicons | clapper-for-cinema-filming | `<Icon group="coolicons" name="clapper-for-cinema-filming" />`
+| <img src="./coolicons/clipboard-and-paper-sheet.svg" alt="clipboard-and-paper-sheet" width="30" height="30"/> | coolicons | clipboard-and-paper-sheet | `<Icon group="coolicons" name="clipboard-and-paper-sheet" />`
+| <img src="./coolicons/clock-circular-outline.svg" alt="clock-circular-outline" width="30" height="30"/> | coolicons | clock-circular-outline | `<Icon group="coolicons" name="clock-circular-outline" />`
+| <img src="./coolicons/close-cross-sign-in-a-square-button.svg" alt="close-cross-sign-in-a-square-button" width="30" height="30"/> | coolicons | close-cross-sign-in-a-square-button | `<Icon group="coolicons" name="close-cross-sign-in-a-square-button" />`
+| <img src="./coolicons/cloud-black-shape.svg" alt="cloud-black-shape" width="30" height="30"/> | coolicons | cloud-black-shape | `<Icon group="coolicons" name="cloud-black-shape" />`
+| <img src="./coolicons/code-interface-symbol-of-signs.svg" alt="code-interface-symbol-of-signs" width="30" height="30"/> | coolicons | code-interface-symbol-of-signs | `<Icon group="coolicons" name="code-interface-symbol-of-signs" />`
+| <img src="./coolicons/coffee-hot-black-cup-of-rounded-shapes.svg" alt="coffee-hot-black-cup-of-rounded-shapes" width="30" height="30"/> | coolicons | coffee-hot-black-cup-of-rounded-shapes | `<Icon group="coolicons" name="coffee-hot-black-cup-of-rounded-shapes" />`
+| <img src="./coolicons/commercial-label-black-shape.svg" alt="commercial-label-black-shape" width="30" height="30"/> | coolicons | commercial-label-black-shape | `<Icon group="coolicons" name="commercial-label-black-shape" />`
+| <img src="./coolicons/compass-tool-1.svg" alt="compass-tool-1" width="30" height="30"/> | coolicons | compass-tool-1 | `<Icon group="coolicons" name="compass-tool-1" />`
+| <img src="./coolicons/compass-tool.svg" alt="compass-tool" width="30" height="30"/> | coolicons | compass-tool | `<Icon group="coolicons" name="compass-tool" />`
+| <img src="./coolicons/connection-interface-symbol-of-three-circles-with-lines-unions.svg" alt="connection-interface-symbol-of-three-circles-with-lines-unions" width="30" height="30"/> | coolicons | connection-interface-symbol-of-three-circles-with-lines-unions | `<Icon group="coolicons" name="connection-interface-symbol-of-three-circles-with-lines-unions" />`
+| <img src="./coolicons/contrast-interface-circular-symbol-half-black-half-white.svg" alt="contrast-interface-circular-symbol-half-black-half-white" width="30" height="30"/> | coolicons | contrast-interface-circular-symbol-half-black-half-white | `<Icon group="coolicons" name="contrast-interface-circular-symbol-half-black-half-white" />`
+| <img src="./coolicons/control-of-rectangular-shape.svg" alt="control-of-rectangular-shape" width="30" height="30"/> | coolicons | control-of-rectangular-shape | `<Icon group="coolicons" name="control-of-rectangular-shape" />`
+| <img src="./coolicons/credit-card-back-view.svg" alt="credit-card-back-view" width="30" height="30"/> | coolicons | credit-card-back-view | `<Icon group="coolicons" name="credit-card-back-view" />`
+| <img src="./coolicons/crop-interface-symbol.svg" alt="crop-interface-symbol" width="30" height="30"/> | coolicons | crop-interface-symbol | `<Icon group="coolicons" name="crop-interface-symbol" />`
+| <img src="./coolicons/cross-sign.svg" alt="cross-sign" width="30" height="30"/> | coolicons | cross-sign | `<Icon group="coolicons" name="cross-sign" />`
+| <img src="./coolicons/currency-symbol.svg" alt="currency-symbol" width="30" height="30"/> | coolicons | currency-symbol | `<Icon group="coolicons" name="currency-symbol" />`
+| <img src="./coolicons/daily-calendar-empty-page.svg" alt="daily-calendar-empty-page" width="30" height="30"/> | coolicons | daily-calendar-empty-page | `<Icon group="coolicons" name="daily-calendar-empty-page" />`
+| <img src="./coolicons/delete-cross-interface-symbol.svg" alt="delete-cross-interface-symbol" width="30" height="30"/> | coolicons | delete-cross-interface-symbol | `<Icon group="coolicons" name="delete-cross-interface-symbol" />`
+| <img src="./coolicons/descendant-arrow-angle.svg" alt="descendant-arrow-angle" width="30" height="30"/> | coolicons | descendant-arrow-angle | `<Icon group="coolicons" name="descendant-arrow-angle" />`
+| <img src="./coolicons/diamond-ring-shape.svg" alt="diamond-ring-shape" width="30" height="30"/> | coolicons | diamond-ring-shape | `<Icon group="coolicons" name="diamond-ring-shape" />`
+| <img src="./coolicons/dice-on-three-face.svg" alt="dice-on-three-face" width="30" height="30"/> | coolicons | dice-on-three-face | `<Icon group="coolicons" name="dice-on-three-face" />`
+| <img src="./coolicons/discapacity-wheels-chair-circular-sign.svg" alt="discapacity-wheels-chair-circular-sign" width="30" height="30"/> | coolicons | discapacity-wheels-chair-circular-sign | `<Icon group="coolicons" name="discapacity-wheels-chair-circular-sign" />`
+| <img src="./coolicons/dislike-hand-symbol.svg" alt="dislike-hand-symbol" width="30" height="30"/> | coolicons | dislike-hand-symbol | `<Icon group="coolicons" name="dislike-hand-symbol" />`
+| <img src="./coolicons/dollar-bill.svg" alt="dollar-bill" width="30" height="30"/> | coolicons | dollar-bill | `<Icon group="coolicons" name="dollar-bill" />`
+| <img src="./coolicons/dollar-symbol.svg" alt="dollar-symbol" width="30" height="30"/> | coolicons | dollar-symbol | `<Icon group="coolicons" name="dollar-symbol" />`
+| <img src="./coolicons/double-left-arrows-angles.svg" alt="double-left-arrows-angles" width="30" height="30"/> | coolicons | double-left-arrows-angles | `<Icon group="coolicons" name="double-left-arrows-angles" />`
+| <img src="./coolicons/down-arrow-1.svg" alt="down-arrow-1" width="30" height="30"/> | coolicons | down-arrow-1 | `<Icon group="coolicons" name="down-arrow-1" />`
+| <img src="./coolicons/down-arrow-black-triangular-variant-symbol.svg" alt="down-arrow-black-triangular-variant-symbol" width="30" height="30"/> | coolicons | down-arrow-black-triangular-variant-symbol | `<Icon group="coolicons" name="down-arrow-black-triangular-variant-symbol" />`
+| <img src="./coolicons/down-arrow-in-a-circle-1.svg" alt="down-arrow-in-a-circle-1" width="30" height="30"/> | coolicons | down-arrow-in-a-circle-1 | `<Icon group="coolicons" name="down-arrow-in-a-circle-1" />`
+| <img src="./coolicons/down-arrow-in-a-circle-2.svg" alt="down-arrow-in-a-circle-2" width="30" height="30"/> | coolicons | down-arrow-in-a-circle-2 | `<Icon group="coolicons" name="down-arrow-in-a-circle-2" />`
+| <img src="./coolicons/down-arrow-in-a-circle.svg" alt="down-arrow-in-a-circle" width="30" height="30"/> | coolicons | down-arrow-in-a-circle | `<Icon group="coolicons" name="down-arrow-in-a-circle" />`
+| <img src="./coolicons/down-arrow-triangle-in-a-square-of-gross-line.svg" alt="down-arrow-triangle-in-a-square-of-gross-line" width="30" height="30"/> | coolicons | down-arrow-triangle-in-a-square-of-gross-line | `<Icon group="coolicons" name="down-arrow-triangle-in-a-square-of-gross-line" />`
+| <img src="./coolicons/down-arrow.svg" alt="down-arrow" width="30" height="30"/> | coolicons | down-arrow | `<Icon group="coolicons" name="down-arrow" />`
+| <img src="./coolicons/down-black-arrow.svg" alt="down-black-arrow" width="30" height="30"/> | coolicons | down-black-arrow | `<Icon group="coolicons" name="down-black-arrow" />`
+| <img src="./coolicons/download-arrow.svg" alt="download-arrow" width="30" height="30"/> | coolicons | download-arrow | `<Icon group="coolicons" name="download-arrow" />`
+| <img src="./coolicons/download-from-internet-interface-symbol.svg" alt="download-from-internet-interface-symbol" width="30" height="30"/> | coolicons | download-from-internet-interface-symbol | `<Icon group="coolicons" name="download-from-internet-interface-symbol" />`
+| <img src="./coolicons/drop-shape.svg" alt="drop-shape" width="30" height="30"/> | coolicons | drop-shape | `<Icon group="coolicons" name="drop-shape" />`
+| <img src="./coolicons/dropbox-logo.svg" alt="dropbox-logo" width="30" height="30"/> | coolicons | dropbox-logo | `<Icon group="coolicons" name="dropbox-logo" />`
+| <img src="./coolicons/edit-interface-symbol-of-square-paper-with-a-pencil.svg" alt="edit-interface-symbol-of-square-paper-with-a-pencil" width="30" height="30"/> | coolicons | edit-interface-symbol-of-square-paper-with-a-pencil | `<Icon group="coolicons" name="edit-interface-symbol-of-square-paper-with-a-pencil" />`
+| <img src="./coolicons/euro-currency-sign.svg" alt="euro-currency-sign" width="30" height="30"/> | coolicons | euro-currency-sign | `<Icon group="coolicons" name="euro-currency-sign" />`
+| <img src="./coolicons/exclamation-sign-1.svg" alt="exclamation-sign-1" width="30" height="30"/> | coolicons | exclamation-sign-1 | `<Icon group="coolicons" name="exclamation-sign-1" />`
+| <img src="./coolicons/exclamation-sign-in-a-rhomb.svg" alt="exclamation-sign-in-a-rhomb" width="30" height="30"/> | coolicons | exclamation-sign-in-a-rhomb | `<Icon group="coolicons" name="exclamation-sign-in-a-rhomb" />`
+| <img src="./coolicons/exclamation-sign.svg" alt="exclamation-sign" width="30" height="30"/> | coolicons | exclamation-sign | `<Icon group="coolicons" name="exclamation-sign" />`
+| <img src="./coolicons/eye-opened-shape-with-signal-connection-lines.svg" alt="eye-opened-shape-with-signal-connection-lines" width="30" height="30"/> | coolicons | eye-opened-shape-with-signal-connection-lines | `<Icon group="coolicons" name="eye-opened-shape-with-signal-connection-lines" />`
+| <img src="./coolicons/facebook-letter-logo.svg" alt="facebook-letter-logo" width="30" height="30"/> | coolicons | facebook-letter-logo | `<Icon group="coolicons" name="facebook-letter-logo" />`
+| <img src="./coolicons/facebook-logo.svg" alt="facebook-logo" width="30" height="30"/> | coolicons | facebook-logo | `<Icon group="coolicons" name="facebook-logo" />`
+| <img src="./coolicons/fast-forward-multimedia-control-arrows.svg" alt="fast-forward-multimedia-control-arrows" width="30" height="30"/> | coolicons | fast-forward-multimedia-control-arrows | `<Icon group="coolicons" name="fast-forward-multimedia-control-arrows" />`
+| <img src="./coolicons/fast-forward.svg" alt="fast-forward" width="30" height="30"/> | coolicons | fast-forward | `<Icon group="coolicons" name="fast-forward" />`
+| <img src="./coolicons/female-silhouette.svg" alt="female-silhouette" width="30" height="30"/> | coolicons | female-silhouette | `<Icon group="coolicons" name="female-silhouette" />`
+| <img src="./coolicons/file-black-paper-sheet-interface-symbol.svg" alt="file-black-paper-sheet-interface-symbol" width="30" height="30"/> | coolicons | file-black-paper-sheet-interface-symbol | `<Icon group="coolicons" name="file-black-paper-sheet-interface-symbol" />`
+| <img src="./coolicons/file-gross-interface-symbol.svg" alt="file-gross-interface-symbol" width="30" height="30"/> | coolicons | file-gross-interface-symbol | `<Icon group="coolicons" name="file-gross-interface-symbol" />`
+| <img src="./coolicons/file-gross-outline-interface-symbol.svg" alt="file-gross-outline-interface-symbol" width="30" height="30"/> | coolicons | file-gross-outline-interface-symbol | `<Icon group="coolicons" name="file-gross-outline-interface-symbol" />`
+| <img src="./coolicons/file-interface-symbol.svg" alt="file-interface-symbol" width="30" height="30"/> | coolicons | file-interface-symbol | `<Icon group="coolicons" name="file-interface-symbol" />`
+| <img src="./coolicons/film-clapperboard.svg" alt="film-clapperboard" width="30" height="30"/> | coolicons | film-clapperboard | `<Icon group="coolicons" name="film-clapperboard" />`
+| <img src="./coolicons/film-strip-of-cinema-symbol.svg" alt="film-strip-of-cinema-symbol" width="30" height="30"/> | coolicons | film-strip-of-cinema-symbol | `<Icon group="coolicons" name="film-strip-of-cinema-symbol" />`
+| <img src="./coolicons/fire-extinguisher-black-tool-shape.svg" alt="fire-extinguisher-black-tool-shape" width="30" height="30"/> | coolicons | fire-extinguisher-black-tool-shape | `<Icon group="coolicons" name="fire-extinguisher-black-tool-shape" />`
+| <img src="./coolicons/fire-gross-flame-black-symbol.svg" alt="fire-gross-flame-black-symbol" width="30" height="30"/> | coolicons | fire-gross-flame-black-symbol | `<Icon group="coolicons" name="fire-gross-flame-black-symbol" />`
+| <img src="./coolicons/fire-with-logs-cross.svg" alt="fire-with-logs-cross" width="30" height="30"/> | coolicons | fire-with-logs-cross | `<Icon group="coolicons" name="fire-with-logs-cross" />`
+| <img src="./coolicons/first-aid-kit-box-with-cross-sign.svg" alt="first-aid-kit-box-with-cross-sign" width="30" height="30"/> | coolicons | first-aid-kit-box-with-cross-sign | `<Icon group="coolicons" name="first-aid-kit-box-with-cross-sign" />`
+| <img src="./coolicons/flag-black-tool-shape.svg" alt="flag-black-tool-shape" width="30" height="30"/> | coolicons | flag-black-tool-shape | `<Icon group="coolicons" name="flag-black-tool-shape" />`
+| <img src="./coolicons/flag-of-rectangle-outline-on-a-pole.svg" alt="flag-of-rectangle-outline-on-a-pole" width="30" height="30"/> | coolicons | flag-of-rectangle-outline-on-a-pole | `<Icon group="coolicons" name="flag-of-rectangle-outline-on-a-pole" />`
+| <img src="./coolicons/flask-glass-container-with-liquid-inside.svg" alt="flask-glass-container-with-liquid-inside" width="30" height="30"/> | coolicons | flask-glass-container-with-liquid-inside | `<Icon group="coolicons" name="flask-glass-container-with-liquid-inside" />`
+| <img src="./coolicons/flickr-logo-variant-of-two-dots-in-a-rounded-square.svg" alt="flickr-logo-variant-of-two-dots-in-a-rounded-square" width="30" height="30"/> | coolicons | flickr-logo-variant-of-two-dots-in-a-rounded-square | `<Icon group="coolicons" name="flickr-logo-variant-of-two-dots-in-a-rounded-square" />`
+| <img src="./coolicons/floppy-disk-interface-symbol-for-save-option-button.svg" alt="floppy-disk-interface-symbol-for-save-option-button" width="30" height="30"/> | coolicons | floppy-disk-interface-symbol-for-save-option-button | `<Icon group="coolicons" name="floppy-disk-interface-symbol-for-save-option-button" />`
+| <img src="./coolicons/flower-with-ribbon-tails.svg" alt="flower-with-ribbon-tails" width="30" height="30"/> | coolicons | flower-with-ribbon-tails | `<Icon group="coolicons" name="flower-with-ribbon-tails" />`
+| <img src="./coolicons/folder-black-shape.svg" alt="folder-black-shape" width="30" height="30"/> | coolicons | folder-black-shape | `<Icon group="coolicons" name="folder-black-shape" />`
+| <img src="./coolicons/folder-gross-outline-shape-interface-symbol.svg" alt="folder-gross-outline-shape-interface-symbol" width="30" height="30"/> | coolicons | folder-gross-outline-shape-interface-symbol | `<Icon group="coolicons" name="folder-gross-outline-shape-interface-symbol" />`
+| <img src="./coolicons/folder-gross-symbol-for-interface.svg" alt="folder-gross-symbol-for-interface" width="30" height="30"/> | coolicons | folder-gross-symbol-for-interface | `<Icon group="coolicons" name="folder-gross-symbol-for-interface" />`
+| <img src="./coolicons/font-interface-symbol.svg" alt="font-interface-symbol" width="30" height="30"/> | coolicons | font-interface-symbol | `<Icon group="coolicons" name="font-interface-symbol" />`
+| <img src="./coolicons/four-circles-black-group.svg" alt="four-circles-black-group" width="30" height="30"/> | coolicons | four-circles-black-group | `<Icon group="coolicons" name="four-circles-black-group" />`
+| <img src="./coolicons/four-horizontal-lines-interface-symbol.svg" alt="four-horizontal-lines-interface-symbol" width="30" height="30"/> | coolicons | four-horizontal-lines-interface-symbol | `<Icon group="coolicons" name="four-horizontal-lines-interface-symbol" />`
+| <img src="./coolicons/four-squares-black-shapes.svg" alt="four-squares-black-shapes" width="30" height="30"/> | coolicons | four-squares-black-shapes | `<Icon group="coolicons" name="four-squares-black-shapes" />`
+| <img src="./coolicons/funnel-black-shape-interface-symbol.svg" alt="funnel-black-shape-interface-symbol" width="30" height="30"/> | coolicons | funnel-black-shape-interface-symbol | `<Icon group="coolicons" name="funnel-black-shape-interface-symbol" />`
+| <img src="./coolicons/giftbox-black-variant-with-a-ribbon-on-top.svg" alt="giftbox-black-variant-with-a-ribbon-on-top" width="30" height="30"/> | coolicons | giftbox-black-variant-with-a-ribbon-on-top | `<Icon group="coolicons" name="giftbox-black-variant-with-a-ribbon-on-top" />`
+| <img src="./coolicons/github-logo-face.svg" alt="github-logo-face" width="30" height="30"/> | coolicons | github-logo-face | `<Icon group="coolicons" name="github-logo-face" />`
+| <img src="./coolicons/github-logo-silhouette-in-a-square.svg" alt="github-logo-silhouette-in-a-square" width="30" height="30"/> | coolicons | github-logo-silhouette-in-a-square | `<Icon group="coolicons" name="github-logo-silhouette-in-a-square" />`
+| <img src="./coolicons/glass-black-shape-for-wine.svg" alt="glass-black-shape-for-wine" width="30" height="30"/> | coolicons | glass-black-shape-for-wine | `<Icon group="coolicons" name="glass-black-shape-for-wine" />`
+| <img src="./coolicons/golf-flag-and-field.svg" alt="golf-flag-and-field" width="30" height="30"/> | coolicons | golf-flag-and-field | `<Icon group="coolicons" name="golf-flag-and-field" />`
+| <img src="./coolicons/google-plus-logo.svg" alt="google-plus-logo" width="30" height="30"/> | coolicons | google-plus-logo | `<Icon group="coolicons" name="google-plus-logo" />`
+| <img src="./coolicons/google-plus-square-logo.svg" alt="google-plus-square-logo" width="30" height="30"/> | coolicons | google-plus-square-logo | `<Icon group="coolicons" name="google-plus-square-logo" />`
+| <img src="./coolicons/group-interface-symbol.svg" alt="group-interface-symbol" width="30" height="30"/> | coolicons | group-interface-symbol | `<Icon group="coolicons" name="group-interface-symbol" />`
+| <img src="./coolicons/half-black-star-shape.svg" alt="half-black-star-shape" width="30" height="30"/> | coolicons | half-black-star-shape | `<Icon group="coolicons" name="half-black-star-shape" />`
+| <img src="./coolicons/hand-black-shape-pointing-left-with-one-finger.svg" alt="hand-black-shape-pointing-left-with-one-finger" width="30" height="30"/> | coolicons | hand-black-shape-pointing-left-with-one-finger | `<Icon group="coolicons" name="hand-black-shape-pointing-left-with-one-finger" />`
+| <img src="./coolicons/hand-finger-pointing-down-like-an-arrow.svg" alt="hand-finger-pointing-down-like-an-arrow" width="30" height="30"/> | coolicons | hand-finger-pointing-down-like-an-arrow | `<Icon group="coolicons" name="hand-finger-pointing-down-like-an-arrow" />`
+| <img src="./coolicons/hand-finger-pointing-to-right-direction-like-an-arrow.svg" alt="hand-finger-pointing-to-right-direction-like-an-arrow" width="30" height="30"/> | coolicons | hand-finger-pointing-to-right-direction-like-an-arrow | `<Icon group="coolicons" name="hand-finger-pointing-to-right-direction-like-an-arrow" />`
+| <img src="./coolicons/hard-disc.svg" alt="hard-disc" width="30" height="30"/> | coolicons | hard-disc | `<Icon group="coolicons" name="hard-disc" />`
+| <img src="./coolicons/heart-black-shape.svg" alt="heart-black-shape" width="30" height="30"/> | coolicons | heart-black-shape | `<Icon group="coolicons" name="heart-black-shape" />`
+| <img src="./coolicons/heart-in-a-circle.svg" alt="heart-in-a-circle" width="30" height="30"/> | coolicons | heart-in-a-circle | `<Icon group="coolicons" name="heart-in-a-circle" />`
+| <img src="./coolicons/heart-outline-shape.svg" alt="heart-outline-shape" width="30" height="30"/> | coolicons | heart-outline-shape | `<Icon group="coolicons" name="heart-outline-shape" />`
+| <img src="./coolicons/hide-interface-symbol.svg" alt="hide-interface-symbol" width="30" height="30"/> | coolicons | hide-interface-symbol | `<Icon group="coolicons" name="hide-interface-symbol" />`
+| <img src="./coolicons/home-black-shape.svg" alt="home-black-shape" width="30" height="30"/> | coolicons | home-black-shape | `<Icon group="coolicons" name="home-black-shape" />`
+| <img src="./coolicons/hotel-building.svg" alt="hotel-building" width="30" height="30"/> | coolicons | hotel-building | `<Icon group="coolicons" name="hotel-building" />`
+| <img src="./coolicons/hotel-letter-sign.svg" alt="hotel-letter-sign" width="30" height="30"/> | coolicons | hotel-letter-sign | `<Icon group="coolicons" name="hotel-letter-sign" />`
+| <img src="./coolicons/html-3-logo.svg" alt="html-3-logo" width="30" height="30"/> | coolicons | html-3-logo | `<Icon group="coolicons" name="html-3-logo" />`
+| <img src="./coolicons/html-5-logotype.svg" alt="html-5-logotype" width="30" height="30"/> | coolicons | html-5-logotype | `<Icon group="coolicons" name="html-5-logotype" />`
+| <img src="./coolicons/ice-cream-cone-black-shape.svg" alt="ice-cream-cone-black-shape" width="30" height="30"/> | coolicons | ice-cream-cone-black-shape | `<Icon group="coolicons" name="ice-cream-cone-black-shape" />`
+| <img src="./coolicons/id-card-interface-rectangular-symbol.svg" alt="id-card-interface-rectangular-symbol" width="30" height="30"/> | coolicons | id-card-interface-rectangular-symbol | `<Icon group="coolicons" name="id-card-interface-rectangular-symbol" />`
+| <img src="./coolicons/image-interface-symbol-of-a-landscape.svg" alt="image-interface-symbol-of-a-landscape" width="30" height="30"/> | coolicons | image-interface-symbol-of-a-landscape | `<Icon group="coolicons" name="image-interface-symbol-of-a-landscape" />`
+| <img src="./coolicons/info-letter-interface-sign.svg" alt="info-letter-interface-sign" width="30" height="30"/> | coolicons | info-letter-interface-sign | `<Icon group="coolicons" name="info-letter-interface-sign" />`
+| <img src="./coolicons/information-sign.svg" alt="information-sign" width="30" height="30"/> | coolicons | information-sign | `<Icon group="coolicons" name="information-sign" />`
+| <img src="./coolicons/instagram-photo-camera-symbol.svg" alt="instagram-photo-camera-symbol" width="30" height="30"/> | coolicons | instagram-photo-camera-symbol | `<Icon group="coolicons" name="instagram-photo-camera-symbol" />`
+| <img src="./coolicons/interface-upload-up-arrow-symbol.svg" alt="interface-upload-up-arrow-symbol" width="30" height="30"/> | coolicons | interface-upload-up-arrow-symbol | `<Icon group="coolicons" name="interface-upload-up-arrow-symbol" />`
+| <img src="./coolicons/italic-text-option-interface-symbol.svg" alt="italic-text-option-interface-symbol" width="30" height="30"/> | coolicons | italic-text-option-interface-symbol | `<Icon group="coolicons" name="italic-text-option-interface-symbol" />`
+| <img src="./coolicons/jar-black-shape.svg" alt="jar-black-shape" width="30" height="30"/> | coolicons | jar-black-shape | `<Icon group="coolicons" name="jar-black-shape" />`
+| <img src="./coolicons/key-shape.svg" alt="key-shape" width="30" height="30"/> | coolicons | key-shape | `<Icon group="coolicons" name="key-shape" />`
+| <img src="./coolicons/label-black-shape.svg" alt="label-black-shape" width="30" height="30"/> | coolicons | label-black-shape | `<Icon group="coolicons" name="label-black-shape" />`
+| <img src="./coolicons/laptop-with-empty-screen.svg" alt="laptop-with-empty-screen" width="30" height="30"/> | coolicons | laptop-with-empty-screen | `<Icon group="coolicons" name="laptop-with-empty-screen" />`
+| <img src="./coolicons/leaf-shape.svg" alt="leaf-shape" width="30" height="30"/> | coolicons | leaf-shape | `<Icon group="coolicons" name="leaf-shape" />`
+| <img src="./coolicons/leaves-on-a-branch-silhouette.svg" alt="leaves-on-a-branch-silhouette" width="30" height="30"/> | coolicons | leaves-on-a-branch-silhouette | `<Icon group="coolicons" name="leaves-on-a-branch-silhouette" />`
+| <img src="./coolicons/left-and-right-small-triangular-arrows-couple.svg" alt="left-and-right-small-triangular-arrows-couple" width="30" height="30"/> | coolicons | left-and-right-small-triangular-arrows-couple | `<Icon group="coolicons" name="left-and-right-small-triangular-arrows-couple" />`
+| <img src="./coolicons/left-arrow-1.svg" alt="left-arrow-1" width="30" height="30"/> | coolicons | left-arrow-1 | `<Icon group="coolicons" name="left-arrow-1" />`
+| <img src="./coolicons/left-arrow-2.svg" alt="left-arrow-2" width="30" height="30"/> | coolicons | left-arrow-2 | `<Icon group="coolicons" name="left-arrow-2" />`
+| <img src="./coolicons/left-arrow-angle-variant.svg" alt="left-arrow-angle-variant" width="30" height="30"/> | coolicons | left-arrow-angle-variant | `<Icon group="coolicons" name="left-arrow-angle-variant" />`
+| <img src="./coolicons/left-arrow-angle.svg" alt="left-arrow-angle" width="30" height="30"/> | coolicons | left-arrow-angle | `<Icon group="coolicons" name="left-arrow-angle" />`
+| <img src="./coolicons/left-arrow-black-triangular-shape.svg" alt="left-arrow-black-triangular-shape" width="30" height="30"/> | coolicons | left-arrow-black-triangular-shape | `<Icon group="coolicons" name="left-arrow-black-triangular-shape" />`
+| <img src="./coolicons/left-arrow-in-a-circle-1.svg" alt="left-arrow-in-a-circle-1" width="30" height="30"/> | coolicons | left-arrow-in-a-circle-1 | `<Icon group="coolicons" name="left-arrow-in-a-circle-1" />`
+| <img src="./coolicons/left-arrow-in-a-circle.svg" alt="left-arrow-in-a-circle" width="30" height="30"/> | coolicons | left-arrow-in-a-circle | `<Icon group="coolicons" name="left-arrow-in-a-circle" />`
+| <img src="./coolicons/left-arrow-in-rounded-shape.svg" alt="left-arrow-in-rounded-shape" width="30" height="30"/> | coolicons | left-arrow-in-rounded-shape | `<Icon group="coolicons" name="left-arrow-in-rounded-shape" />`
+| <img src="./coolicons/left-arrow-square.svg" alt="left-arrow-square" width="30" height="30"/> | coolicons | left-arrow-square | `<Icon group="coolicons" name="left-arrow-square" />`
+| <img src="./coolicons/left-arrow-variant.svg" alt="left-arrow-variant" width="30" height="30"/> | coolicons | left-arrow-variant | `<Icon group="coolicons" name="left-arrow-variant" />`
+| <img src="./coolicons/left-arrow.svg" alt="left-arrow" width="30" height="30"/> | coolicons | left-arrow | `<Icon group="coolicons" name="left-arrow" />`
+| <img src="./coolicons/left-quotes-sign.svg" alt="left-quotes-sign" width="30" height="30"/> | coolicons | left-quotes-sign | `<Icon group="coolicons" name="left-quotes-sign" />`
+| <img src="./coolicons/left-text-alignment-interface-option.svg" alt="left-text-alignment-interface-option" width="30" height="30"/> | coolicons | left-text-alignment-interface-option | `<Icon group="coolicons" name="left-text-alignment-interface-option" />`
+| <img src="./coolicons/legal-hammer.svg" alt="legal-hammer" width="30" height="30"/> | coolicons | legal-hammer | `<Icon group="coolicons" name="legal-hammer" />`
+| <img src="./coolicons/lemon-shape.svg" alt="lemon-shape" width="30" height="30"/> | coolicons | lemon-shape | `<Icon group="coolicons" name="lemon-shape" />`
+| <img src="./coolicons/less-zoom-sign.svg" alt="less-zoom-sign" width="30" height="30"/> | coolicons | less-zoom-sign | `<Icon group="coolicons" name="less-zoom-sign" />`
+| <img src="./coolicons/letter-a-sign-in-a-circle.svg" alt="letter-a-sign-in-a-circle" width="30" height="30"/> | coolicons | letter-a-sign-in-a-circle | `<Icon group="coolicons" name="letter-a-sign-in-a-circle" />`
+| <img src="./coolicons/letter-b-symbol.svg" alt="letter-b-symbol" width="30" height="30"/> | coolicons | letter-b-symbol | `<Icon group="coolicons" name="letter-b-symbol" />`
+| <img src="./coolicons/level-down-arrow.svg" alt="level-down-arrow" width="30" height="30"/> | coolicons | level-down-arrow | `<Icon group="coolicons" name="level-down-arrow" />`
+| <img src="./coolicons/lightbulb-gross-outline.svg" alt="lightbulb-gross-outline" width="30" height="30"/> | coolicons | lightbulb-gross-outline | `<Icon group="coolicons" name="lightbulb-gross-outline" />`
+| <img src="./coolicons/lightning-bolt-black-shape.svg" alt="lightning-bolt-black-shape" width="30" height="30"/> | coolicons | lightning-bolt-black-shape | `<Icon group="coolicons" name="lightning-bolt-black-shape" />`
+| <img src="./coolicons/like-symbol-for-interface-of-black-hand-shape-with-thumb-up.svg" alt="like-symbol-for-interface-of-black-hand-shape-with-thumb-up" width="30" height="30"/> | coolicons | like-symbol-for-interface-of-black-hand-shape-with-thumb-up | `<Icon group="coolicons" name="like-symbol-for-interface-of-black-hand-shape-with-thumb-up" />`
+| <img src="./coolicons/link-interface-symbol.svg" alt="link-interface-symbol" width="30" height="30"/> | coolicons | link-interface-symbol | `<Icon group="coolicons" name="link-interface-symbol" />`
+| <img src="./coolicons/linked-in-logo-of-two-letters.svg" alt="linked-in-logo-of-two-letters" width="30" height="30"/> | coolicons | linked-in-logo-of-two-letters | `<Icon group="coolicons" name="linked-in-logo-of-two-letters" />`
+| <img src="./coolicons/linkedin-square-logo.svg" alt="linkedin-square-logo" width="30" height="30"/> | coolicons | linkedin-square-logo | `<Icon group="coolicons" name="linkedin-square-logo" />`
+| <img src="./coolicons/linux-penguin.svg" alt="linux-penguin" width="30" height="30"/> | coolicons | linux-penguin | `<Icon group="coolicons" name="linux-penguin" />`
+| <img src="./coolicons/list-1.svg" alt="list-1" width="30" height="30"/> | coolicons | list-1 | `<Icon group="coolicons" name="list-1" />`
+| <img src="./coolicons/list-interface-symbol.svg" alt="list-interface-symbol" width="30" height="30"/> | coolicons | list-interface-symbol | `<Icon group="coolicons" name="list-interface-symbol" />`
+| <img src="./coolicons/list.svg" alt="list" width="30" height="30"/> | coolicons | list | `<Icon group="coolicons" name="list" />`
+| <img src="./coolicons/locked-padlock-security-interface-symbol.svg" alt="locked-padlock-security-interface-symbol" width="30" height="30"/> | coolicons | locked-padlock-security-interface-symbol | `<Icon group="coolicons" name="locked-padlock-security-interface-symbol" />`
+| <img src="./coolicons/logo-of-striped-rounded-square-speech-bubble-shape.svg" alt="logo-of-striped-rounded-square-speech-bubble-shape" width="30" height="30"/> | coolicons | logo-of-striped-rounded-square-speech-bubble-shape | `<Icon group="coolicons" name="logo-of-striped-rounded-square-speech-bubble-shape" />`
+| <img src="./coolicons/magic-wand.svg" alt="magic-wand" width="30" height="30"/> | coolicons | magic-wand | `<Icon group="coolicons" name="magic-wand" />`
+| <img src="./coolicons/magnet.svg" alt="magnet" width="30" height="30"/> | coolicons | magnet | `<Icon group="coolicons" name="magnet" />`
+| <img src="./coolicons/man-standing-black-silhouette.svg" alt="man-standing-black-silhouette" width="30" height="30"/> | coolicons | man-standing-black-silhouette | `<Icon group="coolicons" name="man-standing-black-silhouette" />`
+| <img src="./coolicons/marker-outline.svg" alt="marker-outline" width="30" height="30"/> | coolicons | marker-outline | `<Icon group="coolicons" name="marker-outline" />`
+| <img src="./coolicons/maxcdn-letter-logo.svg" alt="maxcdn-letter-logo" width="30" height="30"/> | coolicons | maxcdn-letter-logo | `<Icon group="coolicons" name="maxcdn-letter-logo" />`
+| <img src="./coolicons/md.svg" alt="md" width="30" height="30"/> | coolicons | md | `<Icon group="coolicons" name="md" />`
+| <img src="./coolicons/medical-tool-to-listen-heart-beats.svg" alt="medical-tool-to-listen-heart-beats" width="30" height="30"/> | coolicons | medical-tool-to-listen-heart-beats | `<Icon group="coolicons" name="medical-tool-to-listen-heart-beats" />`
+| <img src="./coolicons/megaphone-silhouette.svg" alt="megaphone-silhouette" width="30" height="30"/> | coolicons | megaphone-silhouette | `<Icon group="coolicons" name="megaphone-silhouette" />`
+| <img src="./coolicons/menu-interface-symbol-of-four-horizontal-lines-with-dots.svg" alt="menu-interface-symbol-of-four-horizontal-lines-with-dots" width="30" height="30"/> | coolicons | menu-interface-symbol-of-four-horizontal-lines-with-dots | `<Icon group="coolicons" name="menu-interface-symbol-of-four-horizontal-lines-with-dots" />`
+| <img src="./coolicons/menu-interface-symbol-of-three-horizontal-straight-lines.svg" alt="menu-interface-symbol-of-three-horizontal-straight-lines" width="30" height="30"/> | coolicons | menu-interface-symbol-of-three-horizontal-straight-lines | `<Icon group="coolicons" name="menu-interface-symbol-of-three-horizontal-straight-lines" />`
+| <img src="./coolicons/message-black-speech-bubble-of-rectangular-shape.svg" alt="message-black-speech-bubble-of-rectangular-shape" width="30" height="30"/> | coolicons | message-black-speech-bubble-of-rectangular-shape | `<Icon group="coolicons" name="message-black-speech-bubble-of-rectangular-shape" />`
+| <img src="./coolicons/microphone-voice-interface-symbol.svg" alt="microphone-voice-interface-symbol" width="30" height="30"/> | coolicons | microphone-voice-interface-symbol | `<Icon group="coolicons" name="microphone-voice-interface-symbol" />`
+| <img src="./coolicons/microphone-with-slash-interface-symbol-for-mute-audio.svg" alt="microphone-with-slash-interface-symbol-for-mute-audio" width="30" height="30"/> | coolicons | microphone-with-slash-interface-symbol-for-mute-audio | `<Icon group="coolicons" name="microphone-with-slash-interface-symbol-for-mute-audio" />`
+| <img src="./coolicons/minus-sign-in-a-square-1.svg" alt="minus-sign-in-a-square-1" width="30" height="30"/> | coolicons | minus-sign-in-a-square-1 | `<Icon group="coolicons" name="minus-sign-in-a-square-1" />`
+| <img src="./coolicons/minus-sign-in-a-square.svg" alt="minus-sign-in-a-square" width="30" height="30"/> | coolicons | minus-sign-in-a-square | `<Icon group="coolicons" name="minus-sign-in-a-square" />`
+| <img src="./coolicons/minus-sign.svg" alt="minus-sign" width="30" height="30"/> | coolicons | minus-sign | `<Icon group="coolicons" name="minus-sign" />`
+| <img src="./coolicons/minus-straight-horizontal-line-sign.svg" alt="minus-straight-horizontal-line-sign" width="30" height="30"/> | coolicons | minus-straight-horizontal-line-sign | `<Icon group="coolicons" name="minus-straight-horizontal-line-sign" />`
+| <img src="./coolicons/monitor.svg" alt="monitor" width="30" height="30"/> | coolicons | monitor | `<Icon group="coolicons" name="monitor" />`
+| <img src="./coolicons/moon-shape.svg" alt="moon-shape" width="30" height="30"/> | coolicons | moon-shape | `<Icon group="coolicons" name="moon-shape" />`
+| <img src="./coolicons/music-disc.svg" alt="music-disc" width="30" height="30"/> | coolicons | music-disc | `<Icon group="coolicons" name="music-disc" />`
+| <img src="./coolicons/music-discs.svg" alt="music-discs" width="30" height="30"/> | coolicons | music-discs | `<Icon group="coolicons" name="music-discs" />`
+| <img src="./coolicons/musical-disc.svg" alt="musical-disc" width="30" height="30"/> | coolicons | musical-disc | `<Icon group="coolicons" name="musical-disc" />`
+| <img src="./coolicons/musical-note-black-shape.svg" alt="musical-note-black-shape" width="30" height="30"/> | coolicons | musical-note-black-shape | `<Icon group="coolicons" name="musical-note-black-shape" />`
+| <img src="./coolicons/network-or-hierarchy-graphic.svg" alt="network-or-hierarchy-graphic" width="30" height="30"/> | coolicons | network-or-hierarchy-graphic | `<Icon group="coolicons" name="network-or-hierarchy-graphic" />`
+| <img src="./coolicons/new-email-black-back-envelope-symbol-of-interface.svg" alt="new-email-black-back-envelope-symbol-of-interface" width="30" height="30"/> | coolicons | new-email-black-back-envelope-symbol-of-interface | `<Icon group="coolicons" name="new-email-black-back-envelope-symbol-of-interface" />`
+| <img src="./coolicons/numbered-list.svg" alt="numbered-list" width="30" height="30"/> | coolicons | numbered-list | `<Icon group="coolicons" name="numbered-list" />`
+| <img src="./coolicons/opposite-arrows-couple.svg" alt="opposite-arrows-couple" width="30" height="30"/> | coolicons | opposite-arrows-couple | `<Icon group="coolicons" name="opposite-arrows-couple" />`
+| <img src="./coolicons/order-interface-symbol-with-down-arrow.svg" alt="order-interface-symbol-with-down-arrow" width="30" height="30"/> | coolicons | order-interface-symbol-with-down-arrow | `<Icon group="coolicons" name="order-interface-symbol-with-down-arrow" />`
+| <img src="./coolicons/orientation-winds-star-pointing-cardinal-points.svg" alt="orientation-winds-star-pointing-cardinal-points" width="30" height="30"/> | coolicons | orientation-winds-star-pointing-cardinal-points | `<Icon group="coolicons" name="orientation-winds-star-pointing-cardinal-points" />`
+| <img src="./coolicons/overflowing-stacked-papers-tray.svg" alt="overflowing-stacked-papers-tray" width="30" height="30"/> | coolicons | overflowing-stacked-papers-tray | `<Icon group="coolicons" name="overflowing-stacked-papers-tray" />`
+| <img src="./coolicons/padlock-locked-black-shape.svg" alt="padlock-locked-black-shape" width="30" height="30"/> | coolicons | padlock-locked-black-shape | `<Icon group="coolicons" name="padlock-locked-black-shape" />`
+| <img src="./coolicons/paperclip-spiral.svg" alt="paperclip-spiral" width="30" height="30"/> | coolicons | paperclip-spiral | `<Icon group="coolicons" name="paperclip-spiral" />`
+| <img src="./coolicons/pause.svg" alt="pause" width="30" height="30"/> | coolicons | pause | `<Icon group="coolicons" name="pause" />`
+| <img src="./coolicons/paw-black-shape.svg" alt="paw-black-shape" width="30" height="30"/> | coolicons | paw-black-shape | `<Icon group="coolicons" name="paw-black-shape" />`
+| <img src="./coolicons/pencil-black-tool-interface-symbol.svg" alt="pencil-black-tool-interface-symbol" width="30" height="30"/> | coolicons | pencil-black-tool-interface-symbol | `<Icon group="coolicons" name="pencil-black-tool-interface-symbol" />`
+| <img src="./coolicons/pencil-in-a-square-interface-symbol-of-gross-outline.svg" alt="pencil-in-a-square-interface-symbol-of-gross-outline" width="30" height="30"/> | coolicons | pencil-in-a-square-interface-symbol-of-gross-outline | `<Icon group="coolicons" name="pencil-in-a-square-interface-symbol-of-gross-outline" />`
+| <img src="./coolicons/phone-keys-black-nine-squares.svg" alt="phone-keys-black-nine-squares" width="30" height="30"/> | coolicons | phone-keys-black-nine-squares | `<Icon group="coolicons" name="phone-keys-black-nine-squares" />`
+| <img src="./coolicons/phone-shape.svg" alt="phone-shape" width="30" height="30"/> | coolicons | phone-shape | `<Icon group="coolicons" name="phone-shape" />`
+| <img src="./coolicons/photo-camera-interface-symbol-1.svg" alt="photo-camera-interface-symbol-1" width="30" height="30"/> | coolicons | photo-camera-interface-symbol-1 | `<Icon group="coolicons" name="photo-camera-interface-symbol-1" />`
+| <img src="./coolicons/photo-camera-interface-symbol.svg" alt="photo-camera-interface-symbol" width="30" height="30"/> | coolicons | photo-camera-interface-symbol | `<Icon group="coolicons" name="photo-camera-interface-symbol" />`
+| <img src="./coolicons/photo-camera-of-square-shape.svg" alt="photo-camera-of-square-shape" width="30" height="30"/> | coolicons | photo-camera-of-square-shape | `<Icon group="coolicons" name="photo-camera-of-square-shape" />`
+| <img src="./coolicons/pin-black-tool-shape.svg" alt="pin-black-tool-shape" width="30" height="30"/> | coolicons | pin-black-tool-shape | `<Icon group="coolicons" name="pin-black-tool-shape" />`
+| <img src="./coolicons/pinterest-circular-logo-symbol.svg" alt="pinterest-circular-logo-symbol" width="30" height="30"/> | coolicons | pinterest-circular-logo-symbol | `<Icon group="coolicons" name="pinterest-circular-logo-symbol" />`
+| <img src="./coolicons/pinterest-letter-logo-in-a-square.svg" alt="pinterest-letter-logo-in-a-square" width="30" height="30"/> | coolicons | pinterest-letter-logo-in-a-square | `<Icon group="coolicons" name="pinterest-letter-logo-in-a-square" />`
+| <img src="./coolicons/placeholder-interface-symbol-for-maps.svg" alt="placeholder-interface-symbol-for-maps" width="30" height="30"/> | coolicons | placeholder-interface-symbol-for-maps | `<Icon group="coolicons" name="placeholder-interface-symbol-for-maps" />`
+| <img src="./coolicons/placeholder.svg" alt="placeholder" width="30" height="30"/> | coolicons | placeholder | `<Icon group="coolicons" name="placeholder" />`
+| <img src="./coolicons/placeholders.svg" alt="placeholders" width="30" height="30"/> | coolicons | placeholders | `<Icon group="coolicons" name="placeholders" />`
+| <img src="./coolicons/play-square-button.svg" alt="play-square-button" width="30" height="30"/> | coolicons | play-square-button | `<Icon group="coolicons" name="play-square-button" />`
+| <img src="./coolicons/play-triangular-button-symbol-in-a-circle.svg" alt="play-triangular-button-symbol-in-a-circle" width="30" height="30"/> | coolicons | play-triangular-button-symbol-in-a-circle | `<Icon group="coolicons" name="play-triangular-button-symbol-in-a-circle" />`
+| <img src="./coolicons/player-play-button-of-circular-shape.svg" alt="player-play-button-of-circular-shape" width="30" height="30"/> | coolicons | player-play-button-of-circular-shape | `<Icon group="coolicons" name="player-play-button-of-circular-shape" />`
+| <img src="./coolicons/player-play-button-symbol.svg" alt="player-play-button-symbol" width="30" height="30"/> | coolicons | player-play-button-symbol | `<Icon group="coolicons" name="player-play-button-symbol" />`
+| <img src="./coolicons/plus-sign-1.svg" alt="plus-sign-1" width="30" height="30"/> | coolicons | plus-sign-1 | `<Icon group="coolicons" name="plus-sign-1" />`
+| <img src="./coolicons/plus-sign-in-a-square-symbol-of-gross-line.svg" alt="plus-sign-in-a-square-symbol-of-gross-line" width="30" height="30"/> | coolicons | plus-sign-in-a-square-symbol-of-gross-line | `<Icon group="coolicons" name="plus-sign-in-a-square-symbol-of-gross-line" />`
+| <img src="./coolicons/plus-sign-in-a-square.svg" alt="plus-sign-in-a-square" width="30" height="30"/> | coolicons | plus-sign-in-a-square | `<Icon group="coolicons" name="plus-sign-in-a-square" />`
+| <img src="./coolicons/plus-sign.svg" alt="plus-sign" width="30" height="30"/> | coolicons | plus-sign | `<Icon group="coolicons" name="plus-sign" />`
+| <img src="./coolicons/plus-zoom-interface-symbol.svg" alt="plus-zoom-interface-symbol" width="30" height="30"/> | coolicons | plus-zoom-interface-symbol | `<Icon group="coolicons" name="plus-zoom-interface-symbol" />`
+| <img src="./coolicons/power-symbol.svg" alt="power-symbol" width="30" height="30"/> | coolicons | power-symbol | `<Icon group="coolicons" name="power-symbol" />`
+| <img src="./coolicons/presentation-screen-tool-outline-symbol.svg" alt="presentation-screen-tool-outline-symbol" width="30" height="30"/> | coolicons | presentation-screen-tool-outline-symbol | `<Icon group="coolicons" name="presentation-screen-tool-outline-symbol" />`
+| <img src="./coolicons/print-interface-symbol.svg" alt="print-interface-symbol" width="30" height="30"/> | coolicons | print-interface-symbol | `<Icon group="coolicons" name="print-interface-symbol" />`
+| <img src="./coolicons/prohibition-symbol-of-a-circle-with-a-slash.svg" alt="prohibition-symbol-of-a-circle-with-a-slash" width="30" height="30"/> | coolicons | prohibition-symbol-of-a-circle-with-a-slash | `<Icon group="coolicons" name="prohibition-symbol-of-a-circle-with-a-slash" />`
+| <img src="./coolicons/puzzle-piece-black-shape-of-border.svg" alt="puzzle-piece-black-shape-of-border" width="30" height="30"/> | coolicons | puzzle-piece-black-shape-of-border | `<Icon group="coolicons" name="puzzle-piece-black-shape-of-border" />`
+| <img src="./coolicons/qr-code-variant.svg" alt="qr-code-variant" width="30" height="30"/> | coolicons | qr-code-variant | `<Icon group="coolicons" name="qr-code-variant" />`
+| <img src="./coolicons/question-mark-in-circular-shape.svg" alt="question-mark-in-circular-shape" width="30" height="30"/> | coolicons | question-mark-in-circular-shape | `<Icon group="coolicons" name="question-mark-in-circular-shape" />`
+| <img src="./coolicons/question-sign.svg" alt="question-sign" width="30" height="30"/> | coolicons | question-sign | `<Icon group="coolicons" name="question-sign" />`
+| <img src="./coolicons/rails.svg" alt="rails" width="30" height="30"/> | coolicons | rails | `<Icon group="coolicons" name="rails" />`
+| <img src="./coolicons/rectangles-symbol.svg" alt="rectangles-symbol" width="30" height="30"/> | coolicons | rectangles-symbol | `<Icon group="coolicons" name="rectangles-symbol" />`
+| <img src="./coolicons/rectangular-speech-bubble-of-chat.svg" alt="rectangular-speech-bubble-of-chat" width="30" height="30"/> | coolicons | rectangular-speech-bubble-of-chat | `<Icon group="coolicons" name="rectangular-speech-bubble-of-chat" />`
+| <img src="./coolicons/recycle-bin.svg" alt="recycle-bin" width="30" height="30"/> | coolicons | recycle-bin | `<Icon group="coolicons" name="recycle-bin" />`
+| <img src="./coolicons/renren-china-social-network-logo.svg" alt="renren-china-social-network-logo" width="30" height="30"/> | coolicons | renren-china-social-network-logo | `<Icon group="coolicons" name="renren-china-social-network-logo" />`
+| <img src="./coolicons/restaurant-interface-symbol-of-fork-and-knife-couple.svg" alt="restaurant-interface-symbol-of-fork-and-knife-couple" width="30" height="30"/> | coolicons | restaurant-interface-symbol-of-fork-and-knife-couple | `<Icon group="coolicons" name="restaurant-interface-symbol-of-fork-and-knife-couple" />`
+| <img src="./coolicons/rewind-button.svg" alt="rewind-button" width="30" height="30"/> | coolicons | rewind-button | `<Icon group="coolicons" name="rewind-button" />`
+| <img src="./coolicons/right-arrow-angle-and-horizontal-down-line-code-signs.svg" alt="right-arrow-angle-and-horizontal-down-line-code-signs" width="30" height="30"/> | coolicons | right-arrow-angle-and-horizontal-down-line-code-signs | `<Icon group="coolicons" name="right-arrow-angle-and-horizontal-down-line-code-signs" />`
+| <img src="./coolicons/right-arrow-angle-inside-a-square.svg" alt="right-arrow-angle-inside-a-square" width="30" height="30"/> | coolicons | right-arrow-angle-inside-a-square | `<Icon group="coolicons" name="right-arrow-angle-inside-a-square" />`
+| <img src="./coolicons/right-arrow-angle-of-two-shapes.svg" alt="right-arrow-angle-of-two-shapes" width="30" height="30"/> | coolicons | right-arrow-angle-of-two-shapes | `<Icon group="coolicons" name="right-arrow-angle-of-two-shapes" />`
+| <img src="./coolicons/right-arrow-angle.svg" alt="right-arrow-angle" width="30" height="30"/> | coolicons | right-arrow-angle | `<Icon group="coolicons" name="right-arrow-angle" />`
+| <img src="./coolicons/right-arrow-black-shape.svg" alt="right-arrow-black-shape" width="30" height="30"/> | coolicons | right-arrow-black-shape | `<Icon group="coolicons" name="right-arrow-black-shape" />`
+| <img src="./coolicons/right-arrow-black-triangle-1.svg" alt="right-arrow-black-triangle-1" width="30" height="30"/> | coolicons | right-arrow-black-triangle-1 | `<Icon group="coolicons" name="right-arrow-black-triangle-1" />`
+| <img src="./coolicons/right-arrow-black-triangle.svg" alt="right-arrow-black-triangle" width="30" height="30"/> | coolicons | right-arrow-black-triangle | `<Icon group="coolicons" name="right-arrow-black-triangle" />`
+| <img src="./coolicons/right-arrow-direction.svg" alt="right-arrow-direction" width="30" height="30"/> | coolicons | right-arrow-direction | `<Icon group="coolicons" name="right-arrow-direction" />`
+| <img src="./coolicons/right-arrow-for-forward-button-gross-symbol.svg" alt="right-arrow-for-forward-button-gross-symbol" width="30" height="30"/> | coolicons | right-arrow-for-forward-button-gross-symbol | `<Icon group="coolicons" name="right-arrow-for-forward-button-gross-symbol" />`
+| <img src="./coolicons/right-arrow-in-a-circle-1.svg" alt="right-arrow-in-a-circle-1" width="30" height="30"/> | coolicons | right-arrow-in-a-circle-1 | `<Icon group="coolicons" name="right-arrow-in-a-circle-1" />`
+| <img src="./coolicons/right-arrow-in-a-circle.svg" alt="right-arrow-in-a-circle" width="30" height="30"/> | coolicons | right-arrow-in-a-circle | `<Icon group="coolicons" name="right-arrow-in-a-circle" />`
+| <img src="./coolicons/right-arrow-symbol.svg" alt="right-arrow-symbol" width="30" height="30"/> | coolicons | right-arrow-symbol | `<Icon group="coolicons" name="right-arrow-symbol" />`
+| <img src="./coolicons/right-external-arrow-of-a-square.svg" alt="right-external-arrow-of-a-square" width="30" height="30"/> | coolicons | right-external-arrow-of-a-square | `<Icon group="coolicons" name="right-external-arrow-of-a-square" />`
+| <img src="./coolicons/right-long-black-arrow.svg" alt="right-long-black-arrow" width="30" height="30"/> | coolicons | right-long-black-arrow | `<Icon group="coolicons" name="right-long-black-arrow" />`
+| <img src="./coolicons/right-quotes-symbol.svg" alt="right-quotes-symbol" width="30" height="30"/> | coolicons | right-quotes-symbol | `<Icon group="coolicons" name="right-quotes-symbol" />`
+| <img src="./coolicons/rounded-square-corners-outline.svg" alt="rounded-square-corners-outline" width="30" height="30"/> | coolicons | rounded-square-corners-outline | `<Icon group="coolicons" name="rounded-square-corners-outline" />`
+| <img src="./coolicons/rss-feed-suscription-button-symbol-for-interface.svg" alt="rss-feed-suscription-button-symbol-for-interface" width="30" height="30"/> | coolicons | rss-feed-suscription-button-symbol-for-interface | `<Icon group="coolicons" name="rss-feed-suscription-button-symbol-for-interface" />`
+| <img src="./coolicons/rss-feeds-symbol-in-a-rounded-square.svg" alt="rss-feeds-symbol-in-a-rounded-square" width="30" height="30"/> | coolicons | rss-feeds-symbol-in-a-rounded-square | `<Icon group="coolicons" name="rss-feeds-symbol-in-a-rounded-square" />`
+| <img src="./coolicons/ruble-currency-sign.svg" alt="ruble-currency-sign" width="30" height="30"/> | coolicons | ruble-currency-sign | `<Icon group="coolicons" name="ruble-currency-sign" />`
+| <img src="./coolicons/sad-emoticon-face.svg" alt="sad-emoticon-face" width="30" height="30"/> | coolicons | sad-emoticon-face | `<Icon group="coolicons" name="sad-emoticon-face" />`
+| <img src="./coolicons/serious-emoticon-face.svg" alt="serious-emoticon-face" width="30" height="30"/> | coolicons | serious-emoticon-face | `<Icon group="coolicons" name="serious-emoticon-face" />`
+| <img src="./coolicons/shield-shape-outline.svg" alt="shield-shape-outline" width="30" height="30"/> | coolicons | shield-shape-outline | `<Icon group="coolicons" name="shield-shape-outline" />`
+| <img src="./coolicons/shopping-cart-black-silhouette-rounded-variant.svg" alt="shopping-cart-black-silhouette-rounded-variant" width="30" height="30"/> | coolicons | shopping-cart-black-silhouette-rounded-variant | `<Icon group="coolicons" name="shopping-cart-black-silhouette-rounded-variant" />`
+| <img src="./coolicons/sign-of-lines.svg" alt="sign-of-lines" width="30" height="30"/> | coolicons | sign-of-lines | `<Icon group="coolicons" name="sign-of-lines" />`
+| <img src="./coolicons/sign.svg" alt="sign" width="30" height="30"/> | coolicons | sign | `<Icon group="coolicons" name="sign" />`
+| <img src="./coolicons/skype-logo.svg" alt="skype-logo" width="30" height="30"/> | coolicons | skype-logo | `<Icon group="coolicons" name="skype-logo" />`
+| <img src="./coolicons/small-truck-black-side-view-silhouette.svg" alt="small-truck-black-side-view-silhouette" width="30" height="30"/> | coolicons | small-truck-black-side-view-silhouette | `<Icon group="coolicons" name="small-truck-black-side-view-silhouette" />`
+| <img src="./coolicons/smiling-face.svg" alt="smiling-face" width="30" height="30"/> | coolicons | smiling-face | `<Icon group="coolicons" name="smiling-face" />`
+| <img src="./coolicons/sort-by-reverse-alphabet-order-interface-symbol.svg" alt="sort-by-reverse-alphabet-order-interface-symbol" width="30" height="30"/> | coolicons | sort-by-reverse-alphabet-order-interface-symbol | `<Icon group="coolicons" name="sort-by-reverse-alphabet-order-interface-symbol" />`
+| <img src="./coolicons/sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines.svg" alt="sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines" width="30" height="30"/> | coolicons | sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines | `<Icon group="coolicons" name="sort-descending-interface-down-arrow-symbol-with-horizontal-text-lines" />`
+| <img src="./coolicons/sort-interface-symbol-of-down-arrow-with-numbers.svg" alt="sort-interface-symbol-of-down-arrow-with-numbers" width="30" height="30"/> | coolicons | sort-interface-symbol-of-down-arrow-with-numbers | `<Icon group="coolicons" name="sort-interface-symbol-of-down-arrow-with-numbers" />`
+| <img src="./coolicons/sort-numerically-down-interface-symbol.svg" alt="sort-numerically-down-interface-symbol" width="30" height="30"/> | coolicons | sort-numerically-down-interface-symbol | `<Icon group="coolicons" name="sort-numerically-down-interface-symbol" />`
+| <img src="./coolicons/space-ship.svg" alt="space-ship" width="30" height="30"/> | coolicons | space-ship | `<Icon group="coolicons" name="space-ship" />`
+| <img src="./coolicons/speaker-black-tool-shape-interface-symbol.svg" alt="speaker-black-tool-shape-interface-symbol" width="30" height="30"/> | coolicons | speaker-black-tool-shape-interface-symbol | `<Icon group="coolicons" name="speaker-black-tool-shape-interface-symbol" />`
+| <img src="./coolicons/speaker-interface-audio-symbol.svg" alt="speaker-interface-audio-symbol" width="30" height="30"/> | coolicons | speaker-interface-audio-symbol | `<Icon group="coolicons" name="speaker-interface-audio-symbol" />`
+| <img src="./coolicons/speaker.svg" alt="speaker" width="30" height="30"/> | coolicons | speaker | `<Icon group="coolicons" name="speaker" />`
+| <img src="./coolicons/speech-bubble-couple-of-black-rectangular-shapes.svg" alt="speech-bubble-couple-of-black-rectangular-shapes" width="30" height="30"/> | coolicons | speech-bubble-couple-of-black-rectangular-shapes | `<Icon group="coolicons" name="speech-bubble-couple-of-black-rectangular-shapes" />`
+| <img src="./coolicons/speech-bubbles-interface-chat-symbol.svg" alt="speech-bubbles-interface-chat-symbol" width="30" height="30"/> | coolicons | speech-bubbles-interface-chat-symbol | `<Icon group="coolicons" name="speech-bubbles-interface-chat-symbol" />`
+| <img src="./coolicons/speedometer.svg" alt="speedometer" width="30" height="30"/> | coolicons | speedometer | `<Icon group="coolicons" name="speedometer" />`
+| <img src="./coolicons/square-outline-shape.svg" alt="square-outline-shape" width="30" height="30"/> | coolicons | square-outline-shape | `<Icon group="coolicons" name="square-outline-shape" />`
+| <img src="./coolicons/square-outline-with-up-arrow.svg" alt="square-outline-with-up-arrow" width="30" height="30"/> | coolicons | square-outline-with-up-arrow | `<Icon group="coolicons" name="square-outline-with-up-arrow" />`
+| <img src="./coolicons/square-outline.svg" alt="square-outline" width="30" height="30"/> | coolicons | square-outline | `<Icon group="coolicons" name="square-outline" />`
+| <img src="./coolicons/square-with-two-rectangles-inside.svg" alt="square-with-two-rectangles-inside" width="30" height="30"/> | coolicons | square-with-two-rectangles-inside | `<Icon group="coolicons" name="square-with-two-rectangles-inside" />`
+| <img src="./coolicons/star-black-shape-favourite-interface-symbol.svg" alt="star-black-shape-favourite-interface-symbol" width="30" height="30"/> | coolicons | star-black-shape-favourite-interface-symbol | `<Icon group="coolicons" name="star-black-shape-favourite-interface-symbol" />`
+| <img src="./coolicons/star-gross-outline.svg" alt="star-gross-outline" width="30" height="30"/> | coolicons | star-gross-outline | `<Icon group="coolicons" name="star-gross-outline" />`
+| <img src="./coolicons/star-on-vip-card.svg" alt="star-on-vip-card" width="30" height="30"/> | coolicons | star-on-vip-card | `<Icon group="coolicons" name="star-on-vip-card" />`
+| <img src="./coolicons/star-shape-symbol-with-half-black-and-half-white.svg" alt="star-shape-symbol-with-half-black-and-half-white" width="30" height="30"/> | coolicons | star-shape-symbol-with-half-black-and-half-white | `<Icon group="coolicons" name="star-shape-symbol-with-half-black-and-half-white" />`
+| <img src="./coolicons/status-interface-symbol.svg" alt="status-interface-symbol" width="30" height="30"/> | coolicons | status-interface-symbol | `<Icon group="coolicons" name="status-interface-symbol" />`
+| <img src="./coolicons/strikethrough-text-option-interface-symbol-1.svg" alt="strikethrough-text-option-interface-symbol-1" width="30" height="30"/> | coolicons | strikethrough-text-option-interface-symbol-1 | `<Icon group="coolicons" name="strikethrough-text-option-interface-symbol-1" />`
+| <img src="./coolicons/strikethrough-text-option-interface-symbol.svg" alt="strikethrough-text-option-interface-symbol" width="30" height="30"/> | coolicons | strikethrough-text-option-interface-symbol | `<Icon group="coolicons" name="strikethrough-text-option-interface-symbol" />`
+| <img src="./coolicons/subscript-interface-option-symbol.svg" alt="subscript-interface-option-symbol" width="30" height="30"/> | coolicons | subscript-interface-option-symbol | `<Icon group="coolicons" name="subscript-interface-option-symbol" />`
+| <img src="./coolicons/suitcase-black-shape-1.svg" alt="suitcase-black-shape-1" width="30" height="30"/> | coolicons | suitcase-black-shape-1 | `<Icon group="coolicons" name="suitcase-black-shape-1" />`
+| <img src="./coolicons/suitcase-black-shape.svg" alt="suitcase-black-shape" width="30" height="30"/> | coolicons | suitcase-black-shape | `<Icon group="coolicons" name="suitcase-black-shape" />`
+| <img src="./coolicons/sun-black-shape.svg" alt="sun-black-shape" width="30" height="30"/> | coolicons | sun-black-shape | `<Icon group="coolicons" name="sun-black-shape" />`
+| <img src="./coolicons/superscript-symbol.svg" alt="superscript-symbol" width="30" height="30"/> | coolicons | superscript-symbol | `<Icon group="coolicons" name="superscript-symbol" />`
+| <img src="./coolicons/table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape.svg" alt="table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape" width="30" height="30"/> | coolicons | table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape | `<Icon group="coolicons" name="table-tennis-racquet-or-rattle-musical-instrument-black-silhouette-shape" />`
+| <img src="./coolicons/tablet-tool-variant.svg" alt="tablet-tool-variant" width="30" height="30"/> | coolicons | tablet-tool-variant | `<Icon group="coolicons" name="tablet-tool-variant" />`
+| <img src="./coolicons/tag-black-tool-shape.svg" alt="tag-black-tool-shape" width="30" height="30"/> | coolicons | tag-black-tool-shape | `<Icon group="coolicons" name="tag-black-tool-shape" />`
+| <img src="./coolicons/target-concentric-circles-symbol.svg" alt="target-concentric-circles-symbol" width="30" height="30"/> | coolicons | target-concentric-circles-symbol | `<Icon group="coolicons" name="target-concentric-circles-symbol" />`
+| <img src="./coolicons/targeting.svg" alt="targeting" width="30" height="30"/> | coolicons | targeting | `<Icon group="coolicons" name="targeting" />`
+| <img src="./coolicons/text-alignment-to-right.svg" alt="text-alignment-to-right" width="30" height="30"/> | coolicons | text-alignment-to-right | `<Icon group="coolicons" name="text-alignment-to-right" />`
+| <img src="./coolicons/text-height-format-interface-option-symbol.svg" alt="text-height-format-interface-option-symbol" width="30" height="30"/> | coolicons | text-height-format-interface-option-symbol | `<Icon group="coolicons" name="text-height-format-interface-option-symbol" />`
+| <img src="./coolicons/text-option-interface-symbol-1.svg" alt="text-option-interface-symbol-1" width="30" height="30"/> | coolicons | text-option-interface-symbol-1 | `<Icon group="coolicons" name="text-option-interface-symbol-1" />`
+| <img src="./coolicons/text-option-interface-symbol.svg" alt="text-option-interface-symbol" width="30" height="30"/> | coolicons | text-option-interface-symbol | `<Icon group="coolicons" name="text-option-interface-symbol" />`
+| <img src="./coolicons/text-side-option-interface-symbol.svg" alt="text-side-option-interface-symbol" width="30" height="30"/> | coolicons | text-side-option-interface-symbol | `<Icon group="coolicons" name="text-side-option-interface-symbol" />`
+| <img src="./coolicons/three-aligned-squares-in-vertical-line-interface-button.svg" alt="three-aligned-squares-in-vertical-line-interface-button" width="30" height="30"/> | coolicons | three-aligned-squares-in-vertical-line-interface-button | `<Icon group="coolicons" name="three-aligned-squares-in-vertical-line-interface-button" />`
+| <img src="./coolicons/three-black-squares.svg" alt="three-black-squares" width="30" height="30"/> | coolicons | three-black-squares | `<Icon group="coolicons" name="three-black-squares" />`
+| <img src="./coolicons/three-gears-interface-symbol-for-settings.svg" alt="three-gears-interface-symbol-for-settings" width="30" height="30"/> | coolicons | three-gears-interface-symbol-for-settings | `<Icon group="coolicons" name="three-gears-interface-symbol-for-settings" />`
+| <img src="./coolicons/three-rectangles-symbol.svg" alt="three-rectangles-symbol" width="30" height="30"/> | coolicons | three-rectangles-symbol | `<Icon group="coolicons" name="three-rectangles-symbol" />`
+| <img src="./coolicons/three-squares-line.svg" alt="three-squares-line" width="30" height="30"/> | coolicons | three-squares-line | `<Icon group="coolicons" name="three-squares-line" />`
+| <img src="./coolicons/thumb-down-symbol.svg" alt="thumb-down-symbol" width="30" height="30"/> | coolicons | thumb-down-symbol | `<Icon group="coolicons" name="thumb-down-symbol" />`
+| <img src="./coolicons/thumb-up-gross-line-symbol.svg" alt="thumb-up-gross-line-symbol" width="30" height="30"/> | coolicons | thumb-up-gross-line-symbol | `<Icon group="coolicons" name="thumb-up-gross-line-symbol" />`
+| <img src="./coolicons/train-travelling-on-railroad.svg" alt="train-travelling-on-railroad" width="30" height="30"/> | coolicons | train-travelling-on-railroad | `<Icon group="coolicons" name="train-travelling-on-railroad" />`
+| <img src="./coolicons/tray-interface-symbol.svg" alt="tray-interface-symbol" width="30" height="30"/> | coolicons | tray-interface-symbol | `<Icon group="coolicons" name="tray-interface-symbol" />`
+| <img src="./coolicons/triangular-black-arrow-pointing-down.svg" alt="triangular-black-arrow-pointing-down" width="30" height="30"/> | coolicons | triangular-black-arrow-pointing-down | `<Icon group="coolicons" name="triangular-black-arrow-pointing-down" />`
+| <img src="./coolicons/triangular-up-arrow.svg" alt="triangular-up-arrow" width="30" height="30"/> | coolicons | triangular-up-arrow | `<Icon group="coolicons" name="triangular-up-arrow" />`
+| <img src="./coolicons/trophy-black-side-view-silhouette.svg" alt="trophy-black-side-view-silhouette" width="30" height="30"/> | coolicons | trophy-black-side-view-silhouette | `<Icon group="coolicons" name="trophy-black-side-view-silhouette" />`
+| <img src="./coolicons/tumblr-letter-logo.svg" alt="tumblr-letter-logo" width="30" height="30"/> | coolicons | tumblr-letter-logo | `<Icon group="coolicons" name="tumblr-letter-logo" />`
+| <img src="./coolicons/twitter-bird-logo-shape-in-a-square.svg" alt="twitter-bird-logo-shape-in-a-square" width="30" height="30"/> | coolicons | twitter-bird-logo-shape-in-a-square | `<Icon group="coolicons" name="twitter-bird-logo-shape-in-a-square" />`
+| <img src="./coolicons/twitter-black-shape.svg" alt="twitter-black-shape" width="30" height="30"/> | coolicons | twitter-black-shape | `<Icon group="coolicons" name="twitter-black-shape" />`
+| <img src="./coolicons/twitter-letter-logo-symbol-in-a-square.svg" alt="twitter-letter-logo-symbol-in-a-square" width="30" height="30"/> | coolicons | twitter-letter-logo-symbol-in-a-square | `<Icon group="coolicons" name="twitter-letter-logo-symbol-in-a-square" />`
+| <img src="./coolicons/two-arrows-in-angle-pointing-down.svg" alt="two-arrows-in-angle-pointing-down" width="30" height="30"/> | coolicons | two-arrows-in-angle-pointing-down | `<Icon group="coolicons" name="two-arrows-in-angle-pointing-down" />`
+| <img src="./coolicons/two-arrows.svg" alt="two-arrows" width="30" height="30"/> | coolicons | two-arrows | `<Icon group="coolicons" name="two-arrows" />`
+| <img src="./coolicons/two-black-paper-sheets-symbol.svg" alt="two-black-paper-sheets-symbol" width="30" height="30"/> | coolicons | two-black-paper-sheets-symbol | `<Icon group="coolicons" name="two-black-paper-sheets-symbol" />`
+| <img src="./coolicons/two-columns-layout.svg" alt="two-columns-layout" width="30" height="30"/> | coolicons | two-columns-layout | `<Icon group="coolicons" name="two-columns-layout" />`
+| <img src="./coolicons/two-opposite-arrows.svg" alt="two-opposite-arrows" width="30" height="30"/> | coolicons | two-opposite-arrows | `<Icon group="coolicons" name="two-opposite-arrows" />`
+| <img src="./coolicons/two-straight-arrows.svg" alt="two-straight-arrows" width="30" height="30"/> | coolicons | two-straight-arrows | `<Icon group="coolicons" name="two-straight-arrows" />`
+| <img src="./coolicons/umbrella-black-shape.svg" alt="umbrella-black-shape" width="30" height="30"/> | coolicons | umbrella-black-shape | `<Icon group="coolicons" name="umbrella-black-shape" />`
+| <img src="./coolicons/underline-text-option-interface-symbol.svg" alt="underline-text-option-interface-symbol" width="30" height="30"/> | coolicons | underline-text-option-interface-symbol | `<Icon group="coolicons" name="underline-text-option-interface-symbol" />`
+| <img src="./coolicons/unlocked-padlock-symbol.svg" alt="unlocked-padlock-symbol" width="30" height="30"/> | coolicons | unlocked-padlock-symbol | `<Icon group="coolicons" name="unlocked-padlock-symbol" />`
+| <img src="./coolicons/unlocked-padlock.svg" alt="unlocked-padlock" width="30" height="30"/> | coolicons | unlocked-padlock | `<Icon group="coolicons" name="unlocked-padlock" />`
+| <img src="./coolicons/up-and-down-arrows.svg" alt="up-and-down-arrows" width="30" height="30"/> | coolicons | up-and-down-arrows | `<Icon group="coolicons" name="up-and-down-arrows" />`
+| <img src="./coolicons/up-and-down-small-triangular-arrows.svg" alt="up-and-down-small-triangular-arrows" width="30" height="30"/> | coolicons | up-and-down-small-triangular-arrows | `<Icon group="coolicons" name="up-and-down-small-triangular-arrows" />`
+| <img src="./coolicons/up-arrow-angle-1.svg" alt="up-arrow-angle-1" width="30" height="30"/> | coolicons | up-arrow-angle-1 | `<Icon group="coolicons" name="up-arrow-angle-1" />`
+| <img src="./coolicons/up-arrow-angle.svg" alt="up-arrow-angle" width="30" height="30"/> | coolicons | up-arrow-angle | `<Icon group="coolicons" name="up-arrow-angle" />`
+| <img src="./coolicons/up-arrow-in-a-circle-1.svg" alt="up-arrow-in-a-circle-1" width="30" height="30"/> | coolicons | up-arrow-in-a-circle-1 | `<Icon group="coolicons" name="up-arrow-in-a-circle-1" />`
+| <img src="./coolicons/up-arrow-in-a-circle.svg" alt="up-arrow-in-a-circle" width="30" height="30"/> | coolicons | up-arrow-in-a-circle | `<Icon group="coolicons" name="up-arrow-in-a-circle" />`
+| <img src="./coolicons/up-arrow-in-circular-shape.svg" alt="up-arrow-in-circular-shape" width="30" height="30"/> | coolicons | up-arrow-in-circular-shape | `<Icon group="coolicons" name="up-arrow-in-circular-shape" />`
+| <img src="./coolicons/up-arrow-inside-a-gross-circle.svg" alt="up-arrow-inside-a-gross-circle" width="30" height="30"/> | coolicons | up-arrow-inside-a-gross-circle | `<Icon group="coolicons" name="up-arrow-inside-a-gross-circle" />`
+| <img src="./coolicons/up-arrow-triangle-in-a-square-gross-outline.svg" alt="up-arrow-triangle-in-a-square-gross-outline" width="30" height="30"/> | coolicons | up-arrow-triangle-in-a-square-gross-outline | `<Icon group="coolicons" name="up-arrow-triangle-in-a-square-gross-outline" />`
+| <img src="./coolicons/up-arrow-triangle.svg" alt="up-arrow-triangle" width="30" height="30"/> | coolicons | up-arrow-triangle | `<Icon group="coolicons" name="up-arrow-triangle" />`
+| <img src="./coolicons/up-arrow.svg" alt="up-arrow" width="30" height="30"/> | coolicons | up-arrow | `<Icon group="coolicons" name="up-arrow" />`
+| <img src="./coolicons/up-arrows-angles-couple.svg" alt="up-arrows-angles-couple" width="30" height="30"/> | coolicons | up-arrows-angles-couple | `<Icon group="coolicons" name="up-arrows-angles-couple" />`
+| <img src="./coolicons/up-level-arrow.svg" alt="up-level-arrow" width="30" height="30"/> | coolicons | up-level-arrow | `<Icon group="coolicons" name="up-level-arrow" />`
+| <img src="./coolicons/up-long-arrow.svg" alt="up-long-arrow" width="30" height="30"/> | coolicons | up-long-arrow | `<Icon group="coolicons" name="up-long-arrow" />`
+| <img src="./coolicons/up-triangular-arrow.svg" alt="up-triangular-arrow" width="30" height="30"/> | coolicons | up-triangular-arrow | `<Icon group="coolicons" name="up-triangular-arrow" />`
+| <img src="./coolicons/upload-to-the-cloud-interface-symbol.svg" alt="upload-to-the-cloud-interface-symbol" width="30" height="30"/> | coolicons | upload-to-the-cloud-interface-symbol | `<Icon group="coolicons" name="upload-to-the-cloud-interface-symbol" />`
+| <img src="./coolicons/upper-right-arrow-black-symbol.svg" alt="upper-right-arrow-black-symbol" width="30" height="30"/> | coolicons | upper-right-arrow-black-symbol | `<Icon group="coolicons" name="upper-right-arrow-black-symbol" />`
+| <img src="./coolicons/user-black-shape.svg" alt="user-black-shape" width="30" height="30"/> | coolicons | user-black-shape | `<Icon group="coolicons" name="user-black-shape" />`
+| <img src="./coolicons/user-image-on-phone-screen-in-horizontal-position.svg" alt="user-image-on-phone-screen-in-horizontal-position" width="30" height="30"/> | coolicons | user-image-on-phone-screen-in-horizontal-position | `<Icon group="coolicons" name="user-image-on-phone-screen-in-horizontal-position" />`
+| <img src="./coolicons/verification-sign-in-a-circle.svg" alt="verification-sign-in-a-circle" width="30" height="30"/> | coolicons | verification-sign-in-a-circle | `<Icon group="coolicons" name="verification-sign-in-a-circle" />`
+| <img src="./coolicons/verification-symbol-in-a-square-box.svg" alt="verification-symbol-in-a-square-box" width="30" height="30"/> | coolicons | verification-symbol-in-a-square-box | `<Icon group="coolicons" name="verification-symbol-in-a-square-box" />`
+| <img src="./coolicons/verification-symbol.svg" alt="verification-symbol" width="30" height="30"/> | coolicons | verification-symbol | `<Icon group="coolicons" name="verification-symbol" />`
+| <img src="./coolicons/verify.svg" alt="verify" width="30" height="30"/> | coolicons | verify | `<Icon group="coolicons" name="verify" />`
+| <img src="./coolicons/video-camera.svg" alt="video-camera" width="30" height="30"/> | coolicons | video-camera | `<Icon group="coolicons" name="video-camera" />`
+| <img src="./coolicons/view-eye-interface-symbol.svg" alt="view-eye-interface-symbol" width="30" height="30"/> | coolicons | view-eye-interface-symbol | `<Icon group="coolicons" name="view-eye-interface-symbol" />`
+| <img src="./coolicons/vimeo-letter-logo-in-a-square.svg" alt="vimeo-letter-logo-in-a-square" width="30" height="30"/> | coolicons | vimeo-letter-logo-in-a-square | `<Icon group="coolicons" name="vimeo-letter-logo-in-a-square" />`
+| <img src="./coolicons/vk-logo-of-social-network.svg" alt="vk-logo-of-social-network" width="30" height="30"/> | coolicons | vk-logo-of-social-network | `<Icon group="coolicons" name="vk-logo-of-social-network" />`
+| <img src="./coolicons/war-airplane-bottom-view-black-shape.svg" alt="war-airplane-bottom-view-black-shape" width="30" height="30"/> | coolicons | war-airplane-bottom-view-black-shape | `<Icon group="coolicons" name="war-airplane-bottom-view-black-shape" />`
+| <img src="./coolicons/wedding-rings-couple.svg" alt="wedding-rings-couple" width="30" height="30"/> | coolicons | wedding-rings-couple | `<Icon group="coolicons" name="wedding-rings-couple" />`
+| <img src="./coolicons/weekly-calendar-variant.svg" alt="weekly-calendar-variant" width="30" height="30"/> | coolicons | weekly-calendar-variant | `<Icon group="coolicons" name="weekly-calendar-variant" />`
+| <img src="./coolicons/wheel-shape-variant.svg" alt="wheel-shape-variant" width="30" height="30"/> | coolicons | wheel-shape-variant | `<Icon group="coolicons" name="wheel-shape-variant" />`
+| <img src="./coolicons/windows-logo.svg" alt="windows-logo" width="30" height="30"/> | coolicons | windows-logo | `<Icon group="coolicons" name="windows-logo" />`
+| <img src="./coolicons/wireless-keyboard.svg" alt="wireless-keyboard" width="30" height="30"/> | coolicons | wireless-keyboard | `<Icon group="coolicons" name="wireless-keyboard" />`
+| <img src="./coolicons/wireless-signal-interface-status-symbol-of-bars-group.svg" alt="wireless-signal-interface-status-symbol-of-bars-group" width="30" height="30"/> | coolicons | wireless-signal-interface-status-symbol-of-bars-group | `<Icon group="coolicons" name="wireless-signal-interface-status-symbol-of-bars-group" />`
+| <img src="./coolicons/world-ball.svg" alt="world-ball" width="30" height="30"/> | coolicons | world-ball | `<Icon group="coolicons" name="world-ball" />`
+| <img src="./coolicons/wrench-black-silhouette-of-tool.svg" alt="wrench-black-silhouette-of-tool" width="30" height="30"/> | coolicons | wrench-black-silhouette-of-tool | `<Icon group="coolicons" name="wrench-black-silhouette-of-tool" />`
+| <img src="./coolicons/xing-logo-1.svg" alt="xing-logo-1" width="30" height="30"/> | coolicons | xing-logo-1 | `<Icon group="coolicons" name="xing-logo-1" />`
+| <img src="./coolicons/xing-logo.svg" alt="xing-logo" width="30" height="30"/> | coolicons | xing-logo | `<Icon group="coolicons" name="xing-logo" />`
+| <img src="./coolicons/yen-symbol.svg" alt="yen-symbol" width="30" height="30"/> | coolicons | yen-symbol | `<Icon group="coolicons" name="yen-symbol" />`
+| <img src="./coolicons/youtube-logo.svg" alt="youtube-logo" width="30" height="30"/> | coolicons | youtube-logo | `<Icon group="coolicons" name="youtube-logo" />`
+| <img src="./coolicons/youtube-rounded-square-logo.svg" alt="youtube-rounded-square-logo" width="30" height="30"/> | coolicons | youtube-rounded-square-logo | `<Icon group="coolicons" name="youtube-rounded-square-logo" />`

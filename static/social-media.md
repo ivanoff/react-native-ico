@@ -2,52 +2,52 @@
 
 |image | group | name | usage
 |--|--|--
-| ![](./social-media/001-youtube.svg) | social-media | youtube | `<Icon group="social-media" name="youtube" />`
-| ![](./social-media/002-yelp.svg) | social-media | yelp | `<Icon group="social-media" name="yelp" />`
-| ![](./social-media/003-wordpress.svg) | social-media | wordpress | `<Icon group="social-media" name="wordpress" />`
-| ![](./social-media/004-wikipedia.svg) | social-media | wikipedia | `<Icon group="social-media" name="wikipedia" />`
-| ![](./social-media/005-whatsapp.svg) | social-media | whatsapp | `<Icon group="social-media" name="whatsapp" />`
-| ![](./social-media/006-vine.svg) | social-media | vine | `<Icon group="social-media" name="vine" />`
-| ![](./social-media/007-vimeo.svg) | social-media | vimeo | `<Icon group="social-media" name="vimeo" />`
-| ![](./social-media/008-twitter.svg) | social-media | twitter | `<Icon group="social-media" name="twitter" />`
-| ![](./social-media/009-tumblr.svg) | social-media | tumblr | `<Icon group="social-media" name="tumblr" />`
-| ![](./social-media/010-trello.svg) | social-media | trello | `<Icon group="social-media" name="trello" />`
-| ![](./social-media/011-stumbleupon.svg) | social-media | stumbleupon | `<Icon group="social-media" name="stumbleupon" />`
-| ![](./social-media/012-spotify.svg) | social-media | spotify | `<Icon group="social-media" name="spotify" />`
-| ![](./social-media/013-soundcloud.svg) | social-media | soundcloud | `<Icon group="social-media" name="soundcloud" />`
-| ![](./social-media/014-snapchat.svg) | social-media | snapchat | `<Icon group="social-media" name="snapchat" />`
-| ![](./social-media/015-skype.svg) | social-media | skype | `<Icon group="social-media" name="skype" />`
-| ![](./social-media/016-shutterstock.svg) | social-media | shutterstock | `<Icon group="social-media" name="shutterstock" />`
-| ![](./social-media/017-scribd.svg) | social-media | scribd | `<Icon group="social-media" name="scribd" />`
-| ![](./social-media/018-reddit.svg) | social-media | reddit | `<Icon group="social-media" name="reddit" />`
-| ![](./social-media/019-quora.svg) | social-media | quora | `<Icon group="social-media" name="quora" />`
-| ![](./social-media/020-plaxo.svg) | social-media | plaxo | `<Icon group="social-media" name="plaxo" />`
-| ![](./social-media/021-pinterest.svg) | social-media | pinterest | `<Icon group="social-media" name="pinterest" />`
-| ![](./social-media/022-periscope.svg) | social-media | periscope | `<Icon group="social-media" name="periscope" />`
-| ![](./social-media/023-paypal.svg) | social-media | paypal | `<Icon group="social-media" name="paypal" />`
-| ![](./social-media/024-path.svg) | social-media | path | `<Icon group="social-media" name="path" />`
-| ![](./social-media/025-myspace.svg) | social-media | myspace | `<Icon group="social-media" name="myspace" />`
-| ![](./social-media/026-medium.svg) | social-media | medium | `<Icon group="social-media" name="medium" />`
-| ![](./social-media/027-linkedin.svg) | social-media | linkedin | `<Icon group="social-media" name="linkedin" />`
-| ![](./social-media/028-kickstarter.svg) | social-media | kickstarter | `<Icon group="social-media" name="kickstarter" />`
-| ![](./social-media/029-instagram.svg) | social-media | instagram | `<Icon group="social-media" name="instagram" />`
-| ![](./social-media/030-html-5.svg) | social-media | html-5 | `<Icon group="social-media" name="html-5" />`
-| ![](./social-media/031-howcast.svg) | social-media | howcast | `<Icon group="social-media" name="howcast" />`
-| ![](./social-media/032-hi5.svg) | social-media | hi5 | `<Icon group="social-media" name="hi5" />`
-| ![](./social-media/033-google-plus.svg) | social-media | google-plus | `<Icon group="social-media" name="google-plus" />`
-| ![](./social-media/034-foursquare.svg) | social-media | foursquare | `<Icon group="social-media" name="foursquare" />`
-| ![](./social-media/035-flickr.svg) | social-media | flickr | `<Icon group="social-media" name="flickr" />`
-| ![](./social-media/036-facebook.svg) | social-media | facebook | `<Icon group="social-media" name="facebook" />`
-| ![](./social-media/037-etsy.svg) | social-media | etsy | `<Icon group="social-media" name="etsy" />`
-| ![](./social-media/038-envato.svg) | social-media | envato | `<Icon group="social-media" name="envato" />`
-| ![](./social-media/039-dropbox.svg) | social-media | dropbox | `<Icon group="social-media" name="dropbox" />`
-| ![](./social-media/040-dribbble.svg) | social-media | dribbble | `<Icon group="social-media" name="dribbble" />`
-| ![](./social-media/041-deviantart.svg) | social-media | deviantart | `<Icon group="social-media" name="deviantart" />`
-| ![](./social-media/042-delicious.svg) | social-media | delicious | `<Icon group="social-media" name="delicious" />`
-| ![](./social-media/043-creative-market.svg) | social-media | creative-market | `<Icon group="social-media" name="creative-market" />`
-| ![](./social-media/044-buffer.svg) | social-media | buffer | `<Icon group="social-media" name="buffer" />`
-| ![](./social-media/045-box.svg) | social-media | box | `<Icon group="social-media" name="box" />`
-| ![](./social-media/046-bing.svg) | social-media | bing | `<Icon group="social-media" name="bing" />`
-| ![](./social-media/047-behance.svg) | social-media | behance | `<Icon group="social-media" name="behance" />`
-| ![](./social-media/048-android.svg) | social-media | android | `<Icon group="social-media" name="android" />`
-| ![](./social-media/049-amazon.svg) | social-media | amazon | `<Icon group="social-media" name="amazon" />`
+| <img src="./social-media/001-youtube.svg" alt="youtube" width="30" height="30"/> | social-media | youtube | `<Icon group="social-media" name="youtube" />`
+| <img src="./social-media/002-yelp.svg" alt="yelp" width="30" height="30"/> | social-media | yelp | `<Icon group="social-media" name="yelp" />`
+| <img src="./social-media/003-wordpress.svg" alt="wordpress" width="30" height="30"/> | social-media | wordpress | `<Icon group="social-media" name="wordpress" />`
+| <img src="./social-media/004-wikipedia.svg" alt="wikipedia" width="30" height="30"/> | social-media | wikipedia | `<Icon group="social-media" name="wikipedia" />`
+| <img src="./social-media/005-whatsapp.svg" alt="whatsapp" width="30" height="30"/> | social-media | whatsapp | `<Icon group="social-media" name="whatsapp" />`
+| <img src="./social-media/006-vine.svg" alt="vine" width="30" height="30"/> | social-media | vine | `<Icon group="social-media" name="vine" />`
+| <img src="./social-media/007-vimeo.svg" alt="vimeo" width="30" height="30"/> | social-media | vimeo | `<Icon group="social-media" name="vimeo" />`
+| <img src="./social-media/008-twitter.svg" alt="twitter" width="30" height="30"/> | social-media | twitter | `<Icon group="social-media" name="twitter" />`
+| <img src="./social-media/009-tumblr.svg" alt="tumblr" width="30" height="30"/> | social-media | tumblr | `<Icon group="social-media" name="tumblr" />`
+| <img src="./social-media/010-trello.svg" alt="trello" width="30" height="30"/> | social-media | trello | `<Icon group="social-media" name="trello" />`
+| <img src="./social-media/011-stumbleupon.svg" alt="stumbleupon" width="30" height="30"/> | social-media | stumbleupon | `<Icon group="social-media" name="stumbleupon" />`
+| <img src="./social-media/012-spotify.svg" alt="spotify" width="30" height="30"/> | social-media | spotify | `<Icon group="social-media" name="spotify" />`
+| <img src="./social-media/013-soundcloud.svg" alt="soundcloud" width="30" height="30"/> | social-media | soundcloud | `<Icon group="social-media" name="soundcloud" />`
+| <img src="./social-media/014-snapchat.svg" alt="snapchat" width="30" height="30"/> | social-media | snapchat | `<Icon group="social-media" name="snapchat" />`
+| <img src="./social-media/015-skype.svg" alt="skype" width="30" height="30"/> | social-media | skype | `<Icon group="social-media" name="skype" />`
+| <img src="./social-media/016-shutterstock.svg" alt="shutterstock" width="30" height="30"/> | social-media | shutterstock | `<Icon group="social-media" name="shutterstock" />`
+| <img src="./social-media/017-scribd.svg" alt="scribd" width="30" height="30"/> | social-media | scribd | `<Icon group="social-media" name="scribd" />`
+| <img src="./social-media/018-reddit.svg" alt="reddit" width="30" height="30"/> | social-media | reddit | `<Icon group="social-media" name="reddit" />`
+| <img src="./social-media/019-quora.svg" alt="quora" width="30" height="30"/> | social-media | quora | `<Icon group="social-media" name="quora" />`
+| <img src="./social-media/020-plaxo.svg" alt="plaxo" width="30" height="30"/> | social-media | plaxo | `<Icon group="social-media" name="plaxo" />`
+| <img src="./social-media/021-pinterest.svg" alt="pinterest" width="30" height="30"/> | social-media | pinterest | `<Icon group="social-media" name="pinterest" />`
+| <img src="./social-media/022-periscope.svg" alt="periscope" width="30" height="30"/> | social-media | periscope | `<Icon group="social-media" name="periscope" />`
+| <img src="./social-media/023-paypal.svg" alt="paypal" width="30" height="30"/> | social-media | paypal | `<Icon group="social-media" name="paypal" />`
+| <img src="./social-media/024-path.svg" alt="path" width="30" height="30"/> | social-media | path | `<Icon group="social-media" name="path" />`
+| <img src="./social-media/025-myspace.svg" alt="myspace" width="30" height="30"/> | social-media | myspace | `<Icon group="social-media" name="myspace" />`
+| <img src="./social-media/026-medium.svg" alt="medium" width="30" height="30"/> | social-media | medium | `<Icon group="social-media" name="medium" />`
+| <img src="./social-media/027-linkedin.svg" alt="linkedin" width="30" height="30"/> | social-media | linkedin | `<Icon group="social-media" name="linkedin" />`
+| <img src="./social-media/028-kickstarter.svg" alt="kickstarter" width="30" height="30"/> | social-media | kickstarter | `<Icon group="social-media" name="kickstarter" />`
+| <img src="./social-media/029-instagram.svg" alt="instagram" width="30" height="30"/> | social-media | instagram | `<Icon group="social-media" name="instagram" />`
+| <img src="./social-media/030-html-5.svg" alt="html-5" width="30" height="30"/> | social-media | html-5 | `<Icon group="social-media" name="html-5" />`
+| <img src="./social-media/031-howcast.svg" alt="howcast" width="30" height="30"/> | social-media | howcast | `<Icon group="social-media" name="howcast" />`
+| <img src="./social-media/032-hi5.svg" alt="hi5" width="30" height="30"/> | social-media | hi5 | `<Icon group="social-media" name="hi5" />`
+| <img src="./social-media/033-google-plus.svg" alt="google-plus" width="30" height="30"/> | social-media | google-plus | `<Icon group="social-media" name="google-plus" />`
+| <img src="./social-media/034-foursquare.svg" alt="foursquare" width="30" height="30"/> | social-media | foursquare | `<Icon group="social-media" name="foursquare" />`
+| <img src="./social-media/035-flickr.svg" alt="flickr" width="30" height="30"/> | social-media | flickr | `<Icon group="social-media" name="flickr" />`
+| <img src="./social-media/036-facebook.svg" alt="facebook" width="30" height="30"/> | social-media | facebook | `<Icon group="social-media" name="facebook" />`
+| <img src="./social-media/037-etsy.svg" alt="etsy" width="30" height="30"/> | social-media | etsy | `<Icon group="social-media" name="etsy" />`
+| <img src="./social-media/038-envato.svg" alt="envato" width="30" height="30"/> | social-media | envato | `<Icon group="social-media" name="envato" />`
+| <img src="./social-media/039-dropbox.svg" alt="dropbox" width="30" height="30"/> | social-media | dropbox | `<Icon group="social-media" name="dropbox" />`
+| <img src="./social-media/040-dribbble.svg" alt="dribbble" width="30" height="30"/> | social-media | dribbble | `<Icon group="social-media" name="dribbble" />`
+| <img src="./social-media/041-deviantart.svg" alt="deviantart" width="30" height="30"/> | social-media | deviantart | `<Icon group="social-media" name="deviantart" />`
+| <img src="./social-media/042-delicious.svg" alt="delicious" width="30" height="30"/> | social-media | delicious | `<Icon group="social-media" name="delicious" />`
+| <img src="./social-media/043-creative-market.svg" alt="creative-market" width="30" height="30"/> | social-media | creative-market | `<Icon group="social-media" name="creative-market" />`
+| <img src="./social-media/044-buffer.svg" alt="buffer" width="30" height="30"/> | social-media | buffer | `<Icon group="social-media" name="buffer" />`
+| <img src="./social-media/045-box.svg" alt="box" width="30" height="30"/> | social-media | box | `<Icon group="social-media" name="box" />`
+| <img src="./social-media/046-bing.svg" alt="bing" width="30" height="30"/> | social-media | bing | `<Icon group="social-media" name="bing" />`
+| <img src="./social-media/047-behance.svg" alt="behance" width="30" height="30"/> | social-media | behance | `<Icon group="social-media" name="behance" />`
+| <img src="./social-media/048-android.svg" alt="android" width="30" height="30"/> | social-media | android | `<Icon group="social-media" name="android" />`
+| <img src="./social-media/049-amazon.svg" alt="amazon" width="30" height="30"/> | social-media | amazon | `<Icon group="social-media" name="amazon" />`
