@@ -1,347 +1,347 @@
 ## universalicons
 
-image | group | name | usage
---|--|--
-![](./universalicons/angry-face-of-square-shape-and-straight-lines.svg) | universalicons | angry-face-of-square-shape-and-straight-lines | `<Icon group="universalicons" name="angry-face-of-square-shape-and-straight-lines" />`
-![](./universalicons/angry-face-of-square-shape-outline.svg) | universalicons | angry-face-of-square-shape-outline | `<Icon group="universalicons" name="angry-face-of-square-shape-outline" />`
-![](./universalicons/angry-face.svg) | universalicons | angry-face | `<Icon group="universalicons" name="angry-face" />`
-![](./universalicons/arrow-pointing-to-left.svg) | universalicons | arrow-pointing-to-left | `<Icon group="universalicons" name="arrow-pointing-to-left" />`
-![](./universalicons/arrow-turning-to-right.svg) | universalicons | arrow-turning-to-right | `<Icon group="universalicons" name="arrow-turning-to-right" />`
-![](./universalicons/arrows-circle.svg) | universalicons | arrows-circle | `<Icon group="universalicons" name="arrows-circle" />`
-![](./universalicons/audio-headset-tool.svg) | universalicons | audio-headset-tool | `<Icon group="universalicons" name="audio-headset-tool" />`
-![](./universalicons/bad-face.svg) | universalicons | bad-face | `<Icon group="universalicons" name="bad-face" />`
-![](./universalicons/bars-graphic-1.svg) | universalicons | bars-graphic-1 | `<Icon group="universalicons" name="bars-graphic-1" />`
-![](./universalicons/bars-graphic.svg) | universalicons | bars-graphic | `<Icon group="universalicons" name="bars-graphic" />`
-![](./universalicons/bars-symbol.svg) | universalicons | bars-symbol | `<Icon group="universalicons" name="bars-symbol" />`
-![](./universalicons/basket-black-shape.svg) | universalicons | basket-black-shape | `<Icon group="universalicons" name="basket-black-shape" />`
-![](./universalicons/battery-almost-full.svg) | universalicons | battery-almost-full | `<Icon group="universalicons" name="battery-almost-full" />`
-![](./universalicons/battery-status-sign-with-less-than-half-energy-charge.svg) | universalicons | battery-status-sign-with-less-than-half-energy-charge | `<Icon group="universalicons" name="battery-status-sign-with-less-than-half-energy-charge" />`
-![](./universalicons/birds-home.svg) | universalicons | birds-home | `<Icon group="universalicons" name="birds-home" />`
-![](./universalicons/bishop-chess-piece.svg) | universalicons | bishop-chess-piece | `<Icon group="universalicons" name="bishop-chess-piece" />`
-![](./universalicons/black-folder-shape-for-interface.svg) | universalicons | black-folder-shape-for-interface | `<Icon group="universalicons" name="black-folder-shape-for-interface" />`
-![](./universalicons/black-golf-ball.svg) | universalicons | black-golf-ball | `<Icon group="universalicons" name="black-golf-ball" />`
-![](./universalicons/black-hand-pointing-to-right.svg) | universalicons | black-hand-pointing-to-right | `<Icon group="universalicons" name="black-hand-pointing-to-right" />`
-![](./universalicons/black-hand-pointing-up.svg) | universalicons | black-hand-pointing-up | `<Icon group="universalicons" name="black-hand-pointing-up" />`
-![](./universalicons/black-heart-love-symbol.svg) | universalicons | black-heart-love-symbol | `<Icon group="universalicons" name="black-heart-love-symbol" />`
-![](./universalicons/black-label-in-horizontal-position.svg) | universalicons | black-label-in-horizontal-position | `<Icon group="universalicons" name="black-label-in-horizontal-position" />`
-![](./universalicons/black-male-user-symbol.svg) | universalicons | black-male-user-symbol | `<Icon group="universalicons" name="black-male-user-symbol" />`
-![](./universalicons/black-open-envelope-back.svg) | universalicons | black-open-envelope-back | `<Icon group="universalicons" name="black-open-envelope-back" />`
-![](./universalicons/black-placeholder-variant.svg) | universalicons | black-placeholder-variant | `<Icon group="universalicons" name="black-placeholder-variant" />`
-![](./universalicons/black-suitcase.svg) | universalicons | black-suitcase | `<Icon group="universalicons" name="black-suitcase" />`
-![](./universalicons/black-triangular-arrowhead-pointing-to-left-direction.svg) | universalicons | black-triangular-arrowhead-pointing-to-left-direction | `<Icon group="universalicons" name="black-triangular-arrowhead-pointing-to-left-direction" />`
-![](./universalicons/blind-face.svg) | universalicons | blind-face | `<Icon group="universalicons" name="blind-face" />`
-![](./universalicons/blind-square-face.svg) | universalicons | blind-square-face | `<Icon group="universalicons" name="blind-square-face" />`
-![](./universalicons/boring-face.svg) | universalicons | boring-face | `<Icon group="universalicons" name="boring-face" />`
-![](./universalicons/brush-tool.svg) | universalicons | brush-tool | `<Icon group="universalicons" name="brush-tool" />`
-![](./universalicons/bubbles-interface-symbol-for-talk.svg) | universalicons | bubbles-interface-symbol-for-talk | `<Icon group="universalicons" name="bubbles-interface-symbol-for-talk" />`
-![](./universalicons/buildings.svg) | universalicons | buildings | `<Icon group="universalicons" name="buildings" />`
-![](./universalicons/calculator.svg) | universalicons | calculator | `<Icon group="universalicons" name="calculator" />`
-![](./universalicons/calendar-page-symbol-on-day-15.svg) | universalicons | calendar-page-symbol-on-day-15 | `<Icon group="universalicons" name="calendar-page-symbol-on-day-15" />`
-![](./universalicons/calling-out-symbol-of-auricular-with-arrow.svg) | universalicons | calling-out-symbol-of-auricular-with-arrow | `<Icon group="universalicons" name="calling-out-symbol-of-auricular-with-arrow" />`
-![](./universalicons/camera-to-take-photos.svg) | universalicons | camera-to-take-photos | `<Icon group="universalicons" name="camera-to-take-photos" />`
-![](./universalicons/centered-paragraph-text-lines-symbol-for-interface.svg) | universalicons | centered-paragraph-text-lines-symbol-for-interface | `<Icon group="universalicons" name="centered-paragraph-text-lines-symbol-for-interface" />`
-![](./universalicons/check-document-interface-square-symbol.svg) | universalicons | check-document-interface-square-symbol | `<Icon group="universalicons" name="check-document-interface-square-symbol" />`
-![](./universalicons/check-mark-in-a-circle.svg) | universalicons | check-mark-in-a-circle | `<Icon group="universalicons" name="check-mark-in-a-circle" />`
-![](./universalicons/check-sign.svg) | universalicons | check-sign | `<Icon group="universalicons" name="check-sign" />`
-![](./universalicons/checked-page-symbol.svg) | universalicons | checked-page-symbol | `<Icon group="universalicons" name="checked-page-symbol" />`
-![](./universalicons/circle-of-arrows-couple.svg) | universalicons | circle-of-arrows-couple | `<Icon group="universalicons" name="circle-of-arrows-couple" />`
-![](./universalicons/circular-clock-symbol-for-interface.svg) | universalicons | circular-clock-symbol-for-interface | `<Icon group="universalicons" name="circular-clock-symbol-for-interface" />`
-![](./universalicons/clock-circular-tool-shape.svg) | universalicons | clock-circular-tool-shape | `<Icon group="universalicons" name="clock-circular-tool-shape" />`
-![](./universalicons/close-hanging-signal-for-commerce.svg) | universalicons | close-hanging-signal-for-commerce | `<Icon group="universalicons" name="close-hanging-signal-for-commerce" />`
-![](./universalicons/cloud-black-shape-with-a-cross.svg) | universalicons | cloud-black-shape-with-a-cross | `<Icon group="universalicons" name="cloud-black-shape-with-a-cross" />`
-![](./universalicons/cloud-black-shape-with-three-dots-inside.svg) | universalicons | cloud-black-shape-with-three-dots-inside | `<Icon group="universalicons" name="cloud-black-shape-with-three-dots-inside" />`
-![](./universalicons/cloud-lock.svg) | universalicons | cloud-lock | `<Icon group="universalicons" name="cloud-lock" />`
-![](./universalicons/cloud-with-check-sign.svg) | universalicons | cloud-with-check-sign | `<Icon group="universalicons" name="cloud-with-check-sign" />`
-![](./universalicons/cloud-with-minus-sign.svg) | universalicons | cloud-with-minus-sign | `<Icon group="universalicons" name="cloud-with-minus-sign" />`
-![](./universalicons/clover-black-shape.svg) | universalicons | clover-black-shape | `<Icon group="universalicons" name="clover-black-shape" />`
-![](./universalicons/cogs-on-wheels-interface-symbol-for-settings-edition-button.svg) | universalicons | cogs-on-wheels-interface-symbol-for-settings-edition-button | `<Icon group="universalicons" name="cogs-on-wheels-interface-symbol-for-settings-edition-button" />`
-![](./universalicons/cogwheel.svg) | universalicons | cogwheel | `<Icon group="universalicons" name="cogwheel" />`
-![](./universalicons/coins-stack.svg) | universalicons | coins-stack | `<Icon group="universalicons" name="coins-stack" />`
-![](./universalicons/color-palette-for-painter.svg) | universalicons | color-palette-for-painter | `<Icon group="universalicons" name="color-palette-for-painter" />`
-![](./universalicons/creative-lightbulb-symbol-black-shape.svg) | universalicons | creative-lightbulb-symbol-black-shape | `<Icon group="universalicons" name="creative-lightbulb-symbol-black-shape" />`
-![](./universalicons/credit-card-tool.svg) | universalicons | credit-card-tool | `<Icon group="universalicons" name="credit-card-tool" />`
-![](./universalicons/cross-delete-or-close-circular-button-interface-symbol.svg) | universalicons | cross-delete-or-close-circular-button-interface-symbol | `<Icon group="universalicons" name="cross-delete-or-close-circular-button-interface-symbol" />`
-![](./universalicons/cross-gross-symbol.svg) | universalicons | cross-gross-symbol | `<Icon group="universalicons" name="cross-gross-symbol" />`
-![](./universalicons/cross-in-a-circle.svg) | universalicons | cross-in-a-circle | `<Icon group="universalicons" name="cross-in-a-circle" />`
-![](./universalicons/dark-cloud-shape.svg) | universalicons | dark-cloud-shape | `<Icon group="universalicons" name="dark-cloud-shape" />`
-![](./universalicons/diamond-symbol.svg) | universalicons | diamond-symbol | `<Icon group="universalicons" name="diamond-symbol" />`
-![](./universalicons/dice-with-five-dots.svg) | universalicons | dice-with-five-dots | `<Icon group="universalicons" name="dice-with-five-dots" />`
-![](./universalicons/disc-outline-of-gross-line.svg) | universalicons | disc-outline-of-gross-line | `<Icon group="universalicons" name="disc-outline-of-gross-line" />`
-![](./universalicons/discs.svg) | universalicons | discs | `<Icon group="universalicons" name="discs" />`
-![](./universalicons/doctor-suitcase-with-a-cross.svg) | universalicons | doctor-suitcase-with-a-cross | `<Icon group="universalicons" name="doctor-suitcase-with-a-cross" />`
-![](./universalicons/document-lock-interface-security-symbol.svg) | universalicons | document-lock-interface-security-symbol | `<Icon group="universalicons" name="document-lock-interface-security-symbol" />`
-![](./universalicons/document-lock-symbol.svg) | universalicons | document-lock-symbol | `<Icon group="universalicons" name="document-lock-symbol" />`
-![](./universalicons/document-rounded-square-interface-symbol-with-text-lines.svg) | universalicons | document-rounded-square-interface-symbol-with-text-lines | `<Icon group="universalicons" name="document-rounded-square-interface-symbol-with-text-lines" />`
-![](./universalicons/document-with-minus-sign.svg) | universalicons | document-with-minus-sign | `<Icon group="universalicons" name="document-with-minus-sign" />`
-![](./universalicons/documents-check-interface-symbol-of-text-lines-in-rounded-square.svg) | universalicons | documents-check-interface-symbol-of-text-lines-in-rounded-square | `<Icon group="universalicons" name="documents-check-interface-symbol-of-text-lines-in-rounded-square" />`
-![](./universalicons/documents-plus-symbol-for-interface-with-rounded-square-shape.svg) | universalicons | documents-plus-symbol-for-interface-with-rounded-square-shape | `<Icon group="universalicons" name="documents-plus-symbol-for-interface-with-rounded-square-shape" />`
-![](./universalicons/documents-rounded-square-symbol.svg) | universalicons | documents-rounded-square-symbol | `<Icon group="universalicons" name="documents-rounded-square-symbol" />`
-![](./universalicons/dollar-coin-symbol.svg) | universalicons | dollar-coin-symbol | `<Icon group="universalicons" name="dollar-coin-symbol" />`
-![](./universalicons/dollar-coin.svg) | universalicons | dollar-coin | `<Icon group="universalicons" name="dollar-coin" />`
-![](./universalicons/dollar-sign.svg) | universalicons | dollar-sign | `<Icon group="universalicons" name="dollar-sign" />`
-![](./universalicons/down-arrow-1.svg) | universalicons | down-arrow-1 | `<Icon group="universalicons" name="down-arrow-1" />`
-![](./universalicons/down-arrow-in-a-circle.svg) | universalicons | down-arrow-in-a-circle | `<Icon group="universalicons" name="down-arrow-in-a-circle" />`
-![](./universalicons/down-arrow.svg) | universalicons | down-arrow | `<Icon group="universalicons" name="down-arrow" />`
-![](./universalicons/down-arrowhead-in-a-circle.svg) | universalicons | down-arrowhead-in-a-circle | `<Icon group="universalicons" name="down-arrowhead-in-a-circle" />`
-![](./universalicons/down-arrows.svg) | universalicons | down-arrows | `<Icon group="universalicons" name="down-arrows" />`
-![](./universalicons/down-double-arrow.svg) | universalicons | down-double-arrow | `<Icon group="universalicons" name="down-double-arrow" />`
-![](./universalicons/download-symbol.svg) | universalicons | download-symbol | `<Icon group="universalicons" name="download-symbol" />`
-![](./universalicons/emoticon-in-love-of-square-face-shape.svg) | universalicons | emoticon-in-love-of-square-face-shape | `<Icon group="universalicons" name="emoticon-in-love-of-square-face-shape" />`
-![](./universalicons/empty-battery-interface-status-symbol.svg) | universalicons | empty-battery-interface-status-symbol | `<Icon group="universalicons" name="empty-battery-interface-status-symbol" />`
-![](./universalicons/empty-glass-outline.svg) | universalicons | empty-glass-outline | `<Icon group="universalicons" name="empty-glass-outline" />`
-![](./universalicons/equalizer.svg) | universalicons | equalizer | `<Icon group="universalicons" name="equalizer" />`
-![](./universalicons/euro-coin.svg) | universalicons | euro-coin | `<Icon group="universalicons" name="euro-coin" />`
-![](./universalicons/euro-sign-in-a-circle.svg) | universalicons | euro-sign-in-a-circle | `<Icon group="universalicons" name="euro-sign-in-a-circle" />`
-![](./universalicons/euro.svg) | universalicons | euro | `<Icon group="universalicons" name="euro" />`
-![](./universalicons/exclamation-sign-warning-interface-symbol.svg) | universalicons | exclamation-sign-warning-interface-symbol | `<Icon group="universalicons" name="exclamation-sign-warning-interface-symbol" />`
-![](./universalicons/eye-shape-variant-interface-view-symbol.svg) | universalicons | eye-shape-variant-interface-view-symbol | `<Icon group="universalicons" name="eye-shape-variant-interface-view-symbol" />`
-![](./universalicons/eyedropper-black-tool-silhouette.svg) | universalicons | eyedropper-black-tool-silhouette | `<Icon group="universalicons" name="eyedropper-black-tool-silhouette" />`
-![](./universalicons/eyeglass-of-rectangular-shape.svg) | universalicons | eyeglass-of-rectangular-shape | `<Icon group="universalicons" name="eyeglass-of-rectangular-shape" />`
-![](./universalicons/eyeglasses-of-circular-shape.svg) | universalicons | eyeglasses-of-circular-shape | `<Icon group="universalicons" name="eyeglasses-of-circular-shape" />`
-![](./universalicons/face-of-silence-with-a-cross-as-mouth.svg) | universalicons | face-of-silence-with-a-cross-as-mouth | `<Icon group="universalicons" name="face-of-silence-with-a-cross-as-mouth" />`
-![](./universalicons/facebook-logo-in-circular-shape.svg) | universalicons | facebook-logo-in-circular-shape | `<Icon group="universalicons" name="facebook-logo-in-circular-shape" />`
-![](./universalicons/facebook-logo.svg) | universalicons | facebook-logo | `<Icon group="universalicons" name="facebook-logo" />`
-![](./universalicons/female-symbol.svg) | universalicons | female-symbol | `<Icon group="universalicons" name="female-symbol" />`
-![](./universalicons/floating-tool-to-save-lives.svg) | universalicons | floating-tool-to-save-lives | `<Icon group="universalicons" name="floating-tool-to-save-lives" />`
-![](./universalicons/folder-check-symbol.svg) | universalicons | folder-check-symbol | `<Icon group="universalicons" name="folder-check-symbol" />`
-![](./universalicons/folder-with-minus-sign-interface-symbol.svg) | universalicons | folder-with-minus-sign-interface-symbol | `<Icon group="universalicons" name="folder-with-minus-sign-interface-symbol" />`
-![](./universalicons/folder-with-plus-sign-for-interface-button-to-add.svg) | universalicons | folder-with-plus-sign-for-interface-button-to-add | `<Icon group="universalicons" name="folder-with-plus-sign-for-interface-button-to-add" />`
-![](./universalicons/four-arrows-interface-symbol-to-maximize-size.svg) | universalicons | four-arrows-interface-symbol-to-maximize-size | `<Icon group="universalicons" name="four-arrows-interface-symbol-to-maximize-size" />`
-![](./universalicons/four-arrows-pointing-center-interface-symbol-to-minimize.svg) | universalicons | four-arrows-pointing-center-interface-symbol-to-minimize | `<Icon group="universalicons" name="four-arrows-pointing-center-interface-symbol-to-minimize" />`
-![](./universalicons/free-tag-for-commerce.svg) | universalicons | free-tag-for-commerce | `<Icon group="universalicons" name="free-tag-for-commerce" />`
-![](./universalicons/frown-face.svg) | universalicons | frown-face | `<Icon group="universalicons" name="frown-face" />`
-![](./universalicons/glass-full-of-liquid.svg) | universalicons | glass-full-of-liquid | `<Icon group="universalicons" name="glass-full-of-liquid" />`
-![](./universalicons/glass.svg) | universalicons | glass | `<Icon group="universalicons" name="glass" />`
-![](./universalicons/global-interface-symbol-of-earth-grid.svg) | universalicons | global-interface-symbol-of-earth-grid | `<Icon group="universalicons" name="global-interface-symbol-of-earth-grid" />`
-![](./universalicons/graphic-page-symbol.svg) | universalicons | graphic-page-symbol | `<Icon group="universalicons" name="graphic-page-symbol" />`
-![](./universalicons/graphic-page.svg) | universalicons | graphic-page | `<Icon group="universalicons" name="graphic-page" />`
-![](./universalicons/hand-pointing-down.svg) | universalicons | hand-pointing-down | `<Icon group="universalicons" name="hand-pointing-down" />`
-![](./universalicons/hand-pointing-to-left-direction.svg) | universalicons | hand-pointing-to-left-direction | `<Icon group="universalicons" name="hand-pointing-to-left-direction" />`
-![](./universalicons/hand-watch.svg) | universalicons | hand-watch | `<Icon group="universalicons" name="hand-watch" />`
-![](./universalicons/happy-face.svg) | universalicons | happy-face | `<Icon group="universalicons" name="happy-face" />`
-![](./universalicons/hd.svg) | universalicons | hd | `<Icon group="universalicons" name="hd" />`
-![](./universalicons/heart-black-shape-symbol.svg) | universalicons | heart-black-shape-symbol | `<Icon group="universalicons" name="heart-black-shape-symbol" />`
-![](./universalicons/hearts.svg) | universalicons | hearts | `<Icon group="universalicons" name="hearts" />`
-![](./universalicons/hierarchical-network.svg) | universalicons | hierarchical-network | `<Icon group="universalicons" name="hierarchical-network" />`
-![](./universalicons/home-black-shape.svg) | universalicons | home-black-shape | `<Icon group="universalicons" name="home-black-shape" />`
-![](./universalicons/home-black-silhouette.svg) | universalicons | home-black-silhouette | `<Icon group="universalicons" name="home-black-silhouette" />`
-![](./universalicons/home-building-symbol-variant.svg) | universalicons | home-building-symbol-variant | `<Icon group="universalicons" name="home-building-symbol-variant" />`
-![](./universalicons/home-interface-symbol-with-a-window-of-squares.svg) | universalicons | home-interface-symbol-with-a-window-of-squares | `<Icon group="universalicons" name="home-interface-symbol-with-a-window-of-squares" />`
-![](./universalicons/home-sign.svg) | universalicons | home-sign | `<Icon group="universalicons" name="home-sign" />`
-![](./universalicons/home.svg) | universalicons | home | `<Icon group="universalicons" name="home" />`
-![](./universalicons/horse-black-chess-piece-shape-from-side-view.svg) | universalicons | horse-black-chess-piece-shape-from-side-view | `<Icon group="universalicons" name="horse-black-chess-piece-shape-from-side-view" />`
-![](./universalicons/hot-drink-mug.svg) | universalicons | hot-drink-mug | `<Icon group="universalicons" name="hot-drink-mug" />`
-![](./universalicons/house-black-shape-for-home-interface-symbol.svg) | universalicons | house-black-shape-for-home-interface-symbol | `<Icon group="universalicons" name="house-black-shape-for-home-interface-symbol" />`
-![](./universalicons/house.svg) | universalicons | house | `<Icon group="universalicons" name="house" />`
-![](./universalicons/id-card-interface-symbol.svg) | universalicons | id-card-interface-symbol | `<Icon group="universalicons" name="id-card-interface-symbol" />`
-![](./universalicons/image-interface-symbol-with-a-landscape.svg) | universalicons | image-interface-symbol-with-a-landscape | `<Icon group="universalicons" name="image-interface-symbol-with-a-landscape" />`
-![](./universalicons/images-interface-symbol.svg) | universalicons | images-interface-symbol | `<Icon group="universalicons" name="images-interface-symbol" />`
-![](./universalicons/incoming-call-interface-symbol-with-telephone-auricular-and-left-arrow-pointing-to-it.svg) | universalicons | incoming-call-interface-symbol-with-telephone-auricular-and-left-arrow-pointing-to-it | `<Icon group="universalicons" name="incoming-call-interface-symbol-with-telephone-auricular-and-left-arrow-pointing-to-it" />`
-![](./universalicons/increase-volume-speaker-interface-symbol.svg) | universalicons | increase-volume-speaker-interface-symbol | `<Icon group="universalicons" name="increase-volume-speaker-interface-symbol" />`
-![](./universalicons/info-circular-interface-symbol.svg) | universalicons | info-circular-interface-symbol | `<Icon group="universalicons" name="info-circular-interface-symbol" />`
-![](./universalicons/information-interface-letter-symbol.svg) | universalicons | information-interface-letter-symbol | `<Icon group="universalicons" name="information-interface-letter-symbol" />`
-![](./universalicons/iphone.svg) | universalicons | iphone | `<Icon group="universalicons" name="iphone" />`
-![](./universalicons/joystick-games-control-tool.svg) | universalicons | joystick-games-control-tool | `<Icon group="universalicons" name="joystick-games-control-tool" />`
-![](./universalicons/jpg-picture-square-symbol-for-interface.svg) | universalicons | jpg-picture-square-symbol-for-interface | `<Icon group="universalicons" name="jpg-picture-square-symbol-for-interface" />`
-![](./universalicons/key-in-vertical-position-for-interface-security-symbol.svg) | universalicons | key-in-vertical-position-for-interface-security-symbol | `<Icon group="universalicons" name="key-in-vertical-position-for-interface-security-symbol" />`
-![](./universalicons/king-chess-piece-shape.svg) | universalicons | king-chess-piece-shape | `<Icon group="universalicons" name="king-chess-piece-shape" />`
-![](./universalicons/label-black-shape-rotated-to-left.svg) | universalicons | label-black-shape-rotated-to-left | `<Icon group="universalicons" name="label-black-shape-rotated-to-left" />`
-![](./universalicons/label.svg) | universalicons | label | `<Icon group="universalicons" name="label" />`
-![](./universalicons/laptop.svg) | universalicons | laptop | `<Icon group="universalicons" name="laptop" />`
-![](./universalicons/left-arrow-symbol-in-a-circle.svg) | universalicons | left-arrow-symbol-in-a-circle | `<Icon group="universalicons" name="left-arrow-symbol-in-a-circle" />`
-![](./universalicons/left-arrowhead-in-a-circle.svg) | universalicons | left-arrowhead-in-a-circle | `<Icon group="universalicons" name="left-arrowhead-in-a-circle" />`
-![](./universalicons/left-arrowhead.svg) | universalicons | left-arrowhead | `<Icon group="universalicons" name="left-arrowhead" />`
-![](./universalicons/left-arrowheads-couple.svg) | universalicons | left-arrowheads-couple | `<Icon group="universalicons" name="left-arrowheads-couple" />`
-![](./universalicons/left-arrowheads-triangles.svg) | universalicons | left-arrowheads-triangles | `<Icon group="universalicons" name="left-arrowheads-triangles" />`
-![](./universalicons/left-arrows.svg) | universalicons | left-arrows | `<Icon group="universalicons" name="left-arrows" />`
-![](./universalicons/letter-type-interface-symbol.svg) | universalicons | letter-type-interface-symbol | `<Icon group="universalicons" name="letter-type-interface-symbol" />`
-![](./universalicons/lifeline-signal.svg) | universalicons | lifeline-signal | `<Icon group="universalicons" name="lifeline-signal" />`
-![](./universalicons/link-interface-symbol.svg) | universalicons | link-interface-symbol | `<Icon group="universalicons" name="link-interface-symbol" />`
-![](./universalicons/list-interface-symbol.svg) | universalicons | list-interface-symbol | `<Icon group="universalicons" name="list-interface-symbol" />`
-![](./universalicons/lock-a-folder-interface-symbol.svg) | universalicons | lock-a-folder-interface-symbol | `<Icon group="universalicons" name="lock-a-folder-interface-symbol" />`
-![](./universalicons/lock-page-interface-symbol.svg) | universalicons | lock-page-interface-symbol | `<Icon group="universalicons" name="lock-page-interface-symbol" />`
-![](./universalicons/lock-rectangular-padlock-shape.svg) | universalicons | lock-rectangular-padlock-shape | `<Icon group="universalicons" name="lock-rectangular-padlock-shape" />`
-![](./universalicons/locked-open-folder-interface-symbol.svg) | universalicons | locked-open-folder-interface-symbol | `<Icon group="universalicons" name="locked-open-folder-interface-symbol" />`
-![](./universalicons/magnifying-glass-on-bars-graphic.svg) | universalicons | magnifying-glass-on-bars-graphic | `<Icon group="universalicons" name="magnifying-glass-on-bars-graphic" />`
-![](./universalicons/magnifying-glass-with-minus-sign.svg) | universalicons | magnifying-glass-with-minus-sign | `<Icon group="universalicons" name="magnifying-glass-with-minus-sign" />`
-![](./universalicons/magnifying-glass.svg) | universalicons | magnifying-glass | `<Icon group="universalicons" name="magnifying-glass" />`
-![](./universalicons/male-symbol.svg) | universalicons | male-symbol | `<Icon group="universalicons" name="male-symbol" />`
-![](./universalicons/males-group.svg) | universalicons | males-group | `<Icon group="universalicons" name="males-group" />`
-![](./universalicons/man-shape.svg) | universalicons | man-shape | `<Icon group="universalicons" name="man-shape" />`
-![](./universalicons/map-folded-paper.svg) | universalicons | map-folded-paper | `<Icon group="universalicons" name="map-folded-paper" />`
-![](./universalicons/marketing-viral.svg) | universalicons | marketing-viral | `<Icon group="universalicons" name="marketing-viral" />`
-![](./universalicons/maximal-volume-audio-interface-symbol-of-a-speaker-side-view-with-lines-representing-sound.svg) | universalicons | maximal-volume-audio-interface-symbol-of-a-speaker-side-view-with-lines-representing-sound | `<Icon group="universalicons" name="maximal-volume-audio-interface-symbol-of-a-speaker-side-view-with-lines-representing-sound" />`
-![](./universalicons/minus-pages-sign.svg) | universalicons | minus-pages-sign | `<Icon group="universalicons" name="minus-pages-sign" />`
-![](./universalicons/minus-sign-in-a-circle.svg) | universalicons | minus-sign-in-a-circle | `<Icon group="universalicons" name="minus-sign-in-a-circle" />`
-![](./universalicons/minus-sign-of-horizontal-bar.svg) | universalicons | minus-sign-of-horizontal-bar | `<Icon group="universalicons" name="minus-sign-of-horizontal-bar" />`
-![](./universalicons/money-eyes-on-square-face.svg) | universalicons | money-eyes-on-square-face | `<Icon group="universalicons" name="money-eyes-on-square-face" />`
-![](./universalicons/money-face.svg) | universalicons | money-face | `<Icon group="universalicons" name="money-face" />`
-![](./universalicons/monitor-tool-symbol.svg) | universalicons | monitor-tool-symbol | `<Icon group="universalicons" name="monitor-tool-symbol" />`
-![](./universalicons/monitor-with-stats-graphic.svg) | universalicons | monitor-with-stats-graphic | `<Icon group="universalicons" name="monitor-with-stats-graphic" />`
-![](./universalicons/monthly-calendar.svg) | universalicons | monthly-calendar | `<Icon group="universalicons" name="monthly-calendar" />`
-![](./universalicons/movie-camera-interface-symbol-with-play-triangle.svg) | universalicons | movie-camera-interface-symbol-with-play-triangle | `<Icon group="universalicons" name="movie-camera-interface-symbol-with-play-triangle" />`
-![](./universalicons/movie-camera-silhouette.svg) | universalicons | movie-camera-silhouette | `<Icon group="universalicons" name="movie-camera-silhouette" />`
-![](./universalicons/movie-camera.svg) | universalicons | movie-camera | `<Icon group="universalicons" name="movie-camera" />`
-![](./universalicons/movie-film-reel.svg) | universalicons | movie-film-reel | `<Icon group="universalicons" name="movie-film-reel" />`
-![](./universalicons/movie-interface-symbol.svg) | universalicons | movie-interface-symbol | `<Icon group="universalicons" name="movie-interface-symbol" />`
-![](./universalicons/movie-photogram.svg) | universalicons | movie-photogram | `<Icon group="universalicons" name="movie-photogram" />`
-![](./universalicons/movie-square-sign.svg) | universalicons | movie-square-sign | `<Icon group="universalicons" name="movie-square-sign" />`
-![](./universalicons/music-note.svg) | universalicons | music-note | `<Icon group="universalicons" name="music-note" />`
-![](./universalicons/music-square-symbol.svg) | universalicons | music-square-symbol | `<Icon group="universalicons" name="music-square-symbol" />`
-![](./universalicons/musical-note-symbol-1.svg) | universalicons | musical-note-symbol-1 | `<Icon group="universalicons" name="musical-note-symbol-1" />`
-![](./universalicons/musical-note-symbol.svg) | universalicons | musical-note-symbol | `<Icon group="universalicons" name="musical-note-symbol" />`
-![](./universalicons/musical-note-with-song-name-lines.svg) | universalicons | musical-note-with-song-name-lines | `<Icon group="universalicons" name="musical-note-with-song-name-lines" />`
-![](./universalicons/musical-notes-sign.svg) | universalicons | musical-notes-sign | `<Icon group="universalicons" name="musical-notes-sign" />`
-![](./universalicons/mute-interface-audio-symbol-of-a-speaker-with-a-cross.svg) | universalicons | mute-interface-audio-symbol-of-a-speaker-with-a-cross | `<Icon group="universalicons" name="mute-interface-audio-symbol-of-a-speaker-with-a-cross" />`
-![](./universalicons/navigate-to-end-right-arrow-symbol-with-vertical-bar.svg) | universalicons | navigate-to-end-right-arrow-symbol-with-vertical-bar | `<Icon group="universalicons" name="navigate-to-end-right-arrow-symbol-with-vertical-bar" />`
-![](./universalicons/navigate-to-start-letter-k-sign.svg) | universalicons | navigate-to-start-letter-k-sign | `<Icon group="universalicons" name="navigate-to-start-letter-k-sign" />`
-![](./universalicons/network-connection.svg) | universalicons | network-connection | `<Icon group="universalicons" name="network-connection" />`
-![](./universalicons/new-tag.svg) | universalicons | new-tag | `<Icon group="universalicons" name="new-tag" />`
-![](./universalicons/news-interface-symbol.svg) | universalicons | news-interface-symbol | `<Icon group="universalicons" name="news-interface-symbol" />`
-![](./universalicons/no-water-symbol-od-a-drop-with-a-slash.svg) | universalicons | no-water-symbol-od-a-drop-with-a-slash | `<Icon group="universalicons" name="no-water-symbol-od-a-drop-with-a-slash" />`
-![](./universalicons/open-black-folder-interface-symbol.svg) | universalicons | open-black-folder-interface-symbol | `<Icon group="universalicons" name="open-black-folder-interface-symbol" />`
-![](./universalicons/open-folder-with-minus-sign.svg) | universalicons | open-folder-with-minus-sign | `<Icon group="universalicons" name="open-folder-with-minus-sign" />`
-![](./universalicons/open-folder-with-plus-sign.svg) | universalicons | open-folder-with-plus-sign | `<Icon group="universalicons" name="open-folder-with-plus-sign" />`
-![](./universalicons/open-folder-with-verification-sign.svg) | universalicons | open-folder-with-verification-sign | `<Icon group="universalicons" name="open-folder-with-verification-sign" />`
-![](./universalicons/open-hanging-signal.svg) | universalicons | open-hanging-signal | `<Icon group="universalicons" name="open-hanging-signal" />`
-![](./universalicons/opened-back-envelope-with-down-arrow.svg) | universalicons | opened-back-envelope-with-down-arrow | `<Icon group="universalicons" name="opened-back-envelope-with-down-arrow" />`
-![](./universalicons/opened-envelope-back-with-up-arrow.svg) | universalicons | opened-envelope-back-with-up-arrow | `<Icon group="universalicons" name="opened-envelope-back-with-up-arrow" />`
-![](./universalicons/oval-black-speech-bubble.svg) | universalicons | oval-black-speech-bubble | `<Icon group="universalicons" name="oval-black-speech-bubble" />`
-![](./universalicons/page-code-symbol.svg) | universalicons | page-code-symbol | `<Icon group="universalicons" name="page-code-symbol" />`
-![](./universalicons/page-interface-symbol.svg) | universalicons | page-interface-symbol | `<Icon group="universalicons" name="page-interface-symbol" />`
-![](./universalicons/page-symbol-1.svg) | universalicons | page-symbol-1 | `<Icon group="universalicons" name="page-symbol-1" />`
-![](./universalicons/page-symbol.svg) | universalicons | page-symbol | `<Icon group="universalicons" name="page-symbol" />`
-![](./universalicons/pages-interface-symbol-of-black-squares.svg) | universalicons | pages-interface-symbol-of-black-squares | `<Icon group="universalicons" name="pages-interface-symbol-of-black-squares" />`
-![](./universalicons/paint-roller-silhouette.svg) | universalicons | paint-roller-silhouette | `<Icon group="universalicons" name="paint-roller-silhouette" />`
-![](./universalicons/paragraph-justified-option-symbol-for-interface-of-five-parallel-horizontal-lines.svg) | universalicons | paragraph-justified-option-symbol-for-interface-of-five-parallel-horizontal-lines | `<Icon group="universalicons" name="paragraph-justified-option-symbol-for-interface-of-five-parallel-horizontal-lines" />`
-![](./universalicons/paragraph-left-alignment-interface-symbol.svg) | universalicons | paragraph-left-alignment-interface-symbol | `<Icon group="universalicons" name="paragraph-left-alignment-interface-symbol" />`
-![](./universalicons/paragraph-left-alignment-symbol-for-interface.svg) | universalicons | paragraph-left-alignment-symbol-for-interface | `<Icon group="universalicons" name="paragraph-left-alignment-symbol-for-interface" />`
-![](./universalicons/pause-symbol.svg) | universalicons | pause-symbol | `<Icon group="universalicons" name="pause-symbol" />`
-![](./universalicons/pawn-black-silhouette.svg) | universalicons | pawn-black-silhouette | `<Icon group="universalicons" name="pawn-black-silhouette" />`
-![](./universalicons/peace-symbol.svg) | universalicons | peace-symbol | `<Icon group="universalicons" name="peace-symbol" />`
-![](./universalicons/pen-feather-black-diagonal-shape-of-a-bird-wing.svg) | universalicons | pen-feather-black-diagonal-shape-of-a-bird-wing | `<Icon group="universalicons" name="pen-feather-black-diagonal-shape-of-a-bird-wing" />`
-![](./universalicons/pen-point.svg) | universalicons | pen-point | `<Icon group="universalicons" name="pen-point" />`
-![](./universalicons/pen-tool-on-diagonal-position.svg) | universalicons | pen-tool-on-diagonal-position | `<Icon group="universalicons" name="pen-tool-on-diagonal-position" />`
-![](./universalicons/pencil-in-diagonal-position-black-symbol-for-interface.svg) | universalicons | pencil-in-diagonal-position-black-symbol-for-interface | `<Icon group="universalicons" name="pencil-in-diagonal-position-black-symbol-for-interface" />`
-![](./universalicons/pencil-on-a-square-outline.svg) | universalicons | pencil-on-a-square-outline | `<Icon group="universalicons" name="pencil-on-a-square-outline" />`
-![](./universalicons/pencil-tool-symbol-in-diagonal-position-for-interface.svg) | universalicons | pencil-tool-symbol-in-diagonal-position-for-interface | `<Icon group="universalicons" name="pencil-tool-symbol-in-diagonal-position-for-interface" />`
-![](./universalicons/pencil-write-interface-symbol.svg) | universalicons | pencil-write-interface-symbol | `<Icon group="universalicons" name="pencil-write-interface-symbol" />`
-![](./universalicons/percentage-symbol.svg) | universalicons | percentage-symbol | `<Icon group="universalicons" name="percentage-symbol" />`
-![](./universalicons/phone-auricular-symbol.svg) | universalicons | phone-auricular-symbol | `<Icon group="universalicons" name="phone-auricular-symbol" />`
-![](./universalicons/phone-cabin-or-small-building-and-a-trash-can.svg) | universalicons | phone-cabin-or-small-building-and-a-trash-can | `<Icon group="universalicons" name="phone-cabin-or-small-building-and-a-trash-can" />`
-![](./universalicons/phone-digital-communication-tool.svg) | universalicons | phone-digital-communication-tool | `<Icon group="universalicons" name="phone-digital-communication-tool" />`
-![](./universalicons/photo-camera-interface-symbol-for-button.svg) | universalicons | photo-camera-interface-symbol-for-button | `<Icon group="universalicons" name="photo-camera-interface-symbol-for-button" />`
-![](./universalicons/piano-square-symbol.svg) | universalicons | piano-square-symbol | `<Icon group="universalicons" name="piano-square-symbol" />`
-![](./universalicons/pie-graphic-symbol-for-business-stats.svg) | universalicons | pie-graphic-symbol-for-business-stats | `<Icon group="universalicons" name="pie-graphic-symbol-for-business-stats" />`
-![](./universalicons/pie-graphic.svg) | universalicons | pie-graphic | `<Icon group="universalicons" name="pie-graphic" />`
-![](./universalicons/placeholders.svg) | universalicons | placeholders | `<Icon group="universalicons" name="placeholders" />`
-![](./universalicons/planet-earth-1.svg) | universalicons | planet-earth-1 | `<Icon group="universalicons" name="planet-earth-1" />`
-![](./universalicons/planet-earth-grid-symbol.svg) | universalicons | planet-earth-grid-symbol | `<Icon group="universalicons" name="planet-earth-grid-symbol" />`
-![](./universalicons/planet-earth.svg) | universalicons | planet-earth | `<Icon group="universalicons" name="planet-earth" />`
-![](./universalicons/plug.svg) | universalicons | plug | `<Icon group="universalicons" name="plug" />`
-![](./universalicons/plus-page-interface-add-symbol.svg) | universalicons | plus-page-interface-add-symbol | `<Icon group="universalicons" name="plus-page-interface-add-symbol" />`
-![](./universalicons/plus-sign-in-a-dark-cloud-internet-symbol.svg) | universalicons | plus-sign-in-a-dark-cloud-internet-symbol | `<Icon group="universalicons" name="plus-sign-in-a-dark-cloud-internet-symbol" />`
-![](./universalicons/plus-sign.svg) | universalicons | plus-sign | `<Icon group="universalicons" name="plus-sign" />`
-![](./universalicons/plus-zoom-magnifying-glass-interface-symbol.svg) | universalicons | plus-zoom-magnifying-glass-interface-symbol | `<Icon group="universalicons" name="plus-zoom-magnifying-glass-interface-symbol" />`
-![](./universalicons/pound-coin.svg) | universalicons | pound-coin | `<Icon group="universalicons" name="pound-coin" />`
-![](./universalicons/power.svg) | universalicons | power | `<Icon group="universalicons" name="power" />`
-![](./universalicons/queen-chess-piece-black-shape.svg) | universalicons | queen-chess-piece-black-shape | `<Icon group="universalicons" name="queen-chess-piece-black-shape" />`
-![](./universalicons/redo-arrow-symbol.svg) | universalicons | redo-arrow-symbol | `<Icon group="universalicons" name="redo-arrow-symbol" />`
-![](./universalicons/rent-hanging-signal.svg) | universalicons | rent-hanging-signal | `<Icon group="universalicons" name="rent-hanging-signal" />`
-![](./universalicons/retro-photo-camera-symbol-of-square-shape.svg) | universalicons | retro-photo-camera-symbol-of-square-shape | `<Icon group="universalicons" name="retro-photo-camera-symbol-of-square-shape" />`
-![](./universalicons/right-arrow-in-a-circle.svg) | universalicons | right-arrow-in-a-circle | `<Icon group="universalicons" name="right-arrow-in-a-circle" />`
-![](./universalicons/right-arrow.svg) | universalicons | right-arrow | `<Icon group="universalicons" name="right-arrow" />`
-![](./universalicons/right-arrowhead-black-triangular-shape.svg) | universalicons | right-arrowhead-black-triangular-shape | `<Icon group="universalicons" name="right-arrowhead-black-triangular-shape" />`
-![](./universalicons/right-arrowhead-in-a-circle.svg) | universalicons | right-arrowhead-in-a-circle | `<Icon group="universalicons" name="right-arrowhead-in-a-circle" />`
-![](./universalicons/right-arrowhead.svg) | universalicons | right-arrowhead | `<Icon group="universalicons" name="right-arrowhead" />`
-![](./universalicons/right-arrowheads-1.svg) | universalicons | right-arrowheads-1 | `<Icon group="universalicons" name="right-arrowheads-1" />`
-![](./universalicons/right-arrowheads.svg) | universalicons | right-arrowheads | `<Icon group="universalicons" name="right-arrowheads" />`
-![](./universalicons/right-arrows.svg) | universalicons | right-arrows | `<Icon group="universalicons" name="right-arrows" />`
-![](./universalicons/right-triangular-arrowhead.svg) | universalicons | right-triangular-arrowhead | `<Icon group="universalicons" name="right-triangular-arrowhead" />`
-![](./universalicons/sad-emoticon-square-face.svg) | universalicons | sad-emoticon-square-face | `<Icon group="universalicons" name="sad-emoticon-square-face" />`
-![](./universalicons/sad-face-variant.svg) | universalicons | sad-face-variant | `<Icon group="universalicons" name="sad-face-variant" />`
-![](./universalicons/sad-face.svg) | universalicons | sad-face | `<Icon group="universalicons" name="sad-face" />`
-![](./universalicons/sale.svg) | universalicons | sale | `<Icon group="universalicons" name="sale" />`
-![](./universalicons/sd-card-rectangular-shape.svg) | universalicons | sd-card-rectangular-shape | `<Icon group="universalicons" name="sd-card-rectangular-shape" />`
-![](./universalicons/shield-black-shape.svg) | universalicons | shield-black-shape | `<Icon group="universalicons" name="shield-black-shape" />`
-![](./universalicons/shock-face-of-square-shape-with-opened-oval-mouth.svg) | universalicons | shock-face-of-square-shape-with-opened-oval-mouth | `<Icon group="universalicons" name="shock-face-of-square-shape-with-opened-oval-mouth" />`
-![](./universalicons/shock-face-of-square-shape.svg) | universalicons | shock-face-of-square-shape | `<Icon group="universalicons" name="shock-face-of-square-shape" />`
-![](./universalicons/shocked-face-of-square-shape.svg) | universalicons | shocked-face-of-square-shape | `<Icon group="universalicons" name="shocked-face-of-square-shape" />`
-![](./universalicons/shopping-trolley.svg) | universalicons | shopping-trolley | `<Icon group="universalicons" name="shopping-trolley" />`
-![](./universalicons/shuffle-arrows-symbol-for-interface.svg) | universalicons | shuffle-arrows-symbol-for-interface | `<Icon group="universalicons" name="shuffle-arrows-symbol-for-interface" />`
-![](./universalicons/silent-face-with-a-cross-mouth-shape.svg) | universalicons | silent-face-with-a-cross-mouth-shape | `<Icon group="universalicons" name="silent-face-with-a-cross-mouth-shape" />`
-![](./universalicons/smile-face-of-square-shape-with-closed-happy-eyes.svg) | universalicons | smile-face-of-square-shape-with-closed-happy-eyes | `<Icon group="universalicons" name="smile-face-of-square-shape-with-closed-happy-eyes" />`
-![](./universalicons/smile-face-with-sunglasses.svg) | universalicons | smile-face-with-sunglasses | `<Icon group="universalicons" name="smile-face-with-sunglasses" />`
-![](./universalicons/smile-face.svg) | universalicons | smile-face | `<Icon group="universalicons" name="smile-face" />`
-![](./universalicons/smile-square-face.svg) | universalicons | smile-square-face | `<Icon group="universalicons" name="smile-square-face" />`
-![](./universalicons/smiley-in-love.svg) | universalicons | smiley-in-love | `<Icon group="universalicons" name="smiley-in-love" />`
-![](./universalicons/smiley-square-face-with-sunglasses.svg) | universalicons | smiley-square-face-with-sunglasses | `<Icon group="universalicons" name="smiley-square-face-with-sunglasses" />`
-![](./universalicons/spade-symbol.svg) | universalicons | spade-symbol | `<Icon group="universalicons" name="spade-symbol" />`
-![](./universalicons/speaker-audio-tool-symbol.svg) | universalicons | speaker-audio-tool-symbol | `<Icon group="universalicons" name="speaker-audio-tool-symbol" />`
-![](./universalicons/speedometer-circular-tool-symbol-for-speed-control-on-vehicles.svg) | universalicons | speedometer-circular-tool-symbol-for-speed-control-on-vehicles | `<Icon group="universalicons" name="speedometer-circular-tool-symbol-for-speed-control-on-vehicles" />`
-![](./universalicons/square-of-rounded-corners.svg) | universalicons | square-of-rounded-corners | `<Icon group="universalicons" name="square-of-rounded-corners" />`
-![](./universalicons/square-with-verification-sign.svg) | universalicons | square-with-verification-sign | `<Icon group="universalicons" name="square-with-verification-sign" />`
-![](./universalicons/star-black-fivepointed-shape.svg) | universalicons | star-black-fivepointed-shape | `<Icon group="universalicons" name="star-black-fivepointed-shape" />`
-![](./universalicons/star-tag-black-shape.svg) | universalicons | star-tag-black-shape | `<Icon group="universalicons" name="star-tag-black-shape" />`
-![](./universalicons/stats-down.svg) | universalicons | stats-down | `<Icon group="universalicons" name="stats-down" />`
-![](./universalicons/stats-graphic-1.svg) | universalicons | stats-graphic-1 | `<Icon group="universalicons" name="stats-graphic-1" />`
-![](./universalicons/stats-graphic.svg) | universalicons | stats-graphic | `<Icon group="universalicons" name="stats-graphic" />`
-![](./universalicons/stats-up-graphic.svg) | universalicons | stats-up-graphic | `<Icon group="universalicons" name="stats-up-graphic" />`
-![](./universalicons/stats.svg) | universalicons | stats | `<Icon group="universalicons" name="stats" />`
-![](./universalicons/sterling-pound-sign-of-money.svg) | universalicons | sterling-pound-sign-of-money | `<Icon group="universalicons" name="sterling-pound-sign-of-money" />`
-![](./universalicons/sterling-pounds-coin.svg) | universalicons | sterling-pounds-coin | `<Icon group="universalicons" name="sterling-pounds-coin" />`
-![](./universalicons/stethoscope-medical-tool.svg) | universalicons | stethoscope-medical-tool | `<Icon group="universalicons" name="stethoscope-medical-tool" />`
-![](./universalicons/straight-face.svg) | universalicons | straight-face | `<Icon group="universalicons" name="straight-face" />`
-![](./universalicons/suitcases.svg) | universalicons | suitcases | `<Icon group="universalicons" name="suitcases" />`
-![](./universalicons/sun-shape.svg) | universalicons | sun-shape | `<Icon group="universalicons" name="sun-shape" />`
-![](./universalicons/surprised-face.svg) | universalicons | surprised-face | `<Icon group="universalicons" name="surprised-face" />`
-![](./universalicons/tablet-tool.svg) | universalicons | tablet-tool | `<Icon group="universalicons" name="tablet-tool" />`
-![](./universalicons/tag-black-shape.svg) | universalicons | tag-black-shape | `<Icon group="universalicons" name="tag-black-shape" />`
-![](./universalicons/tags-shapes.svg) | universalicons | tags-shapes | `<Icon group="universalicons" name="tags-shapes" />`
-![](./universalicons/talk-bubble-with-plus-sign.svg) | universalicons | talk-bubble-with-plus-sign | `<Icon group="universalicons" name="talk-bubble-with-plus-sign" />`
-![](./universalicons/talk-face-smiley.svg) | universalicons | talk-face-smiley | `<Icon group="universalicons" name="talk-face-smiley" />`
-![](./universalicons/talk-oval-bubble-with-minus-sign.svg) | universalicons | talk-oval-bubble-with-minus-sign | `<Icon group="universalicons" name="talk-oval-bubble-with-minus-sign" />`
-![](./universalicons/text-document-add-button-with-plus-sign.svg) | universalicons | text-document-add-button-with-plus-sign | `<Icon group="universalicons" name="text-document-add-button-with-plus-sign" />`
-![](./universalicons/text-document-square-rounded-shape-with-minus-sign.svg) | universalicons | text-document-square-rounded-shape-with-minus-sign | `<Icon group="universalicons" name="text-document-square-rounded-shape-with-minus-sign" />`
-![](./universalicons/tower-black-chess-piece-shape.svg) | universalicons | tower-black-chess-piece-shape | `<Icon group="universalicons" name="tower-black-chess-piece-shape" />`
-![](./universalicons/trash-black-shape.svg) | universalicons | trash-black-shape | `<Icon group="universalicons" name="trash-black-shape" />`
-![](./universalicons/trash-can-with-cover-from-side-view.svg) | universalicons | trash-can-with-cover-from-side-view | `<Icon group="universalicons" name="trash-can-with-cover-from-side-view" />`
-![](./universalicons/turn-left-arrow-symbol.svg) | universalicons | turn-left-arrow-symbol | `<Icon group="universalicons" name="turn-left-arrow-symbol" />`
-![](./universalicons/tv-monitor-tool.svg) | universalicons | tv-monitor-tool | `<Icon group="universalicons" name="tv-monitor-tool" />`
-![](./universalicons/two-movie-frames.svg) | universalicons | two-movie-frames | `<Icon group="universalicons" name="two-movie-frames" />`
-![](./universalicons/undo-circular-arrow.svg) | universalicons | undo-circular-arrow | `<Icon group="universalicons" name="undo-circular-arrow" />`
-![](./universalicons/university-graduates-cap-silhouette.svg) | universalicons | university-graduates-cap-silhouette | `<Icon group="universalicons" name="university-graduates-cap-silhouette" />`
-![](./universalicons/unlock-padlock-interface-silhouette-symbol.svg) | universalicons | unlock-padlock-interface-silhouette-symbol | `<Icon group="universalicons" name="unlock-padlock-interface-silhouette-symbol" />`
-![](./universalicons/unlock-page-symbol.svg) | universalicons | unlock-page-symbol | `<Icon group="universalicons" name="unlock-page-symbol" />`
-![](./universalicons/up-arrow-1.svg) | universalicons | up-arrow-1 | `<Icon group="universalicons" name="up-arrow-1" />`
-![](./universalicons/up-arrow-symbol-in-a-circle.svg) | universalicons | up-arrow-symbol-in-a-circle | `<Icon group="universalicons" name="up-arrow-symbol-in-a-circle" />`
-![](./universalicons/up-arrow.svg) | universalicons | up-arrow | `<Icon group="universalicons" name="up-arrow" />`
-![](./universalicons/up-arrowhead-in-a-circle.svg) | universalicons | up-arrowhead-in-a-circle | `<Icon group="universalicons" name="up-arrowhead-in-a-circle" />`
-![](./universalicons/up-arrowheads.svg) | universalicons | up-arrowheads | `<Icon group="universalicons" name="up-arrowheads" />`
-![](./universalicons/up-arrows.svg) | universalicons | up-arrows | `<Icon group="universalicons" name="up-arrows" />`
-![](./universalicons/upload.svg) | universalicons | upload | `<Icon group="universalicons" name="upload" />`
-![](./universalicons/usb-tool.svg) | universalicons | usb-tool | `<Icon group="universalicons" name="usb-tool" />`
-![](./universalicons/user-check-interface-symbol.svg) | universalicons | user-check-interface-symbol | `<Icon group="universalicons" name="user-check-interface-symbol" />`
-![](./universalicons/user-male-black-shape-with-plus-sign.svg) | universalicons | user-male-black-shape-with-plus-sign | `<Icon group="universalicons" name="user-male-black-shape-with-plus-sign" />`
-![](./universalicons/user-symbol.svg) | universalicons | user-symbol | `<Icon group="universalicons" name="user-symbol" />`
-![](./universalicons/user-with-cross-sign.svg) | universalicons | user-with-cross-sign | `<Icon group="universalicons" name="user-with-cross-sign" />`
-![](./universalicons/user-with-minus-sign-1.svg) | universalicons | user-with-minus-sign-1 | `<Icon group="universalicons" name="user-with-minus-sign-1" />`
-![](./universalicons/user-with-minus-sign.svg) | universalicons | user-with-minus-sign | `<Icon group="universalicons" name="user-with-minus-sign" />`
-![](./universalicons/user-with-plus-sign.svg) | universalicons | user-with-plus-sign | `<Icon group="universalicons" name="user-with-plus-sign" />`
-![](./universalicons/users-sign.svg) | universalicons | users-sign | `<Icon group="universalicons" name="users-sign" />`
-![](./universalicons/usher-1.svg) | universalicons | usher-1 | `<Icon group="universalicons" name="usher-1" />`
-![](./universalicons/usher-2.svg) | universalicons | usher-2 | `<Icon group="universalicons" name="usher-2" />`
-![](./universalicons/usher-man-with-tie.svg) | universalicons | usher-man-with-tie | `<Icon group="universalicons" name="usher-man-with-tie" />`
-![](./universalicons/usher-shape.svg) | universalicons | usher-shape | `<Icon group="universalicons" name="usher-shape" />`
-![](./universalicons/usher.svg) | universalicons | usher | `<Icon group="universalicons" name="usher" />`
-![](./universalicons/video-camera-black-silhouette-symbol.svg) | universalicons | video-camera-black-silhouette-symbol | `<Icon group="universalicons" name="video-camera-black-silhouette-symbol" />`
-![](./universalicons/warning-exclamation-sign-in-a-circle.svg) | universalicons | warning-exclamation-sign-in-a-circle | `<Icon group="universalicons" name="warning-exclamation-sign-in-a-circle" />`
-![](./universalicons/warning-page-symbol.svg) | universalicons | warning-page-symbol | `<Icon group="universalicons" name="warning-page-symbol" />`
-![](./universalicons/water-drop-black-shape.svg) | universalicons | water-drop-black-shape | `<Icon group="universalicons" name="water-drop-black-shape" />`
-![](./universalicons/water-drop-shape-outline.svg) | universalicons | water-drop-shape-outline | `<Icon group="universalicons" name="water-drop-shape-outline" />`
-![](./universalicons/web-square-and-lines-symbol.svg) | universalicons | web-square-and-lines-symbol | `<Icon group="universalicons" name="web-square-and-lines-symbol" />`
-![](./universalicons/wifi-interface-symbol.svg) | universalicons | wifi-interface-symbol | `<Icon group="universalicons" name="wifi-interface-symbol" />`
-![](./universalicons/window-of-four-rounded-squares.svg) | universalicons | window-of-four-rounded-squares | `<Icon group="universalicons" name="window-of-four-rounded-squares" />`
-![](./universalicons/wink-circular-face-symbol.svg) | universalicons | wink-circular-face-symbol | `<Icon group="universalicons" name="wink-circular-face-symbol" />`
-![](./universalicons/winking-smiling-face.svg) | universalicons | winking-smiling-face | `<Icon group="universalicons" name="winking-smiling-face" />`
-![](./universalicons/yen-sign.svg) | universalicons | yen-sign | `<Icon group="universalicons" name="yen-sign" />`
+|image | group | name | usage
+|--|--|--
+| ![](./universalicons/angry-face-of-square-shape-and-straight-lines.svg) | universalicons | angry-face-of-square-shape-and-straight-lines | `<Icon group="universalicons" name="angry-face-of-square-shape-and-straight-lines" />`
+| ![](./universalicons/angry-face-of-square-shape-outline.svg) | universalicons | angry-face-of-square-shape-outline | `<Icon group="universalicons" name="angry-face-of-square-shape-outline" />`
+| ![](./universalicons/angry-face.svg) | universalicons | angry-face | `<Icon group="universalicons" name="angry-face" />`
+| ![](./universalicons/arrow-pointing-to-left.svg) | universalicons | arrow-pointing-to-left | `<Icon group="universalicons" name="arrow-pointing-to-left" />`
+| ![](./universalicons/arrow-turning-to-right.svg) | universalicons | arrow-turning-to-right | `<Icon group="universalicons" name="arrow-turning-to-right" />`
+| ![](./universalicons/arrows-circle.svg) | universalicons | arrows-circle | `<Icon group="universalicons" name="arrows-circle" />`
+| ![](./universalicons/audio-headset-tool.svg) | universalicons | audio-headset-tool | `<Icon group="universalicons" name="audio-headset-tool" />`
+| ![](./universalicons/bad-face.svg) | universalicons | bad-face | `<Icon group="universalicons" name="bad-face" />`
+| ![](./universalicons/bars-graphic-1.svg) | universalicons | bars-graphic-1 | `<Icon group="universalicons" name="bars-graphic-1" />`
+| ![](./universalicons/bars-graphic.svg) | universalicons | bars-graphic | `<Icon group="universalicons" name="bars-graphic" />`
+| ![](./universalicons/bars-symbol.svg) | universalicons | bars-symbol | `<Icon group="universalicons" name="bars-symbol" />`
+| ![](./universalicons/basket-black-shape.svg) | universalicons | basket-black-shape | `<Icon group="universalicons" name="basket-black-shape" />`
+| ![](./universalicons/battery-almost-full.svg) | universalicons | battery-almost-full | `<Icon group="universalicons" name="battery-almost-full" />`
+| ![](./universalicons/battery-status-sign-with-less-than-half-energy-charge.svg) | universalicons | battery-status-sign-with-less-than-half-energy-charge | `<Icon group="universalicons" name="battery-status-sign-with-less-than-half-energy-charge" />`
+| ![](./universalicons/birds-home.svg) | universalicons | birds-home | `<Icon group="universalicons" name="birds-home" />`
+| ![](./universalicons/bishop-chess-piece.svg) | universalicons | bishop-chess-piece | `<Icon group="universalicons" name="bishop-chess-piece" />`
+| ![](./universalicons/black-folder-shape-for-interface.svg) | universalicons | black-folder-shape-for-interface | `<Icon group="universalicons" name="black-folder-shape-for-interface" />`
+| ![](./universalicons/black-golf-ball.svg) | universalicons | black-golf-ball | `<Icon group="universalicons" name="black-golf-ball" />`
+| ![](./universalicons/black-hand-pointing-to-right.svg) | universalicons | black-hand-pointing-to-right | `<Icon group="universalicons" name="black-hand-pointing-to-right" />`
+| ![](./universalicons/black-hand-pointing-up.svg) | universalicons | black-hand-pointing-up | `<Icon group="universalicons" name="black-hand-pointing-up" />`
+| ![](./universalicons/black-heart-love-symbol.svg) | universalicons | black-heart-love-symbol | `<Icon group="universalicons" name="black-heart-love-symbol" />`
+| ![](./universalicons/black-label-in-horizontal-position.svg) | universalicons | black-label-in-horizontal-position | `<Icon group="universalicons" name="black-label-in-horizontal-position" />`
+| ![](./universalicons/black-male-user-symbol.svg) | universalicons | black-male-user-symbol | `<Icon group="universalicons" name="black-male-user-symbol" />`
+| ![](./universalicons/black-open-envelope-back.svg) | universalicons | black-open-envelope-back | `<Icon group="universalicons" name="black-open-envelope-back" />`
+| ![](./universalicons/black-placeholder-variant.svg) | universalicons | black-placeholder-variant | `<Icon group="universalicons" name="black-placeholder-variant" />`
+| ![](./universalicons/black-suitcase.svg) | universalicons | black-suitcase | `<Icon group="universalicons" name="black-suitcase" />`
+| ![](./universalicons/black-triangular-arrowhead-pointing-to-left-direction.svg) | universalicons | black-triangular-arrowhead-pointing-to-left-direction | `<Icon group="universalicons" name="black-triangular-arrowhead-pointing-to-left-direction" />`
+| ![](./universalicons/blind-face.svg) | universalicons | blind-face | `<Icon group="universalicons" name="blind-face" />`
+| ![](./universalicons/blind-square-face.svg) | universalicons | blind-square-face | `<Icon group="universalicons" name="blind-square-face" />`
+| ![](./universalicons/boring-face.svg) | universalicons | boring-face | `<Icon group="universalicons" name="boring-face" />`
+| ![](./universalicons/brush-tool.svg) | universalicons | brush-tool | `<Icon group="universalicons" name="brush-tool" />`
+| ![](./universalicons/bubbles-interface-symbol-for-talk.svg) | universalicons | bubbles-interface-symbol-for-talk | `<Icon group="universalicons" name="bubbles-interface-symbol-for-talk" />`
+| ![](./universalicons/buildings.svg) | universalicons | buildings | `<Icon group="universalicons" name="buildings" />`
+| ![](./universalicons/calculator.svg) | universalicons | calculator | `<Icon group="universalicons" name="calculator" />`
+| ![](./universalicons/calendar-page-symbol-on-day-15.svg) | universalicons | calendar-page-symbol-on-day-15 | `<Icon group="universalicons" name="calendar-page-symbol-on-day-15" />`
+| ![](./universalicons/calling-out-symbol-of-auricular-with-arrow.svg) | universalicons | calling-out-symbol-of-auricular-with-arrow | `<Icon group="universalicons" name="calling-out-symbol-of-auricular-with-arrow" />`
+| ![](./universalicons/camera-to-take-photos.svg) | universalicons | camera-to-take-photos | `<Icon group="universalicons" name="camera-to-take-photos" />`
+| ![](./universalicons/centered-paragraph-text-lines-symbol-for-interface.svg) | universalicons | centered-paragraph-text-lines-symbol-for-interface | `<Icon group="universalicons" name="centered-paragraph-text-lines-symbol-for-interface" />`
+| ![](./universalicons/check-document-interface-square-symbol.svg) | universalicons | check-document-interface-square-symbol | `<Icon group="universalicons" name="check-document-interface-square-symbol" />`
+| ![](./universalicons/check-mark-in-a-circle.svg) | universalicons | check-mark-in-a-circle | `<Icon group="universalicons" name="check-mark-in-a-circle" />`
+| ![](./universalicons/check-sign.svg) | universalicons | check-sign | `<Icon group="universalicons" name="check-sign" />`
+| ![](./universalicons/checked-page-symbol.svg) | universalicons | checked-page-symbol | `<Icon group="universalicons" name="checked-page-symbol" />`
+| ![](./universalicons/circle-of-arrows-couple.svg) | universalicons | circle-of-arrows-couple | `<Icon group="universalicons" name="circle-of-arrows-couple" />`
+| ![](./universalicons/circular-clock-symbol-for-interface.svg) | universalicons | circular-clock-symbol-for-interface | `<Icon group="universalicons" name="circular-clock-symbol-for-interface" />`
+| ![](./universalicons/clock-circular-tool-shape.svg) | universalicons | clock-circular-tool-shape | `<Icon group="universalicons" name="clock-circular-tool-shape" />`
+| ![](./universalicons/close-hanging-signal-for-commerce.svg) | universalicons | close-hanging-signal-for-commerce | `<Icon group="universalicons" name="close-hanging-signal-for-commerce" />`
+| ![](./universalicons/cloud-black-shape-with-a-cross.svg) | universalicons | cloud-black-shape-with-a-cross | `<Icon group="universalicons" name="cloud-black-shape-with-a-cross" />`
+| ![](./universalicons/cloud-black-shape-with-three-dots-inside.svg) | universalicons | cloud-black-shape-with-three-dots-inside | `<Icon group="universalicons" name="cloud-black-shape-with-three-dots-inside" />`
+| ![](./universalicons/cloud-lock.svg) | universalicons | cloud-lock | `<Icon group="universalicons" name="cloud-lock" />`
+| ![](./universalicons/cloud-with-check-sign.svg) | universalicons | cloud-with-check-sign | `<Icon group="universalicons" name="cloud-with-check-sign" />`
+| ![](./universalicons/cloud-with-minus-sign.svg) | universalicons | cloud-with-minus-sign | `<Icon group="universalicons" name="cloud-with-minus-sign" />`
+| ![](./universalicons/clover-black-shape.svg) | universalicons | clover-black-shape | `<Icon group="universalicons" name="clover-black-shape" />`
+| ![](./universalicons/cogs-on-wheels-interface-symbol-for-settings-edition-button.svg) | universalicons | cogs-on-wheels-interface-symbol-for-settings-edition-button | `<Icon group="universalicons" name="cogs-on-wheels-interface-symbol-for-settings-edition-button" />`
+| ![](./universalicons/cogwheel.svg) | universalicons | cogwheel | `<Icon group="universalicons" name="cogwheel" />`
+| ![](./universalicons/coins-stack.svg) | universalicons | coins-stack | `<Icon group="universalicons" name="coins-stack" />`
+| ![](./universalicons/color-palette-for-painter.svg) | universalicons | color-palette-for-painter | `<Icon group="universalicons" name="color-palette-for-painter" />`
+| ![](./universalicons/creative-lightbulb-symbol-black-shape.svg) | universalicons | creative-lightbulb-symbol-black-shape | `<Icon group="universalicons" name="creative-lightbulb-symbol-black-shape" />`
+| ![](./universalicons/credit-card-tool.svg) | universalicons | credit-card-tool | `<Icon group="universalicons" name="credit-card-tool" />`
+| ![](./universalicons/cross-delete-or-close-circular-button-interface-symbol.svg) | universalicons | cross-delete-or-close-circular-button-interface-symbol | `<Icon group="universalicons" name="cross-delete-or-close-circular-button-interface-symbol" />`
+| ![](./universalicons/cross-gross-symbol.svg) | universalicons | cross-gross-symbol | `<Icon group="universalicons" name="cross-gross-symbol" />`
+| ![](./universalicons/cross-in-a-circle.svg) | universalicons | cross-in-a-circle | `<Icon group="universalicons" name="cross-in-a-circle" />`
+| ![](./universalicons/dark-cloud-shape.svg) | universalicons | dark-cloud-shape | `<Icon group="universalicons" name="dark-cloud-shape" />`
+| ![](./universalicons/diamond-symbol.svg) | universalicons | diamond-symbol | `<Icon group="universalicons" name="diamond-symbol" />`
+| ![](./universalicons/dice-with-five-dots.svg) | universalicons | dice-with-five-dots | `<Icon group="universalicons" name="dice-with-five-dots" />`
+| ![](./universalicons/disc-outline-of-gross-line.svg) | universalicons | disc-outline-of-gross-line | `<Icon group="universalicons" name="disc-outline-of-gross-line" />`
+| ![](./universalicons/discs.svg) | universalicons | discs | `<Icon group="universalicons" name="discs" />`
+| ![](./universalicons/doctor-suitcase-with-a-cross.svg) | universalicons | doctor-suitcase-with-a-cross | `<Icon group="universalicons" name="doctor-suitcase-with-a-cross" />`
+| ![](./universalicons/document-lock-interface-security-symbol.svg) | universalicons | document-lock-interface-security-symbol | `<Icon group="universalicons" name="document-lock-interface-security-symbol" />`
+| ![](./universalicons/document-lock-symbol.svg) | universalicons | document-lock-symbol | `<Icon group="universalicons" name="document-lock-symbol" />`
+| ![](./universalicons/document-rounded-square-interface-symbol-with-text-lines.svg) | universalicons | document-rounded-square-interface-symbol-with-text-lines | `<Icon group="universalicons" name="document-rounded-square-interface-symbol-with-text-lines" />`
+| ![](./universalicons/document-with-minus-sign.svg) | universalicons | document-with-minus-sign | `<Icon group="universalicons" name="document-with-minus-sign" />`
+| ![](./universalicons/documents-check-interface-symbol-of-text-lines-in-rounded-square.svg) | universalicons | documents-check-interface-symbol-of-text-lines-in-rounded-square | `<Icon group="universalicons" name="documents-check-interface-symbol-of-text-lines-in-rounded-square" />`
+| ![](./universalicons/documents-plus-symbol-for-interface-with-rounded-square-shape.svg) | universalicons | documents-plus-symbol-for-interface-with-rounded-square-shape | `<Icon group="universalicons" name="documents-plus-symbol-for-interface-with-rounded-square-shape" />`
+| ![](./universalicons/documents-rounded-square-symbol.svg) | universalicons | documents-rounded-square-symbol | `<Icon group="universalicons" name="documents-rounded-square-symbol" />`
+| ![](./universalicons/dollar-coin-symbol.svg) | universalicons | dollar-coin-symbol | `<Icon group="universalicons" name="dollar-coin-symbol" />`
+| ![](./universalicons/dollar-coin.svg) | universalicons | dollar-coin | `<Icon group="universalicons" name="dollar-coin" />`
+| ![](./universalicons/dollar-sign.svg) | universalicons | dollar-sign | `<Icon group="universalicons" name="dollar-sign" />`
+| ![](./universalicons/down-arrow-1.svg) | universalicons | down-arrow-1 | `<Icon group="universalicons" name="down-arrow-1" />`
+| ![](./universalicons/down-arrow-in-a-circle.svg) | universalicons | down-arrow-in-a-circle | `<Icon group="universalicons" name="down-arrow-in-a-circle" />`
+| ![](./universalicons/down-arrow.svg) | universalicons | down-arrow | `<Icon group="universalicons" name="down-arrow" />`
+| ![](./universalicons/down-arrowhead-in-a-circle.svg) | universalicons | down-arrowhead-in-a-circle | `<Icon group="universalicons" name="down-arrowhead-in-a-circle" />`
+| ![](./universalicons/down-arrows.svg) | universalicons | down-arrows | `<Icon group="universalicons" name="down-arrows" />`
+| ![](./universalicons/down-double-arrow.svg) | universalicons | down-double-arrow | `<Icon group="universalicons" name="down-double-arrow" />`
+| ![](./universalicons/download-symbol.svg) | universalicons | download-symbol | `<Icon group="universalicons" name="download-symbol" />`
+| ![](./universalicons/emoticon-in-love-of-square-face-shape.svg) | universalicons | emoticon-in-love-of-square-face-shape | `<Icon group="universalicons" name="emoticon-in-love-of-square-face-shape" />`
+| ![](./universalicons/empty-battery-interface-status-symbol.svg) | universalicons | empty-battery-interface-status-symbol | `<Icon group="universalicons" name="empty-battery-interface-status-symbol" />`
+| ![](./universalicons/empty-glass-outline.svg) | universalicons | empty-glass-outline | `<Icon group="universalicons" name="empty-glass-outline" />`
+| ![](./universalicons/equalizer.svg) | universalicons | equalizer | `<Icon group="universalicons" name="equalizer" />`
+| ![](./universalicons/euro-coin.svg) | universalicons | euro-coin | `<Icon group="universalicons" name="euro-coin" />`
+| ![](./universalicons/euro-sign-in-a-circle.svg) | universalicons | euro-sign-in-a-circle | `<Icon group="universalicons" name="euro-sign-in-a-circle" />`
+| ![](./universalicons/euro.svg) | universalicons | euro | `<Icon group="universalicons" name="euro" />`
+| ![](./universalicons/exclamation-sign-warning-interface-symbol.svg) | universalicons | exclamation-sign-warning-interface-symbol | `<Icon group="universalicons" name="exclamation-sign-warning-interface-symbol" />`
+| ![](./universalicons/eye-shape-variant-interface-view-symbol.svg) | universalicons | eye-shape-variant-interface-view-symbol | `<Icon group="universalicons" name="eye-shape-variant-interface-view-symbol" />`
+| ![](./universalicons/eyedropper-black-tool-silhouette.svg) | universalicons | eyedropper-black-tool-silhouette | `<Icon group="universalicons" name="eyedropper-black-tool-silhouette" />`
+| ![](./universalicons/eyeglass-of-rectangular-shape.svg) | universalicons | eyeglass-of-rectangular-shape | `<Icon group="universalicons" name="eyeglass-of-rectangular-shape" />`
+| ![](./universalicons/eyeglasses-of-circular-shape.svg) | universalicons | eyeglasses-of-circular-shape | `<Icon group="universalicons" name="eyeglasses-of-circular-shape" />`
+| ![](./universalicons/face-of-silence-with-a-cross-as-mouth.svg) | universalicons | face-of-silence-with-a-cross-as-mouth | `<Icon group="universalicons" name="face-of-silence-with-a-cross-as-mouth" />`
+| ![](./universalicons/facebook-logo-in-circular-shape.svg) | universalicons | facebook-logo-in-circular-shape | `<Icon group="universalicons" name="facebook-logo-in-circular-shape" />`
+| ![](./universalicons/facebook-logo.svg) | universalicons | facebook-logo | `<Icon group="universalicons" name="facebook-logo" />`
+| ![](./universalicons/female-symbol.svg) | universalicons | female-symbol | `<Icon group="universalicons" name="female-symbol" />`
+| ![](./universalicons/floating-tool-to-save-lives.svg) | universalicons | floating-tool-to-save-lives | `<Icon group="universalicons" name="floating-tool-to-save-lives" />`
+| ![](./universalicons/folder-check-symbol.svg) | universalicons | folder-check-symbol | `<Icon group="universalicons" name="folder-check-symbol" />`
+| ![](./universalicons/folder-with-minus-sign-interface-symbol.svg) | universalicons | folder-with-minus-sign-interface-symbol | `<Icon group="universalicons" name="folder-with-minus-sign-interface-symbol" />`
+| ![](./universalicons/folder-with-plus-sign-for-interface-button-to-add.svg) | universalicons | folder-with-plus-sign-for-interface-button-to-add | `<Icon group="universalicons" name="folder-with-plus-sign-for-interface-button-to-add" />`
+| ![](./universalicons/four-arrows-interface-symbol-to-maximize-size.svg) | universalicons | four-arrows-interface-symbol-to-maximize-size | `<Icon group="universalicons" name="four-arrows-interface-symbol-to-maximize-size" />`
+| ![](./universalicons/four-arrows-pointing-center-interface-symbol-to-minimize.svg) | universalicons | four-arrows-pointing-center-interface-symbol-to-minimize | `<Icon group="universalicons" name="four-arrows-pointing-center-interface-symbol-to-minimize" />`
+| ![](./universalicons/free-tag-for-commerce.svg) | universalicons | free-tag-for-commerce | `<Icon group="universalicons" name="free-tag-for-commerce" />`
+| ![](./universalicons/frown-face.svg) | universalicons | frown-face | `<Icon group="universalicons" name="frown-face" />`
+| ![](./universalicons/glass-full-of-liquid.svg) | universalicons | glass-full-of-liquid | `<Icon group="universalicons" name="glass-full-of-liquid" />`
+| ![](./universalicons/glass.svg) | universalicons | glass | `<Icon group="universalicons" name="glass" />`
+| ![](./universalicons/global-interface-symbol-of-earth-grid.svg) | universalicons | global-interface-symbol-of-earth-grid | `<Icon group="universalicons" name="global-interface-symbol-of-earth-grid" />`
+| ![](./universalicons/graphic-page-symbol.svg) | universalicons | graphic-page-symbol | `<Icon group="universalicons" name="graphic-page-symbol" />`
+| ![](./universalicons/graphic-page.svg) | universalicons | graphic-page | `<Icon group="universalicons" name="graphic-page" />`
+| ![](./universalicons/hand-pointing-down.svg) | universalicons | hand-pointing-down | `<Icon group="universalicons" name="hand-pointing-down" />`
+| ![](./universalicons/hand-pointing-to-left-direction.svg) | universalicons | hand-pointing-to-left-direction | `<Icon group="universalicons" name="hand-pointing-to-left-direction" />`
+| ![](./universalicons/hand-watch.svg) | universalicons | hand-watch | `<Icon group="universalicons" name="hand-watch" />`
+| ![](./universalicons/happy-face.svg) | universalicons | happy-face | `<Icon group="universalicons" name="happy-face" />`
+| ![](./universalicons/hd.svg) | universalicons | hd | `<Icon group="universalicons" name="hd" />`
+| ![](./universalicons/heart-black-shape-symbol.svg) | universalicons | heart-black-shape-symbol | `<Icon group="universalicons" name="heart-black-shape-symbol" />`
+| ![](./universalicons/hearts.svg) | universalicons | hearts | `<Icon group="universalicons" name="hearts" />`
+| ![](./universalicons/hierarchical-network.svg) | universalicons | hierarchical-network | `<Icon group="universalicons" name="hierarchical-network" />`
+| ![](./universalicons/home-black-shape.svg) | universalicons | home-black-shape | `<Icon group="universalicons" name="home-black-shape" />`
+| ![](./universalicons/home-black-silhouette.svg) | universalicons | home-black-silhouette | `<Icon group="universalicons" name="home-black-silhouette" />`
+| ![](./universalicons/home-building-symbol-variant.svg) | universalicons | home-building-symbol-variant | `<Icon group="universalicons" name="home-building-symbol-variant" />`
+| ![](./universalicons/home-interface-symbol-with-a-window-of-squares.svg) | universalicons | home-interface-symbol-with-a-window-of-squares | `<Icon group="universalicons" name="home-interface-symbol-with-a-window-of-squares" />`
+| ![](./universalicons/home-sign.svg) | universalicons | home-sign | `<Icon group="universalicons" name="home-sign" />`
+| ![](./universalicons/home.svg) | universalicons | home | `<Icon group="universalicons" name="home" />`
+| ![](./universalicons/horse-black-chess-piece-shape-from-side-view.svg) | universalicons | horse-black-chess-piece-shape-from-side-view | `<Icon group="universalicons" name="horse-black-chess-piece-shape-from-side-view" />`
+| ![](./universalicons/hot-drink-mug.svg) | universalicons | hot-drink-mug | `<Icon group="universalicons" name="hot-drink-mug" />`
+| ![](./universalicons/house-black-shape-for-home-interface-symbol.svg) | universalicons | house-black-shape-for-home-interface-symbol | `<Icon group="universalicons" name="house-black-shape-for-home-interface-symbol" />`
+| ![](./universalicons/house.svg) | universalicons | house | `<Icon group="universalicons" name="house" />`
+| ![](./universalicons/id-card-interface-symbol.svg) | universalicons | id-card-interface-symbol | `<Icon group="universalicons" name="id-card-interface-symbol" />`
+| ![](./universalicons/image-interface-symbol-with-a-landscape.svg) | universalicons | image-interface-symbol-with-a-landscape | `<Icon group="universalicons" name="image-interface-symbol-with-a-landscape" />`
+| ![](./universalicons/images-interface-symbol.svg) | universalicons | images-interface-symbol | `<Icon group="universalicons" name="images-interface-symbol" />`
+| ![](./universalicons/incoming-call-interface-symbol-with-telephone-auricular-and-left-arrow-pointing-to-it.svg) | universalicons | incoming-call-interface-symbol-with-telephone-auricular-and-left-arrow-pointing-to-it | `<Icon group="universalicons" name="incoming-call-interface-symbol-with-telephone-auricular-and-left-arrow-pointing-to-it" />`
+| ![](./universalicons/increase-volume-speaker-interface-symbol.svg) | universalicons | increase-volume-speaker-interface-symbol | `<Icon group="universalicons" name="increase-volume-speaker-interface-symbol" />`
+| ![](./universalicons/info-circular-interface-symbol.svg) | universalicons | info-circular-interface-symbol | `<Icon group="universalicons" name="info-circular-interface-symbol" />`
+| ![](./universalicons/information-interface-letter-symbol.svg) | universalicons | information-interface-letter-symbol | `<Icon group="universalicons" name="information-interface-letter-symbol" />`
+| ![](./universalicons/iphone.svg) | universalicons | iphone | `<Icon group="universalicons" name="iphone" />`
+| ![](./universalicons/joystick-games-control-tool.svg) | universalicons | joystick-games-control-tool | `<Icon group="universalicons" name="joystick-games-control-tool" />`
+| ![](./universalicons/jpg-picture-square-symbol-for-interface.svg) | universalicons | jpg-picture-square-symbol-for-interface | `<Icon group="universalicons" name="jpg-picture-square-symbol-for-interface" />`
+| ![](./universalicons/key-in-vertical-position-for-interface-security-symbol.svg) | universalicons | key-in-vertical-position-for-interface-security-symbol | `<Icon group="universalicons" name="key-in-vertical-position-for-interface-security-symbol" />`
+| ![](./universalicons/king-chess-piece-shape.svg) | universalicons | king-chess-piece-shape | `<Icon group="universalicons" name="king-chess-piece-shape" />`
+| ![](./universalicons/label-black-shape-rotated-to-left.svg) | universalicons | label-black-shape-rotated-to-left | `<Icon group="universalicons" name="label-black-shape-rotated-to-left" />`
+| ![](./universalicons/label.svg) | universalicons | label | `<Icon group="universalicons" name="label" />`
+| ![](./universalicons/laptop.svg) | universalicons | laptop | `<Icon group="universalicons" name="laptop" />`
+| ![](./universalicons/left-arrow-symbol-in-a-circle.svg) | universalicons | left-arrow-symbol-in-a-circle | `<Icon group="universalicons" name="left-arrow-symbol-in-a-circle" />`
+| ![](./universalicons/left-arrowhead-in-a-circle.svg) | universalicons | left-arrowhead-in-a-circle | `<Icon group="universalicons" name="left-arrowhead-in-a-circle" />`
+| ![](./universalicons/left-arrowhead.svg) | universalicons | left-arrowhead | `<Icon group="universalicons" name="left-arrowhead" />`
+| ![](./universalicons/left-arrowheads-couple.svg) | universalicons | left-arrowheads-couple | `<Icon group="universalicons" name="left-arrowheads-couple" />`
+| ![](./universalicons/left-arrowheads-triangles.svg) | universalicons | left-arrowheads-triangles | `<Icon group="universalicons" name="left-arrowheads-triangles" />`
+| ![](./universalicons/left-arrows.svg) | universalicons | left-arrows | `<Icon group="universalicons" name="left-arrows" />`
+| ![](./universalicons/letter-type-interface-symbol.svg) | universalicons | letter-type-interface-symbol | `<Icon group="universalicons" name="letter-type-interface-symbol" />`
+| ![](./universalicons/lifeline-signal.svg) | universalicons | lifeline-signal | `<Icon group="universalicons" name="lifeline-signal" />`
+| ![](./universalicons/link-interface-symbol.svg) | universalicons | link-interface-symbol | `<Icon group="universalicons" name="link-interface-symbol" />`
+| ![](./universalicons/list-interface-symbol.svg) | universalicons | list-interface-symbol | `<Icon group="universalicons" name="list-interface-symbol" />`
+| ![](./universalicons/lock-a-folder-interface-symbol.svg) | universalicons | lock-a-folder-interface-symbol | `<Icon group="universalicons" name="lock-a-folder-interface-symbol" />`
+| ![](./universalicons/lock-page-interface-symbol.svg) | universalicons | lock-page-interface-symbol | `<Icon group="universalicons" name="lock-page-interface-symbol" />`
+| ![](./universalicons/lock-rectangular-padlock-shape.svg) | universalicons | lock-rectangular-padlock-shape | `<Icon group="universalicons" name="lock-rectangular-padlock-shape" />`
+| ![](./universalicons/locked-open-folder-interface-symbol.svg) | universalicons | locked-open-folder-interface-symbol | `<Icon group="universalicons" name="locked-open-folder-interface-symbol" />`
+| ![](./universalicons/magnifying-glass-on-bars-graphic.svg) | universalicons | magnifying-glass-on-bars-graphic | `<Icon group="universalicons" name="magnifying-glass-on-bars-graphic" />`
+| ![](./universalicons/magnifying-glass-with-minus-sign.svg) | universalicons | magnifying-glass-with-minus-sign | `<Icon group="universalicons" name="magnifying-glass-with-minus-sign" />`
+| ![](./universalicons/magnifying-glass.svg) | universalicons | magnifying-glass | `<Icon group="universalicons" name="magnifying-glass" />`
+| ![](./universalicons/male-symbol.svg) | universalicons | male-symbol | `<Icon group="universalicons" name="male-symbol" />`
+| ![](./universalicons/males-group.svg) | universalicons | males-group | `<Icon group="universalicons" name="males-group" />`
+| ![](./universalicons/man-shape.svg) | universalicons | man-shape | `<Icon group="universalicons" name="man-shape" />`
+| ![](./universalicons/map-folded-paper.svg) | universalicons | map-folded-paper | `<Icon group="universalicons" name="map-folded-paper" />`
+| ![](./universalicons/marketing-viral.svg) | universalicons | marketing-viral | `<Icon group="universalicons" name="marketing-viral" />`
+| ![](./universalicons/maximal-volume-audio-interface-symbol-of-a-speaker-side-view-with-lines-representing-sound.svg) | universalicons | maximal-volume-audio-interface-symbol-of-a-speaker-side-view-with-lines-representing-sound | `<Icon group="universalicons" name="maximal-volume-audio-interface-symbol-of-a-speaker-side-view-with-lines-representing-sound" />`
+| ![](./universalicons/minus-pages-sign.svg) | universalicons | minus-pages-sign | `<Icon group="universalicons" name="minus-pages-sign" />`
+| ![](./universalicons/minus-sign-in-a-circle.svg) | universalicons | minus-sign-in-a-circle | `<Icon group="universalicons" name="minus-sign-in-a-circle" />`
+| ![](./universalicons/minus-sign-of-horizontal-bar.svg) | universalicons | minus-sign-of-horizontal-bar | `<Icon group="universalicons" name="minus-sign-of-horizontal-bar" />`
+| ![](./universalicons/money-eyes-on-square-face.svg) | universalicons | money-eyes-on-square-face | `<Icon group="universalicons" name="money-eyes-on-square-face" />`
+| ![](./universalicons/money-face.svg) | universalicons | money-face | `<Icon group="universalicons" name="money-face" />`
+| ![](./universalicons/monitor-tool-symbol.svg) | universalicons | monitor-tool-symbol | `<Icon group="universalicons" name="monitor-tool-symbol" />`
+| ![](./universalicons/monitor-with-stats-graphic.svg) | universalicons | monitor-with-stats-graphic | `<Icon group="universalicons" name="monitor-with-stats-graphic" />`
+| ![](./universalicons/monthly-calendar.svg) | universalicons | monthly-calendar | `<Icon group="universalicons" name="monthly-calendar" />`
+| ![](./universalicons/movie-camera-interface-symbol-with-play-triangle.svg) | universalicons | movie-camera-interface-symbol-with-play-triangle | `<Icon group="universalicons" name="movie-camera-interface-symbol-with-play-triangle" />`
+| ![](./universalicons/movie-camera-silhouette.svg) | universalicons | movie-camera-silhouette | `<Icon group="universalicons" name="movie-camera-silhouette" />`
+| ![](./universalicons/movie-camera.svg) | universalicons | movie-camera | `<Icon group="universalicons" name="movie-camera" />`
+| ![](./universalicons/movie-film-reel.svg) | universalicons | movie-film-reel | `<Icon group="universalicons" name="movie-film-reel" />`
+| ![](./universalicons/movie-interface-symbol.svg) | universalicons | movie-interface-symbol | `<Icon group="universalicons" name="movie-interface-symbol" />`
+| ![](./universalicons/movie-photogram.svg) | universalicons | movie-photogram | `<Icon group="universalicons" name="movie-photogram" />`
+| ![](./universalicons/movie-square-sign.svg) | universalicons | movie-square-sign | `<Icon group="universalicons" name="movie-square-sign" />`
+| ![](./universalicons/music-note.svg) | universalicons | music-note | `<Icon group="universalicons" name="music-note" />`
+| ![](./universalicons/music-square-symbol.svg) | universalicons | music-square-symbol | `<Icon group="universalicons" name="music-square-symbol" />`
+| ![](./universalicons/musical-note-symbol-1.svg) | universalicons | musical-note-symbol-1 | `<Icon group="universalicons" name="musical-note-symbol-1" />`
+| ![](./universalicons/musical-note-symbol.svg) | universalicons | musical-note-symbol | `<Icon group="universalicons" name="musical-note-symbol" />`
+| ![](./universalicons/musical-note-with-song-name-lines.svg) | universalicons | musical-note-with-song-name-lines | `<Icon group="universalicons" name="musical-note-with-song-name-lines" />`
+| ![](./universalicons/musical-notes-sign.svg) | universalicons | musical-notes-sign | `<Icon group="universalicons" name="musical-notes-sign" />`
+| ![](./universalicons/mute-interface-audio-symbol-of-a-speaker-with-a-cross.svg) | universalicons | mute-interface-audio-symbol-of-a-speaker-with-a-cross | `<Icon group="universalicons" name="mute-interface-audio-symbol-of-a-speaker-with-a-cross" />`
+| ![](./universalicons/navigate-to-end-right-arrow-symbol-with-vertical-bar.svg) | universalicons | navigate-to-end-right-arrow-symbol-with-vertical-bar | `<Icon group="universalicons" name="navigate-to-end-right-arrow-symbol-with-vertical-bar" />`
+| ![](./universalicons/navigate-to-start-letter-k-sign.svg) | universalicons | navigate-to-start-letter-k-sign | `<Icon group="universalicons" name="navigate-to-start-letter-k-sign" />`
+| ![](./universalicons/network-connection.svg) | universalicons | network-connection | `<Icon group="universalicons" name="network-connection" />`
+| ![](./universalicons/new-tag.svg) | universalicons | new-tag | `<Icon group="universalicons" name="new-tag" />`
+| ![](./universalicons/news-interface-symbol.svg) | universalicons | news-interface-symbol | `<Icon group="universalicons" name="news-interface-symbol" />`
+| ![](./universalicons/no-water-symbol-od-a-drop-with-a-slash.svg) | universalicons | no-water-symbol-od-a-drop-with-a-slash | `<Icon group="universalicons" name="no-water-symbol-od-a-drop-with-a-slash" />`
+| ![](./universalicons/open-black-folder-interface-symbol.svg) | universalicons | open-black-folder-interface-symbol | `<Icon group="universalicons" name="open-black-folder-interface-symbol" />`
+| ![](./universalicons/open-folder-with-minus-sign.svg) | universalicons | open-folder-with-minus-sign | `<Icon group="universalicons" name="open-folder-with-minus-sign" />`
+| ![](./universalicons/open-folder-with-plus-sign.svg) | universalicons | open-folder-with-plus-sign | `<Icon group="universalicons" name="open-folder-with-plus-sign" />`
+| ![](./universalicons/open-folder-with-verification-sign.svg) | universalicons | open-folder-with-verification-sign | `<Icon group="universalicons" name="open-folder-with-verification-sign" />`
+| ![](./universalicons/open-hanging-signal.svg) | universalicons | open-hanging-signal | `<Icon group="universalicons" name="open-hanging-signal" />`
+| ![](./universalicons/opened-back-envelope-with-down-arrow.svg) | universalicons | opened-back-envelope-with-down-arrow | `<Icon group="universalicons" name="opened-back-envelope-with-down-arrow" />`
+| ![](./universalicons/opened-envelope-back-with-up-arrow.svg) | universalicons | opened-envelope-back-with-up-arrow | `<Icon group="universalicons" name="opened-envelope-back-with-up-arrow" />`
+| ![](./universalicons/oval-black-speech-bubble.svg) | universalicons | oval-black-speech-bubble | `<Icon group="universalicons" name="oval-black-speech-bubble" />`
+| ![](./universalicons/page-code-symbol.svg) | universalicons | page-code-symbol | `<Icon group="universalicons" name="page-code-symbol" />`
+| ![](./universalicons/page-interface-symbol.svg) | universalicons | page-interface-symbol | `<Icon group="universalicons" name="page-interface-symbol" />`
+| ![](./universalicons/page-symbol-1.svg) | universalicons | page-symbol-1 | `<Icon group="universalicons" name="page-symbol-1" />`
+| ![](./universalicons/page-symbol.svg) | universalicons | page-symbol | `<Icon group="universalicons" name="page-symbol" />`
+| ![](./universalicons/pages-interface-symbol-of-black-squares.svg) | universalicons | pages-interface-symbol-of-black-squares | `<Icon group="universalicons" name="pages-interface-symbol-of-black-squares" />`
+| ![](./universalicons/paint-roller-silhouette.svg) | universalicons | paint-roller-silhouette | `<Icon group="universalicons" name="paint-roller-silhouette" />`
+| ![](./universalicons/paragraph-justified-option-symbol-for-interface-of-five-parallel-horizontal-lines.svg) | universalicons | paragraph-justified-option-symbol-for-interface-of-five-parallel-horizontal-lines | `<Icon group="universalicons" name="paragraph-justified-option-symbol-for-interface-of-five-parallel-horizontal-lines" />`
+| ![](./universalicons/paragraph-left-alignment-interface-symbol.svg) | universalicons | paragraph-left-alignment-interface-symbol | `<Icon group="universalicons" name="paragraph-left-alignment-interface-symbol" />`
+| ![](./universalicons/paragraph-left-alignment-symbol-for-interface.svg) | universalicons | paragraph-left-alignment-symbol-for-interface | `<Icon group="universalicons" name="paragraph-left-alignment-symbol-for-interface" />`
+| ![](./universalicons/pause-symbol.svg) | universalicons | pause-symbol | `<Icon group="universalicons" name="pause-symbol" />`
+| ![](./universalicons/pawn-black-silhouette.svg) | universalicons | pawn-black-silhouette | `<Icon group="universalicons" name="pawn-black-silhouette" />`
+| ![](./universalicons/peace-symbol.svg) | universalicons | peace-symbol | `<Icon group="universalicons" name="peace-symbol" />`
+| ![](./universalicons/pen-feather-black-diagonal-shape-of-a-bird-wing.svg) | universalicons | pen-feather-black-diagonal-shape-of-a-bird-wing | `<Icon group="universalicons" name="pen-feather-black-diagonal-shape-of-a-bird-wing" />`
+| ![](./universalicons/pen-point.svg) | universalicons | pen-point | `<Icon group="universalicons" name="pen-point" />`
+| ![](./universalicons/pen-tool-on-diagonal-position.svg) | universalicons | pen-tool-on-diagonal-position | `<Icon group="universalicons" name="pen-tool-on-diagonal-position" />`
+| ![](./universalicons/pencil-in-diagonal-position-black-symbol-for-interface.svg) | universalicons | pencil-in-diagonal-position-black-symbol-for-interface | `<Icon group="universalicons" name="pencil-in-diagonal-position-black-symbol-for-interface" />`
+| ![](./universalicons/pencil-on-a-square-outline.svg) | universalicons | pencil-on-a-square-outline | `<Icon group="universalicons" name="pencil-on-a-square-outline" />`
+| ![](./universalicons/pencil-tool-symbol-in-diagonal-position-for-interface.svg) | universalicons | pencil-tool-symbol-in-diagonal-position-for-interface | `<Icon group="universalicons" name="pencil-tool-symbol-in-diagonal-position-for-interface" />`
+| ![](./universalicons/pencil-write-interface-symbol.svg) | universalicons | pencil-write-interface-symbol | `<Icon group="universalicons" name="pencil-write-interface-symbol" />`
+| ![](./universalicons/percentage-symbol.svg) | universalicons | percentage-symbol | `<Icon group="universalicons" name="percentage-symbol" />`
+| ![](./universalicons/phone-auricular-symbol.svg) | universalicons | phone-auricular-symbol | `<Icon group="universalicons" name="phone-auricular-symbol" />`
+| ![](./universalicons/phone-cabin-or-small-building-and-a-trash-can.svg) | universalicons | phone-cabin-or-small-building-and-a-trash-can | `<Icon group="universalicons" name="phone-cabin-or-small-building-and-a-trash-can" />`
+| ![](./universalicons/phone-digital-communication-tool.svg) | universalicons | phone-digital-communication-tool | `<Icon group="universalicons" name="phone-digital-communication-tool" />`
+| ![](./universalicons/photo-camera-interface-symbol-for-button.svg) | universalicons | photo-camera-interface-symbol-for-button | `<Icon group="universalicons" name="photo-camera-interface-symbol-for-button" />`
+| ![](./universalicons/piano-square-symbol.svg) | universalicons | piano-square-symbol | `<Icon group="universalicons" name="piano-square-symbol" />`
+| ![](./universalicons/pie-graphic-symbol-for-business-stats.svg) | universalicons | pie-graphic-symbol-for-business-stats | `<Icon group="universalicons" name="pie-graphic-symbol-for-business-stats" />`
+| ![](./universalicons/pie-graphic.svg) | universalicons | pie-graphic | `<Icon group="universalicons" name="pie-graphic" />`
+| ![](./universalicons/placeholders.svg) | universalicons | placeholders | `<Icon group="universalicons" name="placeholders" />`
+| ![](./universalicons/planet-earth-1.svg) | universalicons | planet-earth-1 | `<Icon group="universalicons" name="planet-earth-1" />`
+| ![](./universalicons/planet-earth-grid-symbol.svg) | universalicons | planet-earth-grid-symbol | `<Icon group="universalicons" name="planet-earth-grid-symbol" />`
+| ![](./universalicons/planet-earth.svg) | universalicons | planet-earth | `<Icon group="universalicons" name="planet-earth" />`
+| ![](./universalicons/plug.svg) | universalicons | plug | `<Icon group="universalicons" name="plug" />`
+| ![](./universalicons/plus-page-interface-add-symbol.svg) | universalicons | plus-page-interface-add-symbol | `<Icon group="universalicons" name="plus-page-interface-add-symbol" />`
+| ![](./universalicons/plus-sign-in-a-dark-cloud-internet-symbol.svg) | universalicons | plus-sign-in-a-dark-cloud-internet-symbol | `<Icon group="universalicons" name="plus-sign-in-a-dark-cloud-internet-symbol" />`
+| ![](./universalicons/plus-sign.svg) | universalicons | plus-sign | `<Icon group="universalicons" name="plus-sign" />`
+| ![](./universalicons/plus-zoom-magnifying-glass-interface-symbol.svg) | universalicons | plus-zoom-magnifying-glass-interface-symbol | `<Icon group="universalicons" name="plus-zoom-magnifying-glass-interface-symbol" />`
+| ![](./universalicons/pound-coin.svg) | universalicons | pound-coin | `<Icon group="universalicons" name="pound-coin" />`
+| ![](./universalicons/power.svg) | universalicons | power | `<Icon group="universalicons" name="power" />`
+| ![](./universalicons/queen-chess-piece-black-shape.svg) | universalicons | queen-chess-piece-black-shape | `<Icon group="universalicons" name="queen-chess-piece-black-shape" />`
+| ![](./universalicons/redo-arrow-symbol.svg) | universalicons | redo-arrow-symbol | `<Icon group="universalicons" name="redo-arrow-symbol" />`
+| ![](./universalicons/rent-hanging-signal.svg) | universalicons | rent-hanging-signal | `<Icon group="universalicons" name="rent-hanging-signal" />`
+| ![](./universalicons/retro-photo-camera-symbol-of-square-shape.svg) | universalicons | retro-photo-camera-symbol-of-square-shape | `<Icon group="universalicons" name="retro-photo-camera-symbol-of-square-shape" />`
+| ![](./universalicons/right-arrow-in-a-circle.svg) | universalicons | right-arrow-in-a-circle | `<Icon group="universalicons" name="right-arrow-in-a-circle" />`
+| ![](./universalicons/right-arrow.svg) | universalicons | right-arrow | `<Icon group="universalicons" name="right-arrow" />`
+| ![](./universalicons/right-arrowhead-black-triangular-shape.svg) | universalicons | right-arrowhead-black-triangular-shape | `<Icon group="universalicons" name="right-arrowhead-black-triangular-shape" />`
+| ![](./universalicons/right-arrowhead-in-a-circle.svg) | universalicons | right-arrowhead-in-a-circle | `<Icon group="universalicons" name="right-arrowhead-in-a-circle" />`
+| ![](./universalicons/right-arrowhead.svg) | universalicons | right-arrowhead | `<Icon group="universalicons" name="right-arrowhead" />`
+| ![](./universalicons/right-arrowheads-1.svg) | universalicons | right-arrowheads-1 | `<Icon group="universalicons" name="right-arrowheads-1" />`
+| ![](./universalicons/right-arrowheads.svg) | universalicons | right-arrowheads | `<Icon group="universalicons" name="right-arrowheads" />`
+| ![](./universalicons/right-arrows.svg) | universalicons | right-arrows | `<Icon group="universalicons" name="right-arrows" />`
+| ![](./universalicons/right-triangular-arrowhead.svg) | universalicons | right-triangular-arrowhead | `<Icon group="universalicons" name="right-triangular-arrowhead" />`
+| ![](./universalicons/sad-emoticon-square-face.svg) | universalicons | sad-emoticon-square-face | `<Icon group="universalicons" name="sad-emoticon-square-face" />`
+| ![](./universalicons/sad-face-variant.svg) | universalicons | sad-face-variant | `<Icon group="universalicons" name="sad-face-variant" />`
+| ![](./universalicons/sad-face.svg) | universalicons | sad-face | `<Icon group="universalicons" name="sad-face" />`
+| ![](./universalicons/sale.svg) | universalicons | sale | `<Icon group="universalicons" name="sale" />`
+| ![](./universalicons/sd-card-rectangular-shape.svg) | universalicons | sd-card-rectangular-shape | `<Icon group="universalicons" name="sd-card-rectangular-shape" />`
+| ![](./universalicons/shield-black-shape.svg) | universalicons | shield-black-shape | `<Icon group="universalicons" name="shield-black-shape" />`
+| ![](./universalicons/shock-face-of-square-shape-with-opened-oval-mouth.svg) | universalicons | shock-face-of-square-shape-with-opened-oval-mouth | `<Icon group="universalicons" name="shock-face-of-square-shape-with-opened-oval-mouth" />`
+| ![](./universalicons/shock-face-of-square-shape.svg) | universalicons | shock-face-of-square-shape | `<Icon group="universalicons" name="shock-face-of-square-shape" />`
+| ![](./universalicons/shocked-face-of-square-shape.svg) | universalicons | shocked-face-of-square-shape | `<Icon group="universalicons" name="shocked-face-of-square-shape" />`
+| ![](./universalicons/shopping-trolley.svg) | universalicons | shopping-trolley | `<Icon group="universalicons" name="shopping-trolley" />`
+| ![](./universalicons/shuffle-arrows-symbol-for-interface.svg) | universalicons | shuffle-arrows-symbol-for-interface | `<Icon group="universalicons" name="shuffle-arrows-symbol-for-interface" />`
+| ![](./universalicons/silent-face-with-a-cross-mouth-shape.svg) | universalicons | silent-face-with-a-cross-mouth-shape | `<Icon group="universalicons" name="silent-face-with-a-cross-mouth-shape" />`
+| ![](./universalicons/smile-face-of-square-shape-with-closed-happy-eyes.svg) | universalicons | smile-face-of-square-shape-with-closed-happy-eyes | `<Icon group="universalicons" name="smile-face-of-square-shape-with-closed-happy-eyes" />`
+| ![](./universalicons/smile-face-with-sunglasses.svg) | universalicons | smile-face-with-sunglasses | `<Icon group="universalicons" name="smile-face-with-sunglasses" />`
+| ![](./universalicons/smile-face.svg) | universalicons | smile-face | `<Icon group="universalicons" name="smile-face" />`
+| ![](./universalicons/smile-square-face.svg) | universalicons | smile-square-face | `<Icon group="universalicons" name="smile-square-face" />`
+| ![](./universalicons/smiley-in-love.svg) | universalicons | smiley-in-love | `<Icon group="universalicons" name="smiley-in-love" />`
+| ![](./universalicons/smiley-square-face-with-sunglasses.svg) | universalicons | smiley-square-face-with-sunglasses | `<Icon group="universalicons" name="smiley-square-face-with-sunglasses" />`
+| ![](./universalicons/spade-symbol.svg) | universalicons | spade-symbol | `<Icon group="universalicons" name="spade-symbol" />`
+| ![](./universalicons/speaker-audio-tool-symbol.svg) | universalicons | speaker-audio-tool-symbol | `<Icon group="universalicons" name="speaker-audio-tool-symbol" />`
+| ![](./universalicons/speedometer-circular-tool-symbol-for-speed-control-on-vehicles.svg) | universalicons | speedometer-circular-tool-symbol-for-speed-control-on-vehicles | `<Icon group="universalicons" name="speedometer-circular-tool-symbol-for-speed-control-on-vehicles" />`
+| ![](./universalicons/square-of-rounded-corners.svg) | universalicons | square-of-rounded-corners | `<Icon group="universalicons" name="square-of-rounded-corners" />`
+| ![](./universalicons/square-with-verification-sign.svg) | universalicons | square-with-verification-sign | `<Icon group="universalicons" name="square-with-verification-sign" />`
+| ![](./universalicons/star-black-fivepointed-shape.svg) | universalicons | star-black-fivepointed-shape | `<Icon group="universalicons" name="star-black-fivepointed-shape" />`
+| ![](./universalicons/star-tag-black-shape.svg) | universalicons | star-tag-black-shape | `<Icon group="universalicons" name="star-tag-black-shape" />`
+| ![](./universalicons/stats-down.svg) | universalicons | stats-down | `<Icon group="universalicons" name="stats-down" />`
+| ![](./universalicons/stats-graphic-1.svg) | universalicons | stats-graphic-1 | `<Icon group="universalicons" name="stats-graphic-1" />`
+| ![](./universalicons/stats-graphic.svg) | universalicons | stats-graphic | `<Icon group="universalicons" name="stats-graphic" />`
+| ![](./universalicons/stats-up-graphic.svg) | universalicons | stats-up-graphic | `<Icon group="universalicons" name="stats-up-graphic" />`
+| ![](./universalicons/stats.svg) | universalicons | stats | `<Icon group="universalicons" name="stats" />`
+| ![](./universalicons/sterling-pound-sign-of-money.svg) | universalicons | sterling-pound-sign-of-money | `<Icon group="universalicons" name="sterling-pound-sign-of-money" />`
+| ![](./universalicons/sterling-pounds-coin.svg) | universalicons | sterling-pounds-coin | `<Icon group="universalicons" name="sterling-pounds-coin" />`
+| ![](./universalicons/stethoscope-medical-tool.svg) | universalicons | stethoscope-medical-tool | `<Icon group="universalicons" name="stethoscope-medical-tool" />`
+| ![](./universalicons/straight-face.svg) | universalicons | straight-face | `<Icon group="universalicons" name="straight-face" />`
+| ![](./universalicons/suitcases.svg) | universalicons | suitcases | `<Icon group="universalicons" name="suitcases" />`
+| ![](./universalicons/sun-shape.svg) | universalicons | sun-shape | `<Icon group="universalicons" name="sun-shape" />`
+| ![](./universalicons/surprised-face.svg) | universalicons | surprised-face | `<Icon group="universalicons" name="surprised-face" />`
+| ![](./universalicons/tablet-tool.svg) | universalicons | tablet-tool | `<Icon group="universalicons" name="tablet-tool" />`
+| ![](./universalicons/tag-black-shape.svg) | universalicons | tag-black-shape | `<Icon group="universalicons" name="tag-black-shape" />`
+| ![](./universalicons/tags-shapes.svg) | universalicons | tags-shapes | `<Icon group="universalicons" name="tags-shapes" />`
+| ![](./universalicons/talk-bubble-with-plus-sign.svg) | universalicons | talk-bubble-with-plus-sign | `<Icon group="universalicons" name="talk-bubble-with-plus-sign" />`
+| ![](./universalicons/talk-face-smiley.svg) | universalicons | talk-face-smiley | `<Icon group="universalicons" name="talk-face-smiley" />`
+| ![](./universalicons/talk-oval-bubble-with-minus-sign.svg) | universalicons | talk-oval-bubble-with-minus-sign | `<Icon group="universalicons" name="talk-oval-bubble-with-minus-sign" />`
+| ![](./universalicons/text-document-add-button-with-plus-sign.svg) | universalicons | text-document-add-button-with-plus-sign | `<Icon group="universalicons" name="text-document-add-button-with-plus-sign" />`
+| ![](./universalicons/text-document-square-rounded-shape-with-minus-sign.svg) | universalicons | text-document-square-rounded-shape-with-minus-sign | `<Icon group="universalicons" name="text-document-square-rounded-shape-with-minus-sign" />`
+| ![](./universalicons/tower-black-chess-piece-shape.svg) | universalicons | tower-black-chess-piece-shape | `<Icon group="universalicons" name="tower-black-chess-piece-shape" />`
+| ![](./universalicons/trash-black-shape.svg) | universalicons | trash-black-shape | `<Icon group="universalicons" name="trash-black-shape" />`
+| ![](./universalicons/trash-can-with-cover-from-side-view.svg) | universalicons | trash-can-with-cover-from-side-view | `<Icon group="universalicons" name="trash-can-with-cover-from-side-view" />`
+| ![](./universalicons/turn-left-arrow-symbol.svg) | universalicons | turn-left-arrow-symbol | `<Icon group="universalicons" name="turn-left-arrow-symbol" />`
+| ![](./universalicons/tv-monitor-tool.svg) | universalicons | tv-monitor-tool | `<Icon group="universalicons" name="tv-monitor-tool" />`
+| ![](./universalicons/two-movie-frames.svg) | universalicons | two-movie-frames | `<Icon group="universalicons" name="two-movie-frames" />`
+| ![](./universalicons/undo-circular-arrow.svg) | universalicons | undo-circular-arrow | `<Icon group="universalicons" name="undo-circular-arrow" />`
+| ![](./universalicons/university-graduates-cap-silhouette.svg) | universalicons | university-graduates-cap-silhouette | `<Icon group="universalicons" name="university-graduates-cap-silhouette" />`
+| ![](./universalicons/unlock-padlock-interface-silhouette-symbol.svg) | universalicons | unlock-padlock-interface-silhouette-symbol | `<Icon group="universalicons" name="unlock-padlock-interface-silhouette-symbol" />`
+| ![](./universalicons/unlock-page-symbol.svg) | universalicons | unlock-page-symbol | `<Icon group="universalicons" name="unlock-page-symbol" />`
+| ![](./universalicons/up-arrow-1.svg) | universalicons | up-arrow-1 | `<Icon group="universalicons" name="up-arrow-1" />`
+| ![](./universalicons/up-arrow-symbol-in-a-circle.svg) | universalicons | up-arrow-symbol-in-a-circle | `<Icon group="universalicons" name="up-arrow-symbol-in-a-circle" />`
+| ![](./universalicons/up-arrow.svg) | universalicons | up-arrow | `<Icon group="universalicons" name="up-arrow" />`
+| ![](./universalicons/up-arrowhead-in-a-circle.svg) | universalicons | up-arrowhead-in-a-circle | `<Icon group="universalicons" name="up-arrowhead-in-a-circle" />`
+| ![](./universalicons/up-arrowheads.svg) | universalicons | up-arrowheads | `<Icon group="universalicons" name="up-arrowheads" />`
+| ![](./universalicons/up-arrows.svg) | universalicons | up-arrows | `<Icon group="universalicons" name="up-arrows" />`
+| ![](./universalicons/upload.svg) | universalicons | upload | `<Icon group="universalicons" name="upload" />`
+| ![](./universalicons/usb-tool.svg) | universalicons | usb-tool | `<Icon group="universalicons" name="usb-tool" />`
+| ![](./universalicons/user-check-interface-symbol.svg) | universalicons | user-check-interface-symbol | `<Icon group="universalicons" name="user-check-interface-symbol" />`
+| ![](./universalicons/user-male-black-shape-with-plus-sign.svg) | universalicons | user-male-black-shape-with-plus-sign | `<Icon group="universalicons" name="user-male-black-shape-with-plus-sign" />`
+| ![](./universalicons/user-symbol.svg) | universalicons | user-symbol | `<Icon group="universalicons" name="user-symbol" />`
+| ![](./universalicons/user-with-cross-sign.svg) | universalicons | user-with-cross-sign | `<Icon group="universalicons" name="user-with-cross-sign" />`
+| ![](./universalicons/user-with-minus-sign-1.svg) | universalicons | user-with-minus-sign-1 | `<Icon group="universalicons" name="user-with-minus-sign-1" />`
+| ![](./universalicons/user-with-minus-sign.svg) | universalicons | user-with-minus-sign | `<Icon group="universalicons" name="user-with-minus-sign" />`
+| ![](./universalicons/user-with-plus-sign.svg) | universalicons | user-with-plus-sign | `<Icon group="universalicons" name="user-with-plus-sign" />`
+| ![](./universalicons/users-sign.svg) | universalicons | users-sign | `<Icon group="universalicons" name="users-sign" />`
+| ![](./universalicons/usher-1.svg) | universalicons | usher-1 | `<Icon group="universalicons" name="usher-1" />`
+| ![](./universalicons/usher-2.svg) | universalicons | usher-2 | `<Icon group="universalicons" name="usher-2" />`
+| ![](./universalicons/usher-man-with-tie.svg) | universalicons | usher-man-with-tie | `<Icon group="universalicons" name="usher-man-with-tie" />`
+| ![](./universalicons/usher-shape.svg) | universalicons | usher-shape | `<Icon group="universalicons" name="usher-shape" />`
+| ![](./universalicons/usher.svg) | universalicons | usher | `<Icon group="universalicons" name="usher" />`
+| ![](./universalicons/video-camera-black-silhouette-symbol.svg) | universalicons | video-camera-black-silhouette-symbol | `<Icon group="universalicons" name="video-camera-black-silhouette-symbol" />`
+| ![](./universalicons/warning-exclamation-sign-in-a-circle.svg) | universalicons | warning-exclamation-sign-in-a-circle | `<Icon group="universalicons" name="warning-exclamation-sign-in-a-circle" />`
+| ![](./universalicons/warning-page-symbol.svg) | universalicons | warning-page-symbol | `<Icon group="universalicons" name="warning-page-symbol" />`
+| ![](./universalicons/water-drop-black-shape.svg) | universalicons | water-drop-black-shape | `<Icon group="universalicons" name="water-drop-black-shape" />`
+| ![](./universalicons/water-drop-shape-outline.svg) | universalicons | water-drop-shape-outline | `<Icon group="universalicons" name="water-drop-shape-outline" />`
+| ![](./universalicons/web-square-and-lines-symbol.svg) | universalicons | web-square-and-lines-symbol | `<Icon group="universalicons" name="web-square-and-lines-symbol" />`
+| ![](./universalicons/wifi-interface-symbol.svg) | universalicons | wifi-interface-symbol | `<Icon group="universalicons" name="wifi-interface-symbol" />`
+| ![](./universalicons/window-of-four-rounded-squares.svg) | universalicons | window-of-four-rounded-squares | `<Icon group="universalicons" name="window-of-four-rounded-squares" />`
+| ![](./universalicons/wink-circular-face-symbol.svg) | universalicons | wink-circular-face-symbol | `<Icon group="universalicons" name="wink-circular-face-symbol" />`
+| ![](./universalicons/winking-smiling-face.svg) | universalicons | winking-smiling-face | `<Icon group="universalicons" name="winking-smiling-face" />`
+| ![](./universalicons/yen-sign.svg) | universalicons | yen-sign | `<Icon group="universalicons" name="yen-sign" />`

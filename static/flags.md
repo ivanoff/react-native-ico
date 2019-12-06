@@ -1,264 +1,264 @@
 ## flags
 
-image | group | name | usage
---|--|--
-![](./flags/001-ethiopia.svg) | flags | ethiopia | `<Icon group="flags" name="ethiopia" />`
-![](./flags/002-oman.svg) | flags | oman | `<Icon group="flags" name="oman" />`
-![](./flags/003-tanzania.svg) | flags | tanzania | `<Icon group="flags" name="tanzania" />`
-![](./flags/004-slovenia.svg) | flags | slovenia | `<Icon group="flags" name="slovenia" />`
-![](./flags/005-puerto-rico.svg) | flags | puerto-rico | `<Icon group="flags" name="puerto-rico" />`
-![](./flags/006-mozambique.svg) | flags | mozambique | `<Icon group="flags" name="mozambique" />`
-![](./flags/007-iraq.svg) | flags | iraq | `<Icon group="flags" name="iraq" />`
-![](./flags/008-lebanon.svg) | flags | lebanon | `<Icon group="flags" name="lebanon" />`
-![](./flags/009-uganda.svg) | flags | uganda | `<Icon group="flags" name="uganda" />`
-![](./flags/010-nigeria.svg) | flags | nigeria | `<Icon group="flags" name="nigeria" />`
-![](./flags/011-italy.svg) | flags | italy | `<Icon group="flags" name="italy" />`
-![](./flags/012-malta.svg) | flags | malta | `<Icon group="flags" name="malta" />`
-![](./flags/013-tunisia.svg) | flags | tunisia | `<Icon group="flags" name="tunisia" />`
-![](./flags/014-nicaragua.svg) | flags | nicaragua | `<Icon group="flags" name="nicaragua" />`
-![](./flags/015-el-salvador.svg) | flags | el-salvador | `<Icon group="flags" name="el-salvador" />`
-![](./flags/016-zambia.svg) | flags | zambia | `<Icon group="flags" name="zambia" />`
-![](./flags/017-wales.svg) | flags | wales | `<Icon group="flags" name="wales" />`
-![](./flags/018-dominican-republic.svg) | flags | dominican-republic | `<Icon group="flags" name="dominican-republic" />`
-![](./flags/019-qatar.svg) | flags | qatar | `<Icon group="flags" name="qatar" />`
-![](./flags/020-namibia.svg) | flags | namibia | `<Icon group="flags" name="namibia" />`
-![](./flags/021-mauritius.svg) | flags | mauritius | `<Icon group="flags" name="mauritius" />`
-![](./flags/022-european-union.svg) | flags | european-union | `<Icon group="flags" name="european-union" />`
-![](./flags/023-luxembourg.svg) | flags | luxembourg | `<Icon group="flags" name="luxembourg" />`
-![](./flags/024-hawaii.svg) | flags | hawaii | `<Icon group="flags" name="hawaii" />`
-![](./flags/025-lithuania.svg) | flags | lithuania | `<Icon group="flags" name="lithuania" />`
-![](./flags/026-jamaica.svg) | flags | jamaica | `<Icon group="flags" name="jamaica" />`
-![](./flags/027-honduras.svg) | flags | honduras | `<Icon group="flags" name="honduras" />`
-![](./flags/028-myanmar.svg) | flags | myanmar | `<Icon group="flags" name="myanmar" />`
-![](./flags/029-kenya.svg) | flags | kenya | `<Icon group="flags" name="kenya" />`
-![](./flags/030-cyprus.svg) | flags | cyprus | `<Icon group="flags" name="cyprus" />`
-![](./flags/031-pakistan.svg) | flags | pakistan | `<Icon group="flags" name="pakistan" />`
-![](./flags/032-latvia.svg) | flags | latvia | `<Icon group="flags" name="latvia" />`
-![](./flags/033-japan.svg) | flags | japan | `<Icon group="flags" name="japan" />`
-![](./flags/034-kazakhstan.svg) | flags | kazakhstan | `<Icon group="flags" name="kazakhstan" />`
-![](./flags/035-serbia.svg) | flags | serbia | `<Icon group="flags" name="serbia" />`
-![](./flags/036-scotland.svg) | flags | scotland | `<Icon group="flags" name="scotland" />`
-![](./flags/037-north-korea.svg) | flags | north-korea | `<Icon group="flags" name="north-korea" />`
-![](./flags/038-uruguay.svg) | flags | uruguay | `<Icon group="flags" name="uruguay" />`
-![](./flags/039-syria.svg) | flags | syria | `<Icon group="flags" name="syria" />`
-![](./flags/040-guatemala.svg) | flags | guatemala | `<Icon group="flags" name="guatemala" />`
-![](./flags/041-iceland.svg) | flags | iceland | `<Icon group="flags" name="iceland" />`
-![](./flags/042-jordan.svg) | flags | jordan | `<Icon group="flags" name="jordan" />`
-![](./flags/043-monaco.svg) | flags | monaco | `<Icon group="flags" name="monaco" />`
-![](./flags/044-spain.svg) | flags | spain | `<Icon group="flags" name="spain" />`
-![](./flags/045-slovakia.svg) | flags | slovakia | `<Icon group="flags" name="slovakia" />`
-![](./flags/046-united-nations.svg) | flags | united-nations | `<Icon group="flags" name="united-nations" />`
-![](./flags/047-panama.svg) | flags | panama | `<Icon group="flags" name="panama" />`
-![](./flags/048-new-zealand.svg) | flags | new-zealand | `<Icon group="flags" name="new-zealand" />`
-![](./flags/049-ecuador.svg) | flags | ecuador | `<Icon group="flags" name="ecuador" />`
-![](./flags/050-romania.svg) | flags | romania | `<Icon group="flags" name="romania" />`
-![](./flags/051-chile.svg) | flags | chile | `<Icon group="flags" name="chile" />`
-![](./flags/052-finland.svg) | flags | finland | `<Icon group="flags" name="finland" />`
-![](./flags/053-hungary.svg) | flags | hungary | `<Icon group="flags" name="hungary" />`
-![](./flags/054-belgium.svg) | flags | belgium | `<Icon group="flags" name="belgium" />`
-![](./flags/055-south-korea.svg) | flags | south-korea | `<Icon group="flags" name="south-korea" />`
-![](./flags/056-malaysia.svg) | flags | malaysia | `<Icon group="flags" name="malaysia" />`
-![](./flags/057-venezuela.svg) | flags | venezuela | `<Icon group="flags" name="venezuela" />`
-![](./flags/058-norway.svg) | flags | norway | `<Icon group="flags" name="norway" />`
-![](./flags/059-saudi-arabia.svg) | flags | saudi-arabia | `<Icon group="flags" name="saudi-arabia" />`
-![](./flags/060-israel.svg) | flags | israel | `<Icon group="flags" name="israel" />`
-![](./flags/061-czech-republic.svg) | flags | czech-republic | `<Icon group="flags" name="czech-republic" />`
-![](./flags/062-colombia.svg) | flags | colombia | `<Icon group="flags" name="colombia" />`
-![](./flags/063-iran.svg) | flags | iran | `<Icon group="flags" name="iran" />`
-![](./flags/064-argentina.svg) | flags | argentina | `<Icon group="flags" name="argentina" />`
-![](./flags/065-ukraine.svg) | flags | ukraine | `<Icon group="flags" name="ukraine" />`
-![](./flags/066-germany.svg) | flags | germany | `<Icon group="flags" name="germany" />`
-![](./flags/067-hong-kong.svg) | flags | hong-kong | `<Icon group="flags" name="hong-kong" />`
-![](./flags/068-united-arab-emirates.svg) | flags | united-arab-emirates | `<Icon group="flags" name="united-arab-emirates" />`
-![](./flags/069-laos.svg) | flags | laos | `<Icon group="flags" name="laos" />`
-![](./flags/070-ireland.svg) | flags | ireland | `<Icon group="flags" name="ireland" />`
-![](./flags/071-greece.svg) | flags | greece | `<Icon group="flags" name="greece" />`
-![](./flags/072-denmark.svg) | flags | denmark | `<Icon group="flags" name="denmark" />`
-![](./flags/073-sweden.svg) | flags | sweden | `<Icon group="flags" name="sweden" />`
-![](./flags/074-peru.svg) | flags | peru | `<Icon group="flags" name="peru" />`
-![](./flags/075-south-africa.svg) | flags | south-africa | `<Icon group="flags" name="south-africa" />`
-![](./flags/076-philippines.svg) | flags | philippines | `<Icon group="flags" name="philippines" />`
-![](./flags/077-france.svg) | flags | france | `<Icon group="flags" name="france" />`
-![](./flags/078-indonesia.svg) | flags | indonesia | `<Icon group="flags" name="indonesia" />`
-![](./flags/079-egypt.svg) | flags | egypt | `<Icon group="flags" name="egypt" />`
-![](./flags/080-taiwan.svg) | flags | taiwan | `<Icon group="flags" name="taiwan" />`
-![](./flags/081-cook-islands.svg) | flags | cook-islands | `<Icon group="flags" name="cook-islands" />`
-![](./flags/082-cocos-island.svg) | flags | cocos-island | `<Icon group="flags" name="cocos-island" />`
-![](./flags/083-christmas-island.svg) | flags | christmas-island | `<Icon group="flags" name="christmas-island" />`
-![](./flags/084-ceuta.svg) | flags | ceuta | `<Icon group="flags" name="ceuta" />`
-![](./flags/085-american-samoa.svg) | flags | american-samoa | `<Icon group="flags" name="american-samoa" />`
-![](./flags/086-morocco.svg) | flags | morocco | `<Icon group="flags" name="morocco" />`
-![](./flags/087-anguilla.svg) | flags | anguilla | `<Icon group="flags" name="anguilla" />`
-![](./flags/088-corsica.svg) | flags | corsica | `<Icon group="flags" name="corsica" />`
-![](./flags/089-canary-islands.svg) | flags | canary-islands | `<Icon group="flags" name="canary-islands" />`
-![](./flags/090-comoros.svg) | flags | comoros | `<Icon group="flags" name="comoros" />`
-![](./flags/091-central-african-republic.svg) | flags | central-african-republic | `<Icon group="flags" name="central-african-republic" />`
-![](./flags/092-cayman-islands.svg) | flags | cayman-islands | `<Icon group="flags" name="cayman-islands" />`
-![](./flags/093-british-indian-ocean-territory.svg) | flags | british-indian-ocean-territory | `<Icon group="flags" name="british-indian-ocean-territory" />`
-![](./flags/094-bhutan.svg) | flags | bhutan | `<Icon group="flags" name="bhutan" />`
-![](./flags/095-chad.svg) | flags | chad | `<Icon group="flags" name="chad" />`
-![](./flags/096-cape-verde.svg) | flags | cape-verde | `<Icon group="flags" name="cape-verde" />`
-![](./flags/097-switzerland.svg) | flags | switzerland | `<Icon group="flags" name="switzerland" />`
-![](./flags/098-benin.svg) | flags | benin | `<Icon group="flags" name="benin" />`
-![](./flags/099-aruba.svg) | flags | aruba | `<Icon group="flags" name="aruba" />`
-![](./flags/100-abkhazia.svg) | flags | abkhazia | `<Icon group="flags" name="abkhazia" />`
-![](./flags/101-balearic-islands.svg) | flags | balearic-islands | `<Icon group="flags" name="balearic-islands" />`
-![](./flags/102-andorra.svg) | flags | andorra | `<Icon group="flags" name="andorra" />`
-![](./flags/103-burundi.svg) | flags | burundi | `<Icon group="flags" name="burundi" />`
-![](./flags/104-antigua-and-barbuda.svg) | flags | antigua-and-barbuda | `<Icon group="flags" name="antigua-and-barbuda" />`
-![](./flags/105-aland-islands.svg) | flags | aland-islands | `<Icon group="flags" name="aland-islands" />`
-![](./flags/106-cameroon.svg) | flags | cameroon | `<Icon group="flags" name="cameroon" />`
-![](./flags/107-brunei.svg) | flags | brunei | `<Icon group="flags" name="brunei" />`
-![](./flags/108-poland.svg) | flags | poland | `<Icon group="flags" name="poland" />`
-![](./flags/109-bonaire.svg) | flags | bonaire | `<Icon group="flags" name="bonaire" />`
-![](./flags/110-belarus.svg) | flags | belarus | `<Icon group="flags" name="belarus" />`
-![](./flags/111-barbados.svg) | flags | barbados | `<Icon group="flags" name="barbados" />`
-![](./flags/112-british-virgin-islands.svg) | flags | british-virgin-islands | `<Icon group="flags" name="british-virgin-islands" />`
-![](./flags/113-bosnia-and-herzegovina.svg) | flags | bosnia-and-herzegovina | `<Icon group="flags" name="bosnia-and-herzegovina" />`
-![](./flags/114-bermuda.svg) | flags | bermuda | `<Icon group="flags" name="bermuda" />`
-![](./flags/115-belize.svg) | flags | belize | `<Icon group="flags" name="belize" />`
-![](./flags/116-bahrain.svg) | flags | bahrain | `<Icon group="flags" name="bahrain" />`
-![](./flags/117-albania.svg) | flags | albania | `<Icon group="flags" name="albania" />`
-![](./flags/118-burkina-faso.svg) | flags | burkina-faso | `<Icon group="flags" name="burkina-faso" />`
-![](./flags/119-turkey.svg) | flags | turkey | `<Icon group="flags" name="turkey" />`
-![](./flags/120-basque-country.svg) | flags | basque-country | `<Icon group="flags" name="basque-country" />`
-![](./flags/121-armenia.svg) | flags | armenia | `<Icon group="flags" name="armenia" />`
-![](./flags/122-afghanistan.svg) | flags | afghanistan | `<Icon group="flags" name="afghanistan" />`
-![](./flags/123-british-columbia.svg) | flags | british-columbia | `<Icon group="flags" name="british-columbia" />`
-![](./flags/124-angola.svg) | flags | angola | `<Icon group="flags" name="angola" />`
-![](./flags/125-azerbaijan.svg) | flags | azerbaijan | `<Icon group="flags" name="azerbaijan" />`
-![](./flags/126-algeria.svg) | flags | algeria | `<Icon group="flags" name="algeria" />`
-![](./flags/127-botswana.svg) | flags | botswana | `<Icon group="flags" name="botswana" />`
-![](./flags/128-bangladesh.svg) | flags | bangladesh | `<Icon group="flags" name="bangladesh" />`
-![](./flags/129-cuba.svg) | flags | cuba | `<Icon group="flags" name="cuba" />`
-![](./flags/130-australia.svg) | flags | australia | `<Icon group="flags" name="australia" />`
-![](./flags/131-costa-rica.svg) | flags | costa-rica | `<Icon group="flags" name="costa-rica" />`
-![](./flags/132-cambodia.svg) | flags | cambodia | `<Icon group="flags" name="cambodia" />`
-![](./flags/133-bolivia.svg) | flags | bolivia | `<Icon group="flags" name="bolivia" />`
-![](./flags/134-croatia.svg) | flags | croatia | `<Icon group="flags" name="croatia" />`
-![](./flags/135-bulgaria.svg) | flags | bulgaria | `<Icon group="flags" name="bulgaria" />`
-![](./flags/136-galapagos-islands.svg) | flags | galapagos-islands | `<Icon group="flags" name="galapagos-islands" />`
-![](./flags/137-martinique.svg) | flags | martinique | `<Icon group="flags" name="martinique" />`
-![](./flags/138-tonga.svg) | flags | tonga | `<Icon group="flags" name="tonga" />`
-![](./flags/139-st-lucia.svg) | flags | st-lucia | `<Icon group="flags" name="st-lucia" />`
-![](./flags/140-rapa-nui.svg) | flags | rapa-nui | `<Icon group="flags" name="rapa-nui" />`
-![](./flags/141-singapore.svg) | flags | singapore | `<Icon group="flags" name="singapore" />`
-![](./flags/142-palau.svg) | flags | palau | `<Icon group="flags" name="palau" />`
-![](./flags/143-niue.svg) | flags | niue | `<Icon group="flags" name="niue" />`
-![](./flags/144-macao.svg) | flags | macao | `<Icon group="flags" name="macao" />`
-![](./flags/145-fiji.svg) | flags | fiji | `<Icon group="flags" name="fiji" />`
-![](./flags/146-faroe-islands.svg) | flags | faroe-islands | `<Icon group="flags" name="faroe-islands" />`
-![](./flags/147-dominica.svg) | flags | dominica | `<Icon group="flags" name="dominica" />`
-![](./flags/148-vanuatu.svg) | flags | vanuatu | `<Icon group="flags" name="vanuatu" />`
-![](./flags/149-sierra-leone.svg) | flags | sierra-leone | `<Icon group="flags" name="sierra-leone" />`
-![](./flags/150-seychelles.svg) | flags | seychelles | `<Icon group="flags" name="seychelles" />`
-![](./flags/151-kosovo.svg) | flags | kosovo | `<Icon group="flags" name="kosovo" />`
-![](./flags/152-england.svg) | flags | england | `<Icon group="flags" name="england" />`
-![](./flags/153-united-states-of-america.svg) | flags | united-states-of-america | `<Icon group="flags" name="united-states-of-america" />`
-![](./flags/154-guinea.svg) | flags | guinea | `<Icon group="flags" name="guinea" />`
-![](./flags/155-orkney-islands.svg) | flags | orkney-islands | `<Icon group="flags" name="orkney-islands" />`
-![](./flags/156-turks-and-caicos.svg) | flags | turks-and-caicos | `<Icon group="flags" name="turks-and-caicos" />`
-![](./flags/157-transnistria.svg) | flags | transnistria | `<Icon group="flags" name="transnistria" />`
-![](./flags/158-tokelau.svg) | flags | tokelau | `<Icon group="flags" name="tokelau" />`
-![](./flags/159-gambia.svg) | flags | gambia | `<Icon group="flags" name="gambia" />`
-![](./flags/160-st-vincent-and-the-grenadines.svg) | flags | st-vincent-and-the-grenadines | `<Icon group="flags" name="st-vincent-and-the-grenadines" />`
-![](./flags/161-south-sudan.svg) | flags | south-sudan | `<Icon group="flags" name="south-sudan" />`
-![](./flags/162-somaliland.svg) | flags | somaliland | `<Icon group="flags" name="somaliland" />`
-![](./flags/163-solomon-islands.svg) | flags | solomon-islands | `<Icon group="flags" name="solomon-islands" />`
-![](./flags/164-vietnam.svg) | flags | vietnam | `<Icon group="flags" name="vietnam" />`
-![](./flags/165-sint-maarten.svg) | flags | sint-maarten | `<Icon group="flags" name="sint-maarten" />`
-![](./flags/166-sint-eustatius.svg) | flags | sint-eustatius | `<Icon group="flags" name="sint-eustatius" />`
-![](./flags/167-saint-kitts-and-nevis.svg) | flags | saint-kitts-and-nevis | `<Icon group="flags" name="saint-kitts-and-nevis" />`
-![](./flags/168-saba-island.svg) | flags | saba-island | `<Icon group="flags" name="saba-island" />`
-![](./flags/169-pitcairn-islands.svg) | flags | pitcairn-islands | `<Icon group="flags" name="pitcairn-islands" />`
-![](./flags/170-palestine.svg) | flags | palestine | `<Icon group="flags" name="palestine" />`
-![](./flags/171-ossetia.svg) | flags | ossetia | `<Icon group="flags" name="ossetia" />`
-![](./flags/172-northern-marianas-islands.svg) | flags | northern-marianas-islands | `<Icon group="flags" name="northern-marianas-islands" />`
-![](./flags/173-nauru.svg) | flags | nauru | `<Icon group="flags" name="nauru" />`
-![](./flags/174-portugal.svg) | flags | portugal | `<Icon group="flags" name="portugal" />`
-![](./flags/175-montserrat.svg) | flags | montserrat | `<Icon group="flags" name="montserrat" />`
-![](./flags/176-melilla.svg) | flags | melilla | `<Icon group="flags" name="melilla" />`
-![](./flags/177-mauritania.svg) | flags | mauritania | `<Icon group="flags" name="mauritania" />`
-![](./flags/178-kuwait.svg) | flags | kuwait | `<Icon group="flags" name="kuwait" />`
-![](./flags/180-guernsey.svg) | flags | guernsey | `<Icon group="flags" name="guernsey" />`
-![](./flags/181-guam.svg) | flags | guam | `<Icon group="flags" name="guam" />`
-![](./flags/182-grenada.svg) | flags | grenada | `<Icon group="flags" name="grenada" />`
-![](./flags/183-greenland.svg) | flags | greenland | `<Icon group="flags" name="greenland" />`
-![](./flags/184-thailand.svg) | flags | thailand | `<Icon group="flags" name="thailand" />`
-![](./flags/185-gibraltar.svg) | flags | gibraltar | `<Icon group="flags" name="gibraltar" />`
-![](./flags/186-gabon.svg) | flags | gabon | `<Icon group="flags" name="gabon" />`
-![](./flags/187-falkland-islands.svg) | flags | falkland-islands | `<Icon group="flags" name="falkland-islands" />`
-![](./flags/188-virgin-islands.svg) | flags | virgin-islands | `<Icon group="flags" name="virgin-islands" />`
-![](./flags/189-austria.svg) | flags | austria | `<Icon group="flags" name="austria" />`
-![](./flags/190-vatican-city.svg) | flags | vatican-city | `<Icon group="flags" name="vatican-city" />`
-![](./flags/191-tubalu.svg) | flags | tubalu | `<Icon group="flags" name="tubalu" />`
-![](./flags/192-turkmenistan.svg) | flags | turkmenistan | `<Icon group="flags" name="turkmenistan" />`
-![](./flags/193-togo.svg) | flags | togo | `<Icon group="flags" name="togo" />`
-![](./flags/194-bahamas.svg) | flags | bahamas | `<Icon group="flags" name="bahamas" />`
-![](./flags/195-netherlands.svg) | flags | netherlands | `<Icon group="flags" name="netherlands" />`
-![](./flags/196-azores-islands.svg) | flags | azores-islands | `<Icon group="flags" name="azores-islands" />`
-![](./flags/197-suriname.svg) | flags | suriname | `<Icon group="flags" name="suriname" />`
-![](./flags/198-somalia.svg) | flags | somalia | `<Icon group="flags" name="somalia" />`
-![](./flags/199-sicily.svg) | flags | sicily | `<Icon group="flags" name="sicily" />`
-![](./flags/200-sardinia.svg) | flags | sardinia | `<Icon group="flags" name="sardinia" />`
-![](./flags/201-sao-tome-and-principe.svg) | flags | sao-tome-and-principe | `<Icon group="flags" name="sao-tome-and-principe" />`
-![](./flags/202-norfolk-island.svg) | flags | norfolk-island | `<Icon group="flags" name="norfolk-island" />`
-![](./flags/203-niger.svg) | flags | niger | `<Icon group="flags" name="niger" />`
-![](./flags/204-micronesia.svg) | flags | micronesia | `<Icon group="flags" name="micronesia" />`
-![](./flags/205-marshall-island.svg) | flags | marshall-island | `<Icon group="flags" name="marshall-island" />`
-![](./flags/206-canada.svg) | flags | canada | `<Icon group="flags" name="canada" />`
-![](./flags/207-mali.svg) | flags | mali | `<Icon group="flags" name="mali" />`
-![](./flags/208-kyrgyzstan.svg) | flags | kyrgyzstan | `<Icon group="flags" name="kyrgyzstan" />`
-![](./flags/209-guinea-bissau.svg) | flags | guinea-bissau | `<Icon group="flags" name="guinea-bissau" />`
-![](./flags/210-eritrea.svg) | flags | eritrea | `<Icon group="flags" name="eritrea" />`
-![](./flags/211-djibouti.svg) | flags | djibouti | `<Icon group="flags" name="djibouti" />`
-![](./flags/212-curacao.svg) | flags | curacao | `<Icon group="flags" name="curacao" />`
-![](./flags/213-st-barts.svg) | flags | st-barts | `<Icon group="flags" name="st-barts" />`
-![](./flags/214-san-marino.svg) | flags | san-marino | `<Icon group="flags" name="san-marino" />`
-![](./flags/215-northen-cyprus.svg) | flags | northen-cyprus | `<Icon group="flags" name="northen-cyprus" />`
-![](./flags/216-liechtenstein.svg) | flags | liechtenstein | `<Icon group="flags" name="liechtenstein" />`
-![](./flags/217-india.svg) | flags | india | `<Icon group="flags" name="india" />`
-![](./flags/218-liberia.svg) | flags | liberia | `<Icon group="flags" name="liberia" />`
-![](./flags/219-yemen.svg) | flags | yemen | `<Icon group="flags" name="yemen" />`
-![](./flags/220-uzbekistn.svg) | flags | uzbekistn | `<Icon group="flags" name="uzbekistn" />`
-![](./flags/221-sudan.svg) | flags | sudan | `<Icon group="flags" name="sudan" />`
-![](./flags/222-sahrawi-arab-democratic-republic.svg) | flags | sahrawi-arab-democratic-republic | `<Icon group="flags" name="sahrawi-arab-democratic-republic" />`
-![](./flags/223-republic-of-macedonia.svg) | flags | republic-of-macedonia | `<Icon group="flags" name="republic-of-macedonia" />`
-![](./flags/224-otan.svg) | flags | otan | `<Icon group="flags" name="otan" />`
-![](./flags/225-libya.svg) | flags | libya | `<Icon group="flags" name="libya" />`
-![](./flags/226-east-timor.svg) | flags | east-timor | `<Icon group="flags" name="east-timor" />`
-![](./flags/227-tibet.svg) | flags | tibet | `<Icon group="flags" name="tibet" />`
-![](./flags/228-russia.svg) | flags | russia | `<Icon group="flags" name="russia" />`
-![](./flags/229-papua-new-guinea.svg) | flags | papua-new-guinea | `<Icon group="flags" name="papua-new-guinea" />`
-![](./flags/230-montenegro.svg) | flags | montenegro | `<Icon group="flags" name="montenegro" />`
-![](./flags/231-moldova.svg) | flags | moldova | `<Icon group="flags" name="moldova" />`
-![](./flags/232-maldives.svg) | flags | maldives | `<Icon group="flags" name="maldives" />`
-![](./flags/233-madeira.svg) | flags | madeira | `<Icon group="flags" name="madeira" />`
-![](./flags/234-french-polynesia.svg) | flags | french-polynesia | `<Icon group="flags" name="french-polynesia" />`
-![](./flags/235-trinidad-and-tobago.svg) | flags | trinidad-and-tobago | `<Icon group="flags" name="trinidad-and-tobago" />`
-![](./flags/236-tajikistan.svg) | flags | tajikistan | `<Icon group="flags" name="tajikistan" />`
-![](./flags/238-sri-lanka.svg) | flags | sri-lanka | `<Icon group="flags" name="sri-lanka" />`
-![](./flags/239-mexico.svg) | flags | mexico | `<Icon group="flags" name="mexico" />`
-![](./flags/240-republic-of-the-congo.svg) | flags | republic-of-the-congo | `<Icon group="flags" name="republic-of-the-congo" />`
-![](./flags/241-equatorial-guinea.svg) | flags | equatorial-guinea | `<Icon group="flags" name="equatorial-guinea" />`
-![](./flags/242-zimbabwe.svg) | flags | zimbabwe | `<Icon group="flags" name="zimbabwe" />`
-![](./flags/243-rwanda.svg) | flags | rwanda | `<Icon group="flags" name="rwanda" />`
-![](./flags/244-lesotho.svg) | flags | lesotho | `<Icon group="flags" name="lesotho" />`
-![](./flags/245-ivory-coast.svg) | flags | ivory-coast | `<Icon group="flags" name="ivory-coast" />`
-![](./flags/246-isle-of-man.svg) | flags | isle-of-man | `<Icon group="flags" name="isle-of-man" />`
-![](./flags/247-haiti.svg) | flags | haiti | `<Icon group="flags" name="haiti" />`
-![](./flags/248-samoa.svg) | flags | samoa | `<Icon group="flags" name="samoa" />`
-![](./flags/249-nepal.svg) | flags | nepal | `<Icon group="flags" name="nepal" />`
-![](./flags/250-brazil.svg) | flags | brazil | `<Icon group="flags" name="brazil" />`
-![](./flags/251-mongolia.svg) | flags | mongolia | `<Icon group="flags" name="mongolia" />`
-![](./flags/252-malawi.svg) | flags | malawi | `<Icon group="flags" name="malawi" />`
-![](./flags/253-madagascar.svg) | flags | madagascar | `<Icon group="flags" name="madagascar" />`
-![](./flags/254-jersey.svg) | flags | jersey | `<Icon group="flags" name="jersey" />`
-![](./flags/255-ghana.svg) | flags | ghana | `<Icon group="flags" name="ghana" />`
-![](./flags/256-georgia.svg) | flags | georgia | `<Icon group="flags" name="georgia" />`
-![](./flags/257-estonia.svg) | flags | estonia | `<Icon group="flags" name="estonia" />`
-![](./flags/258-democratic-republic-of-congo.svg) | flags | democratic-republic-of-congo | `<Icon group="flags" name="democratic-republic-of-congo" />`
-![](./flags/259-senegal.svg) | flags | senegal | `<Icon group="flags" name="senegal" />`
-![](./flags/260-paraguay.svg) | flags | paraguay | `<Icon group="flags" name="paraguay" />`
-![](./flags/261-china.svg) | flags | china | `<Icon group="flags" name="china" />`
-![](./flags/262-united-kingdom.svg) | flags | united-kingdom | `<Icon group="flags" name="united-kingdom" />`
+|image | group | name | usage
+|--|--|--
+| ![](./flags/001-ethiopia.svg) | flags | ethiopia | `<Icon group="flags" name="ethiopia" />`
+| ![](./flags/002-oman.svg) | flags | oman | `<Icon group="flags" name="oman" />`
+| ![](./flags/003-tanzania.svg) | flags | tanzania | `<Icon group="flags" name="tanzania" />`
+| ![](./flags/004-slovenia.svg) | flags | slovenia | `<Icon group="flags" name="slovenia" />`
+| ![](./flags/005-puerto-rico.svg) | flags | puerto-rico | `<Icon group="flags" name="puerto-rico" />`
+| ![](./flags/006-mozambique.svg) | flags | mozambique | `<Icon group="flags" name="mozambique" />`
+| ![](./flags/007-iraq.svg) | flags | iraq | `<Icon group="flags" name="iraq" />`
+| ![](./flags/008-lebanon.svg) | flags | lebanon | `<Icon group="flags" name="lebanon" />`
+| ![](./flags/009-uganda.svg) | flags | uganda | `<Icon group="flags" name="uganda" />`
+| ![](./flags/010-nigeria.svg) | flags | nigeria | `<Icon group="flags" name="nigeria" />`
+| ![](./flags/011-italy.svg) | flags | italy | `<Icon group="flags" name="italy" />`
+| ![](./flags/012-malta.svg) | flags | malta | `<Icon group="flags" name="malta" />`
+| ![](./flags/013-tunisia.svg) | flags | tunisia | `<Icon group="flags" name="tunisia" />`
+| ![](./flags/014-nicaragua.svg) | flags | nicaragua | `<Icon group="flags" name="nicaragua" />`
+| ![](./flags/015-el-salvador.svg) | flags | el-salvador | `<Icon group="flags" name="el-salvador" />`
+| ![](./flags/016-zambia.svg) | flags | zambia | `<Icon group="flags" name="zambia" />`
+| ![](./flags/017-wales.svg) | flags | wales | `<Icon group="flags" name="wales" />`
+| ![](./flags/018-dominican-republic.svg) | flags | dominican-republic | `<Icon group="flags" name="dominican-republic" />`
+| ![](./flags/019-qatar.svg) | flags | qatar | `<Icon group="flags" name="qatar" />`
+| ![](./flags/020-namibia.svg) | flags | namibia | `<Icon group="flags" name="namibia" />`
+| ![](./flags/021-mauritius.svg) | flags | mauritius | `<Icon group="flags" name="mauritius" />`
+| ![](./flags/022-european-union.svg) | flags | european-union | `<Icon group="flags" name="european-union" />`
+| ![](./flags/023-luxembourg.svg) | flags | luxembourg | `<Icon group="flags" name="luxembourg" />`
+| ![](./flags/024-hawaii.svg) | flags | hawaii | `<Icon group="flags" name="hawaii" />`
+| ![](./flags/025-lithuania.svg) | flags | lithuania | `<Icon group="flags" name="lithuania" />`
+| ![](./flags/026-jamaica.svg) | flags | jamaica | `<Icon group="flags" name="jamaica" />`
+| ![](./flags/027-honduras.svg) | flags | honduras | `<Icon group="flags" name="honduras" />`
+| ![](./flags/028-myanmar.svg) | flags | myanmar | `<Icon group="flags" name="myanmar" />`
+| ![](./flags/029-kenya.svg) | flags | kenya | `<Icon group="flags" name="kenya" />`
+| ![](./flags/030-cyprus.svg) | flags | cyprus | `<Icon group="flags" name="cyprus" />`
+| ![](./flags/031-pakistan.svg) | flags | pakistan | `<Icon group="flags" name="pakistan" />`
+| ![](./flags/032-latvia.svg) | flags | latvia | `<Icon group="flags" name="latvia" />`
+| ![](./flags/033-japan.svg) | flags | japan | `<Icon group="flags" name="japan" />`
+| ![](./flags/034-kazakhstan.svg) | flags | kazakhstan | `<Icon group="flags" name="kazakhstan" />`
+| ![](./flags/035-serbia.svg) | flags | serbia | `<Icon group="flags" name="serbia" />`
+| ![](./flags/036-scotland.svg) | flags | scotland | `<Icon group="flags" name="scotland" />`
+| ![](./flags/037-north-korea.svg) | flags | north-korea | `<Icon group="flags" name="north-korea" />`
+| ![](./flags/038-uruguay.svg) | flags | uruguay | `<Icon group="flags" name="uruguay" />`
+| ![](./flags/039-syria.svg) | flags | syria | `<Icon group="flags" name="syria" />`
+| ![](./flags/040-guatemala.svg) | flags | guatemala | `<Icon group="flags" name="guatemala" />`
+| ![](./flags/041-iceland.svg) | flags | iceland | `<Icon group="flags" name="iceland" />`
+| ![](./flags/042-jordan.svg) | flags | jordan | `<Icon group="flags" name="jordan" />`
+| ![](./flags/043-monaco.svg) | flags | monaco | `<Icon group="flags" name="monaco" />`
+| ![](./flags/044-spain.svg) | flags | spain | `<Icon group="flags" name="spain" />`
+| ![](./flags/045-slovakia.svg) | flags | slovakia | `<Icon group="flags" name="slovakia" />`
+| ![](./flags/046-united-nations.svg) | flags | united-nations | `<Icon group="flags" name="united-nations" />`
+| ![](./flags/047-panama.svg) | flags | panama | `<Icon group="flags" name="panama" />`
+| ![](./flags/048-new-zealand.svg) | flags | new-zealand | `<Icon group="flags" name="new-zealand" />`
+| ![](./flags/049-ecuador.svg) | flags | ecuador | `<Icon group="flags" name="ecuador" />`
+| ![](./flags/050-romania.svg) | flags | romania | `<Icon group="flags" name="romania" />`
+| ![](./flags/051-chile.svg) | flags | chile | `<Icon group="flags" name="chile" />`
+| ![](./flags/052-finland.svg) | flags | finland | `<Icon group="flags" name="finland" />`
+| ![](./flags/053-hungary.svg) | flags | hungary | `<Icon group="flags" name="hungary" />`
+| ![](./flags/054-belgium.svg) | flags | belgium | `<Icon group="flags" name="belgium" />`
+| ![](./flags/055-south-korea.svg) | flags | south-korea | `<Icon group="flags" name="south-korea" />`
+| ![](./flags/056-malaysia.svg) | flags | malaysia | `<Icon group="flags" name="malaysia" />`
+| ![](./flags/057-venezuela.svg) | flags | venezuela | `<Icon group="flags" name="venezuela" />`
+| ![](./flags/058-norway.svg) | flags | norway | `<Icon group="flags" name="norway" />`
+| ![](./flags/059-saudi-arabia.svg) | flags | saudi-arabia | `<Icon group="flags" name="saudi-arabia" />`
+| ![](./flags/060-israel.svg) | flags | israel | `<Icon group="flags" name="israel" />`
+| ![](./flags/061-czech-republic.svg) | flags | czech-republic | `<Icon group="flags" name="czech-republic" />`
+| ![](./flags/062-colombia.svg) | flags | colombia | `<Icon group="flags" name="colombia" />`
+| ![](./flags/063-iran.svg) | flags | iran | `<Icon group="flags" name="iran" />`
+| ![](./flags/064-argentina.svg) | flags | argentina | `<Icon group="flags" name="argentina" />`
+| ![](./flags/065-ukraine.svg) | flags | ukraine | `<Icon group="flags" name="ukraine" />`
+| ![](./flags/066-germany.svg) | flags | germany | `<Icon group="flags" name="germany" />`
+| ![](./flags/067-hong-kong.svg) | flags | hong-kong | `<Icon group="flags" name="hong-kong" />`
+| ![](./flags/068-united-arab-emirates.svg) | flags | united-arab-emirates | `<Icon group="flags" name="united-arab-emirates" />`
+| ![](./flags/069-laos.svg) | flags | laos | `<Icon group="flags" name="laos" />`
+| ![](./flags/070-ireland.svg) | flags | ireland | `<Icon group="flags" name="ireland" />`
+| ![](./flags/071-greece.svg) | flags | greece | `<Icon group="flags" name="greece" />`
+| ![](./flags/072-denmark.svg) | flags | denmark | `<Icon group="flags" name="denmark" />`
+| ![](./flags/073-sweden.svg) | flags | sweden | `<Icon group="flags" name="sweden" />`
+| ![](./flags/074-peru.svg) | flags | peru | `<Icon group="flags" name="peru" />`
+| ![](./flags/075-south-africa.svg) | flags | south-africa | `<Icon group="flags" name="south-africa" />`
+| ![](./flags/076-philippines.svg) | flags | philippines | `<Icon group="flags" name="philippines" />`
+| ![](./flags/077-france.svg) | flags | france | `<Icon group="flags" name="france" />`
+| ![](./flags/078-indonesia.svg) | flags | indonesia | `<Icon group="flags" name="indonesia" />`
+| ![](./flags/079-egypt.svg) | flags | egypt | `<Icon group="flags" name="egypt" />`
+| ![](./flags/080-taiwan.svg) | flags | taiwan | `<Icon group="flags" name="taiwan" />`
+| ![](./flags/081-cook-islands.svg) | flags | cook-islands | `<Icon group="flags" name="cook-islands" />`
+| ![](./flags/082-cocos-island.svg) | flags | cocos-island | `<Icon group="flags" name="cocos-island" />`
+| ![](./flags/083-christmas-island.svg) | flags | christmas-island | `<Icon group="flags" name="christmas-island" />`
+| ![](./flags/084-ceuta.svg) | flags | ceuta | `<Icon group="flags" name="ceuta" />`
+| ![](./flags/085-american-samoa.svg) | flags | american-samoa | `<Icon group="flags" name="american-samoa" />`
+| ![](./flags/086-morocco.svg) | flags | morocco | `<Icon group="flags" name="morocco" />`
+| ![](./flags/087-anguilla.svg) | flags | anguilla | `<Icon group="flags" name="anguilla" />`
+| ![](./flags/088-corsica.svg) | flags | corsica | `<Icon group="flags" name="corsica" />`
+| ![](./flags/089-canary-islands.svg) | flags | canary-islands | `<Icon group="flags" name="canary-islands" />`
+| ![](./flags/090-comoros.svg) | flags | comoros | `<Icon group="flags" name="comoros" />`
+| ![](./flags/091-central-african-republic.svg) | flags | central-african-republic | `<Icon group="flags" name="central-african-republic" />`
+| ![](./flags/092-cayman-islands.svg) | flags | cayman-islands | `<Icon group="flags" name="cayman-islands" />`
+| ![](./flags/093-british-indian-ocean-territory.svg) | flags | british-indian-ocean-territory | `<Icon group="flags" name="british-indian-ocean-territory" />`
+| ![](./flags/094-bhutan.svg) | flags | bhutan | `<Icon group="flags" name="bhutan" />`
+| ![](./flags/095-chad.svg) | flags | chad | `<Icon group="flags" name="chad" />`
+| ![](./flags/096-cape-verde.svg) | flags | cape-verde | `<Icon group="flags" name="cape-verde" />`
+| ![](./flags/097-switzerland.svg) | flags | switzerland | `<Icon group="flags" name="switzerland" />`
+| ![](./flags/098-benin.svg) | flags | benin | `<Icon group="flags" name="benin" />`
+| ![](./flags/099-aruba.svg) | flags | aruba | `<Icon group="flags" name="aruba" />`
+| ![](./flags/100-abkhazia.svg) | flags | abkhazia | `<Icon group="flags" name="abkhazia" />`
+| ![](./flags/101-balearic-islands.svg) | flags | balearic-islands | `<Icon group="flags" name="balearic-islands" />`
+| ![](./flags/102-andorra.svg) | flags | andorra | `<Icon group="flags" name="andorra" />`
+| ![](./flags/103-burundi.svg) | flags | burundi | `<Icon group="flags" name="burundi" />`
+| ![](./flags/104-antigua-and-barbuda.svg) | flags | antigua-and-barbuda | `<Icon group="flags" name="antigua-and-barbuda" />`
+| ![](./flags/105-aland-islands.svg) | flags | aland-islands | `<Icon group="flags" name="aland-islands" />`
+| ![](./flags/106-cameroon.svg) | flags | cameroon | `<Icon group="flags" name="cameroon" />`
+| ![](./flags/107-brunei.svg) | flags | brunei | `<Icon group="flags" name="brunei" />`
+| ![](./flags/108-poland.svg) | flags | poland | `<Icon group="flags" name="poland" />`
+| ![](./flags/109-bonaire.svg) | flags | bonaire | `<Icon group="flags" name="bonaire" />`
+| ![](./flags/110-belarus.svg) | flags | belarus | `<Icon group="flags" name="belarus" />`
+| ![](./flags/111-barbados.svg) | flags | barbados | `<Icon group="flags" name="barbados" />`
+| ![](./flags/112-british-virgin-islands.svg) | flags | british-virgin-islands | `<Icon group="flags" name="british-virgin-islands" />`
+| ![](./flags/113-bosnia-and-herzegovina.svg) | flags | bosnia-and-herzegovina | `<Icon group="flags" name="bosnia-and-herzegovina" />`
+| ![](./flags/114-bermuda.svg) | flags | bermuda | `<Icon group="flags" name="bermuda" />`
+| ![](./flags/115-belize.svg) | flags | belize | `<Icon group="flags" name="belize" />`
+| ![](./flags/116-bahrain.svg) | flags | bahrain | `<Icon group="flags" name="bahrain" />`
+| ![](./flags/117-albania.svg) | flags | albania | `<Icon group="flags" name="albania" />`
+| ![](./flags/118-burkina-faso.svg) | flags | burkina-faso | `<Icon group="flags" name="burkina-faso" />`
+| ![](./flags/119-turkey.svg) | flags | turkey | `<Icon group="flags" name="turkey" />`
+| ![](./flags/120-basque-country.svg) | flags | basque-country | `<Icon group="flags" name="basque-country" />`
+| ![](./flags/121-armenia.svg) | flags | armenia | `<Icon group="flags" name="armenia" />`
+| ![](./flags/122-afghanistan.svg) | flags | afghanistan | `<Icon group="flags" name="afghanistan" />`
+| ![](./flags/123-british-columbia.svg) | flags | british-columbia | `<Icon group="flags" name="british-columbia" />`
+| ![](./flags/124-angola.svg) | flags | angola | `<Icon group="flags" name="angola" />`
+| ![](./flags/125-azerbaijan.svg) | flags | azerbaijan | `<Icon group="flags" name="azerbaijan" />`
+| ![](./flags/126-algeria.svg) | flags | algeria | `<Icon group="flags" name="algeria" />`
+| ![](./flags/127-botswana.svg) | flags | botswana | `<Icon group="flags" name="botswana" />`
+| ![](./flags/128-bangladesh.svg) | flags | bangladesh | `<Icon group="flags" name="bangladesh" />`
+| ![](./flags/129-cuba.svg) | flags | cuba | `<Icon group="flags" name="cuba" />`
+| ![](./flags/130-australia.svg) | flags | australia | `<Icon group="flags" name="australia" />`
+| ![](./flags/131-costa-rica.svg) | flags | costa-rica | `<Icon group="flags" name="costa-rica" />`
+| ![](./flags/132-cambodia.svg) | flags | cambodia | `<Icon group="flags" name="cambodia" />`
+| ![](./flags/133-bolivia.svg) | flags | bolivia | `<Icon group="flags" name="bolivia" />`
+| ![](./flags/134-croatia.svg) | flags | croatia | `<Icon group="flags" name="croatia" />`
+| ![](./flags/135-bulgaria.svg) | flags | bulgaria | `<Icon group="flags" name="bulgaria" />`
+| ![](./flags/136-galapagos-islands.svg) | flags | galapagos-islands | `<Icon group="flags" name="galapagos-islands" />`
+| ![](./flags/137-martinique.svg) | flags | martinique | `<Icon group="flags" name="martinique" />`
+| ![](./flags/138-tonga.svg) | flags | tonga | `<Icon group="flags" name="tonga" />`
+| ![](./flags/139-st-lucia.svg) | flags | st-lucia | `<Icon group="flags" name="st-lucia" />`
+| ![](./flags/140-rapa-nui.svg) | flags | rapa-nui | `<Icon group="flags" name="rapa-nui" />`
+| ![](./flags/141-singapore.svg) | flags | singapore | `<Icon group="flags" name="singapore" />`
+| ![](./flags/142-palau.svg) | flags | palau | `<Icon group="flags" name="palau" />`
+| ![](./flags/143-niue.svg) | flags | niue | `<Icon group="flags" name="niue" />`
+| ![](./flags/144-macao.svg) | flags | macao | `<Icon group="flags" name="macao" />`
+| ![](./flags/145-fiji.svg) | flags | fiji | `<Icon group="flags" name="fiji" />`
+| ![](./flags/146-faroe-islands.svg) | flags | faroe-islands | `<Icon group="flags" name="faroe-islands" />`
+| ![](./flags/147-dominica.svg) | flags | dominica | `<Icon group="flags" name="dominica" />`
+| ![](./flags/148-vanuatu.svg) | flags | vanuatu | `<Icon group="flags" name="vanuatu" />`
+| ![](./flags/149-sierra-leone.svg) | flags | sierra-leone | `<Icon group="flags" name="sierra-leone" />`
+| ![](./flags/150-seychelles.svg) | flags | seychelles | `<Icon group="flags" name="seychelles" />`
+| ![](./flags/151-kosovo.svg) | flags | kosovo | `<Icon group="flags" name="kosovo" />`
+| ![](./flags/152-england.svg) | flags | england | `<Icon group="flags" name="england" />`
+| ![](./flags/153-united-states-of-america.svg) | flags | united-states-of-america | `<Icon group="flags" name="united-states-of-america" />`
+| ![](./flags/154-guinea.svg) | flags | guinea | `<Icon group="flags" name="guinea" />`
+| ![](./flags/155-orkney-islands.svg) | flags | orkney-islands | `<Icon group="flags" name="orkney-islands" />`
+| ![](./flags/156-turks-and-caicos.svg) | flags | turks-and-caicos | `<Icon group="flags" name="turks-and-caicos" />`
+| ![](./flags/157-transnistria.svg) | flags | transnistria | `<Icon group="flags" name="transnistria" />`
+| ![](./flags/158-tokelau.svg) | flags | tokelau | `<Icon group="flags" name="tokelau" />`
+| ![](./flags/159-gambia.svg) | flags | gambia | `<Icon group="flags" name="gambia" />`
+| ![](./flags/160-st-vincent-and-the-grenadines.svg) | flags | st-vincent-and-the-grenadines | `<Icon group="flags" name="st-vincent-and-the-grenadines" />`
+| ![](./flags/161-south-sudan.svg) | flags | south-sudan | `<Icon group="flags" name="south-sudan" />`
+| ![](./flags/162-somaliland.svg) | flags | somaliland | `<Icon group="flags" name="somaliland" />`
+| ![](./flags/163-solomon-islands.svg) | flags | solomon-islands | `<Icon group="flags" name="solomon-islands" />`
+| ![](./flags/164-vietnam.svg) | flags | vietnam | `<Icon group="flags" name="vietnam" />`
+| ![](./flags/165-sint-maarten.svg) | flags | sint-maarten | `<Icon group="flags" name="sint-maarten" />`
+| ![](./flags/166-sint-eustatius.svg) | flags | sint-eustatius | `<Icon group="flags" name="sint-eustatius" />`
+| ![](./flags/167-saint-kitts-and-nevis.svg) | flags | saint-kitts-and-nevis | `<Icon group="flags" name="saint-kitts-and-nevis" />`
+| ![](./flags/168-saba-island.svg) | flags | saba-island | `<Icon group="flags" name="saba-island" />`
+| ![](./flags/169-pitcairn-islands.svg) | flags | pitcairn-islands | `<Icon group="flags" name="pitcairn-islands" />`
+| ![](./flags/170-palestine.svg) | flags | palestine | `<Icon group="flags" name="palestine" />`
+| ![](./flags/171-ossetia.svg) | flags | ossetia | `<Icon group="flags" name="ossetia" />`
+| ![](./flags/172-northern-marianas-islands.svg) | flags | northern-marianas-islands | `<Icon group="flags" name="northern-marianas-islands" />`
+| ![](./flags/173-nauru.svg) | flags | nauru | `<Icon group="flags" name="nauru" />`
+| ![](./flags/174-portugal.svg) | flags | portugal | `<Icon group="flags" name="portugal" />`
+| ![](./flags/175-montserrat.svg) | flags | montserrat | `<Icon group="flags" name="montserrat" />`
+| ![](./flags/176-melilla.svg) | flags | melilla | `<Icon group="flags" name="melilla" />`
+| ![](./flags/177-mauritania.svg) | flags | mauritania | `<Icon group="flags" name="mauritania" />`
+| ![](./flags/178-kuwait.svg) | flags | kuwait | `<Icon group="flags" name="kuwait" />`
+| ![](./flags/180-guernsey.svg) | flags | guernsey | `<Icon group="flags" name="guernsey" />`
+| ![](./flags/181-guam.svg) | flags | guam | `<Icon group="flags" name="guam" />`
+| ![](./flags/182-grenada.svg) | flags | grenada | `<Icon group="flags" name="grenada" />`
+| ![](./flags/183-greenland.svg) | flags | greenland | `<Icon group="flags" name="greenland" />`
+| ![](./flags/184-thailand.svg) | flags | thailand | `<Icon group="flags" name="thailand" />`
+| ![](./flags/185-gibraltar.svg) | flags | gibraltar | `<Icon group="flags" name="gibraltar" />`
+| ![](./flags/186-gabon.svg) | flags | gabon | `<Icon group="flags" name="gabon" />`
+| ![](./flags/187-falkland-islands.svg) | flags | falkland-islands | `<Icon group="flags" name="falkland-islands" />`
+| ![](./flags/188-virgin-islands.svg) | flags | virgin-islands | `<Icon group="flags" name="virgin-islands" />`
+| ![](./flags/189-austria.svg) | flags | austria | `<Icon group="flags" name="austria" />`
+| ![](./flags/190-vatican-city.svg) | flags | vatican-city | `<Icon group="flags" name="vatican-city" />`
+| ![](./flags/191-tubalu.svg) | flags | tubalu | `<Icon group="flags" name="tubalu" />`
+| ![](./flags/192-turkmenistan.svg) | flags | turkmenistan | `<Icon group="flags" name="turkmenistan" />`
+| ![](./flags/193-togo.svg) | flags | togo | `<Icon group="flags" name="togo" />`
+| ![](./flags/194-bahamas.svg) | flags | bahamas | `<Icon group="flags" name="bahamas" />`
+| ![](./flags/195-netherlands.svg) | flags | netherlands | `<Icon group="flags" name="netherlands" />`
+| ![](./flags/196-azores-islands.svg) | flags | azores-islands | `<Icon group="flags" name="azores-islands" />`
+| ![](./flags/197-suriname.svg) | flags | suriname | `<Icon group="flags" name="suriname" />`
+| ![](./flags/198-somalia.svg) | flags | somalia | `<Icon group="flags" name="somalia" />`
+| ![](./flags/199-sicily.svg) | flags | sicily | `<Icon group="flags" name="sicily" />`
+| ![](./flags/200-sardinia.svg) | flags | sardinia | `<Icon group="flags" name="sardinia" />`
+| ![](./flags/201-sao-tome-and-principe.svg) | flags | sao-tome-and-principe | `<Icon group="flags" name="sao-tome-and-principe" />`
+| ![](./flags/202-norfolk-island.svg) | flags | norfolk-island | `<Icon group="flags" name="norfolk-island" />`
+| ![](./flags/203-niger.svg) | flags | niger | `<Icon group="flags" name="niger" />`
+| ![](./flags/204-micronesia.svg) | flags | micronesia | `<Icon group="flags" name="micronesia" />`
+| ![](./flags/205-marshall-island.svg) | flags | marshall-island | `<Icon group="flags" name="marshall-island" />`
+| ![](./flags/206-canada.svg) | flags | canada | `<Icon group="flags" name="canada" />`
+| ![](./flags/207-mali.svg) | flags | mali | `<Icon group="flags" name="mali" />`
+| ![](./flags/208-kyrgyzstan.svg) | flags | kyrgyzstan | `<Icon group="flags" name="kyrgyzstan" />`
+| ![](./flags/209-guinea-bissau.svg) | flags | guinea-bissau | `<Icon group="flags" name="guinea-bissau" />`
+| ![](./flags/210-eritrea.svg) | flags | eritrea | `<Icon group="flags" name="eritrea" />`
+| ![](./flags/211-djibouti.svg) | flags | djibouti | `<Icon group="flags" name="djibouti" />`
+| ![](./flags/212-curacao.svg) | flags | curacao | `<Icon group="flags" name="curacao" />`
+| ![](./flags/213-st-barts.svg) | flags | st-barts | `<Icon group="flags" name="st-barts" />`
+| ![](./flags/214-san-marino.svg) | flags | san-marino | `<Icon group="flags" name="san-marino" />`
+| ![](./flags/215-northen-cyprus.svg) | flags | northen-cyprus | `<Icon group="flags" name="northen-cyprus" />`
+| ![](./flags/216-liechtenstein.svg) | flags | liechtenstein | `<Icon group="flags" name="liechtenstein" />`
+| ![](./flags/217-india.svg) | flags | india | `<Icon group="flags" name="india" />`
+| ![](./flags/218-liberia.svg) | flags | liberia | `<Icon group="flags" name="liberia" />`
+| ![](./flags/219-yemen.svg) | flags | yemen | `<Icon group="flags" name="yemen" />`
+| ![](./flags/220-uzbekistn.svg) | flags | uzbekistn | `<Icon group="flags" name="uzbekistn" />`
+| ![](./flags/221-sudan.svg) | flags | sudan | `<Icon group="flags" name="sudan" />`
+| ![](./flags/222-sahrawi-arab-democratic-republic.svg) | flags | sahrawi-arab-democratic-republic | `<Icon group="flags" name="sahrawi-arab-democratic-republic" />`
+| ![](./flags/223-republic-of-macedonia.svg) | flags | republic-of-macedonia | `<Icon group="flags" name="republic-of-macedonia" />`
+| ![](./flags/224-otan.svg) | flags | otan | `<Icon group="flags" name="otan" />`
+| ![](./flags/225-libya.svg) | flags | libya | `<Icon group="flags" name="libya" />`
+| ![](./flags/226-east-timor.svg) | flags | east-timor | `<Icon group="flags" name="east-timor" />`
+| ![](./flags/227-tibet.svg) | flags | tibet | `<Icon group="flags" name="tibet" />`
+| ![](./flags/228-russia.svg) | flags | russia | `<Icon group="flags" name="russia" />`
+| ![](./flags/229-papua-new-guinea.svg) | flags | papua-new-guinea | `<Icon group="flags" name="papua-new-guinea" />`
+| ![](./flags/230-montenegro.svg) | flags | montenegro | `<Icon group="flags" name="montenegro" />`
+| ![](./flags/231-moldova.svg) | flags | moldova | `<Icon group="flags" name="moldova" />`
+| ![](./flags/232-maldives.svg) | flags | maldives | `<Icon group="flags" name="maldives" />`
+| ![](./flags/233-madeira.svg) | flags | madeira | `<Icon group="flags" name="madeira" />`
+| ![](./flags/234-french-polynesia.svg) | flags | french-polynesia | `<Icon group="flags" name="french-polynesia" />`
+| ![](./flags/235-trinidad-and-tobago.svg) | flags | trinidad-and-tobago | `<Icon group="flags" name="trinidad-and-tobago" />`
+| ![](./flags/236-tajikistan.svg) | flags | tajikistan | `<Icon group="flags" name="tajikistan" />`
+| ![](./flags/238-sri-lanka.svg) | flags | sri-lanka | `<Icon group="flags" name="sri-lanka" />`
+| ![](./flags/239-mexico.svg) | flags | mexico | `<Icon group="flags" name="mexico" />`
+| ![](./flags/240-republic-of-the-congo.svg) | flags | republic-of-the-congo | `<Icon group="flags" name="republic-of-the-congo" />`
+| ![](./flags/241-equatorial-guinea.svg) | flags | equatorial-guinea | `<Icon group="flags" name="equatorial-guinea" />`
+| ![](./flags/242-zimbabwe.svg) | flags | zimbabwe | `<Icon group="flags" name="zimbabwe" />`
+| ![](./flags/243-rwanda.svg) | flags | rwanda | `<Icon group="flags" name="rwanda" />`
+| ![](./flags/244-lesotho.svg) | flags | lesotho | `<Icon group="flags" name="lesotho" />`
+| ![](./flags/245-ivory-coast.svg) | flags | ivory-coast | `<Icon group="flags" name="ivory-coast" />`
+| ![](./flags/246-isle-of-man.svg) | flags | isle-of-man | `<Icon group="flags" name="isle-of-man" />`
+| ![](./flags/247-haiti.svg) | flags | haiti | `<Icon group="flags" name="haiti" />`
+| ![](./flags/248-samoa.svg) | flags | samoa | `<Icon group="flags" name="samoa" />`
+| ![](./flags/249-nepal.svg) | flags | nepal | `<Icon group="flags" name="nepal" />`
+| ![](./flags/250-brazil.svg) | flags | brazil | `<Icon group="flags" name="brazil" />`
+| ![](./flags/251-mongolia.svg) | flags | mongolia | `<Icon group="flags" name="mongolia" />`
+| ![](./flags/252-malawi.svg) | flags | malawi | `<Icon group="flags" name="malawi" />`
+| ![](./flags/253-madagascar.svg) | flags | madagascar | `<Icon group="flags" name="madagascar" />`
+| ![](./flags/254-jersey.svg) | flags | jersey | `<Icon group="flags" name="jersey" />`
+| ![](./flags/255-ghana.svg) | flags | ghana | `<Icon group="flags" name="ghana" />`
+| ![](./flags/256-georgia.svg) | flags | georgia | `<Icon group="flags" name="georgia" />`
+| ![](./flags/257-estonia.svg) | flags | estonia | `<Icon group="flags" name="estonia" />`
+| ![](./flags/258-democratic-republic-of-congo.svg) | flags | democratic-republic-of-congo | `<Icon group="flags" name="democratic-republic-of-congo" />`
+| ![](./flags/259-senegal.svg) | flags | senegal | `<Icon group="flags" name="senegal" />`
+| ![](./flags/260-paraguay.svg) | flags | paraguay | `<Icon group="flags" name="paraguay" />`
+| ![](./flags/261-china.svg) | flags | china | `<Icon group="flags" name="china" />`
+| ![](./flags/262-united-kingdom.svg) | flags | united-kingdom | `<Icon group="flags" name="united-kingdom" />`
