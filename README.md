@@ -1,6 +1,6 @@
-# react-native-ico
+# 2212 Icons for React Native
 
-## 2212 Icons for React Native
+### react-native-ico
 
 ## Installation
 
