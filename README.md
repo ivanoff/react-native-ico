@@ -1,6 +1,6 @@
 # react-native-ico
 
-Icons for React Native
+## 2212 Icons for React Native
 
 ## Installation
 
@@ -39,8 +39,9 @@ render() {
     return (
         <Fragment>
           <Icon name="heart" />
+          <Icon group="font-awesome" name="home" />
           <Icon name="speaker" height="20" width="20" />
-          <Icon name="remove" color="red" />
+          <Icon name="essential/trash" color="red" />
         </Fragment>
     );
 }
@@ -97,14 +98,14 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}><Icon name="speaker" />  Step One</Text>
+              <Text style={styles.sectionTitle}><Icon name="heart" color="red" />  Step One</Text>
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> to change this
                 screen and then come back to see your edits.
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}><Icon name="heart" color="red" />  See Your Changes</Text>
+              <Text style={styles.sectionTitle}><Icon group="essential" name="like" />  See Your Changes</Text>
               <Text style={styles.sectionDescription}>
                 <ReloadInstructions />
               </Text>
@@ -116,7 +117,7 @@ const App: () => React$Node = () => {
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}><Icon name="Quiz" />  Learn More</Text>
+              <Text style={styles.sectionTitle}><Icon name="menu/Quiz" />  Learn More</Text>
               <Text style={styles.sectionDescription}>
                 Read the docs to discover what to do next:
               </Text>
