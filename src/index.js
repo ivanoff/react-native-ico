@@ -23,7 +23,7 @@ export default class Icon extends Component {
   }
 
   render() {
-    const { { name, width = 20, height = 20, color, stroke, ...rest} = {} } = this.props;
+    const { name, width = 20, height = 20, color, stroke, ...rest } = this.props || {};
 
     let icon = allIcons[name];
     if(typeof icon !== 'string') icon = allIcons.question;
