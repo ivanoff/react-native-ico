@@ -1,371 +1,372 @@
- | name | group | usage
+## font-awesome
+ image | group | name | usage
 --|--|--
-![](./font-awesome/add-square-button.svg =30x30) | add-square-button | font-awesome | <Icon group="font-awesome" name="add-square-button" />
-![](./font-awesome/adjust-contrast.svg =30x30) | adjust-contrast | font-awesome | <Icon group="font-awesome" name="adjust-contrast" />
-![](./font-awesome/align-justify.svg =30x30) | align-justify | font-awesome | <Icon group="font-awesome" name="align-justify" />
-![](./font-awesome/align-to-left.svg =30x30) | align-to-left | font-awesome | <Icon group="font-awesome" name="align-to-left" />
-![](./font-awesome/align-to-right.svg =30x30) | align-to-right | font-awesome | <Icon group="font-awesome" name="align-to-right" />
-![](./font-awesome/ambulance.svg =30x30) | ambulance | font-awesome | <Icon group="font-awesome" name="ambulance" />
-![](./font-awesome/anchor-shape.svg =30x30) | anchor-shape | font-awesome | <Icon group="font-awesome" name="anchor-shape" />
-![](./font-awesome/android-character-symbol.svg =30x30) | android-character-symbol | font-awesome | <Icon group="font-awesome" name="android-character-symbol" />
-![](./font-awesome/angle-arrow-down.svg =30x30) | angle-arrow-down | font-awesome | <Icon group="font-awesome" name="angle-arrow-down" />
-![](./font-awesome/angle-arrow-pointing-to-right.svg =30x30) | angle-arrow-pointing-to-right | font-awesome | <Icon group="font-awesome" name="angle-arrow-pointing-to-right" />
-![](./font-awesome/angle-pointing-to-left.svg =30x30) | angle-pointing-to-left | font-awesome | <Icon group="font-awesome" name="angle-pointing-to-left" />
-![](./font-awesome/apple-logo.svg =30x30) | apple-logo | font-awesome | <Icon group="font-awesome" name="apple-logo" />
-![](./font-awesome/archive-black-box.svg =30x30) | archive-black-box | font-awesome | <Icon group="font-awesome" name="archive-black-box" />
-![](./font-awesome/arrow-angle-pointing-down.svg =30x30) | arrow-angle-pointing-down | font-awesome | <Icon group="font-awesome" name="arrow-angle-pointing-down" />
-![](./font-awesome/arrow-down-on-black-circular-background.svg =30x30) | arrow-down-on-black-circular-background | font-awesome | <Icon group="font-awesome" name="arrow-down-on-black-circular-background" />
-![](./font-awesome/arrow-pointing-down.svg =30x30) | arrow-pointing-down | font-awesome | <Icon group="font-awesome" name="arrow-pointing-down" />
-![](./font-awesome/arrow-pointing-right-in-a-circle.svg =30x30) | arrow-pointing-right-in-a-circle | font-awesome | <Icon group="font-awesome" name="arrow-pointing-right-in-a-circle" />
-![](./font-awesome/arrow-pointing-to-left.svg =30x30) | arrow-pointing-to-left | font-awesome | <Icon group="font-awesome" name="arrow-pointing-to-left" />
-![](./font-awesome/arrow-pointing-to-right.svg =30x30) | arrow-pointing-to-right | font-awesome | <Icon group="font-awesome" name="arrow-pointing-to-right" />
-![](./font-awesome/arrow-up-on-a-black-circle-background.svg =30x30) | arrow-up-on-a-black-circle-background | font-awesome | <Icon group="font-awesome" name="arrow-up-on-a-black-circle-background" />
-![](./font-awesome/arrow-up.svg =30x30) | arrow-up | font-awesome | <Icon group="font-awesome" name="arrow-up" />
-![](./font-awesome/arrowhead-pointing-to-the-right.svg =30x30) | arrowhead-pointing-to-the-right | font-awesome | <Icon group="font-awesome" name="arrowhead-pointing-to-the-right" />
-![](./font-awesome/arrowhead-pointing-up-inside-a-square-box-outline.svg =30x30) | arrowhead-pointing-up-inside-a-square-box-outline | font-awesome | <Icon group="font-awesome" name="arrowhead-pointing-up-inside-a-square-box-outline" />
-![](./font-awesome/arrowheads-pointing-to-the-left.svg =30x30) | arrowheads-pointing-to-the-left | font-awesome | <Icon group="font-awesome" name="arrowheads-pointing-to-the-left" />
-![](./font-awesome/asterisk.svg =30x30) | asterisk | font-awesome | <Icon group="font-awesome" name="asterisk" />
-![](./font-awesome/ban-circle-symbol.svg =30x30) | ban-circle-symbol | font-awesome | <Icon group="font-awesome" name="ban-circle-symbol" />
-![](./font-awesome/bar-graph-on-a-rectangle.svg =30x30) | bar-graph-on-a-rectangle | font-awesome | <Icon group="font-awesome" name="bar-graph-on-a-rectangle" />
-![](./font-awesome/barcode.svg =30x30) | barcode | font-awesome | <Icon group="font-awesome" name="barcode" />
-![](./font-awesome/beaker.svg =30x30) | beaker | font-awesome | <Icon group="font-awesome" name="beaker" />
-![](./font-awesome/beer-jar-black-silhouette.svg =30x30) | beer-jar-black-silhouette | font-awesome | <Icon group="font-awesome" name="beer-jar-black-silhouette" />
-![](./font-awesome/bell-musical-tool.svg =30x30) | bell-musical-tool | font-awesome | <Icon group="font-awesome" name="bell-musical-tool" />
-![](./font-awesome/bitbucket-logotype-camera-lens-in-perspective.svg =30x30) | bitbucket-logotype-camera-lens-in-perspective | font-awesome | <Icon group="font-awesome" name="bitbucket-logotype-camera-lens-in-perspective" />
-![](./font-awesome/bitbucket-sign.svg =30x30) | bitbucket-sign | font-awesome | <Icon group="font-awesome" name="bitbucket-sign" />
-![](./font-awesome/bitcoin-logo.svg =30x30) | bitcoin-logo | font-awesome | <Icon group="font-awesome" name="bitcoin-logo" />
-![](./font-awesome/blank-file.svg =30x30) | blank-file | font-awesome | <Icon group="font-awesome" name="blank-file" />
-![](./font-awesome/bold-text-option.svg =30x30) | bold-text-option | font-awesome | <Icon group="font-awesome" name="bold-text-option" />
-![](./font-awesome/book.svg =30x30) | book | font-awesome | <Icon group="font-awesome" name="book" />
-![](./font-awesome/bookmark-black-shape.svg =30x30) | bookmark-black-shape | font-awesome | <Icon group="font-awesome" name="bookmark-black-shape" />
-![](./font-awesome/bookmark-white.svg =30x30) | bookmark-white | font-awesome | <Icon group="font-awesome" name="bookmark-white" />
-![](./font-awesome/branch-with-leaves-black-shape.svg =30x30) | branch-with-leaves-black-shape | font-awesome | <Icon group="font-awesome" name="branch-with-leaves-black-shape" />
-![](./font-awesome/briefcase.svg =30x30) | briefcase | font-awesome | <Icon group="font-awesome" name="briefcase" />
-![](./font-awesome/bug.svg =30x30) | bug | font-awesome | <Icon group="font-awesome" name="bug" />
-![](./font-awesome/building-front.svg =30x30) | building-front | font-awesome | <Icon group="font-awesome" name="building-front" />
-![](./font-awesome/bull-horn-announcer.svg =30x30) | bull-horn-announcer | font-awesome | <Icon group="font-awesome" name="bull-horn-announcer" />
-![](./font-awesome/bullseye.svg =30x30) | bullseye | font-awesome | <Icon group="font-awesome" name="bullseye" />
-![](./font-awesome/calendar-page-empty.svg =30x30) | calendar-page-empty | font-awesome | <Icon group="font-awesome" name="calendar-page-empty" />
-![](./font-awesome/calendar-with-spring-binder-and-date-blocks.svg =30x30) | calendar-with-spring-binder-and-date-blocks | font-awesome | <Icon group="font-awesome" name="calendar-with-spring-binder-and-date-blocks" />
-![](./font-awesome/camera-retro.svg =30x30) | camera-retro | font-awesome | <Icon group="font-awesome" name="camera-retro" />
-![](./font-awesome/caret-arrow-up.svg =30x30) | caret-arrow-up | font-awesome | <Icon group="font-awesome" name="caret-arrow-up" />
-![](./font-awesome/caret-down.svg =30x30) | caret-down | font-awesome | <Icon group="font-awesome" name="caret-down" />
-![](./font-awesome/center-text-alignment.svg =30x30) | center-text-alignment | font-awesome | <Icon group="font-awesome" name="center-text-alignment" />
-![](./font-awesome/certificate-shape.svg =30x30) | certificate-shape | font-awesome | <Icon group="font-awesome" name="certificate-shape" />
-![](./font-awesome/check-box-empty.svg =30x30) | check-box-empty | font-awesome | <Icon group="font-awesome" name="check-box-empty" />
-![](./font-awesome/check-mark.svg =30x30) | check-mark | font-awesome | <Icon group="font-awesome" name="check-mark" />
-![](./font-awesome/check-sign-in-a-rounded-black-square.svg =30x30) | check-sign-in-a-rounded-black-square | font-awesome | <Icon group="font-awesome" name="check-sign-in-a-rounded-black-square" />
-![](./font-awesome/check.svg =30x30) | check | font-awesome | <Icon group="font-awesome" name="check" />
-![](./font-awesome/checked-symbol.svg =30x30) | checked-symbol | font-awesome | <Icon group="font-awesome" name="checked-symbol" />
-![](./font-awesome/checkered-raised-flag.svg =30x30) | checkered-raised-flag | font-awesome | <Icon group="font-awesome" name="checkered-raised-flag" />
-![](./font-awesome/chevron-arrow-down.svg =30x30) | chevron-arrow-down | font-awesome | <Icon group="font-awesome" name="chevron-arrow-down" />
-![](./font-awesome/chevron-arrow-up.svg =30x30) | chevron-arrow-up | font-awesome | <Icon group="font-awesome" name="chevron-arrow-up" />
-![](./font-awesome/chevron-pointing-to-the-left.svg =30x30) | chevron-pointing-to-the-left | font-awesome | <Icon group="font-awesome" name="chevron-pointing-to-the-left" />
-![](./font-awesome/chevron-sign-down.svg =30x30) | chevron-sign-down | font-awesome | <Icon group="font-awesome" name="chevron-sign-down" />
-![](./font-awesome/chevron-sign-left.svg =30x30) | chevron-sign-left | font-awesome | <Icon group="font-awesome" name="chevron-sign-left" />
-![](./font-awesome/chevron-sign-to-right.svg =30x30) | chevron-sign-to-right | font-awesome | <Icon group="font-awesome" name="chevron-sign-to-right" />
-![](./font-awesome/chevron-up.svg =30x30) | chevron-up | font-awesome | <Icon group="font-awesome" name="chevron-up" />
-![](./font-awesome/circle-shape-outline.svg =30x30) | circle-shape-outline | font-awesome | <Icon group="font-awesome" name="circle-shape-outline" />
-![](./font-awesome/circle-with-an-arrow-pointing-to-left.svg =30x30) | circle-with-an-arrow-pointing-to-left | font-awesome | <Icon group="font-awesome" name="circle-with-an-arrow-pointing-to-left" />
-![](./font-awesome/circular-shape-silhouette.svg =30x30) | circular-shape-silhouette | font-awesome | <Icon group="font-awesome" name="circular-shape-silhouette" />
-![](./font-awesome/cloud-storage-download.svg =30x30) | cloud-storage-download | font-awesome | <Icon group="font-awesome" name="cloud-storage-download" />
-![](./font-awesome/cloud-storage-uploading-option.svg =30x30) | cloud-storage-uploading-option | font-awesome | <Icon group="font-awesome" name="cloud-storage-uploading-option" />
-![](./font-awesome/cocktail-glass.svg =30x30) | cocktail-glass | font-awesome | <Icon group="font-awesome" name="cocktail-glass" />
-![](./font-awesome/code-fork-symbol.svg =30x30) | code-fork-symbol | font-awesome | <Icon group="font-awesome" name="code-fork-symbol" />
-![](./font-awesome/code.svg =30x30) | code | font-awesome | <Icon group="font-awesome" name="code" />
-![](./font-awesome/coffee-cup-on-a-plate-black-silhouettes.svg =30x30) | coffee-cup-on-a-plate-black-silhouettes | font-awesome | <Icon group="font-awesome" name="coffee-cup-on-a-plate-black-silhouettes" />
-![](./font-awesome/cog-wheel-silhouette.svg =30x30) | cog-wheel-silhouette | font-awesome | <Icon group="font-awesome" name="cog-wheel-silhouette" />
-![](./font-awesome/collapse-window-option.svg =30x30) | collapse-window-option | font-awesome | <Icon group="font-awesome" name="collapse-window-option" />
-![](./font-awesome/comment-black-oval-bubble-shape.svg =30x30) | comment-black-oval-bubble-shape | font-awesome | <Icon group="font-awesome" name="comment-black-oval-bubble-shape" />
-![](./font-awesome/comment-white-oval-bubble.svg =30x30) | comment-white-oval-bubble | font-awesome | <Icon group="font-awesome" name="comment-white-oval-bubble" />
-![](./font-awesome/comments.svg =30x30) | comments | font-awesome | <Icon group="font-awesome" name="comments" />
-![](./font-awesome/compass-circular-variant.svg =30x30) | compass-circular-variant | font-awesome | <Icon group="font-awesome" name="compass-circular-variant" />
-![](./font-awesome/computer-tablet.svg =30x30) | computer-tablet | font-awesome | <Icon group="font-awesome" name="computer-tablet" />
-![](./font-awesome/copy-document.svg =30x30) | copy-document | font-awesome | <Icon group="font-awesome" name="copy-document" />
-![](./font-awesome/correct-symbol.svg =30x30) | correct-symbol | font-awesome | <Icon group="font-awesome" name="correct-symbol" />
-![](./font-awesome/couple-of-arrows-changing-places.svg =30x30) | couple-of-arrows-changing-places | font-awesome | <Icon group="font-awesome" name="couple-of-arrows-changing-places" />
-![](./font-awesome/credit-card.svg =30x30) | credit-card | font-awesome | <Icon group="font-awesome" name="credit-card" />
-![](./font-awesome/crop-symbol.svg =30x30) | crop-symbol | font-awesome | <Icon group="font-awesome" name="crop-symbol" />
-![](./font-awesome/cross-mark-on-a-black-circle-background.svg =30x30) | cross-mark-on-a-black-circle-background | font-awesome | <Icon group="font-awesome" name="cross-mark-on-a-black-circle-background" />
-![](./font-awesome/css-3-logo.svg =30x30) | css-3-logo | font-awesome | <Icon group="font-awesome" name="css-3-logo" />
-![](./font-awesome/cursor.svg =30x30) | cursor | font-awesome | <Icon group="font-awesome" name="cursor" />
-![](./font-awesome/cut.svg =30x30) | cut | font-awesome | <Icon group="font-awesome" name="cut" />
-![](./font-awesome/dashboard.svg =30x30) | dashboard | font-awesome | <Icon group="font-awesome" name="dashboard" />
-![](./font-awesome/delivery-truck-silhouette.svg =30x30) | delivery-truck-silhouette | font-awesome | <Icon group="font-awesome" name="delivery-truck-silhouette" />
-![](./font-awesome/desktop-monitor.svg =30x30) | desktop-monitor | font-awesome | <Icon group="font-awesome" name="desktop-monitor" />
-![](./font-awesome/dollar-symbol.svg =30x30) | dollar-symbol | font-awesome | <Icon group="font-awesome" name="dollar-symbol" />
-![](./font-awesome/dot-and-circle.svg =30x30) | dot-and-circle | font-awesome | <Icon group="font-awesome" name="dot-and-circle" />
-![](./font-awesome/double-angle-pointing-to-right.svg =30x30) | double-angle-pointing-to-right | font-awesome | <Icon group="font-awesome" name="double-angle-pointing-to-right" />
-![](./font-awesome/double-left-chevron.svg =30x30) | double-left-chevron | font-awesome | <Icon group="font-awesome" name="double-left-chevron" />
-![](./font-awesome/double-sided-eraser.svg =30x30) | double-sided-eraser | font-awesome | <Icon group="font-awesome" name="double-sided-eraser" />
-![](./font-awesome/double-strikethrough-option.svg =30x30) | double-strikethrough-option | font-awesome | <Icon group="font-awesome" name="double-strikethrough-option" />
-![](./font-awesome/down-arrow.svg =30x30) | down-arrow | font-awesome | <Icon group="font-awesome" name="down-arrow" />
-![](./font-awesome/download-symbol.svg =30x30) | download-symbol | font-awesome | <Icon group="font-awesome" name="download-symbol" />
-![](./font-awesome/download-to-storage-drive.svg =30x30) | download-to-storage-drive | font-awesome | <Icon group="font-awesome" name="download-to-storage-drive" />
-![](./font-awesome/dribbble-logo.svg =30x30) | dribbble-logo | font-awesome | <Icon group="font-awesome" name="dribbble-logo" />
-![](./font-awesome/dropbox-logo.svg =30x30) | dropbox-logo | font-awesome | <Icon group="font-awesome" name="dropbox-logo" />
-![](./font-awesome/earth-globe.svg =30x30) | earth-globe | font-awesome | <Icon group="font-awesome" name="earth-globe" />
-![](./font-awesome/edit-interface-sign.svg =30x30) | edit-interface-sign | font-awesome | <Icon group="font-awesome" name="edit-interface-sign" />
-![](./font-awesome/eject-symbol.svg =30x30) | eject-symbol | font-awesome | <Icon group="font-awesome" name="eject-symbol" />
-![](./font-awesome/envelope-of-white-paper.svg =30x30) | envelope-of-white-paper | font-awesome | <Icon group="font-awesome" name="envelope-of-white-paper" />
-![](./font-awesome/envelope.svg =30x30) | envelope | font-awesome | <Icon group="font-awesome" name="envelope" />
-![](./font-awesome/euro-currency-symbol.svg =30x30) | euro-currency-symbol | font-awesome | <Icon group="font-awesome" name="euro-currency-symbol" />
-![](./font-awesome/exchange-arrows.svg =30x30) | exchange-arrows | font-awesome | <Icon group="font-awesome" name="exchange-arrows" />
-![](./font-awesome/exclamation-sign.svg =30x30) | exclamation-sign | font-awesome | <Icon group="font-awesome" name="exclamation-sign" />
-![](./font-awesome/exclamation.svg =30x30) | exclamation | font-awesome | <Icon group="font-awesome" name="exclamation" />
-![](./font-awesome/external-link-square-with-an-arrow-in-right-diagonal.svg =30x30) | external-link-square-with-an-arrow-in-right-diagonal | font-awesome | <Icon group="font-awesome" name="external-link-square-with-an-arrow-in-right-diagonal" />
-![](./font-awesome/external-link-symbol.svg =30x30) | external-link-symbol | font-awesome | <Icon group="font-awesome" name="external-link-symbol" />
-![](./font-awesome/eye-open.svg =30x30) | eye-open | font-awesome | <Icon group="font-awesome" name="eye-open" />
-![](./font-awesome/eye-with-a-diagonal-line-interface-symbol-for-invisibility.svg =30x30) | eye-with-a-diagonal-line-interface-symbol-for-invisibility | font-awesome | <Icon group="font-awesome" name="eye-with-a-diagonal-line-interface-symbol-for-invisibility" />
-![](./font-awesome/facebook-logo-1.svg =30x30) | facebook-logo-1 | font-awesome | <Icon group="font-awesome" name="facebook-logo-1" />
-![](./font-awesome/facebook-logo.svg =30x30) | facebook-logo | font-awesome | <Icon group="font-awesome" name="facebook-logo" />
-![](./font-awesome/facetime-button.svg =30x30) | facetime-button | font-awesome | <Icon group="font-awesome" name="facetime-button" />
-![](./font-awesome/fast-forward-arrows.svg =30x30) | fast-forward-arrows | font-awesome | <Icon group="font-awesome" name="fast-forward-arrows" />
-![](./font-awesome/female-silhouette.svg =30x30) | female-silhouette | font-awesome | <Icon group="font-awesome" name="female-silhouette" />
-![](./font-awesome/fighter-jet-silhouette.svg =30x30) | fighter-jet-silhouette | font-awesome | <Icon group="font-awesome" name="fighter-jet-silhouette" />
-![](./font-awesome/file.svg =30x30) | file | font-awesome | <Icon group="font-awesome" name="file" />
-![](./font-awesome/film-strip-with-two-photograms.svg =30x30) | film-strip-with-two-photograms | font-awesome | <Icon group="font-awesome" name="film-strip-with-two-photograms" />
-![](./font-awesome/filter-tool-black-shape.svg =30x30) | filter-tool-black-shape | font-awesome | <Icon group="font-awesome" name="filter-tool-black-shape" />
-![](./font-awesome/finger-of-a-hand-pointing-to-right-direction.svg =30x30) | finger-of-a-hand-pointing-to-right-direction | font-awesome | <Icon group="font-awesome" name="finger-of-a-hand-pointing-to-right-direction" />
-![](./font-awesome/fire-extinguisher.svg =30x30) | fire-extinguisher | font-awesome | <Icon group="font-awesome" name="fire-extinguisher" />
-![](./font-awesome/fire-symbol.svg =30x30) | fire-symbol | font-awesome | <Icon group="font-awesome" name="fire-symbol" />
-![](./font-awesome/flag-black-shape.svg =30x30) | flag-black-shape | font-awesome | <Icon group="font-awesome" name="flag-black-shape" />
-![](./font-awesome/flickr-website-logo-silhouette.svg =30x30) | flickr-website-logo-silhouette | font-awesome | <Icon group="font-awesome" name="flickr-website-logo-silhouette" />
-![](./font-awesome/fluffy-cloud-silhouette.svg =30x30) | fluffy-cloud-silhouette | font-awesome | <Icon group="font-awesome" name="fluffy-cloud-silhouette" />
-![](./font-awesome/folder-closed-black-shape.svg =30x30) | folder-closed-black-shape | font-awesome | <Icon group="font-awesome" name="folder-closed-black-shape" />
-![](./font-awesome/folder-white-shape.svg =30x30) | folder-white-shape | font-awesome | <Icon group="font-awesome" name="folder-white-shape" />
-![](./font-awesome/font-selection-editor.svg =30x30) | font-selection-editor | font-awesome | <Icon group="font-awesome" name="font-selection-editor" />
-![](./font-awesome/font-symbol-of-letter-a.svg =30x30) | font-symbol-of-letter-a | font-awesome | <Icon group="font-awesome" name="font-symbol-of-letter-a" />
-![](./font-awesome/fork-and-knife-silhouette.svg =30x30) | fork-and-knife-silhouette | font-awesome | <Icon group="font-awesome" name="fork-and-knife-silhouette" />
-![](./font-awesome/forward-button.svg =30x30) | forward-button | font-awesome | <Icon group="font-awesome" name="forward-button" />
-![](./font-awesome/four-black-squares.svg =30x30) | four-black-squares | font-awesome | <Icon group="font-awesome" name="four-black-squares" />
-![](./font-awesome/foursquare-button.svg =30x30) | foursquare-button | font-awesome | <Icon group="font-awesome" name="foursquare-button" />
-![](./font-awesome/frown.svg =30x30) | frown | font-awesome | <Icon group="font-awesome" name="frown" />
-![](./font-awesome/fullscreen-symbol.svg =30x30) | fullscreen-symbol | font-awesome | <Icon group="font-awesome" name="fullscreen-symbol" />
-![](./font-awesome/gamepad-console.svg =30x30) | gamepad-console | font-awesome | <Icon group="font-awesome" name="gamepad-console" />
-![](./font-awesome/gift-box.svg =30x30) | gift-box | font-awesome | <Icon group="font-awesome" name="gift-box" />
-![](./font-awesome/github-character.svg =30x30) | github-character | font-awesome | <Icon group="font-awesome" name="github-character" />
-![](./font-awesome/github-logo.svg =30x30) | github-logo | font-awesome | <Icon group="font-awesome" name="github-logo" />
-![](./font-awesome/github-sign.svg =30x30) | github-sign | font-awesome | <Icon group="font-awesome" name="github-sign" />
-![](./font-awesome/gittip-website-logo.svg =30x30) | gittip-website-logo | font-awesome | <Icon group="font-awesome" name="gittip-website-logo" />
-![](./font-awesome/google-plus-symbol-1.svg =30x30) | google-plus-symbol-1 | font-awesome | <Icon group="font-awesome" name="google-plus-symbol-1" />
-![](./font-awesome/google-plus-symbol.svg =30x30) | google-plus-symbol | font-awesome | <Icon group="font-awesome" name="google-plus-symbol" />
-![](./font-awesome/great-britain-pound.svg =30x30) | great-britain-pound | font-awesome | <Icon group="font-awesome" name="great-britain-pound" />
-![](./font-awesome/group-profile-users.svg =30x30) | group-profile-users | font-awesome | <Icon group="font-awesome" name="group-profile-users" />
-![](./font-awesome/half-star-shape.svg =30x30) | half-star-shape | font-awesome | <Icon group="font-awesome" name="half-star-shape" />
-![](./font-awesome/hand-finger-pointing-down.svg =30x30) | hand-finger-pointing-down | font-awesome | <Icon group="font-awesome" name="hand-finger-pointing-down" />
-![](./font-awesome/hand-pointing-to-left-direction.svg =30x30) | hand-pointing-to-left-direction | font-awesome | <Icon group="font-awesome" name="hand-pointing-to-left-direction" />
-![](./font-awesome/hand-pointing-upward.svg =30x30) | hand-pointing-upward | font-awesome | <Icon group="font-awesome" name="hand-pointing-upward" />
-![](./font-awesome/hard-drive.svg =30x30) | hard-drive | font-awesome | <Icon group="font-awesome" name="hard-drive" />
-![](./font-awesome/heart-shape-outline.svg =30x30) | heart-shape-outline | font-awesome | <Icon group="font-awesome" name="heart-shape-outline" />
-![](./font-awesome/heart-shape-silhouette.svg =30x30) | heart-shape-silhouette | font-awesome | <Icon group="font-awesome" name="heart-shape-silhouette" />
-![](./font-awesome/home.svg =30x30) | home | font-awesome | <Icon group="font-awesome" name="home" />
-![](./font-awesome/horizontal-resize-option.svg =30x30) | horizontal-resize-option | font-awesome | <Icon group="font-awesome" name="horizontal-resize-option" />
-![](./font-awesome/hostpital-building.svg =30x30) | hostpital-building | font-awesome | <Icon group="font-awesome" name="hostpital-building" />
-![](./font-awesome/hotel-letter-h-sign-inside-a-black-rounded-square.svg =30x30) | hotel-letter-h-sign-inside-a-black-rounded-square | font-awesome | <Icon group="font-awesome" name="hotel-letter-h-sign-inside-a-black-rounded-square" />
-![](./font-awesome/html-5-logo.svg =30x30) | html-5-logo | font-awesome | <Icon group="font-awesome" name="html-5-logo" />
-![](./font-awesome/inbox.svg =30x30) | inbox | font-awesome | <Icon group="font-awesome" name="inbox" />
-![](./font-awesome/increase-size-option.svg =30x30) | increase-size-option | font-awesome | <Icon group="font-awesome" name="increase-size-option" />
-![](./font-awesome/indent-right.svg =30x30) | indent-right | font-awesome | <Icon group="font-awesome" name="indent-right" />
-![](./font-awesome/information-button.svg =30x30) | information-button | font-awesome | <Icon group="font-awesome" name="information-button" />
-![](./font-awesome/information-symbol.svg =30x30) | information-symbol | font-awesome | <Icon group="font-awesome" name="information-symbol" />
-![](./font-awesome/instagram-symbol.svg =30x30) | instagram-symbol | font-awesome | <Icon group="font-awesome" name="instagram-symbol" />
-![](./font-awesome/italicize-text.svg =30x30) | italicize-text | font-awesome | <Icon group="font-awesome" name="italicize-text" />
-![](./font-awesome/keyboard.svg =30x30) | keyboard | font-awesome | <Icon group="font-awesome" name="keyboard" />
-![](./font-awesome/left-arrow-1.svg =30x30) | left-arrow-1 | font-awesome | <Icon group="font-awesome" name="left-arrow-1" />
-![](./font-awesome/left-arrow.svg =30x30) | left-arrow | font-awesome | <Icon group="font-awesome" name="left-arrow" />
-![](./font-awesome/left-indentation-option.svg =30x30) | left-indentation-option | font-awesome | <Icon group="font-awesome" name="left-indentation-option" />
-![](./font-awesome/legal-hammer.svg =30x30) | legal-hammer | font-awesome | <Icon group="font-awesome" name="legal-hammer" />
-![](./font-awesome/lemon.svg =30x30) | lemon | font-awesome | <Icon group="font-awesome" name="lemon" />
-![](./font-awesome/leter-a-inside-a-black-circle.svg =30x30) | leter-a-inside-a-black-circle | font-awesome | <Icon group="font-awesome" name="leter-a-inside-a-black-circle" />
-![](./font-awesome/letter-p-symbol.svg =30x30) | letter-p-symbol | font-awesome | <Icon group="font-awesome" name="letter-p-symbol" />
-![](./font-awesome/level-up.svg =30x30) | level-up | font-awesome | <Icon group="font-awesome" name="level-up" />
-![](./font-awesome/light-bulb.svg =30x30) | light-bulb | font-awesome | <Icon group="font-awesome" name="light-bulb" />
-![](./font-awesome/lightning-bolt-shadow.svg =30x30) | lightning-bolt-shadow | font-awesome | <Icon group="font-awesome" name="lightning-bolt-shadow" />
-![](./font-awesome/link-symbol.svg =30x30) | link-symbol | font-awesome | <Icon group="font-awesome" name="link-symbol" />
-![](./font-awesome/linkedin-letters.svg =30x30) | linkedin-letters | font-awesome | <Icon group="font-awesome" name="linkedin-letters" />
-![](./font-awesome/linkedin-sign.svg =30x30) | linkedin-sign | font-awesome | <Icon group="font-awesome" name="linkedin-sign" />
-![](./font-awesome/linux-logo.svg =30x30) | linux-logo | font-awesome | <Icon group="font-awesome" name="linux-logo" />
-![](./font-awesome/list-on-window.svg =30x30) | list-on-window | font-awesome | <Icon group="font-awesome" name="list-on-window" />
-![](./font-awesome/list-with-dots.svg =30x30) | list-with-dots | font-awesome | <Icon group="font-awesome" name="list-with-dots" />
-![](./font-awesome/list.svg =30x30) | list | font-awesome | <Icon group="font-awesome" name="list" />
-![](./font-awesome/listing-option.svg =30x30) | listing-option | font-awesome | <Icon group="font-awesome" name="listing-option" />
-![](./font-awesome/long-arrow-pointing-to-left.svg =30x30) | long-arrow-pointing-to-left | font-awesome | <Icon group="font-awesome" name="long-arrow-pointing-to-left" />
-![](./font-awesome/long-arrow-pointing-to-the-right.svg =30x30) | long-arrow-pointing-to-the-right | font-awesome | <Icon group="font-awesome" name="long-arrow-pointing-to-the-right" />
-![](./font-awesome/long-arrow-pointing-up.svg =30x30) | long-arrow-pointing-up | font-awesome | <Icon group="font-awesome" name="long-arrow-pointing-up" />
-![](./font-awesome/magic-wand.svg =30x30) | magic-wand | font-awesome | <Icon group="font-awesome" name="magic-wand" />
-![](./font-awesome/magnifying-glass.svg =30x30) | magnifying-glass | font-awesome | <Icon group="font-awesome" name="magnifying-glass" />
-![](./font-awesome/man.svg =30x30) | man | font-awesome | <Icon group="font-awesome" name="man" />
-![](./font-awesome/map-marker.svg =30x30) | map-marker | font-awesome | <Icon group="font-awesome" name="map-marker" />
-![](./font-awesome/maxcdn-website-logo.svg =30x30) | maxcdn-website-logo | font-awesome | <Icon group="font-awesome" name="maxcdn-website-logo" />
-![](./font-awesome/medical-kit.svg =30x30) | medical-kit | font-awesome | <Icon group="font-awesome" name="medical-kit" />
-![](./font-awesome/meh-face-emoticon.svg =30x30) | meh-face-emoticon | font-awesome | <Icon group="font-awesome" name="meh-face-emoticon" />
-![](./font-awesome/microphone-black-shape.svg =30x30) | microphone-black-shape | font-awesome | <Icon group="font-awesome" name="microphone-black-shape" />
-![](./font-awesome/microphone-off.svg =30x30) | microphone-off | font-awesome | <Icon group="font-awesome" name="microphone-off" />
-![](./font-awesome/minus-button.svg =30x30) | minus-button | font-awesome | <Icon group="font-awesome" name="minus-button" />
-![](./font-awesome/minus-sign-inside-a-black-circle.svg =30x30) | minus-sign-inside-a-black-circle | font-awesome | <Icon group="font-awesome" name="minus-sign-inside-a-black-circle" />
-![](./font-awesome/minus-sign-inside-a-black-rounded-square-shape.svg =30x30) | minus-sign-inside-a-black-rounded-square-shape | font-awesome | <Icon group="font-awesome" name="minus-sign-inside-a-black-rounded-square-shape" />
-![](./font-awesome/minus-sign-on-a-square-outline.svg =30x30) | minus-sign-on-a-square-outline | font-awesome | <Icon group="font-awesome" name="minus-sign-on-a-square-outline" />
-![](./font-awesome/minus-symbol.svg =30x30) | minus-symbol | font-awesome | <Icon group="font-awesome" name="minus-symbol" />
-![](./font-awesome/mobile-phone.svg =30x30) | mobile-phone | font-awesome | <Icon group="font-awesome" name="mobile-phone" />
-![](./font-awesome/moon-phase-outline.svg =30x30) | moon-phase-outline | font-awesome | <Icon group="font-awesome" name="moon-phase-outline" />
-![](./font-awesome/move-option.svg =30x30) | move-option | font-awesome | <Icon group="font-awesome" name="move-option" />
-![](./font-awesome/music-headphones.svg =30x30) | music-headphones | font-awesome | <Icon group="font-awesome" name="music-headphones" />
-![](./font-awesome/music-note-black-symbol.svg =30x30) | music-note-black-symbol | font-awesome | <Icon group="font-awesome" name="music-note-black-symbol" />
-![](./font-awesome/musical-bell-outline.svg =30x30) | musical-bell-outline | font-awesome | <Icon group="font-awesome" name="musical-bell-outline" />
-![](./font-awesome/nine-black-tiles.svg =30x30) | nine-black-tiles | font-awesome | <Icon group="font-awesome" name="nine-black-tiles" />
-![](./font-awesome/numbered-list.svg =30x30) | numbered-list | font-awesome | <Icon group="font-awesome" name="numbered-list" />
-![](./font-awesome/open-folder-outline.svg =30x30) | open-folder-outline | font-awesome | <Icon group="font-awesome" name="open-folder-outline" />
-![](./font-awesome/open-folder.svg =30x30) | open-folder | font-awesome | <Icon group="font-awesome" name="open-folder" />
-![](./font-awesome/open-laptop-computer.svg =30x30) | open-laptop-computer | font-awesome | <Icon group="font-awesome" name="open-laptop-computer" />
-![](./font-awesome/open-padlock-silhouette.svg =30x30) | open-padlock-silhouette | font-awesome | <Icon group="font-awesome" name="open-padlock-silhouette" />
-![](./font-awesome/open-wrench-tool-silhouette.svg =30x30) | open-wrench-tool-silhouette | font-awesome | <Icon group="font-awesome" name="open-wrench-tool-silhouette" />
-![](./font-awesome/padlock-unlock.svg =30x30) | padlock-unlock | font-awesome | <Icon group="font-awesome" name="padlock-unlock" />
-![](./font-awesome/padlock.svg =30x30) | padlock | font-awesome | <Icon group="font-awesome" name="padlock" />
-![](./font-awesome/paper-bill.svg =30x30) | paper-bill | font-awesome | <Icon group="font-awesome" name="paper-bill" />
-![](./font-awesome/paper-clip-outline.svg =30x30) | paper-clip-outline | font-awesome | <Icon group="font-awesome" name="paper-clip-outline" />
-![](./font-awesome/paper-push-pin.svg =30x30) | paper-push-pin | font-awesome | <Icon group="font-awesome" name="paper-push-pin" />
-![](./font-awesome/paste-from-clipboard.svg =30x30) | paste-from-clipboard | font-awesome | <Icon group="font-awesome" name="paste-from-clipboard" />
-![](./font-awesome/pause-symbol.svg =30x30) | pause-symbol | font-awesome | <Icon group="font-awesome" name="pause-symbol" />
-![](./font-awesome/pencil.svg =30x30) | pencil | font-awesome | <Icon group="font-awesome" name="pencil" />
-![](./font-awesome/photo-camera.svg =30x30) | photo-camera | font-awesome | <Icon group="font-awesome" name="photo-camera" />
-![](./font-awesome/picture.svg =30x30) | picture | font-awesome | <Icon group="font-awesome" name="picture" />
-![](./font-awesome/pinterest-logo.svg =30x30) | pinterest-logo | font-awesome | <Icon group="font-awesome" name="pinterest-logo" />
-![](./font-awesome/pinterest-sign.svg =30x30) | pinterest-sign | font-awesome | <Icon group="font-awesome" name="pinterest-sign" />
-![](./font-awesome/plane.svg =30x30) | plane | font-awesome | <Icon group="font-awesome" name="plane" />
-![](./font-awesome/plant-leaf-with-white-details.svg =30x30) | plant-leaf-with-white-details | font-awesome | <Icon group="font-awesome" name="plant-leaf-with-white-details" />
-![](./font-awesome/play-button.svg =30x30) | play-button | font-awesome | <Icon group="font-awesome" name="play-button" />
-![](./font-awesome/play-circle.svg =30x30) | play-circle | font-awesome | <Icon group="font-awesome" name="play-circle" />
-![](./font-awesome/play-sign.svg =30x30) | play-sign | font-awesome | <Icon group="font-awesome" name="play-sign" />
-![](./font-awesome/play-video-button.svg =30x30) | play-video-button | font-awesome | <Icon group="font-awesome" name="play-video-button" />
-![](./font-awesome/plus-black-symbol.svg =30x30) | plus-black-symbol | font-awesome | <Icon group="font-awesome" name="plus-black-symbol" />
-![](./font-awesome/plus-sign-in-a-black-circle.svg =30x30) | plus-sign-in-a-black-circle | font-awesome | <Icon group="font-awesome" name="plus-sign-in-a-black-circle" />
-![](./font-awesome/plus-symbol-in-a-rounded-black-square.svg =30x30) | plus-symbol-in-a-rounded-black-square | font-awesome | <Icon group="font-awesome" name="plus-symbol-in-a-rounded-black-square" />
-![](./font-awesome/power-button-off.svg =30x30) | power-button-off | font-awesome | <Icon group="font-awesome" name="power-button-off" />
-![](./font-awesome/printing-tool.svg =30x30) | printing-tool | font-awesome | <Icon group="font-awesome" name="printing-tool" />
-![](./font-awesome/puzzle-piece-silhouette.svg =30x30) | puzzle-piece-silhouette | font-awesome | <Icon group="font-awesome" name="puzzle-piece-silhouette" />
-![](./font-awesome/qr-code.svg =30x30) | qr-code | font-awesome | <Icon group="font-awesome" name="qr-code" />
-![](./font-awesome/question-mark-on-a-circular-black-background.svg =30x30) | question-mark-on-a-circular-black-background | font-awesome | <Icon group="font-awesome" name="question-mark-on-a-circular-black-background" />
-![](./font-awesome/question-sign.svg =30x30) | question-sign | font-awesome | <Icon group="font-awesome" name="question-sign" />
-![](./font-awesome/quote-left.svg =30x30) | quote-left | font-awesome | <Icon group="font-awesome" name="quote-left" />
-![](./font-awesome/reduced-volume.svg =30x30) | reduced-volume | font-awesome | <Icon group="font-awesome" name="reduced-volume" />
-![](./font-awesome/refresh-arrow.svg =30x30) | refresh-arrow | font-awesome | <Icon group="font-awesome" name="refresh-arrow" />
-![](./font-awesome/refresh-page-option.svg =30x30) | refresh-page-option | font-awesome | <Icon group="font-awesome" name="refresh-page-option" />
-![](./font-awesome/remove-button.svg =30x30) | remove-button | font-awesome | <Icon group="font-awesome" name="remove-button" />
-![](./font-awesome/remove-symbol.svg =30x30) | remove-symbol | font-awesome | <Icon group="font-awesome" name="remove-symbol" />
-![](./font-awesome/renren-social-network-of-china-logotype.svg =30x30) | renren-social-network-of-china-logotype | font-awesome | <Icon group="font-awesome" name="renren-social-network-of-china-logotype" />
-![](./font-awesome/reorder-option.svg =30x30) | reorder-option | font-awesome | <Icon group="font-awesome" name="reorder-option" />
-![](./font-awesome/reply-arrow.svg =30x30) | reply-arrow | font-awesome | <Icon group="font-awesome" name="reply-arrow" />
-![](./font-awesome/reply.svg =30x30) | reply | font-awesome | <Icon group="font-awesome" name="reply" />
-![](./font-awesome/resize-option.svg =30x30) | resize-option | font-awesome | <Icon group="font-awesome" name="resize-option" />
-![](./font-awesome/retweet-arrows-symbol.svg =30x30) | retweet-arrows-symbol | font-awesome | <Icon group="font-awesome" name="retweet-arrows-symbol" />
-![](./font-awesome/rewind-button.svg =30x30) | rewind-button | font-awesome | <Icon group="font-awesome" name="rewind-button" />
-![](./font-awesome/right-arrow-in-a-circle.svg =30x30) | right-arrow-in-a-circle | font-awesome | <Icon group="font-awesome" name="right-arrow-in-a-circle" />
-![](./font-awesome/right-chevron.svg =30x30) | right-chevron | font-awesome | <Icon group="font-awesome" name="right-chevron" />
-![](./font-awesome/right-quotation-mark.svg =30x30) | right-quotation-mark | font-awesome | <Icon group="font-awesome" name="right-quotation-mark" />
-![](./font-awesome/road-perspective.svg =30x30) | road-perspective | font-awesome | <Icon group="font-awesome" name="road-perspective" />
-![](./font-awesome/rounded-black-square-shape.svg =30x30) | rounded-black-square-shape | font-awesome | <Icon group="font-awesome" name="rounded-black-square-shape" />
-![](./font-awesome/rss-feed-button.svg =30x30) | rss-feed-button | font-awesome | <Icon group="font-awesome" name="rss-feed-button" />
-![](./font-awesome/rss-symbol.svg =30x30) | rss-symbol | font-awesome | <Icon group="font-awesome" name="rss-symbol" />
-![](./font-awesome/rupee-indian.svg =30x30) | rupee-indian | font-awesome | <Icon group="font-awesome" name="rupee-indian" />
-![](./font-awesome/save-file-option.svg =30x30) | save-file-option | font-awesome | <Icon group="font-awesome" name="save-file-option" />
-![](./font-awesome/screenshot.svg =30x30) | screenshot | font-awesome | <Icon group="font-awesome" name="screenshot" />
-![](./font-awesome/settings.svg =30x30) | settings | font-awesome | <Icon group="font-awesome" name="settings" />
-![](./font-awesome/share-option.svg =30x30) | share-option | font-awesome | <Icon group="font-awesome" name="share-option" />
-![](./font-awesome/share-post-symbol.svg =30x30) | share-post-symbol | font-awesome | <Icon group="font-awesome" name="share-post-symbol" />
-![](./font-awesome/share-symbol.svg =30x30) | share-symbol | font-awesome | <Icon group="font-awesome" name="share-symbol" />
-![](./font-awesome/shield.svg =30x30) | shield | font-awesome | <Icon group="font-awesome" name="shield" />
-![](./font-awesome/shopping-cart-black-shape.svg =30x30) | shopping-cart-black-shape | font-awesome | <Icon group="font-awesome" name="shopping-cart-black-shape" />
-![](./font-awesome/sign-in.svg =30x30) | sign-in | font-awesome | <Icon group="font-awesome" name="sign-in" />
-![](./font-awesome/sign-out-option.svg =30x30) | sign-out-option | font-awesome | <Icon group="font-awesome" name="sign-out-option" />
-![](./font-awesome/signal-bars.svg =30x30) | signal-bars | font-awesome | <Icon group="font-awesome" name="signal-bars" />
-![](./font-awesome/sitemap.svg =30x30) | sitemap | font-awesome | <Icon group="font-awesome" name="sitemap" />
-![](./font-awesome/skype-logo.svg =30x30) | skype-logo | font-awesome | <Icon group="font-awesome" name="skype-logo" />
-![](./font-awesome/small-rocket-ship-silhouette.svg =30x30) | small-rocket-ship-silhouette | font-awesome | <Icon group="font-awesome" name="small-rocket-ship-silhouette" />
-![](./font-awesome/smile.svg =30x30) | smile | font-awesome | <Icon group="font-awesome" name="smile" />
-![](./font-awesome/sort-arrows-couple-pointing-up-and-down.svg =30x30) | sort-arrows-couple-pointing-up-and-down | font-awesome | <Icon group="font-awesome" name="sort-arrows-couple-pointing-up-and-down" />
-![](./font-awesome/sort-by-alphabet.svg =30x30) | sort-by-alphabet | font-awesome | <Icon group="font-awesome" name="sort-by-alphabet" />
-![](./font-awesome/sort-by-attributes-interface-button-option.svg =30x30) | sort-by-attributes-interface-button-option | font-awesome | <Icon group="font-awesome" name="sort-by-attributes-interface-button-option" />
-![](./font-awesome/sort-by-attributes.svg =30x30) | sort-by-attributes | font-awesome | <Icon group="font-awesome" name="sort-by-attributes" />
-![](./font-awesome/sort-by-numeric-order.svg =30x30) | sort-by-numeric-order | font-awesome | <Icon group="font-awesome" name="sort-by-numeric-order" />
-![](./font-awesome/sort-by-order.svg =30x30) | sort-by-order | font-awesome | <Icon group="font-awesome" name="sort-by-order" />
-![](./font-awesome/sort-down.svg =30x30) | sort-down | font-awesome | <Icon group="font-awesome" name="sort-down" />
-![](./font-awesome/sort-reverse-alphabetical-order.svg =30x30) | sort-reverse-alphabetical-order | font-awesome | <Icon group="font-awesome" name="sort-reverse-alphabetical-order" />
-![](./font-awesome/sort-up.svg =30x30) | sort-up | font-awesome | <Icon group="font-awesome" name="sort-up" />
-![](./font-awesome/speech-bubbles-comment-option.svg =30x30) | speech-bubbles-comment-option | font-awesome | <Icon group="font-awesome" name="speech-bubbles-comment-option" />
-![](./font-awesome/spinner-of-dots.svg =30x30) | spinner-of-dots | font-awesome | <Icon group="font-awesome" name="spinner-of-dots" />
-![](./font-awesome/square-shape-shadow.svg =30x30) | square-shape-shadow | font-awesome | <Icon group="font-awesome" name="square-shape-shadow" />
-![](./font-awesome/stack-exchange-logo.svg =30x30) | stack-exchange-logo | font-awesome | <Icon group="font-awesome" name="stack-exchange-logo" />
-![](./font-awesome/stack-exchange-symbol.svg =30x30) | stack-exchange-symbol | font-awesome | <Icon group="font-awesome" name="stack-exchange-symbol" />
-![](./font-awesome/star-1.svg =30x30) | star-1 | font-awesome | <Icon group="font-awesome" name="star-1" />
-![](./font-awesome/star-half-empty.svg =30x30) | star-half-empty | font-awesome | <Icon group="font-awesome" name="star-half-empty" />
-![](./font-awesome/star.svg =30x30) | star | font-awesome | <Icon group="font-awesome" name="star" />
-![](./font-awesome/step-backward.svg =30x30) | step-backward | font-awesome | <Icon group="font-awesome" name="step-backward" />
-![](./font-awesome/step-forward.svg =30x30) | step-forward | font-awesome | <Icon group="font-awesome" name="step-forward" />
-![](./font-awesome/stethoscope.svg =30x30) | stethoscope | font-awesome | <Icon group="font-awesome" name="stethoscope" />
-![](./font-awesome/strikethrough.svg =30x30) | strikethrough | font-awesome | <Icon group="font-awesome" name="strikethrough" />
-![](./font-awesome/suitcase-with-white-details.svg =30x30) | suitcase-with-white-details | font-awesome | <Icon group="font-awesome" name="suitcase-with-white-details" />
-![](./font-awesome/sun.svg =30x30) | sun | font-awesome | <Icon group="font-awesome" name="sun" />
-![](./font-awesome/superscript-text-formatting.svg =30x30) | superscript-text-formatting | font-awesome | <Icon group="font-awesome" name="superscript-text-formatting" />
-![](./font-awesome/table-grid.svg =30x30) | table-grid | font-awesome | <Icon group="font-awesome" name="table-grid" />
-![](./font-awesome/tag-black-shape.svg =30x30) | tag-black-shape | font-awesome | <Icon group="font-awesome" name="tag-black-shape" />
-![](./font-awesome/tags.svg =30x30) | tags | font-awesome | <Icon group="font-awesome" name="tags" />
-![](./font-awesome/tasks-list.svg =30x30) | tasks-list | font-awesome | <Icon group="font-awesome" name="tasks-list" />
-![](./font-awesome/telephone-handle-silhouette.svg =30x30) | telephone-handle-silhouette | font-awesome | <Icon group="font-awesome" name="telephone-handle-silhouette" />
-![](./font-awesome/telephone-symbol-button.svg =30x30) | telephone-symbol-button | font-awesome | <Icon group="font-awesome" name="telephone-symbol-button" />
-![](./font-awesome/terminal.svg =30x30) | terminal | font-awesome | <Icon group="font-awesome" name="terminal" />
-![](./font-awesome/text-file-1.svg =30x30) | text-file-1 | font-awesome | <Icon group="font-awesome" name="text-file-1" />
-![](./font-awesome/text-file.svg =30x30) | text-file | font-awesome | <Icon group="font-awesome" name="text-file" />
-![](./font-awesome/text-height-adjustment.svg =30x30) | text-height-adjustment | font-awesome | <Icon group="font-awesome" name="text-height-adjustment" />
-![](./font-awesome/text-width.svg =30x30) | text-width | font-awesome | <Icon group="font-awesome" name="text-width" />
-![](./font-awesome/thin-arrowheads-pointing-down.svg =30x30) | thin-arrowheads-pointing-down | font-awesome | <Icon group="font-awesome" name="thin-arrowheads-pointing-down" />
-![](./font-awesome/three-small-square-shapes.svg =30x30) | three-small-square-shapes | font-awesome | <Icon group="font-awesome" name="three-small-square-shapes" />
-![](./font-awesome/thumb-down.svg =30x30) | thumb-down | font-awesome | <Icon group="font-awesome" name="thumb-down" />
-![](./font-awesome/thumbs-down-silhouette.svg =30x30) | thumbs-down-silhouette | font-awesome | <Icon group="font-awesome" name="thumbs-down-silhouette" />
-![](./font-awesome/thumbs-up-hand-symbol.svg =30x30) | thumbs-up-hand-symbol | font-awesome | <Icon group="font-awesome" name="thumbs-up-hand-symbol" />
-![](./font-awesome/thumbs-up.svg =30x30) | thumbs-up | font-awesome | <Icon group="font-awesome" name="thumbs-up" />
-![](./font-awesome/ticket.svg =30x30) | ticket | font-awesome | <Icon group="font-awesome" name="ticket" />
-![](./font-awesome/time.svg =30x30) | time | font-awesome | <Icon group="font-awesome" name="time" />
-![](./font-awesome/tint-drop.svg =30x30) | tint-drop | font-awesome | <Icon group="font-awesome" name="tint-drop" />
-![](./font-awesome/trash.svg =30x30) | trash | font-awesome | <Icon group="font-awesome" name="trash" />
-![](./font-awesome/trello-website-logo.svg =30x30) | trello-website-logo | font-awesome | <Icon group="font-awesome" name="trello-website-logo" />
-![](./font-awesome/trophy.svg =30x30) | trophy | font-awesome | <Icon group="font-awesome" name="trophy" />
-![](./font-awesome/tumblr-logo-1.svg =30x30) | tumblr-logo-1 | font-awesome | <Icon group="font-awesome" name="tumblr-logo-1" />
-![](./font-awesome/tumblr-logo.svg =30x30) | tumblr-logo | font-awesome | <Icon group="font-awesome" name="tumblr-logo" />
-![](./font-awesome/turkish-lire-symbol.svg =30x30) | turkish-lire-symbol | font-awesome | <Icon group="font-awesome" name="turkish-lire-symbol" />
-![](./font-awesome/twitter-black-shape.svg =30x30) | twitter-black-shape | font-awesome | <Icon group="font-awesome" name="twitter-black-shape" />
-![](./font-awesome/twitter-sign.svg =30x30) | twitter-sign | font-awesome | <Icon group="font-awesome" name="twitter-sign" />
-![](./font-awesome/two-columns-layout.svg =30x30) | two-columns-layout | font-awesome | <Icon group="font-awesome" name="two-columns-layout" />
-![](./font-awesome/u-shaped-thick-magnet.svg =30x30) | u-shaped-thick-magnet | font-awesome | <Icon group="font-awesome" name="u-shaped-thick-magnet" />
-![](./font-awesome/umbrella-black-silhouette.svg =30x30) | umbrella-black-silhouette | font-awesome | <Icon group="font-awesome" name="umbrella-black-silhouette" />
-![](./font-awesome/underline-text-option.svg =30x30) | underline-text-option | font-awesome | <Icon group="font-awesome" name="underline-text-option" />
-![](./font-awesome/undo-arrow.svg =30x30) | undo-arrow | font-awesome | <Icon group="font-awesome" name="undo-arrow" />
-![](./font-awesome/unlink-symbol.svg =30x30) | unlink-symbol | font-awesome | <Icon group="font-awesome" name="unlink-symbol" />
-![](./font-awesome/up-arrow.svg =30x30) | up-arrow | font-awesome | <Icon group="font-awesome" name="up-arrow" />
-![](./font-awesome/up-chevron-button.svg =30x30) | up-chevron-button | font-awesome | <Icon group="font-awesome" name="up-chevron-button" />
-![](./font-awesome/upload-button.svg =30x30) | upload-button | font-awesome | <Icon group="font-awesome" name="upload-button" />
-![](./font-awesome/upload.svg =30x30) | upload | font-awesome | <Icon group="font-awesome" name="upload" />
-![](./font-awesome/user-md-symbol.svg =30x30) | user-md-symbol | font-awesome | <Icon group="font-awesome" name="user-md-symbol" />
-![](./font-awesome/user-shape.svg =30x30) | user-shape | font-awesome | <Icon group="font-awesome" name="user-shape" />
-![](./font-awesome/vertical-ellipsis.svg =30x30) | vertical-ellipsis | font-awesome | <Icon group="font-awesome" name="vertical-ellipsis" />
-![](./font-awesome/vertical-resizing-option.svg =30x30) | vertical-resizing-option | font-awesome | <Icon group="font-awesome" name="vertical-resizing-option" />
-![](./font-awesome/video-play-square-button.svg =30x30) | video-play-square-button | font-awesome | <Icon group="font-awesome" name="video-play-square-button" />
-![](./font-awesome/vimeo-square-logo.svg =30x30) | vimeo-square-logo | font-awesome | <Icon group="font-awesome" name="vimeo-square-logo" />
-![](./font-awesome/vintage-key-outline.svg =30x30) | vintage-key-outline | font-awesome | <Icon group="font-awesome" name="vintage-key-outline" />
-![](./font-awesome/vk-social-network-logo.svg =30x30) | vk-social-network-logo | font-awesome | <Icon group="font-awesome" name="vk-social-network-logo" />
-![](./font-awesome/volume-off.svg =30x30) | volume-off | font-awesome | <Icon group="font-awesome" name="volume-off" />
-![](./font-awesome/volume-up-interface-symbol.svg =30x30) | volume-up-interface-symbol | font-awesome | <Icon group="font-awesome" name="volume-up-interface-symbol" />
-![](./font-awesome/warning-sign-on-a-triangular-background.svg =30x30) | warning-sign-on-a-triangular-background | font-awesome | <Icon group="font-awesome" name="warning-sign-on-a-triangular-background" />
-![](./font-awesome/weibo-website-logo.svg =30x30) | weibo-website-logo | font-awesome | <Icon group="font-awesome" name="weibo-website-logo" />
-![](./font-awesome/wheelchair.svg =30x30) | wheelchair | font-awesome | <Icon group="font-awesome" name="wheelchair" />
-![](./font-awesome/white-flag-symbol.svg =30x30) | white-flag-symbol | font-awesome | <Icon group="font-awesome" name="white-flag-symbol" />
-![](./font-awesome/windows-logo-silhouette.svg =30x30) | windows-logo-silhouette | font-awesome | <Icon group="font-awesome" name="windows-logo-silhouette" />
-![](./font-awesome/x2-symbol-of-a-letter-and-a-number-subscript.svg =30x30) | x2-symbol-of-a-letter-and-a-number-subscript | font-awesome | <Icon group="font-awesome" name="x2-symbol-of-a-letter-and-a-number-subscript" />
-![](./font-awesome/xing-logo.svg =30x30) | xing-logo | font-awesome | <Icon group="font-awesome" name="xing-logo" />
-![](./font-awesome/xing-logotype.svg =30x30) | xing-logotype | font-awesome | <Icon group="font-awesome" name="xing-logotype" />
-![](./font-awesome/yen-symbol.svg =30x30) | yen-symbol | font-awesome | <Icon group="font-awesome" name="yen-symbol" />
-![](./font-awesome/youtube-logo-1.svg =30x30) | youtube-logo-1 | font-awesome | <Icon group="font-awesome" name="youtube-logo-1" />
-![](./font-awesome/youtube-logo-2.svg =30x30) | youtube-logo-2 | font-awesome | <Icon group="font-awesome" name="youtube-logo-2" />
-![](./font-awesome/youtube-logo.svg =30x30) | youtube-logo | font-awesome | <Icon group="font-awesome" name="youtube-logo" />
-![](./font-awesome/zoom-in.svg =30x30) | zoom-in | font-awesome | <Icon group="font-awesome" name="zoom-in" />
-![](./font-awesome/zoom-out.svg =30x30) | zoom-out | font-awesome | <Icon group="font-awesome" name="zoom-out" />
+![](./font-awesome/add-square-button.svg) | font-awesome | add-square-button | `<Icon group="font-awesome" name="add-square-button" />`
+![](./font-awesome/adjust-contrast.svg) | font-awesome | adjust-contrast | `<Icon group="font-awesome" name="adjust-contrast" />`
+![](./font-awesome/align-justify.svg) | font-awesome | align-justify | `<Icon group="font-awesome" name="align-justify" />`
+![](./font-awesome/align-to-left.svg) | font-awesome | align-to-left | `<Icon group="font-awesome" name="align-to-left" />`
+![](./font-awesome/align-to-right.svg) | font-awesome | align-to-right | `<Icon group="font-awesome" name="align-to-right" />`
+![](./font-awesome/ambulance.svg) | font-awesome | ambulance | `<Icon group="font-awesome" name="ambulance" />`
+![](./font-awesome/anchor-shape.svg) | font-awesome | anchor-shape | `<Icon group="font-awesome" name="anchor-shape" />`
+![](./font-awesome/android-character-symbol.svg) | font-awesome | android-character-symbol | `<Icon group="font-awesome" name="android-character-symbol" />`
+![](./font-awesome/angle-arrow-down.svg) | font-awesome | angle-arrow-down | `<Icon group="font-awesome" name="angle-arrow-down" />`
+![](./font-awesome/angle-arrow-pointing-to-right.svg) | font-awesome | angle-arrow-pointing-to-right | `<Icon group="font-awesome" name="angle-arrow-pointing-to-right" />`
+![](./font-awesome/angle-pointing-to-left.svg) | font-awesome | angle-pointing-to-left | `<Icon group="font-awesome" name="angle-pointing-to-left" />`
+![](./font-awesome/apple-logo.svg) | font-awesome | apple-logo | `<Icon group="font-awesome" name="apple-logo" />`
+![](./font-awesome/archive-black-box.svg) | font-awesome | archive-black-box | `<Icon group="font-awesome" name="archive-black-box" />`
+![](./font-awesome/arrow-angle-pointing-down.svg) | font-awesome | arrow-angle-pointing-down | `<Icon group="font-awesome" name="arrow-angle-pointing-down" />`
+![](./font-awesome/arrow-down-on-black-circular-background.svg) | font-awesome | arrow-down-on-black-circular-background | `<Icon group="font-awesome" name="arrow-down-on-black-circular-background" />`
+![](./font-awesome/arrow-pointing-down.svg) | font-awesome | arrow-pointing-down | `<Icon group="font-awesome" name="arrow-pointing-down" />`
+![](./font-awesome/arrow-pointing-right-in-a-circle.svg) | font-awesome | arrow-pointing-right-in-a-circle | `<Icon group="font-awesome" name="arrow-pointing-right-in-a-circle" />`
+![](./font-awesome/arrow-pointing-to-left.svg) | font-awesome | arrow-pointing-to-left | `<Icon group="font-awesome" name="arrow-pointing-to-left" />`
+![](./font-awesome/arrow-pointing-to-right.svg) | font-awesome | arrow-pointing-to-right | `<Icon group="font-awesome" name="arrow-pointing-to-right" />`
+![](./font-awesome/arrow-up-on-a-black-circle-background.svg) | font-awesome | arrow-up-on-a-black-circle-background | `<Icon group="font-awesome" name="arrow-up-on-a-black-circle-background" />`
+![](./font-awesome/arrow-up.svg) | font-awesome | arrow-up | `<Icon group="font-awesome" name="arrow-up" />`
+![](./font-awesome/arrowhead-pointing-to-the-right.svg) | font-awesome | arrowhead-pointing-to-the-right | `<Icon group="font-awesome" name="arrowhead-pointing-to-the-right" />`
+![](./font-awesome/arrowhead-pointing-up-inside-a-square-box-outline.svg) | font-awesome | arrowhead-pointing-up-inside-a-square-box-outline | `<Icon group="font-awesome" name="arrowhead-pointing-up-inside-a-square-box-outline" />`
+![](./font-awesome/arrowheads-pointing-to-the-left.svg) | font-awesome | arrowheads-pointing-to-the-left | `<Icon group="font-awesome" name="arrowheads-pointing-to-the-left" />`
+![](./font-awesome/asterisk.svg) | font-awesome | asterisk | `<Icon group="font-awesome" name="asterisk" />`
+![](./font-awesome/ban-circle-symbol.svg) | font-awesome | ban-circle-symbol | `<Icon group="font-awesome" name="ban-circle-symbol" />`
+![](./font-awesome/bar-graph-on-a-rectangle.svg) | font-awesome | bar-graph-on-a-rectangle | `<Icon group="font-awesome" name="bar-graph-on-a-rectangle" />`
+![](./font-awesome/barcode.svg) | font-awesome | barcode | `<Icon group="font-awesome" name="barcode" />`
+![](./font-awesome/beaker.svg) | font-awesome | beaker | `<Icon group="font-awesome" name="beaker" />`
+![](./font-awesome/beer-jar-black-silhouette.svg) | font-awesome | beer-jar-black-silhouette | `<Icon group="font-awesome" name="beer-jar-black-silhouette" />`
+![](./font-awesome/bell-musical-tool.svg) | font-awesome | bell-musical-tool | `<Icon group="font-awesome" name="bell-musical-tool" />`
+![](./font-awesome/bitbucket-logotype-camera-lens-in-perspective.svg) | font-awesome | bitbucket-logotype-camera-lens-in-perspective | `<Icon group="font-awesome" name="bitbucket-logotype-camera-lens-in-perspective" />`
+![](./font-awesome/bitbucket-sign.svg) | font-awesome | bitbucket-sign | `<Icon group="font-awesome" name="bitbucket-sign" />`
+![](./font-awesome/bitcoin-logo.svg) | font-awesome | bitcoin-logo | `<Icon group="font-awesome" name="bitcoin-logo" />`
+![](./font-awesome/blank-file.svg) | font-awesome | blank-file | `<Icon group="font-awesome" name="blank-file" />`
+![](./font-awesome/bold-text-option.svg) | font-awesome | bold-text-option | `<Icon group="font-awesome" name="bold-text-option" />`
+![](./font-awesome/book.svg) | font-awesome | book | `<Icon group="font-awesome" name="book" />`
+![](./font-awesome/bookmark-black-shape.svg) | font-awesome | bookmark-black-shape | `<Icon group="font-awesome" name="bookmark-black-shape" />`
+![](./font-awesome/bookmark-white.svg) | font-awesome | bookmark-white | `<Icon group="font-awesome" name="bookmark-white" />`
+![](./font-awesome/branch-with-leaves-black-shape.svg) | font-awesome | branch-with-leaves-black-shape | `<Icon group="font-awesome" name="branch-with-leaves-black-shape" />`
+![](./font-awesome/briefcase.svg) | font-awesome | briefcase | `<Icon group="font-awesome" name="briefcase" />`
+![](./font-awesome/bug.svg) | font-awesome | bug | `<Icon group="font-awesome" name="bug" />`
+![](./font-awesome/building-front.svg) | font-awesome | building-front | `<Icon group="font-awesome" name="building-front" />`
+![](./font-awesome/bull-horn-announcer.svg) | font-awesome | bull-horn-announcer | `<Icon group="font-awesome" name="bull-horn-announcer" />`
+![](./font-awesome/bullseye.svg) | font-awesome | bullseye | `<Icon group="font-awesome" name="bullseye" />`
+![](./font-awesome/calendar-page-empty.svg) | font-awesome | calendar-page-empty | `<Icon group="font-awesome" name="calendar-page-empty" />`
+![](./font-awesome/calendar-with-spring-binder-and-date-blocks.svg) | font-awesome | calendar-with-spring-binder-and-date-blocks | `<Icon group="font-awesome" name="calendar-with-spring-binder-and-date-blocks" />`
+![](./font-awesome/camera-retro.svg) | font-awesome | camera-retro | `<Icon group="font-awesome" name="camera-retro" />`
+![](./font-awesome/caret-arrow-up.svg) | font-awesome | caret-arrow-up | `<Icon group="font-awesome" name="caret-arrow-up" />`
+![](./font-awesome/caret-down.svg) | font-awesome | caret-down | `<Icon group="font-awesome" name="caret-down" />`
+![](./font-awesome/center-text-alignment.svg) | font-awesome | center-text-alignment | `<Icon group="font-awesome" name="center-text-alignment" />`
+![](./font-awesome/certificate-shape.svg) | font-awesome | certificate-shape | `<Icon group="font-awesome" name="certificate-shape" />`
+![](./font-awesome/check-box-empty.svg) | font-awesome | check-box-empty | `<Icon group="font-awesome" name="check-box-empty" />`
+![](./font-awesome/check-mark.svg) | font-awesome | check-mark | `<Icon group="font-awesome" name="check-mark" />`
+![](./font-awesome/check-sign-in-a-rounded-black-square.svg) | font-awesome | check-sign-in-a-rounded-black-square | `<Icon group="font-awesome" name="check-sign-in-a-rounded-black-square" />`
+![](./font-awesome/check.svg) | font-awesome | check | `<Icon group="font-awesome" name="check" />`
+![](./font-awesome/checked-symbol.svg) | font-awesome | checked-symbol | `<Icon group="font-awesome" name="checked-symbol" />`
+![](./font-awesome/checkered-raised-flag.svg) | font-awesome | checkered-raised-flag | `<Icon group="font-awesome" name="checkered-raised-flag" />`
+![](./font-awesome/chevron-arrow-down.svg) | font-awesome | chevron-arrow-down | `<Icon group="font-awesome" name="chevron-arrow-down" />`
+![](./font-awesome/chevron-arrow-up.svg) | font-awesome | chevron-arrow-up | `<Icon group="font-awesome" name="chevron-arrow-up" />`
+![](./font-awesome/chevron-pointing-to-the-left.svg) | font-awesome | chevron-pointing-to-the-left | `<Icon group="font-awesome" name="chevron-pointing-to-the-left" />`
+![](./font-awesome/chevron-sign-down.svg) | font-awesome | chevron-sign-down | `<Icon group="font-awesome" name="chevron-sign-down" />`
+![](./font-awesome/chevron-sign-left.svg) | font-awesome | chevron-sign-left | `<Icon group="font-awesome" name="chevron-sign-left" />`
+![](./font-awesome/chevron-sign-to-right.svg) | font-awesome | chevron-sign-to-right | `<Icon group="font-awesome" name="chevron-sign-to-right" />`
+![](./font-awesome/chevron-up.svg) | font-awesome | chevron-up | `<Icon group="font-awesome" name="chevron-up" />`
+![](./font-awesome/circle-shape-outline.svg) | font-awesome | circle-shape-outline | `<Icon group="font-awesome" name="circle-shape-outline" />`
+![](./font-awesome/circle-with-an-arrow-pointing-to-left.svg) | font-awesome | circle-with-an-arrow-pointing-to-left | `<Icon group="font-awesome" name="circle-with-an-arrow-pointing-to-left" />`
+![](./font-awesome/circular-shape-silhouette.svg) | font-awesome | circular-shape-silhouette | `<Icon group="font-awesome" name="circular-shape-silhouette" />`
+![](./font-awesome/cloud-storage-download.svg) | font-awesome | cloud-storage-download | `<Icon group="font-awesome" name="cloud-storage-download" />`
+![](./font-awesome/cloud-storage-uploading-option.svg) | font-awesome | cloud-storage-uploading-option | `<Icon group="font-awesome" name="cloud-storage-uploading-option" />`
+![](./font-awesome/cocktail-glass.svg) | font-awesome | cocktail-glass | `<Icon group="font-awesome" name="cocktail-glass" />`
+![](./font-awesome/code-fork-symbol.svg) | font-awesome | code-fork-symbol | `<Icon group="font-awesome" name="code-fork-symbol" />`
+![](./font-awesome/code.svg) | font-awesome | code | `<Icon group="font-awesome" name="code" />`
+![](./font-awesome/coffee-cup-on-a-plate-black-silhouettes.svg) | font-awesome | coffee-cup-on-a-plate-black-silhouettes | `<Icon group="font-awesome" name="coffee-cup-on-a-plate-black-silhouettes" />`
+![](./font-awesome/cog-wheel-silhouette.svg) | font-awesome | cog-wheel-silhouette | `<Icon group="font-awesome" name="cog-wheel-silhouette" />`
+![](./font-awesome/collapse-window-option.svg) | font-awesome | collapse-window-option | `<Icon group="font-awesome" name="collapse-window-option" />`
+![](./font-awesome/comment-black-oval-bubble-shape.svg) | font-awesome | comment-black-oval-bubble-shape | `<Icon group="font-awesome" name="comment-black-oval-bubble-shape" />`
+![](./font-awesome/comment-white-oval-bubble.svg) | font-awesome | comment-white-oval-bubble | `<Icon group="font-awesome" name="comment-white-oval-bubble" />`
+![](./font-awesome/comments.svg) | font-awesome | comments | `<Icon group="font-awesome" name="comments" />`
+![](./font-awesome/compass-circular-variant.svg) | font-awesome | compass-circular-variant | `<Icon group="font-awesome" name="compass-circular-variant" />`
+![](./font-awesome/computer-tablet.svg) | font-awesome | computer-tablet | `<Icon group="font-awesome" name="computer-tablet" />`
+![](./font-awesome/copy-document.svg) | font-awesome | copy-document | `<Icon group="font-awesome" name="copy-document" />`
+![](./font-awesome/correct-symbol.svg) | font-awesome | correct-symbol | `<Icon group="font-awesome" name="correct-symbol" />`
+![](./font-awesome/couple-of-arrows-changing-places.svg) | font-awesome | couple-of-arrows-changing-places | `<Icon group="font-awesome" name="couple-of-arrows-changing-places" />`
+![](./font-awesome/credit-card.svg) | font-awesome | credit-card | `<Icon group="font-awesome" name="credit-card" />`
+![](./font-awesome/crop-symbol.svg) | font-awesome | crop-symbol | `<Icon group="font-awesome" name="crop-symbol" />`
+![](./font-awesome/cross-mark-on-a-black-circle-background.svg) | font-awesome | cross-mark-on-a-black-circle-background | `<Icon group="font-awesome" name="cross-mark-on-a-black-circle-background" />`
+![](./font-awesome/css-3-logo.svg) | font-awesome | css-3-logo | `<Icon group="font-awesome" name="css-3-logo" />`
+![](./font-awesome/cursor.svg) | font-awesome | cursor | `<Icon group="font-awesome" name="cursor" />`
+![](./font-awesome/cut.svg) | font-awesome | cut | `<Icon group="font-awesome" name="cut" />`
+![](./font-awesome/dashboard.svg) | font-awesome | dashboard | `<Icon group="font-awesome" name="dashboard" />`
+![](./font-awesome/delivery-truck-silhouette.svg) | font-awesome | delivery-truck-silhouette | `<Icon group="font-awesome" name="delivery-truck-silhouette" />`
+![](./font-awesome/desktop-monitor.svg) | font-awesome | desktop-monitor | `<Icon group="font-awesome" name="desktop-monitor" />`
+![](./font-awesome/dollar-symbol.svg) | font-awesome | dollar-symbol | `<Icon group="font-awesome" name="dollar-symbol" />`
+![](./font-awesome/dot-and-circle.svg) | font-awesome | dot-and-circle | `<Icon group="font-awesome" name="dot-and-circle" />`
+![](./font-awesome/double-angle-pointing-to-right.svg) | font-awesome | double-angle-pointing-to-right | `<Icon group="font-awesome" name="double-angle-pointing-to-right" />`
+![](./font-awesome/double-left-chevron.svg) | font-awesome | double-left-chevron | `<Icon group="font-awesome" name="double-left-chevron" />`
+![](./font-awesome/double-sided-eraser.svg) | font-awesome | double-sided-eraser | `<Icon group="font-awesome" name="double-sided-eraser" />`
+![](./font-awesome/double-strikethrough-option.svg) | font-awesome | double-strikethrough-option | `<Icon group="font-awesome" name="double-strikethrough-option" />`
+![](./font-awesome/down-arrow.svg) | font-awesome | down-arrow | `<Icon group="font-awesome" name="down-arrow" />`
+![](./font-awesome/download-symbol.svg) | font-awesome | download-symbol | `<Icon group="font-awesome" name="download-symbol" />`
+![](./font-awesome/download-to-storage-drive.svg) | font-awesome | download-to-storage-drive | `<Icon group="font-awesome" name="download-to-storage-drive" />`
+![](./font-awesome/dribbble-logo.svg) | font-awesome | dribbble-logo | `<Icon group="font-awesome" name="dribbble-logo" />`
+![](./font-awesome/dropbox-logo.svg) | font-awesome | dropbox-logo | `<Icon group="font-awesome" name="dropbox-logo" />`
+![](./font-awesome/earth-globe.svg) | font-awesome | earth-globe | `<Icon group="font-awesome" name="earth-globe" />`
+![](./font-awesome/edit-interface-sign.svg) | font-awesome | edit-interface-sign | `<Icon group="font-awesome" name="edit-interface-sign" />`
+![](./font-awesome/eject-symbol.svg) | font-awesome | eject-symbol | `<Icon group="font-awesome" name="eject-symbol" />`
+![](./font-awesome/envelope-of-white-paper.svg) | font-awesome | envelope-of-white-paper | `<Icon group="font-awesome" name="envelope-of-white-paper" />`
+![](./font-awesome/envelope.svg) | font-awesome | envelope | `<Icon group="font-awesome" name="envelope" />`
+![](./font-awesome/euro-currency-symbol.svg) | font-awesome | euro-currency-symbol | `<Icon group="font-awesome" name="euro-currency-symbol" />`
+![](./font-awesome/exchange-arrows.svg) | font-awesome | exchange-arrows | `<Icon group="font-awesome" name="exchange-arrows" />`
+![](./font-awesome/exclamation-sign.svg) | font-awesome | exclamation-sign | `<Icon group="font-awesome" name="exclamation-sign" />`
+![](./font-awesome/exclamation.svg) | font-awesome | exclamation | `<Icon group="font-awesome" name="exclamation" />`
+![](./font-awesome/external-link-square-with-an-arrow-in-right-diagonal.svg) | font-awesome | external-link-square-with-an-arrow-in-right-diagonal | `<Icon group="font-awesome" name="external-link-square-with-an-arrow-in-right-diagonal" />`
+![](./font-awesome/external-link-symbol.svg) | font-awesome | external-link-symbol | `<Icon group="font-awesome" name="external-link-symbol" />`
+![](./font-awesome/eye-open.svg) | font-awesome | eye-open | `<Icon group="font-awesome" name="eye-open" />`
+![](./font-awesome/eye-with-a-diagonal-line-interface-symbol-for-invisibility.svg) | font-awesome | eye-with-a-diagonal-line-interface-symbol-for-invisibility | `<Icon group="font-awesome" name="eye-with-a-diagonal-line-interface-symbol-for-invisibility" />`
+![](./font-awesome/facebook-logo-1.svg) | font-awesome | facebook-logo-1 | `<Icon group="font-awesome" name="facebook-logo-1" />`
+![](./font-awesome/facebook-logo.svg) | font-awesome | facebook-logo | `<Icon group="font-awesome" name="facebook-logo" />`
+![](./font-awesome/facetime-button.svg) | font-awesome | facetime-button | `<Icon group="font-awesome" name="facetime-button" />`
+![](./font-awesome/fast-forward-arrows.svg) | font-awesome | fast-forward-arrows | `<Icon group="font-awesome" name="fast-forward-arrows" />`
+![](./font-awesome/female-silhouette.svg) | font-awesome | female-silhouette | `<Icon group="font-awesome" name="female-silhouette" />`
+![](./font-awesome/fighter-jet-silhouette.svg) | font-awesome | fighter-jet-silhouette | `<Icon group="font-awesome" name="fighter-jet-silhouette" />`
+![](./font-awesome/file.svg) | font-awesome | file | `<Icon group="font-awesome" name="file" />`
+![](./font-awesome/film-strip-with-two-photograms.svg) | font-awesome | film-strip-with-two-photograms | `<Icon group="font-awesome" name="film-strip-with-two-photograms" />`
+![](./font-awesome/filter-tool-black-shape.svg) | font-awesome | filter-tool-black-shape | `<Icon group="font-awesome" name="filter-tool-black-shape" />`
+![](./font-awesome/finger-of-a-hand-pointing-to-right-direction.svg) | font-awesome | finger-of-a-hand-pointing-to-right-direction | `<Icon group="font-awesome" name="finger-of-a-hand-pointing-to-right-direction" />`
+![](./font-awesome/fire-extinguisher.svg) | font-awesome | fire-extinguisher | `<Icon group="font-awesome" name="fire-extinguisher" />`
+![](./font-awesome/fire-symbol.svg) | font-awesome | fire-symbol | `<Icon group="font-awesome" name="fire-symbol" />`
+![](./font-awesome/flag-black-shape.svg) | font-awesome | flag-black-shape | `<Icon group="font-awesome" name="flag-black-shape" />`
+![](./font-awesome/flickr-website-logo-silhouette.svg) | font-awesome | flickr-website-logo-silhouette | `<Icon group="font-awesome" name="flickr-website-logo-silhouette" />`
+![](./font-awesome/fluffy-cloud-silhouette.svg) | font-awesome | fluffy-cloud-silhouette | `<Icon group="font-awesome" name="fluffy-cloud-silhouette" />`
+![](./font-awesome/folder-closed-black-shape.svg) | font-awesome | folder-closed-black-shape | `<Icon group="font-awesome" name="folder-closed-black-shape" />`
+![](./font-awesome/folder-white-shape.svg) | font-awesome | folder-white-shape | `<Icon group="font-awesome" name="folder-white-shape" />`
+![](./font-awesome/font-selection-editor.svg) | font-awesome | font-selection-editor | `<Icon group="font-awesome" name="font-selection-editor" />`
+![](./font-awesome/font-symbol-of-letter-a.svg) | font-awesome | font-symbol-of-letter-a | `<Icon group="font-awesome" name="font-symbol-of-letter-a" />`
+![](./font-awesome/fork-and-knife-silhouette.svg) | font-awesome | fork-and-knife-silhouette | `<Icon group="font-awesome" name="fork-and-knife-silhouette" />`
+![](./font-awesome/forward-button.svg) | font-awesome | forward-button | `<Icon group="font-awesome" name="forward-button" />`
+![](./font-awesome/four-black-squares.svg) | font-awesome | four-black-squares | `<Icon group="font-awesome" name="four-black-squares" />`
+![](./font-awesome/foursquare-button.svg) | font-awesome | foursquare-button | `<Icon group="font-awesome" name="foursquare-button" />`
+![](./font-awesome/frown.svg) | font-awesome | frown | `<Icon group="font-awesome" name="frown" />`
+![](./font-awesome/fullscreen-symbol.svg) | font-awesome | fullscreen-symbol | `<Icon group="font-awesome" name="fullscreen-symbol" />`
+![](./font-awesome/gamepad-console.svg) | font-awesome | gamepad-console | `<Icon group="font-awesome" name="gamepad-console" />`
+![](./font-awesome/gift-box.svg) | font-awesome | gift-box | `<Icon group="font-awesome" name="gift-box" />`
+![](./font-awesome/github-character.svg) | font-awesome | github-character | `<Icon group="font-awesome" name="github-character" />`
+![](./font-awesome/github-logo.svg) | font-awesome | github-logo | `<Icon group="font-awesome" name="github-logo" />`
+![](./font-awesome/github-sign.svg) | font-awesome | github-sign | `<Icon group="font-awesome" name="github-sign" />`
+![](./font-awesome/gittip-website-logo.svg) | font-awesome | gittip-website-logo | `<Icon group="font-awesome" name="gittip-website-logo" />`
+![](./font-awesome/google-plus-symbol-1.svg) | font-awesome | google-plus-symbol-1 | `<Icon group="font-awesome" name="google-plus-symbol-1" />`
+![](./font-awesome/google-plus-symbol.svg) | font-awesome | google-plus-symbol | `<Icon group="font-awesome" name="google-plus-symbol" />`
+![](./font-awesome/great-britain-pound.svg) | font-awesome | great-britain-pound | `<Icon group="font-awesome" name="great-britain-pound" />`
+![](./font-awesome/group-profile-users.svg) | font-awesome | group-profile-users | `<Icon group="font-awesome" name="group-profile-users" />`
+![](./font-awesome/half-star-shape.svg) | font-awesome | half-star-shape | `<Icon group="font-awesome" name="half-star-shape" />`
+![](./font-awesome/hand-finger-pointing-down.svg) | font-awesome | hand-finger-pointing-down | `<Icon group="font-awesome" name="hand-finger-pointing-down" />`
+![](./font-awesome/hand-pointing-to-left-direction.svg) | font-awesome | hand-pointing-to-left-direction | `<Icon group="font-awesome" name="hand-pointing-to-left-direction" />`
+![](./font-awesome/hand-pointing-upward.svg) | font-awesome | hand-pointing-upward | `<Icon group="font-awesome" name="hand-pointing-upward" />`
+![](./font-awesome/hard-drive.svg) | font-awesome | hard-drive | `<Icon group="font-awesome" name="hard-drive" />`
+![](./font-awesome/heart-shape-outline.svg) | font-awesome | heart-shape-outline | `<Icon group="font-awesome" name="heart-shape-outline" />`
+![](./font-awesome/heart-shape-silhouette.svg) | font-awesome | heart-shape-silhouette | `<Icon group="font-awesome" name="heart-shape-silhouette" />`
+![](./font-awesome/home.svg) | font-awesome | home | `<Icon group="font-awesome" name="home" />`
+![](./font-awesome/horizontal-resize-option.svg) | font-awesome | horizontal-resize-option | `<Icon group="font-awesome" name="horizontal-resize-option" />`
+![](./font-awesome/hostpital-building.svg) | font-awesome | hostpital-building | `<Icon group="font-awesome" name="hostpital-building" />`
+![](./font-awesome/hotel-letter-h-sign-inside-a-black-rounded-square.svg) | font-awesome | hotel-letter-h-sign-inside-a-black-rounded-square | `<Icon group="font-awesome" name="hotel-letter-h-sign-inside-a-black-rounded-square" />`
+![](./font-awesome/html-5-logo.svg) | font-awesome | html-5-logo | `<Icon group="font-awesome" name="html-5-logo" />`
+![](./font-awesome/inbox.svg) | font-awesome | inbox | `<Icon group="font-awesome" name="inbox" />`
+![](./font-awesome/increase-size-option.svg) | font-awesome | increase-size-option | `<Icon group="font-awesome" name="increase-size-option" />`
+![](./font-awesome/indent-right.svg) | font-awesome | indent-right | `<Icon group="font-awesome" name="indent-right" />`
+![](./font-awesome/information-button.svg) | font-awesome | information-button | `<Icon group="font-awesome" name="information-button" />`
+![](./font-awesome/information-symbol.svg) | font-awesome | information-symbol | `<Icon group="font-awesome" name="information-symbol" />`
+![](./font-awesome/instagram-symbol.svg) | font-awesome | instagram-symbol | `<Icon group="font-awesome" name="instagram-symbol" />`
+![](./font-awesome/italicize-text.svg) | font-awesome | italicize-text | `<Icon group="font-awesome" name="italicize-text" />`
+![](./font-awesome/keyboard.svg) | font-awesome | keyboard | `<Icon group="font-awesome" name="keyboard" />`
+![](./font-awesome/left-arrow-1.svg) | font-awesome | left-arrow-1 | `<Icon group="font-awesome" name="left-arrow-1" />`
+![](./font-awesome/left-arrow.svg) | font-awesome | left-arrow | `<Icon group="font-awesome" name="left-arrow" />`
+![](./font-awesome/left-indentation-option.svg) | font-awesome | left-indentation-option | `<Icon group="font-awesome" name="left-indentation-option" />`
+![](./font-awesome/legal-hammer.svg) | font-awesome | legal-hammer | `<Icon group="font-awesome" name="legal-hammer" />`
+![](./font-awesome/lemon.svg) | font-awesome | lemon | `<Icon group="font-awesome" name="lemon" />`
+![](./font-awesome/leter-a-inside-a-black-circle.svg) | font-awesome | leter-a-inside-a-black-circle | `<Icon group="font-awesome" name="leter-a-inside-a-black-circle" />`
+![](./font-awesome/letter-p-symbol.svg) | font-awesome | letter-p-symbol | `<Icon group="font-awesome" name="letter-p-symbol" />`
+![](./font-awesome/level-up.svg) | font-awesome | level-up | `<Icon group="font-awesome" name="level-up" />`
+![](./font-awesome/light-bulb.svg) | font-awesome | light-bulb | `<Icon group="font-awesome" name="light-bulb" />`
+![](./font-awesome/lightning-bolt-shadow.svg) | font-awesome | lightning-bolt-shadow | `<Icon group="font-awesome" name="lightning-bolt-shadow" />`
+![](./font-awesome/link-symbol.svg) | font-awesome | link-symbol | `<Icon group="font-awesome" name="link-symbol" />`
+![](./font-awesome/linkedin-letters.svg) | font-awesome | linkedin-letters | `<Icon group="font-awesome" name="linkedin-letters" />`
+![](./font-awesome/linkedin-sign.svg) | font-awesome | linkedin-sign | `<Icon group="font-awesome" name="linkedin-sign" />`
+![](./font-awesome/linux-logo.svg) | font-awesome | linux-logo | `<Icon group="font-awesome" name="linux-logo" />`
+![](./font-awesome/list-on-window.svg) | font-awesome | list-on-window | `<Icon group="font-awesome" name="list-on-window" />`
+![](./font-awesome/list-with-dots.svg) | font-awesome | list-with-dots | `<Icon group="font-awesome" name="list-with-dots" />`
+![](./font-awesome/list.svg) | font-awesome | list | `<Icon group="font-awesome" name="list" />`
+![](./font-awesome/listing-option.svg) | font-awesome | listing-option | `<Icon group="font-awesome" name="listing-option" />`
+![](./font-awesome/long-arrow-pointing-to-left.svg) | font-awesome | long-arrow-pointing-to-left | `<Icon group="font-awesome" name="long-arrow-pointing-to-left" />`
+![](./font-awesome/long-arrow-pointing-to-the-right.svg) | font-awesome | long-arrow-pointing-to-the-right | `<Icon group="font-awesome" name="long-arrow-pointing-to-the-right" />`
+![](./font-awesome/long-arrow-pointing-up.svg) | font-awesome | long-arrow-pointing-up | `<Icon group="font-awesome" name="long-arrow-pointing-up" />`
+![](./font-awesome/magic-wand.svg) | font-awesome | magic-wand | `<Icon group="font-awesome" name="magic-wand" />`
+![](./font-awesome/magnifying-glass.svg) | font-awesome | magnifying-glass | `<Icon group="font-awesome" name="magnifying-glass" />`
+![](./font-awesome/man.svg) | font-awesome | man | `<Icon group="font-awesome" name="man" />`
+![](./font-awesome/map-marker.svg) | font-awesome | map-marker | `<Icon group="font-awesome" name="map-marker" />`
+![](./font-awesome/maxcdn-website-logo.svg) | font-awesome | maxcdn-website-logo | `<Icon group="font-awesome" name="maxcdn-website-logo" />`
+![](./font-awesome/medical-kit.svg) | font-awesome | medical-kit | `<Icon group="font-awesome" name="medical-kit" />`
+![](./font-awesome/meh-face-emoticon.svg) | font-awesome | meh-face-emoticon | `<Icon group="font-awesome" name="meh-face-emoticon" />`
+![](./font-awesome/microphone-black-shape.svg) | font-awesome | microphone-black-shape | `<Icon group="font-awesome" name="microphone-black-shape" />`
+![](./font-awesome/microphone-off.svg) | font-awesome | microphone-off | `<Icon group="font-awesome" name="microphone-off" />`
+![](./font-awesome/minus-button.svg) | font-awesome | minus-button | `<Icon group="font-awesome" name="minus-button" />`
+![](./font-awesome/minus-sign-inside-a-black-circle.svg) | font-awesome | minus-sign-inside-a-black-circle | `<Icon group="font-awesome" name="minus-sign-inside-a-black-circle" />`
+![](./font-awesome/minus-sign-inside-a-black-rounded-square-shape.svg) | font-awesome | minus-sign-inside-a-black-rounded-square-shape | `<Icon group="font-awesome" name="minus-sign-inside-a-black-rounded-square-shape" />`
+![](./font-awesome/minus-sign-on-a-square-outline.svg) | font-awesome | minus-sign-on-a-square-outline | `<Icon group="font-awesome" name="minus-sign-on-a-square-outline" />`
+![](./font-awesome/minus-symbol.svg) | font-awesome | minus-symbol | `<Icon group="font-awesome" name="minus-symbol" />`
+![](./font-awesome/mobile-phone.svg) | font-awesome | mobile-phone | `<Icon group="font-awesome" name="mobile-phone" />`
+![](./font-awesome/moon-phase-outline.svg) | font-awesome | moon-phase-outline | `<Icon group="font-awesome" name="moon-phase-outline" />`
+![](./font-awesome/move-option.svg) | font-awesome | move-option | `<Icon group="font-awesome" name="move-option" />`
+![](./font-awesome/music-headphones.svg) | font-awesome | music-headphones | `<Icon group="font-awesome" name="music-headphones" />`
+![](./font-awesome/music-note-black-symbol.svg) | font-awesome | music-note-black-symbol | `<Icon group="font-awesome" name="music-note-black-symbol" />`
+![](./font-awesome/musical-bell-outline.svg) | font-awesome | musical-bell-outline | `<Icon group="font-awesome" name="musical-bell-outline" />`
+![](./font-awesome/nine-black-tiles.svg) | font-awesome | nine-black-tiles | `<Icon group="font-awesome" name="nine-black-tiles" />`
+![](./font-awesome/numbered-list.svg) | font-awesome | numbered-list | `<Icon group="font-awesome" name="numbered-list" />`
+![](./font-awesome/open-folder-outline.svg) | font-awesome | open-folder-outline | `<Icon group="font-awesome" name="open-folder-outline" />`
+![](./font-awesome/open-folder.svg) | font-awesome | open-folder | `<Icon group="font-awesome" name="open-folder" />`
+![](./font-awesome/open-laptop-computer.svg) | font-awesome | open-laptop-computer | `<Icon group="font-awesome" name="open-laptop-computer" />`
+![](./font-awesome/open-padlock-silhouette.svg) | font-awesome | open-padlock-silhouette | `<Icon group="font-awesome" name="open-padlock-silhouette" />`
+![](./font-awesome/open-wrench-tool-silhouette.svg) | font-awesome | open-wrench-tool-silhouette | `<Icon group="font-awesome" name="open-wrench-tool-silhouette" />`
+![](./font-awesome/padlock-unlock.svg) | font-awesome | padlock-unlock | `<Icon group="font-awesome" name="padlock-unlock" />`
+![](./font-awesome/padlock.svg) | font-awesome | padlock | `<Icon group="font-awesome" name="padlock" />`
+![](./font-awesome/paper-bill.svg) | font-awesome | paper-bill | `<Icon group="font-awesome" name="paper-bill" />`
+![](./font-awesome/paper-clip-outline.svg) | font-awesome | paper-clip-outline | `<Icon group="font-awesome" name="paper-clip-outline" />`
+![](./font-awesome/paper-push-pin.svg) | font-awesome | paper-push-pin | `<Icon group="font-awesome" name="paper-push-pin" />`
+![](./font-awesome/paste-from-clipboard.svg) | font-awesome | paste-from-clipboard | `<Icon group="font-awesome" name="paste-from-clipboard" />`
+![](./font-awesome/pause-symbol.svg) | font-awesome | pause-symbol | `<Icon group="font-awesome" name="pause-symbol" />`
+![](./font-awesome/pencil.svg) | font-awesome | pencil | `<Icon group="font-awesome" name="pencil" />`
+![](./font-awesome/photo-camera.svg) | font-awesome | photo-camera | `<Icon group="font-awesome" name="photo-camera" />`
+![](./font-awesome/picture.svg) | font-awesome | picture | `<Icon group="font-awesome" name="picture" />`
+![](./font-awesome/pinterest-logo.svg) | font-awesome | pinterest-logo | `<Icon group="font-awesome" name="pinterest-logo" />`
+![](./font-awesome/pinterest-sign.svg) | font-awesome | pinterest-sign | `<Icon group="font-awesome" name="pinterest-sign" />`
+![](./font-awesome/plane.svg) | font-awesome | plane | `<Icon group="font-awesome" name="plane" />`
+![](./font-awesome/plant-leaf-with-white-details.svg) | font-awesome | plant-leaf-with-white-details | `<Icon group="font-awesome" name="plant-leaf-with-white-details" />`
+![](./font-awesome/play-button.svg) | font-awesome | play-button | `<Icon group="font-awesome" name="play-button" />`
+![](./font-awesome/play-circle.svg) | font-awesome | play-circle | `<Icon group="font-awesome" name="play-circle" />`
+![](./font-awesome/play-sign.svg) | font-awesome | play-sign | `<Icon group="font-awesome" name="play-sign" />`
+![](./font-awesome/play-video-button.svg) | font-awesome | play-video-button | `<Icon group="font-awesome" name="play-video-button" />`
+![](./font-awesome/plus-black-symbol.svg) | font-awesome | plus-black-symbol | `<Icon group="font-awesome" name="plus-black-symbol" />`
+![](./font-awesome/plus-sign-in-a-black-circle.svg) | font-awesome | plus-sign-in-a-black-circle | `<Icon group="font-awesome" name="plus-sign-in-a-black-circle" />`
+![](./font-awesome/plus-symbol-in-a-rounded-black-square.svg) | font-awesome | plus-symbol-in-a-rounded-black-square | `<Icon group="font-awesome" name="plus-symbol-in-a-rounded-black-square" />`
+![](./font-awesome/power-button-off.svg) | font-awesome | power-button-off | `<Icon group="font-awesome" name="power-button-off" />`
+![](./font-awesome/printing-tool.svg) | font-awesome | printing-tool | `<Icon group="font-awesome" name="printing-tool" />`
+![](./font-awesome/puzzle-piece-silhouette.svg) | font-awesome | puzzle-piece-silhouette | `<Icon group="font-awesome" name="puzzle-piece-silhouette" />`
+![](./font-awesome/qr-code.svg) | font-awesome | qr-code | `<Icon group="font-awesome" name="qr-code" />`
+![](./font-awesome/question-mark-on-a-circular-black-background.svg) | font-awesome | question-mark-on-a-circular-black-background | `<Icon group="font-awesome" name="question-mark-on-a-circular-black-background" />`
+![](./font-awesome/question-sign.svg) | font-awesome | question-sign | `<Icon group="font-awesome" name="question-sign" />`
+![](./font-awesome/quote-left.svg) | font-awesome | quote-left | `<Icon group="font-awesome" name="quote-left" />`
+![](./font-awesome/reduced-volume.svg) | font-awesome | reduced-volume | `<Icon group="font-awesome" name="reduced-volume" />`
+![](./font-awesome/refresh-arrow.svg) | font-awesome | refresh-arrow | `<Icon group="font-awesome" name="refresh-arrow" />`
+![](./font-awesome/refresh-page-option.svg) | font-awesome | refresh-page-option | `<Icon group="font-awesome" name="refresh-page-option" />`
+![](./font-awesome/remove-button.svg) | font-awesome | remove-button | `<Icon group="font-awesome" name="remove-button" />`
+![](./font-awesome/remove-symbol.svg) | font-awesome | remove-symbol | `<Icon group="font-awesome" name="remove-symbol" />`
+![](./font-awesome/renren-social-network-of-china-logotype.svg) | font-awesome | renren-social-network-of-china-logotype | `<Icon group="font-awesome" name="renren-social-network-of-china-logotype" />`
+![](./font-awesome/reorder-option.svg) | font-awesome | reorder-option | `<Icon group="font-awesome" name="reorder-option" />`
+![](./font-awesome/reply-arrow.svg) | font-awesome | reply-arrow | `<Icon group="font-awesome" name="reply-arrow" />`
+![](./font-awesome/reply.svg) | font-awesome | reply | `<Icon group="font-awesome" name="reply" />`
+![](./font-awesome/resize-option.svg) | font-awesome | resize-option | `<Icon group="font-awesome" name="resize-option" />`
+![](./font-awesome/retweet-arrows-symbol.svg) | font-awesome | retweet-arrows-symbol | `<Icon group="font-awesome" name="retweet-arrows-symbol" />`
+![](./font-awesome/rewind-button.svg) | font-awesome | rewind-button | `<Icon group="font-awesome" name="rewind-button" />`
+![](./font-awesome/right-arrow-in-a-circle.svg) | font-awesome | right-arrow-in-a-circle | `<Icon group="font-awesome" name="right-arrow-in-a-circle" />`
+![](./font-awesome/right-chevron.svg) | font-awesome | right-chevron | `<Icon group="font-awesome" name="right-chevron" />`
+![](./font-awesome/right-quotation-mark.svg) | font-awesome | right-quotation-mark | `<Icon group="font-awesome" name="right-quotation-mark" />`
+![](./font-awesome/road-perspective.svg) | font-awesome | road-perspective | `<Icon group="font-awesome" name="road-perspective" />`
+![](./font-awesome/rounded-black-square-shape.svg) | font-awesome | rounded-black-square-shape | `<Icon group="font-awesome" name="rounded-black-square-shape" />`
+![](./font-awesome/rss-feed-button.svg) | font-awesome | rss-feed-button | `<Icon group="font-awesome" name="rss-feed-button" />`
+![](./font-awesome/rss-symbol.svg) | font-awesome | rss-symbol | `<Icon group="font-awesome" name="rss-symbol" />`
+![](./font-awesome/rupee-indian.svg) | font-awesome | rupee-indian | `<Icon group="font-awesome" name="rupee-indian" />`
+![](./font-awesome/save-file-option.svg) | font-awesome | save-file-option | `<Icon group="font-awesome" name="save-file-option" />`
+![](./font-awesome/screenshot.svg) | font-awesome | screenshot | `<Icon group="font-awesome" name="screenshot" />`
+![](./font-awesome/settings.svg) | font-awesome | settings | `<Icon group="font-awesome" name="settings" />`
+![](./font-awesome/share-option.svg) | font-awesome | share-option | `<Icon group="font-awesome" name="share-option" />`
+![](./font-awesome/share-post-symbol.svg) | font-awesome | share-post-symbol | `<Icon group="font-awesome" name="share-post-symbol" />`
+![](./font-awesome/share-symbol.svg) | font-awesome | share-symbol | `<Icon group="font-awesome" name="share-symbol" />`
+![](./font-awesome/shield.svg) | font-awesome | shield | `<Icon group="font-awesome" name="shield" />`
+![](./font-awesome/shopping-cart-black-shape.svg) | font-awesome | shopping-cart-black-shape | `<Icon group="font-awesome" name="shopping-cart-black-shape" />`
+![](./font-awesome/sign-in.svg) | font-awesome | sign-in | `<Icon group="font-awesome" name="sign-in" />`
+![](./font-awesome/sign-out-option.svg) | font-awesome | sign-out-option | `<Icon group="font-awesome" name="sign-out-option" />`
+![](./font-awesome/signal-bars.svg) | font-awesome | signal-bars | `<Icon group="font-awesome" name="signal-bars" />`
+![](./font-awesome/sitemap.svg) | font-awesome | sitemap | `<Icon group="font-awesome" name="sitemap" />`
+![](./font-awesome/skype-logo.svg) | font-awesome | skype-logo | `<Icon group="font-awesome" name="skype-logo" />`
+![](./font-awesome/small-rocket-ship-silhouette.svg) | font-awesome | small-rocket-ship-silhouette | `<Icon group="font-awesome" name="small-rocket-ship-silhouette" />`
+![](./font-awesome/smile.svg) | font-awesome | smile | `<Icon group="font-awesome" name="smile" />`
+![](./font-awesome/sort-arrows-couple-pointing-up-and-down.svg) | font-awesome | sort-arrows-couple-pointing-up-and-down | `<Icon group="font-awesome" name="sort-arrows-couple-pointing-up-and-down" />`
+![](./font-awesome/sort-by-alphabet.svg) | font-awesome | sort-by-alphabet | `<Icon group="font-awesome" name="sort-by-alphabet" />`
+![](./font-awesome/sort-by-attributes-interface-button-option.svg) | font-awesome | sort-by-attributes-interface-button-option | `<Icon group="font-awesome" name="sort-by-attributes-interface-button-option" />`
+![](./font-awesome/sort-by-attributes.svg) | font-awesome | sort-by-attributes | `<Icon group="font-awesome" name="sort-by-attributes" />`
+![](./font-awesome/sort-by-numeric-order.svg) | font-awesome | sort-by-numeric-order | `<Icon group="font-awesome" name="sort-by-numeric-order" />`
+![](./font-awesome/sort-by-order.svg) | font-awesome | sort-by-order | `<Icon group="font-awesome" name="sort-by-order" />`
+![](./font-awesome/sort-down.svg) | font-awesome | sort-down | `<Icon group="font-awesome" name="sort-down" />`
+![](./font-awesome/sort-reverse-alphabetical-order.svg) | font-awesome | sort-reverse-alphabetical-order | `<Icon group="font-awesome" name="sort-reverse-alphabetical-order" />`
+![](./font-awesome/sort-up.svg) | font-awesome | sort-up | `<Icon group="font-awesome" name="sort-up" />`
+![](./font-awesome/speech-bubbles-comment-option.svg) | font-awesome | speech-bubbles-comment-option | `<Icon group="font-awesome" name="speech-bubbles-comment-option" />`
+![](./font-awesome/spinner-of-dots.svg) | font-awesome | spinner-of-dots | `<Icon group="font-awesome" name="spinner-of-dots" />`
+![](./font-awesome/square-shape-shadow.svg) | font-awesome | square-shape-shadow | `<Icon group="font-awesome" name="square-shape-shadow" />`
+![](./font-awesome/stack-exchange-logo.svg) | font-awesome | stack-exchange-logo | `<Icon group="font-awesome" name="stack-exchange-logo" />`
+![](./font-awesome/stack-exchange-symbol.svg) | font-awesome | stack-exchange-symbol | `<Icon group="font-awesome" name="stack-exchange-symbol" />`
+![](./font-awesome/star-1.svg) | font-awesome | star-1 | `<Icon group="font-awesome" name="star-1" />`
+![](./font-awesome/star-half-empty.svg) | font-awesome | star-half-empty | `<Icon group="font-awesome" name="star-half-empty" />`
+![](./font-awesome/star.svg) | font-awesome | star | `<Icon group="font-awesome" name="star" />`
+![](./font-awesome/step-backward.svg) | font-awesome | step-backward | `<Icon group="font-awesome" name="step-backward" />`
+![](./font-awesome/step-forward.svg) | font-awesome | step-forward | `<Icon group="font-awesome" name="step-forward" />`
+![](./font-awesome/stethoscope.svg) | font-awesome | stethoscope | `<Icon group="font-awesome" name="stethoscope" />`
+![](./font-awesome/strikethrough.svg) | font-awesome | strikethrough | `<Icon group="font-awesome" name="strikethrough" />`
+![](./font-awesome/suitcase-with-white-details.svg) | font-awesome | suitcase-with-white-details | `<Icon group="font-awesome" name="suitcase-with-white-details" />`
+![](./font-awesome/sun.svg) | font-awesome | sun | `<Icon group="font-awesome" name="sun" />`
+![](./font-awesome/superscript-text-formatting.svg) | font-awesome | superscript-text-formatting | `<Icon group="font-awesome" name="superscript-text-formatting" />`
+![](./font-awesome/table-grid.svg) | font-awesome | table-grid | `<Icon group="font-awesome" name="table-grid" />`
+![](./font-awesome/tag-black-shape.svg) | font-awesome | tag-black-shape | `<Icon group="font-awesome" name="tag-black-shape" />`
+![](./font-awesome/tags.svg) | font-awesome | tags | `<Icon group="font-awesome" name="tags" />`
+![](./font-awesome/tasks-list.svg) | font-awesome | tasks-list | `<Icon group="font-awesome" name="tasks-list" />`
+![](./font-awesome/telephone-handle-silhouette.svg) | font-awesome | telephone-handle-silhouette | `<Icon group="font-awesome" name="telephone-handle-silhouette" />`
+![](./font-awesome/telephone-symbol-button.svg) | font-awesome | telephone-symbol-button | `<Icon group="font-awesome" name="telephone-symbol-button" />`
+![](./font-awesome/terminal.svg) | font-awesome | terminal | `<Icon group="font-awesome" name="terminal" />`
+![](./font-awesome/text-file-1.svg) | font-awesome | text-file-1 | `<Icon group="font-awesome" name="text-file-1" />`
+![](./font-awesome/text-file.svg) | font-awesome | text-file | `<Icon group="font-awesome" name="text-file" />`
+![](./font-awesome/text-height-adjustment.svg) | font-awesome | text-height-adjustment | `<Icon group="font-awesome" name="text-height-adjustment" />`
+![](./font-awesome/text-width.svg) | font-awesome | text-width | `<Icon group="font-awesome" name="text-width" />`
+![](./font-awesome/thin-arrowheads-pointing-down.svg) | font-awesome | thin-arrowheads-pointing-down | `<Icon group="font-awesome" name="thin-arrowheads-pointing-down" />`
+![](./font-awesome/three-small-square-shapes.svg) | font-awesome | three-small-square-shapes | `<Icon group="font-awesome" name="three-small-square-shapes" />`
+![](./font-awesome/thumb-down.svg) | font-awesome | thumb-down | `<Icon group="font-awesome" name="thumb-down" />`
+![](./font-awesome/thumbs-down-silhouette.svg) | font-awesome | thumbs-down-silhouette | `<Icon group="font-awesome" name="thumbs-down-silhouette" />`
+![](./font-awesome/thumbs-up-hand-symbol.svg) | font-awesome | thumbs-up-hand-symbol | `<Icon group="font-awesome" name="thumbs-up-hand-symbol" />`
+![](./font-awesome/thumbs-up.svg) | font-awesome | thumbs-up | `<Icon group="font-awesome" name="thumbs-up" />`
+![](./font-awesome/ticket.svg) | font-awesome | ticket | `<Icon group="font-awesome" name="ticket" />`
+![](./font-awesome/time.svg) | font-awesome | time | `<Icon group="font-awesome" name="time" />`
+![](./font-awesome/tint-drop.svg) | font-awesome | tint-drop | `<Icon group="font-awesome" name="tint-drop" />`
+![](./font-awesome/trash.svg) | font-awesome | trash | `<Icon group="font-awesome" name="trash" />`
+![](./font-awesome/trello-website-logo.svg) | font-awesome | trello-website-logo | `<Icon group="font-awesome" name="trello-website-logo" />`
+![](./font-awesome/trophy.svg) | font-awesome | trophy | `<Icon group="font-awesome" name="trophy" />`
+![](./font-awesome/tumblr-logo-1.svg) | font-awesome | tumblr-logo-1 | `<Icon group="font-awesome" name="tumblr-logo-1" />`
+![](./font-awesome/tumblr-logo.svg) | font-awesome | tumblr-logo | `<Icon group="font-awesome" name="tumblr-logo" />`
+![](./font-awesome/turkish-lire-symbol.svg) | font-awesome | turkish-lire-symbol | `<Icon group="font-awesome" name="turkish-lire-symbol" />`
+![](./font-awesome/twitter-black-shape.svg) | font-awesome | twitter-black-shape | `<Icon group="font-awesome" name="twitter-black-shape" />`
+![](./font-awesome/twitter-sign.svg) | font-awesome | twitter-sign | `<Icon group="font-awesome" name="twitter-sign" />`
+![](./font-awesome/two-columns-layout.svg) | font-awesome | two-columns-layout | `<Icon group="font-awesome" name="two-columns-layout" />`
+![](./font-awesome/u-shaped-thick-magnet.svg) | font-awesome | u-shaped-thick-magnet | `<Icon group="font-awesome" name="u-shaped-thick-magnet" />`
+![](./font-awesome/umbrella-black-silhouette.svg) | font-awesome | umbrella-black-silhouette | `<Icon group="font-awesome" name="umbrella-black-silhouette" />`
+![](./font-awesome/underline-text-option.svg) | font-awesome | underline-text-option | `<Icon group="font-awesome" name="underline-text-option" />`
+![](./font-awesome/undo-arrow.svg) | font-awesome | undo-arrow | `<Icon group="font-awesome" name="undo-arrow" />`
+![](./font-awesome/unlink-symbol.svg) | font-awesome | unlink-symbol | `<Icon group="font-awesome" name="unlink-symbol" />`
+![](./font-awesome/up-arrow.svg) | font-awesome | up-arrow | `<Icon group="font-awesome" name="up-arrow" />`
+![](./font-awesome/up-chevron-button.svg) | font-awesome | up-chevron-button | `<Icon group="font-awesome" name="up-chevron-button" />`
+![](./font-awesome/upload-button.svg) | font-awesome | upload-button | `<Icon group="font-awesome" name="upload-button" />`
+![](./font-awesome/upload.svg) | font-awesome | upload | `<Icon group="font-awesome" name="upload" />`
+![](./font-awesome/user-md-symbol.svg) | font-awesome | user-md-symbol | `<Icon group="font-awesome" name="user-md-symbol" />`
+![](./font-awesome/user-shape.svg) | font-awesome | user-shape | `<Icon group="font-awesome" name="user-shape" />`
+![](./font-awesome/vertical-ellipsis.svg) | font-awesome | vertical-ellipsis | `<Icon group="font-awesome" name="vertical-ellipsis" />`
+![](./font-awesome/vertical-resizing-option.svg) | font-awesome | vertical-resizing-option | `<Icon group="font-awesome" name="vertical-resizing-option" />`
+![](./font-awesome/video-play-square-button.svg) | font-awesome | video-play-square-button | `<Icon group="font-awesome" name="video-play-square-button" />`
+![](./font-awesome/vimeo-square-logo.svg) | font-awesome | vimeo-square-logo | `<Icon group="font-awesome" name="vimeo-square-logo" />`
+![](./font-awesome/vintage-key-outline.svg) | font-awesome | vintage-key-outline | `<Icon group="font-awesome" name="vintage-key-outline" />`
+![](./font-awesome/vk-social-network-logo.svg) | font-awesome | vk-social-network-logo | `<Icon group="font-awesome" name="vk-social-network-logo" />`
+![](./font-awesome/volume-off.svg) | font-awesome | volume-off | `<Icon group="font-awesome" name="volume-off" />`
+![](./font-awesome/volume-up-interface-symbol.svg) | font-awesome | volume-up-interface-symbol | `<Icon group="font-awesome" name="volume-up-interface-symbol" />`
+![](./font-awesome/warning-sign-on-a-triangular-background.svg) | font-awesome | warning-sign-on-a-triangular-background | `<Icon group="font-awesome" name="warning-sign-on-a-triangular-background" />`
+![](./font-awesome/weibo-website-logo.svg) | font-awesome | weibo-website-logo | `<Icon group="font-awesome" name="weibo-website-logo" />`
+![](./font-awesome/wheelchair.svg) | font-awesome | wheelchair | `<Icon group="font-awesome" name="wheelchair" />`
+![](./font-awesome/white-flag-symbol.svg) | font-awesome | white-flag-symbol | `<Icon group="font-awesome" name="white-flag-symbol" />`
+![](./font-awesome/windows-logo-silhouette.svg) | font-awesome | windows-logo-silhouette | `<Icon group="font-awesome" name="windows-logo-silhouette" />`
+![](./font-awesome/x2-symbol-of-a-letter-and-a-number-subscript.svg) | font-awesome | x2-symbol-of-a-letter-and-a-number-subscript | `<Icon group="font-awesome" name="x2-symbol-of-a-letter-and-a-number-subscript" />`
+![](./font-awesome/xing-logo.svg) | font-awesome | xing-logo | `<Icon group="font-awesome" name="xing-logo" />`
+![](./font-awesome/xing-logotype.svg) | font-awesome | xing-logotype | `<Icon group="font-awesome" name="xing-logotype" />`
+![](./font-awesome/yen-symbol.svg) | font-awesome | yen-symbol | `<Icon group="font-awesome" name="yen-symbol" />`
+![](./font-awesome/youtube-logo-1.svg) | font-awesome | youtube-logo-1 | `<Icon group="font-awesome" name="youtube-logo-1" />`
+![](./font-awesome/youtube-logo-2.svg) | font-awesome | youtube-logo-2 | `<Icon group="font-awesome" name="youtube-logo-2" />`
+![](./font-awesome/youtube-logo.svg) | font-awesome | youtube-logo | `<Icon group="font-awesome" name="youtube-logo" />`
+![](./font-awesome/zoom-in.svg) | font-awesome | zoom-in | `<Icon group="font-awesome" name="zoom-in" />`
+![](./font-awesome/zoom-out.svg) | font-awesome | zoom-out | `<Icon group="font-awesome" name="zoom-out" />`

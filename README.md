@@ -48,6 +48,27 @@ render() {
 
 ```
 
+## List of icons
+
+- [font-awesome](static/font-awesome.md)
+
+- [coolicons](static/coolicons.md)
+
+- [essential](static/essential.md)
+
+- [universalicons](static/universalicons.md)
+
+- [lodgicons](static/lodgicons.md)
+
+- [flags](static/flags.md)
+
+- [social-media](static/social-media.md)
+
+- [default](static/default.md)
+
+- [menu](static/menu.md)
+
+
 ## Example
 
 ![example](./static/example.png)

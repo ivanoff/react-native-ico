@@ -1,402 +1,403 @@
- | name | group | usage
+## lodgicons
+ image | group | name | usage
 --|--|--
-![](./lodgicons/1-star.svg =30x30) | 1-star | lodgicons | <Icon group="lodgicons" name="1-star" />
-![](./lodgicons/2-stars-symbol.svg =30x30) | 2-stars-symbol | lodgicons | <Icon group="lodgicons" name="2-stars-symbol" />
-![](./lodgicons/24-hours-circular-sign.svg =30x30) | 24-hours-circular-sign | lodgicons | <Icon group="lodgicons" name="24-hours-circular-sign" />
-![](./lodgicons/24-hours-room-service.svg =30x30) | 24-hours-room-service | lodgicons | <Icon group="lodgicons" name="24-hours-room-service" />
-![](./lodgicons/24-hours-sign.svg =30x30) | 24-hours-sign | lodgicons | <Icon group="lodgicons" name="24-hours-sign" />
-![](./lodgicons/3-persons-or-person-number-three-symbol.svg =30x30) | 3-persons-or-person-number-three-symbol | lodgicons | <Icon group="lodgicons" name="3-persons-or-person-number-three-symbol" />
-![](./lodgicons/3-persons-sign.svg =30x30) | 3-persons-sign | lodgicons | <Icon group="lodgicons" name="3-persons-sign" />
-![](./lodgicons/3-stars-outlines.svg =30x30) | 3-stars-outlines | lodgicons | <Icon group="lodgicons" name="3-stars-outlines" />
-![](./lodgicons/3-stars-symbol.svg =30x30) | 3-stars-symbol | lodgicons | <Icon group="lodgicons" name="3-stars-symbol" />
-![](./lodgicons/4-stars-hotel-signal.svg =30x30) | 4-stars-hotel-signal | lodgicons | <Icon group="lodgicons" name="4-stars-hotel-signal" />
-![](./lodgicons/4-stars-sign.svg =30x30) | 4-stars-sign | lodgicons | <Icon group="lodgicons" name="4-stars-sign" />
-![](./lodgicons/5-persons-symbol.svg =30x30) | 5-persons-symbol | lodgicons | <Icon group="lodgicons" name="5-persons-symbol" />
-![](./lodgicons/5-stars-sign.svg =30x30) | 5-stars-sign | lodgicons | <Icon group="lodgicons" name="5-stars-sign" />
-![](./lodgicons/7-persons-male-silhouettes.svg =30x30) | 7-persons-male-silhouettes | lodgicons | <Icon group="lodgicons" name="7-persons-male-silhouettes" />
-![](./lodgicons/7-persons-symbol.svg =30x30) | 7-persons-symbol | lodgicons | <Icon group="lodgicons" name="7-persons-symbol" />
-![](./lodgicons/8-persons.svg =30x30) | 8-persons | lodgicons | <Icon group="lodgicons" name="8-persons" />
-![](./lodgicons/add-button-sign-of-a-plus-symbol-inside-a-double-square-shape.svg =30x30) | add-button-sign-of-a-plus-symbol-inside-a-double-square-shape | lodgicons | <Icon group="lodgicons" name="add-button-sign-of-a-plus-symbol-inside-a-double-square-shape" />
-![](./lodgicons/add-hotel-symbol.svg =30x30) | add-hotel-symbol | lodgicons | <Icon group="lodgicons" name="add-hotel-symbol" />
-![](./lodgicons/air-conditioned.svg =30x30) | air-conditioned | lodgicons | <Icon group="lodgicons" name="air-conditioned" />
-![](./lodgicons/air-conditioner-sign.svg =30x30) | air-conditioner-sign | lodgicons | <Icon group="lodgicons" name="air-conditioner-sign" />
-![](./lodgicons/air-conditioner.svg =30x30) | air-conditioner | lodgicons | <Icon group="lodgicons" name="air-conditioner" />
-![](./lodgicons/airplane-black-shape-ascending-rotated-to-right.svg =30x30) | airplane-black-shape-ascending-rotated-to-right | lodgicons | <Icon group="lodgicons" name="airplane-black-shape-ascending-rotated-to-right" />
-![](./lodgicons/airplane-outline-pointing-up.svg =30x30) | airplane-outline-pointing-up | lodgicons | <Icon group="lodgicons" name="airplane-outline-pointing-up" />
-![](./lodgicons/alarm-clock-of-old-design.svg =30x30) | alarm-clock-of-old-design | lodgicons | <Icon group="lodgicons" name="alarm-clock-of-old-design" />
-![](./lodgicons/antenna-signal-symbol.svg =30x30) | antenna-signal-symbol | lodgicons | <Icon group="lodgicons" name="antenna-signal-symbol" />
-![](./lodgicons/arroba-sign.svg =30x30) | arroba-sign | lodgicons | <Icon group="lodgicons" name="arroba-sign" />
-![](./lodgicons/baby-crib.svg =30x30) | baby-crib | lodgicons | <Icon group="lodgicons" name="baby-crib" />
-![](./lodgicons/bag-for-ladies.svg =30x30) | bag-for-ladies | lodgicons | <Icon group="lodgicons" name="bag-for-ladies" />
-![](./lodgicons/bagagiste-with-baggage-on-a-platform-cart.svg =30x30) | bagagiste-with-baggage-on-a-platform-cart | lodgicons | <Icon group="lodgicons" name="bagagiste-with-baggage-on-a-platform-cart" />
-![](./lodgicons/baggage-cart-1.svg =30x30) | baggage-cart-1 | lodgicons | <Icon group="lodgicons" name="baggage-cart-1" />
-![](./lodgicons/baggage-cart.svg =30x30) | baggage-cart | lodgicons | <Icon group="lodgicons" name="baggage-cart" />
-![](./lodgicons/baggage-on-an-elegant-hotel-platform-cart.svg =30x30) | baggage-on-an-elegant-hotel-platform-cart | lodgicons | <Icon group="lodgicons" name="baggage-on-an-elegant-hotel-platform-cart" />
-![](./lodgicons/baggage-on-platform-cart-outline.svg =30x30) | baggage-on-platform-cart-outline | lodgicons | <Icon group="lodgicons" name="baggage-on-platform-cart-outline" />
-![](./lodgicons/baggage-outline.svg =30x30) | baggage-outline | lodgicons | <Icon group="lodgicons" name="baggage-outline" />
-![](./lodgicons/balcony-and-door.svg =30x30) | balcony-and-door | lodgicons | <Icon group="lodgicons" name="balcony-and-door" />
-![](./lodgicons/bar-24-hours-rounded-square-signal.svg =30x30) | bar-24-hours-rounded-square-signal | lodgicons | <Icon group="lodgicons" name="bar-24-hours-rounded-square-signal" />
-![](./lodgicons/barbecue.svg =30x30) | barbecue | lodgicons | <Icon group="lodgicons" name="barbecue" />
-![](./lodgicons/basketball-ball-outline.svg =30x30) | basketball-ball-outline | lodgicons | <Icon group="lodgicons" name="basketball-ball-outline" />
-![](./lodgicons/bath-tub.svg =30x30) | bath-tub | lodgicons | <Icon group="lodgicons" name="bath-tub" />
-![](./lodgicons/bathroom-sink.svg =30x30) | bathroom-sink | lodgicons | <Icon group="lodgicons" name="bathroom-sink" />
-![](./lodgicons/bathrooms-for-men-and-women-outlines-sign.svg =30x30) | bathrooms-for-men-and-women-outlines-sign | lodgicons | <Icon group="lodgicons" name="bathrooms-for-men-and-women-outlines-sign" />
-![](./lodgicons/baths-marker-point.svg =30x30) | baths-marker-point | lodgicons | <Icon group="lodgicons" name="baths-marker-point" />
-![](./lodgicons/beach-signal.svg =30x30) | beach-signal | lodgicons | <Icon group="lodgicons" name="beach-signal" />
-![](./lodgicons/beach-view-of-sea-sun-and-seagulls-couple.svg =30x30) | beach-view-of-sea-sun-and-seagulls-couple | lodgicons | <Icon group="lodgicons" name="beach-view-of-sea-sun-and-seagulls-couple" />
-![](./lodgicons/bed-for-a-couple.svg =30x30) | bed-for-a-couple | lodgicons | <Icon group="lodgicons" name="bed-for-a-couple" />
-![](./lodgicons/bed-for-two-persons.svg =30x30) | bed-for-two-persons | lodgicons | <Icon group="lodgicons" name="bed-for-two-persons" />
-![](./lodgicons/bed-for-two.svg =30x30) | bed-for-two | lodgicons | <Icon group="lodgicons" name="bed-for-two" />
-![](./lodgicons/bed-side-view.svg =30x30) | bed-side-view | lodgicons | <Icon group="lodgicons" name="bed-side-view" />
-![](./lodgicons/bedroom-card.svg =30x30) | bedroom-card | lodgicons | <Icon group="lodgicons" name="bedroom-card" />
-![](./lodgicons/beer-jar.svg =30x30) | beer-jar | lodgicons | <Icon group="lodgicons" name="beer-jar" />
-![](./lodgicons/bell-boy-portrait.svg =30x30) | bell-boy-portrait | lodgicons | <Icon group="lodgicons" name="bell-boy-portrait" />
-![](./lodgicons/bell-boy-with-baggage.svg =30x30) | bell-boy-with-baggage | lodgicons | <Icon group="lodgicons" name="bell-boy-with-baggage" />
-![](./lodgicons/bike-parking-signal.svg =30x30) | bike-parking-signal | lodgicons | <Icon group="lodgicons" name="bike-parking-signal" />
-![](./lodgicons/bike-shape.svg =30x30) | bike-shape | lodgicons | <Icon group="lodgicons" name="bike-shape" />
-![](./lodgicons/bike-zone-signal.svg =30x30) | bike-zone-signal | lodgicons | <Icon group="lodgicons" name="bike-zone-signal" />
-![](./lodgicons/bikes-sale-sign-in-dollars.svg =30x30) | bikes-sale-sign-in-dollars | lodgicons | <Icon group="lodgicons" name="bikes-sale-sign-in-dollars" />
-![](./lodgicons/bingo.svg =30x30) | bingo | lodgicons | <Icon group="lodgicons" name="bingo" />
-![](./lodgicons/black-beach-umbrella.svg =30x30) | black-beach-umbrella | lodgicons | <Icon group="lodgicons" name="black-beach-umbrella" />
-![](./lodgicons/blender-outline.svg =30x30) | blender-outline | lodgicons | <Icon group="lodgicons" name="blender-outline" />
-![](./lodgicons/blu-ray-sign.svg =30x30) | blu-ray-sign | lodgicons | <Icon group="lodgicons" name="blu-ray-sign" />
-![](./lodgicons/bowling-ball-and-pin.svg =30x30) | bowling-ball-and-pin | lodgicons | <Icon group="lodgicons" name="bowling-ball-and-pin" />
-![](./lodgicons/boy-with-headphones.svg =30x30) | boy-with-headphones | lodgicons | <Icon group="lodgicons" name="boy-with-headphones" />
-![](./lodgicons/broom-black-silhouette.svg =30x30) | broom-black-silhouette | lodgicons | <Icon group="lodgicons" name="broom-black-silhouette" />
-![](./lodgicons/brush-outline-in-diagonal.svg =30x30) | brush-outline-in-diagonal | lodgicons | <Icon group="lodgicons" name="brush-outline-in-diagonal" />
-![](./lodgicons/buffet.svg =30x30) | buffet | lodgicons | <Icon group="lodgicons" name="buffet" />
-![](./lodgicons/bunk-bed.svg =30x30) | bunk-bed | lodgicons | <Icon group="lodgicons" name="bunk-bed" />
-![](./lodgicons/burger-side-view-outline.svg =30x30) | burger-side-view-outline | lodgicons | <Icon group="lodgicons" name="burger-side-view-outline" />
-![](./lodgicons/bus-parking-sign.svg =30x30) | bus-parking-sign | lodgicons | <Icon group="lodgicons" name="bus-parking-sign" />
-![](./lodgicons/cable-tv-sign-with-monitor.svg =30x30) | cable-tv-sign-with-monitor | lodgicons | <Icon group="lodgicons" name="cable-tv-sign-with-monitor" />
-![](./lodgicons/calendar-daily-page-on-day-31.svg =30x30) | calendar-daily-page-on-day-31 | lodgicons | <Icon group="lodgicons" name="calendar-daily-page-on-day-31" />
-![](./lodgicons/call-a-taxi-symbol.svg =30x30) | call-a-taxi-symbol | lodgicons | <Icon group="lodgicons" name="call-a-taxi-symbol" />
-![](./lodgicons/call-cost-symbol.svg =30x30) | call-cost-symbol | lodgicons | <Icon group="lodgicons" name="call-cost-symbol" />
-![](./lodgicons/canoe-boat-with-rowing.svg =30x30) | canoe-boat-with-rowing | lodgicons | <Icon group="lodgicons" name="canoe-boat-with-rowing" />
-![](./lodgicons/car-parking-signal.svg =30x30) | car-parking-signal | lodgicons | <Icon group="lodgicons" name="car-parking-signal" />
-![](./lodgicons/caravan-can-outline-for-nomad-lifestyle.svg =30x30) | caravan-can-outline-for-nomad-lifestyle | lodgicons | <Icon group="lodgicons" name="caravan-can-outline-for-nomad-lifestyle" />
-![](./lodgicons/carpet-hanging-of-a-rope.svg =30x30) | carpet-hanging-of-a-rope | lodgicons | <Icon group="lodgicons" name="carpet-hanging-of-a-rope" />
-![](./lodgicons/casino-chip-with-number-11.svg =30x30) | casino-chip-with-number-11 | lodgicons | <Icon group="lodgicons" name="casino-chip-with-number-11" />
-![](./lodgicons/casino-map-marker.svg =30x30) | casino-map-marker | lodgicons | <Icon group="lodgicons" name="casino-map-marker" />
-![](./lodgicons/ceiling-covered-parking-signal.svg =30x30) | ceiling-covered-parking-signal | lodgicons | <Icon group="lodgicons" name="ceiling-covered-parking-signal" />
-![](./lodgicons/chapel.svg =30x30) | chapel | lodgicons | <Icon group="lodgicons" name="chapel" />
-![](./lodgicons/chef-toque-outline.svg =30x30) | chef-toque-outline | lodgicons | <Icon group="lodgicons" name="chef-toque-outline" />
-![](./lodgicons/chimney-with-fire.svg =30x30) | chimney-with-fire | lodgicons | <Icon group="lodgicons" name="chimney-with-fire" />
-![](./lodgicons/church-cross.svg =30x30) | church-cross | lodgicons | <Icon group="lodgicons" name="church-cross" />
-![](./lodgicons/church-localization-marker-sign.svg =30x30) | church-localization-marker-sign | lodgicons | <Icon group="lodgicons" name="church-localization-marker-sign" />
-![](./lodgicons/cigarette.svg =30x30) | cigarette | lodgicons | <Icon group="lodgicons" name="cigarette" />
-![](./lodgicons/clock-at-twelve.svg =30x30) | clock-at-twelve | lodgicons | <Icon group="lodgicons" name="clock-at-twelve" />
-![](./lodgicons/closed-baggage.svg =30x30) | closed-baggage | lodgicons | <Icon group="lodgicons" name="closed-baggage" />
-![](./lodgicons/cloth-hanging-of-a-hanger.svg =30x30) | cloth-hanging-of-a-hanger | lodgicons | <Icon group="lodgicons" name="cloth-hanging-of-a-hanger" />
-![](./lodgicons/cocktail-glass.svg =30x30) | cocktail-glass | lodgicons | <Icon group="lodgicons" name="cocktail-glass" />
-![](./lodgicons/cocktails-24-hours.svg =30x30) | cocktails-24-hours | lodgicons | <Icon group="lodgicons" name="cocktails-24-hours" />
-![](./lodgicons/coffee-cup-of-hot-drink-black-silhouette.svg =30x30) | coffee-cup-of-hot-drink-black-silhouette | lodgicons | <Icon group="lodgicons" name="coffee-cup-of-hot-drink-black-silhouette" />
-![](./lodgicons/coffee-jar.svg =30x30) | coffee-jar | lodgicons | <Icon group="lodgicons" name="coffee-jar" />
-![](./lodgicons/coffee-shop-marker.svg =30x30) | coffee-shop-marker | lodgicons | <Icon group="lodgicons" name="coffee-shop-marker" />
-![](./lodgicons/collective-elevator-sign.svg =30x30) | collective-elevator-sign | lodgicons | <Icon group="lodgicons" name="collective-elevator-sign" />
-![](./lodgicons/comb-on-hair.svg =30x30) | comb-on-hair | lodgicons | <Icon group="lodgicons" name="comb-on-hair" />
-![](./lodgicons/compact-disc.svg =30x30) | compact-disc | lodgicons | <Icon group="lodgicons" name="compact-disc" />
-![](./lodgicons/cot-black-silhouette-side-view.svg =30x30) | cot-black-silhouette-side-view | lodgicons | <Icon group="lodgicons" name="cot-black-silhouette-side-view" />
-![](./lodgicons/couple-in-sauna.svg =30x30) | couple-in-sauna | lodgicons | <Icon group="lodgicons" name="couple-in-sauna" />
-![](./lodgicons/couple-of-persons-resting-on-a-bunk.svg =30x30) | couple-of-persons-resting-on-a-bunk | lodgicons | <Icon group="lodgicons" name="couple-of-persons-resting-on-a-bunk" />
-![](./lodgicons/covered-swimming-pool-symbol.svg =30x30) | covered-swimming-pool-symbol | lodgicons | <Icon group="lodgicons" name="covered-swimming-pool-symbol" />
-![](./lodgicons/covered-swimming-pool-with-roof.svg =30x30) | covered-swimming-pool-with-roof | lodgicons | <Icon group="lodgicons" name="covered-swimming-pool-with-roof" />
-![](./lodgicons/credit-card-payment.svg =30x30) | credit-card-payment | lodgicons | <Icon group="lodgicons" name="credit-card-payment" />
-![](./lodgicons/dancer-with-music.svg =30x30) | dancer-with-music | lodgicons | <Icon group="lodgicons" name="dancer-with-music" />
-![](./lodgicons/delete-hotel-symbol.svg =30x30) | delete-hotel-symbol | lodgicons | <Icon group="lodgicons" name="delete-hotel-symbol" />
-![](./lodgicons/delete-transport-symbol.svg =30x30) | delete-transport-symbol | lodgicons | <Icon group="lodgicons" name="delete-transport-symbol" />
-![](./lodgicons/descend-signal.svg =30x30) | descend-signal | lodgicons | <Icon group="lodgicons" name="descend-signal" />
-![](./lodgicons/dices-couple.svg =30x30) | dices-couple | lodgicons | <Icon group="lodgicons" name="dices-couple" />
-![](./lodgicons/directional-arrows-signals-on-a-pole.svg =30x30) | directional-arrows-signals-on-a-pole | lodgicons | <Icon group="lodgicons" name="directional-arrows-signals-on-a-pole" />
-![](./lodgicons/disability.svg =30x30) | disability | lodgicons | <Icon group="lodgicons" name="disability" />
-![](./lodgicons/disco-ball-of-small-mirrors-with-musical-note-symbol.svg =30x30) | disco-ball-of-small-mirrors-with-musical-note-symbol | lodgicons | <Icon group="lodgicons" name="disco-ball-of-small-mirrors-with-musical-note-symbol" />
-![](./lodgicons/do-not-disturb-hanging-signal-for-hotel-doors.svg =30x30) | do-not-disturb-hanging-signal-for-hotel-doors | lodgicons | <Icon group="lodgicons" name="do-not-disturb-hanging-signal-for-hotel-doors" />
-![](./lodgicons/do-not-disturb-signal-to-hang-from-hotel-doors.svg =30x30) | do-not-disturb-signal-to-hang-from-hotel-doors | lodgicons | <Icon group="lodgicons" name="do-not-disturb-signal-to-hang-from-hotel-doors" />
-![](./lodgicons/do-not-entry-signal-for-hotel-door.svg =30x30) | do-not-entry-signal-for-hotel-door | lodgicons | <Icon group="lodgicons" name="do-not-entry-signal-for-hotel-door" />
-![](./lodgicons/do-not-pass-hanging-signal-for-door.svg =30x30) | do-not-pass-hanging-signal-for-door | lodgicons | <Icon group="lodgicons" name="do-not-pass-hanging-signal-for-door" />
-![](./lodgicons/do-not-pass-signal-for-hang-on-doors.svg =30x30) | do-not-pass-signal-for-hang-on-doors | lodgicons | <Icon group="lodgicons" name="do-not-pass-signal-for-hang-on-doors" />
-![](./lodgicons/do-not-swim-sign.svg =30x30) | do-not-swim-sign | lodgicons | <Icon group="lodgicons" name="do-not-swim-sign" />
-![](./lodgicons/dog-shape-outline-in-a-square.svg =30x30) | dog-shape-outline-in-a-square | lodgicons | <Icon group="lodgicons" name="dog-shape-outline-in-a-square" />
-![](./lodgicons/dont-smoke-signal-of-prohibition.svg =30x30) | dont-smoke-signal-of-prohibition | lodgicons | <Icon group="lodgicons" name="dont-smoke-signal-of-prohibition" />
-![](./lodgicons/dont-smoke-symbol.svg =30x30) | dont-smoke-symbol | lodgicons | <Icon group="lodgicons" name="dont-smoke-symbol" />
-![](./lodgicons/down-stair-symbol.svg =30x30) | down-stair-symbol | lodgicons | <Icon group="lodgicons" name="down-stair-symbol" />
-![](./lodgicons/drink-glass.svg =30x30) | drink-glass | lodgicons | <Icon group="lodgicons" name="drink-glass" />
-![](./lodgicons/drying-machine-outline.svg =30x30) | drying-machine-outline | lodgicons | <Icon group="lodgicons" name="drying-machine-outline" />
-![](./lodgicons/dumbbell-outline.svg =30x30) | dumbbell-outline | lodgicons | <Icon group="lodgicons" name="dumbbell-outline" />
-![](./lodgicons/dvd-player-outline.svg =30x30) | dvd-player-outline | lodgicons | <Icon group="lodgicons" name="dvd-player-outline" />
-![](./lodgicons/dvd-sign.svg =30x30) | dvd-sign | lodgicons | <Icon group="lodgicons" name="dvd-sign" />
-![](./lodgicons/dvd.svg =30x30) | dvd | lodgicons | <Icon group="lodgicons" name="dvd" />
-![](./lodgicons/eight-persons-or-person-number-8-symbol.svg =30x30) | eight-persons-or-person-number-8-symbol | lodgicons | <Icon group="lodgicons" name="eight-persons-or-person-number-8-symbol" />
-![](./lodgicons/eight-persons-or-person-number-8.svg =30x30) | eight-persons-or-person-number-8 | lodgicons | <Icon group="lodgicons" name="eight-persons-or-person-number-8" />
-![](./lodgicons/eight-persons-symbol.svg =30x30) | eight-persons-symbol | lodgicons | <Icon group="lodgicons" name="eight-persons-symbol" />
-![](./lodgicons/eight-persons.svg =30x30) | eight-persons | lodgicons | <Icon group="lodgicons" name="eight-persons" />
-![](./lodgicons/elevator-buttons.svg =30x30) | elevator-buttons | lodgicons | <Icon group="lodgicons" name="elevator-buttons" />
-![](./lodgicons/elevator-for-people.svg =30x30) | elevator-for-people | lodgicons | <Icon group="lodgicons" name="elevator-for-people" />
-![](./lodgicons/elevator-symbol.svg =30x30) | elevator-symbol | lodgicons | <Icon group="lodgicons" name="elevator-symbol" />
-![](./lodgicons/elevator-with-one-person-inside-and-up-and-down-arrows-at-sides.svg =30x30) | elevator-with-one-person-inside-and-up-and-down-arrows-at-sides | lodgicons | <Icon group="lodgicons" name="elevator-with-one-person-inside-and-up-and-down-arrows-at-sides" />
-![](./lodgicons/english-receptionist.svg =30x30) | english-receptionist | lodgicons | <Icon group="lodgicons" name="english-receptionist" />
-![](./lodgicons/entertainment-area-symbol-with-abc-cubes-and-house-outline.svg =30x30) | entertainment-area-symbol-with-abc-cubes-and-house-outline | lodgicons | <Icon group="lodgicons" name="entertainment-area-symbol-with-abc-cubes-and-house-outline" />
-![](./lodgicons/euro-bills.svg =30x30) | euro-bills | lodgicons | <Icon group="lodgicons" name="euro-bills" />
-![](./lodgicons/exit-door-symbol.svg =30x30) | exit-door-symbol | lodgicons | <Icon group="lodgicons" name="exit-door-symbol" />
-![](./lodgicons/exit-signal.svg =30x30) | exit-signal | lodgicons | <Icon group="lodgicons" name="exit-signal" />
-![](./lodgicons/extinguisher-outline.svg =30x30) | extinguisher-outline | lodgicons | <Icon group="lodgicons" name="extinguisher-outline" />
-![](./lodgicons/fan-black-silhouette.svg =30x30) | fan-black-silhouette | lodgicons | <Icon group="lodgicons" name="fan-black-silhouette" />
-![](./lodgicons/fan-of-square-shape-outline.svg =30x30) | fan-of-square-shape-outline | lodgicons | <Icon group="lodgicons" name="fan-of-square-shape-outline" />
-![](./lodgicons/fan-tool.svg =30x30) | fan-tool | lodgicons | <Icon group="lodgicons" name="fan-tool" />
-![](./lodgicons/fast-food-placeholder.svg =30x30) | fast-food-placeholder | lodgicons | <Icon group="lodgicons" name="fast-food-placeholder" />
-![](./lodgicons/fax-top-view.svg =30x30) | fax-top-view | lodgicons | <Icon group="lodgicons" name="fax-top-view" />
-![](./lodgicons/firewood-sale-symbol.svg =30x30) | firewood-sale-symbol | lodgicons | <Icon group="lodgicons" name="firewood-sale-symbol" />
-![](./lodgicons/firewood-signal.svg =30x30) | firewood-signal | lodgicons | <Icon group="lodgicons" name="firewood-signal" />
-![](./lodgicons/first-aid-case.svg =30x30) | first-aid-case | lodgicons | <Icon group="lodgicons" name="first-aid-case" />
-![](./lodgicons/first-aid-kit.svg =30x30) | first-aid-kit | lodgicons | <Icon group="lodgicons" name="first-aid-kit" />
-![](./lodgicons/five-persons-or-person-number-five.svg =30x30) | five-persons-or-person-number-five | lodgicons | <Icon group="lodgicons" name="five-persons-or-person-number-five" />
-![](./lodgicons/five-persons-silhouettes.svg =30x30) | five-persons-silhouettes | lodgicons | <Icon group="lodgicons" name="five-persons-silhouettes" />
-![](./lodgicons/five-persons-symbol-1.svg =30x30) | five-persons-symbol-1 | lodgicons | <Icon group="lodgicons" name="five-persons-symbol-1" />
-![](./lodgicons/five-persons-symbol.svg =30x30) | five-persons-symbol | lodgicons | <Icon group="lodgicons" name="five-persons-symbol" />
-![](./lodgicons/five-stars-hotel-signal-1.svg =30x30) | five-stars-hotel-signal-1 | lodgicons | <Icon group="lodgicons" name="five-stars-hotel-signal-1" />
-![](./lodgicons/five-stars-hotel-signal.svg =30x30) | five-stars-hotel-signal | lodgicons | <Icon group="lodgicons" name="five-stars-hotel-signal" />
-![](./lodgicons/five-stars-quality-symbol.svg =30x30) | five-stars-quality-symbol | lodgicons | <Icon group="lodgicons" name="five-stars-quality-symbol" />
-![](./lodgicons/flowers-shop.svg =30x30) | flowers-shop | lodgicons | <Icon group="lodgicons" name="flowers-shop" />
-![](./lodgicons/food-covered-by-a-bell-shape-outline.svg =30x30) | food-covered-by-a-bell-shape-outline | lodgicons | <Icon group="lodgicons" name="food-covered-by-a-bell-shape-outline" />
-![](./lodgicons/food-covered.svg =30x30) | food-covered | lodgicons | <Icon group="lodgicons" name="food-covered" />
-![](./lodgicons/food-in-bedroom.svg =30x30) | food-in-bedroom | lodgicons | <Icon group="lodgicons" name="food-in-bedroom" />
-![](./lodgicons/food-service-to-bedroom.svg =30x30) | food-service-to-bedroom | lodgicons | <Icon group="lodgicons" name="food-service-to-bedroom" />
-![](./lodgicons/four-persons-or-person-number-4-symbol.svg =30x30) | four-persons-or-person-number-4-symbol | lodgicons | <Icon group="lodgicons" name="four-persons-or-person-number-4-symbol" />
-![](./lodgicons/four-persons-sign.svg =30x30) | four-persons-sign | lodgicons | <Icon group="lodgicons" name="four-persons-sign" />
-![](./lodgicons/four-persons-symbol.svg =30x30) | four-persons-symbol | lodgicons | <Icon group="lodgicons" name="four-persons-symbol" />
-![](./lodgicons/four-persons.svg =30x30) | four-persons | lodgicons | <Icon group="lodgicons" name="four-persons" />
-![](./lodgicons/four-stars.svg =30x30) | four-stars | lodgicons | <Icon group="lodgicons" name="four-stars" />
-![](./lodgicons/free-wifi-signal.svg =30x30) | free-wifi-signal | lodgicons | <Icon group="lodgicons" name="free-wifi-signal" />
-![](./lodgicons/french-receptionist.svg =30x30) | french-receptionist | lodgicons | <Icon group="lodgicons" name="french-receptionist" />
-![](./lodgicons/gambling-coins-machine-with-winner-result-of-three-seven.svg =30x30) | gambling-coins-machine-with-winner-result-of-three-seven | lodgicons | <Icon group="lodgicons" name="gambling-coins-machine-with-winner-result-of-three-seven" />
-![](./lodgicons/garage-with-roof-and-parked-car.svg =30x30) | garage-with-roof-and-parked-car | lodgicons | <Icon group="lodgicons" name="garage-with-roof-and-parked-car" />
-![](./lodgicons/garage.svg =30x30) | garage | lodgicons | <Icon group="lodgicons" name="garage" />
-![](./lodgicons/gas-cylinder-outline.svg =30x30) | gas-cylinder-outline | lodgicons | <Icon group="lodgicons" name="gas-cylinder-outline" />
-![](./lodgicons/gift-box-outline.svg =30x30) | gift-box-outline | lodgicons | <Icon group="lodgicons" name="gift-box-outline" />
-![](./lodgicons/glass-with-water.svg =30x30) | glass-with-water | lodgicons | <Icon group="lodgicons" name="glass-with-water" />
-![](./lodgicons/golf-ball-and-tee.svg =30x30) | golf-ball-and-tee | lodgicons | <Icon group="lodgicons" name="golf-ball-and-tee" />
-![](./lodgicons/golf-elements.svg =30x30) | golf-elements | lodgicons | <Icon group="lodgicons" name="golf-elements" />
-![](./lodgicons/golf-hole-with-a-flag.svg =30x30) | golf-hole-with-a-flag | lodgicons | <Icon group="lodgicons" name="golf-hole-with-a-flag" />
-![](./lodgicons/golf-putter-ball-and-tee.svg =30x30) | golf-putter-ball-and-tee | lodgicons | <Icon group="lodgicons" name="golf-putter-ball-and-tee" />
-![](./lodgicons/gym-dumbbell-black-silhouette.svg =30x30) | gym-dumbbell-black-silhouette | lodgicons | <Icon group="lodgicons" name="gym-dumbbell-black-silhouette" />
-![](./lodgicons/hair-cutting.svg =30x30) | hair-cutting | lodgicons | <Icon group="lodgicons" name="hair-cutting" />
-![](./lodgicons/hairdryer-outline.svg =30x30) | hairdryer-outline | lodgicons | <Icon group="lodgicons" name="hairdryer-outline" />
-![](./lodgicons/hairdryer.svg =30x30) | hairdryer | lodgicons | <Icon group="lodgicons" name="hairdryer" />
-![](./lodgicons/half-star-shape.svg =30x30) | half-star-shape | lodgicons | <Icon group="lodgicons" name="half-star-shape" />
-![](./lodgicons/hammock-with-a-person-lying-and-resting-on-it.svg =30x30) | hammock-with-a-person-lying-and-resting-on-it | lodgicons | <Icon group="lodgicons" name="hammock-with-a-person-lying-and-resting-on-it" />
-![](./lodgicons/hand-with-a-dumbbell.svg =30x30) | hand-with-a-dumbbell | lodgicons | <Icon group="lodgicons" name="hand-with-a-dumbbell" />
-![](./lodgicons/hanger-line-tool.svg =30x30) | hanger-line-tool | lodgicons | <Icon group="lodgicons" name="hanger-line-tool" />
-![](./lodgicons/hdmi-cable.svg =30x30) | hdmi-cable | lodgicons | <Icon group="lodgicons" name="hdmi-cable" />
-![](./lodgicons/hdmi-high-definition-multimedia-interface.svg =30x30) | hdmi-high-definition-multimedia-interface | lodgicons | <Icon group="lodgicons" name="hdmi-high-definition-multimedia-interface" />
-![](./lodgicons/headphones.svg =30x30) | headphones | lodgicons | <Icon group="lodgicons" name="headphones" />
-![](./lodgicons/hearts-outlines-of-gross-lines.svg =30x30) | hearts-outlines-of-gross-lines | lodgicons | <Icon group="lodgicons" name="hearts-outlines-of-gross-lines" />
-![](./lodgicons/heating-black-tool.svg =30x30) | heating-black-tool | lodgicons | <Icon group="lodgicons" name="heating-black-tool" />
-![](./lodgicons/heating-device-for-winter.svg =30x30) | heating-device-for-winter | lodgicons | <Icon group="lodgicons" name="heating-device-for-winter" />
-![](./lodgicons/heating-device-in-a-bedroom.svg =30x30) | heating-device-in-a-bedroom | lodgicons | <Icon group="lodgicons" name="heating-device-in-a-bedroom" />
-![](./lodgicons/heating.svg =30x30) | heating | lodgicons | <Icon group="lodgicons" name="heating" />
-![](./lodgicons/hot-cakes.svg =30x30) | hot-cakes | lodgicons | <Icon group="lodgicons" name="hot-cakes" />
-![](./lodgicons/hot-coffee-mug-outline.svg =30x30) | hot-coffee-mug-outline | lodgicons | <Icon group="lodgicons" name="hot-coffee-mug-outline" />
-![](./lodgicons/hot-towels.svg =30x30) | hot-towels | lodgicons | <Icon group="lodgicons" name="hot-towels" />
-![](./lodgicons/hotel-1-star-signal.svg =30x30) | hotel-1-star-signal | lodgicons | <Icon group="lodgicons" name="hotel-1-star-signal" />
-![](./lodgicons/hotel-2-stars-signal.svg =30x30) | hotel-2-stars-signal | lodgicons | <Icon group="lodgicons" name="hotel-2-stars-signal" />
-![](./lodgicons/hotel-building.svg =30x30) | hotel-building | lodgicons | <Icon group="lodgicons" name="hotel-building" />
-![](./lodgicons/hotel-check-symbol.svg =30x30) | hotel-check-symbol | lodgicons | <Icon group="lodgicons" name="hotel-check-symbol" />
-![](./lodgicons/hotel-key-outline-in-horizontal-position.svg =30x30) | hotel-key-outline-in-horizontal-position | lodgicons | <Icon group="lodgicons" name="hotel-key-outline-in-horizontal-position" />
-![](./lodgicons/hotel-of-three-stars-signal.svg =30x30) | hotel-of-three-stars-signal | lodgicons | <Icon group="lodgicons" name="hotel-of-three-stars-signal" />
-![](./lodgicons/hotel-of-two-stars-quality.svg =30x30) | hotel-of-two-stars-quality | lodgicons | <Icon group="lodgicons" name="hotel-of-two-stars-quality" />
-![](./lodgicons/hotel-reception-bell.svg =30x30) | hotel-reception-bell | lodgicons | <Icon group="lodgicons" name="hotel-reception-bell" />
-![](./lodgicons/hotel-reception-outline.svg =30x30) | hotel-reception-outline | lodgicons | <Icon group="lodgicons" name="hotel-reception-outline" />
-![](./lodgicons/hotel-search-interface-symbol.svg =30x30) | hotel-search-interface-symbol | lodgicons | <Icon group="lodgicons" name="hotel-search-interface-symbol" />
-![](./lodgicons/hotel-sign.svg =30x30) | hotel-sign | lodgicons | <Icon group="lodgicons" name="hotel-sign" />
-![](./lodgicons/ice-cubes-in-a-square.svg =30x30) | ice-cubes-in-a-square | lodgicons | <Icon group="lodgicons" name="ice-cubes-in-a-square" />
-![](./lodgicons/indoor-temperature.svg =30x30) | indoor-temperature | lodgicons | <Icon group="lodgicons" name="indoor-temperature" />
-![](./lodgicons/info-sign.svg =30x30) | info-sign | lodgicons | <Icon group="lodgicons" name="info-sign" />
-![](./lodgicons/information-letter-sign-outline.svg =30x30) | information-letter-sign-outline | lodgicons | <Icon group="lodgicons" name="information-letter-sign-outline" />
-![](./lodgicons/information-marker.svg =30x30) | information-marker | lodgicons | <Icon group="lodgicons" name="information-marker" />
-![](./lodgicons/informative-map.svg =30x30) | informative-map | lodgicons | <Icon group="lodgicons" name="informative-map" />
-![](./lodgicons/international-reception-worker.svg =30x30) | international-reception-worker | lodgicons | <Icon group="lodgicons" name="international-reception-worker" />
-![](./lodgicons/international-telephone-symbol-outline.svg =30x30) | international-telephone-symbol-outline | lodgicons | <Icon group="lodgicons" name="international-telephone-symbol-outline" />
-![](./lodgicons/iron-outline-side-view.svg =30x30) | iron-outline-side-view | lodgicons | <Icon group="lodgicons" name="iron-outline-side-view" />
-![](./lodgicons/iron-table-outline-from-side-view.svg =30x30) | iron-table-outline-from-side-view | lodgicons | <Icon group="lodgicons" name="iron-table-outline-from-side-view" />
-![](./lodgicons/italian-receptionist-saying-ciao.svg =30x30) | italian-receptionist-saying-ciao | lodgicons | <Icon group="lodgicons" name="italian-receptionist-saying-ciao" />
-![](./lodgicons/jacuzzi.svg =30x30) | jacuzzi | lodgicons | <Icon group="lodgicons" name="jacuzzi" />
-![](./lodgicons/key-with-label.svg =30x30) | key-with-label | lodgicons | <Icon group="lodgicons" name="key-with-label" />
-![](./lodgicons/laptop-with-arroba-sign-on-screen.svg =30x30) | laptop-with-arroba-sign-on-screen | lodgicons | <Icon group="lodgicons" name="laptop-with-arroba-sign-on-screen" />
-![](./lodgicons/left-and-right-arrows-on-a-thin-column.svg =30x30) | left-and-right-arrows-on-a-thin-column | lodgicons | <Icon group="lodgicons" name="left-and-right-arrows-on-a-thin-column" />
-![](./lodgicons/letter-h-hotel-outline-with-five-stars.svg =30x30) | letter-h-hotel-outline-with-five-stars | lodgicons | <Icon group="lodgicons" name="letter-h-hotel-outline-with-five-stars" />
-![](./lodgicons/library-placeholder.svg =30x30) | library-placeholder | lodgicons | <Icon group="lodgicons" name="library-placeholder" />
-![](./lodgicons/library-symbol-outline.svg =30x30) | library-symbol-outline | lodgicons | <Icon group="lodgicons" name="library-symbol-outline" />
-![](./lodgicons/lobby-sign.svg =30x30) | lobby-sign | lodgicons | <Icon group="lodgicons" name="lobby-sign" />
-![](./lodgicons/love-symbol-of-a-heart-outline-in-a-square.svg =30x30) | love-symbol-of-a-heart-outline-in-a-square | lodgicons | <Icon group="lodgicons" name="love-symbol-of-a-heart-outline-in-a-square" />
-![](./lodgicons/map-location.svg =30x30) | map-location | lodgicons | <Icon group="lodgicons" name="map-location" />
-![](./lodgicons/margarita-glass-drink.svg =30x30) | margarita-glass-drink | lodgicons | <Icon group="lodgicons" name="margarita-glass-drink" />
-![](./lodgicons/massage-session.svg =30x30) | massage-session | lodgicons | <Icon group="lodgicons" name="massage-session" />
-![](./lodgicons/mastercard.svg =30x30) | mastercard | lodgicons | <Icon group="lodgicons" name="mastercard" />
-![](./lodgicons/microwaves.svg =30x30) | microwaves | lodgicons | <Icon group="lodgicons" name="microwaves" />
-![](./lodgicons/minibar.svg =30x30) | minibar | lodgicons | <Icon group="lodgicons" name="minibar" />
-![](./lodgicons/minisplit.svg =30x30) | minisplit | lodgicons | <Icon group="lodgicons" name="minisplit" />
-![](./lodgicons/money-bills.svg =30x30) | money-bills | lodgicons | <Icon group="lodgicons" name="money-bills" />
-![](./lodgicons/monitor-screen-with-keyhole-shape.svg =30x30) | monitor-screen-with-keyhole-shape | lodgicons | <Icon group="lodgicons" name="monitor-screen-with-keyhole-shape" />
-![](./lodgicons/musical-note-outline-symbol-inside-two-squares.svg =30x30) | musical-note-outline-symbol-inside-two-squares | lodgicons | <Icon group="lodgicons" name="musical-note-outline-symbol-inside-two-squares" />
-![](./lodgicons/nine-persons-symbol-1.svg =30x30) | nine-persons-symbol-1 | lodgicons | <Icon group="lodgicons" name="nine-persons-symbol-1" />
-![](./lodgicons/nine-persons-symbol.svg =30x30) | nine-persons-symbol | lodgicons | <Icon group="lodgicons" name="nine-persons-symbol" />
-![](./lodgicons/nine-persons.svg =30x30) | nine-persons | lodgicons | <Icon group="lodgicons" name="nine-persons" />
-![](./lodgicons/no-animals-symbol.svg =30x30) | no-animals-symbol | lodgicons | <Icon group="lodgicons" name="no-animals-symbol" />
-![](./lodgicons/no-cats-accepted.svg =30x30) | no-cats-accepted | lodgicons | <Icon group="lodgicons" name="no-cats-accepted" />
-![](./lodgicons/no-food-allowed.svg =30x30) | no-food-allowed | lodgicons | <Icon group="lodgicons" name="no-food-allowed" />
-![](./lodgicons/no-pets-allowed-symbol.svg =30x30) | no-pets-allowed-symbol | lodgicons | <Icon group="lodgicons" name="no-pets-allowed-symbol" />
-![](./lodgicons/no-vacancy-signal.svg =30x30) | no-vacancy-signal | lodgicons | <Icon group="lodgicons" name="no-vacancy-signal" />
-![](./lodgicons/one-bed-for-two.svg =30x30) | one-bed-for-two | lodgicons | <Icon group="lodgicons" name="one-bed-for-two" />
-![](./lodgicons/one-star-hotel-sign.svg =30x30) | one-star-hotel-sign | lodgicons | <Icon group="lodgicons" name="one-star-hotel-sign" />
-![](./lodgicons/one-star-hotel-signal.svg =30x30) | one-star-hotel-signal | lodgicons | <Icon group="lodgicons" name="one-star-hotel-signal" />
-![](./lodgicons/one-star-symbol.svg =30x30) | one-star-symbol | lodgicons | <Icon group="lodgicons" name="one-star-symbol" />
-![](./lodgicons/online-location.svg =30x30) | online-location | lodgicons | <Icon group="lodgicons" name="online-location" />
-![](./lodgicons/open-garage-under-the-sun.svg =30x30) | open-garage-under-the-sun | lodgicons | <Icon group="lodgicons" name="open-garage-under-the-sun" />
-![](./lodgicons/outdoors-table-with-chairs-couple-and-umbrella.svg =30x30) | outdoors-table-with-chairs-couple-and-umbrella | lodgicons | <Icon group="lodgicons" name="outdoors-table-with-chairs-couple-and-umbrella" />
-![](./lodgicons/oven.svg =30x30) | oven | lodgicons | <Icon group="lodgicons" name="oven" />
-![](./lodgicons/padlock-symbol-of-security-24-hours-a-day.svg =30x30) | padlock-symbol-of-security-24-hours-a-day | lodgicons | <Icon group="lodgicons" name="padlock-symbol-of-security-24-hours-a-day" />
-![](./lodgicons/parking-for-disabled-persons-sign.svg =30x30) | parking-for-disabled-persons-sign | lodgicons | <Icon group="lodgicons" name="parking-for-disabled-persons-sign" />
-![](./lodgicons/parking-garage-sign-in-rounded-square.svg =30x30) | parking-garage-sign-in-rounded-square | lodgicons | <Icon group="lodgicons" name="parking-garage-sign-in-rounded-square" />
-![](./lodgicons/parking-meter.svg =30x30) | parking-meter | lodgicons | <Icon group="lodgicons" name="parking-meter" />
-![](./lodgicons/parking-sign.svg =30x30) | parking-sign | lodgicons | <Icon group="lodgicons" name="parking-sign" />
-![](./lodgicons/parking-square-signal.svg =30x30) | parking-square-signal | lodgicons | <Icon group="lodgicons" name="parking-square-signal" />
-![](./lodgicons/parking-ticket.svg =30x30) | parking-ticket | lodgicons | <Icon group="lodgicons" name="parking-ticket" />
-![](./lodgicons/parking.svg =30x30) | parking | lodgicons | <Icon group="lodgicons" name="parking" />
-![](./lodgicons/pc-computer-and-monitor-outlines.svg =30x30) | pc-computer-and-monitor-outlines | lodgicons | <Icon group="lodgicons" name="pc-computer-and-monitor-outlines" />
-![](./lodgicons/persian-blinds-outline.svg =30x30) | persian-blinds-outline | lodgicons | <Icon group="lodgicons" name="persian-blinds-outline" />
-![](./lodgicons/person-ascending-on-electric-stairs.svg =30x30) | person-ascending-on-electric-stairs | lodgicons | <Icon group="lodgicons" name="person-ascending-on-electric-stairs" />
-![](./lodgicons/person-enjoying-jacuzzi-hot-water-bath.svg =30x30) | person-enjoying-jacuzzi-hot-water-bath | lodgicons | <Icon group="lodgicons" name="person-enjoying-jacuzzi-hot-water-bath" />
-![](./lodgicons/person-in-sauna-treatment.svg =30x30) | person-in-sauna-treatment | lodgicons | <Icon group="lodgicons" name="person-in-sauna-treatment" />
-![](./lodgicons/person-in-spa.svg =30x30) | person-in-spa | lodgicons | <Icon group="lodgicons" name="person-in-spa" />
-![](./lodgicons/person-lying-in-an-artificial-solar-tan-bed-for-indoor-bronze-skin-tone.svg =30x30) | person-lying-in-an-artificial-solar-tan-bed-for-indoor-bronze-skin-tone | lodgicons | <Icon group="lodgicons" name="person-lying-in-an-artificial-solar-tan-bed-for-indoor-bronze-skin-tone" />
-![](./lodgicons/person-lying-on-a-beach-under-an-umbrella.svg =30x30) | person-lying-on-a-beach-under-an-umbrella | lodgicons | <Icon group="lodgicons" name="person-lying-on-a-beach-under-an-umbrella" />
-![](./lodgicons/person-number-7-or-seven-persons.svg =30x30) | person-number-7-or-seven-persons | lodgicons | <Icon group="lodgicons" name="person-number-7-or-seven-persons" />
-![](./lodgicons/person-riding-on-a-bicycle-side-view-silhouette.svg =30x30) | person-riding-on-a-bicycle-side-view-silhouette | lodgicons | <Icon group="lodgicons" name="person-riding-on-a-bicycle-side-view-silhouette" />
-![](./lodgicons/person-rowing-on-a-kayak.svg =30x30) | person-rowing-on-a-kayak | lodgicons | <Icon group="lodgicons" name="person-rowing-on-a-kayak" />
-![](./lodgicons/person-running-on-a-treadmill-silhouette-from-side-view.svg =30x30) | person-running-on-a-treadmill-silhouette-from-side-view | lodgicons | <Icon group="lodgicons" name="person-running-on-a-treadmill-silhouette-from-side-view" />
-![](./lodgicons/person-silhouette-in-sauna.svg =30x30) | person-silhouette-in-sauna | lodgicons | <Icon group="lodgicons" name="person-silhouette-in-sauna" />
-![](./lodgicons/person-sweating-in-a-sauna.svg =30x30) | person-sweating-in-a-sauna | lodgicons | <Icon group="lodgicons" name="person-sweating-in-a-sauna" />
-![](./lodgicons/personal-elevator-signal.svg =30x30) | personal-elevator-signal | lodgicons | <Icon group="lodgicons" name="personal-elevator-signal" />
-![](./lodgicons/persons-in-group-of-four.svg =30x30) | persons-in-group-of-four | lodgicons | <Icon group="lodgicons" name="persons-in-group-of-four" />
-![](./lodgicons/persons-nine-silhouettes.svg =30x30) | persons-nine-silhouettes | lodgicons | <Icon group="lodgicons" name="persons-nine-silhouettes" />
-![](./lodgicons/persons-number-symbol.svg =30x30) | persons-number-symbol | lodgicons | <Icon group="lodgicons" name="persons-number-symbol" />
-![](./lodgicons/pets-circular-sign.svg =30x30) | pets-circular-sign | lodgicons | <Icon group="lodgicons" name="pets-circular-sign" />
-![](./lodgicons/photo-camera-frontal-outline.svg =30x30) | photo-camera-frontal-outline | lodgicons | <Icon group="lodgicons" name="photo-camera-frontal-outline" />
-![](./lodgicons/plate-fork-and-knife.svg =30x30) | plate-fork-and-knife | lodgicons | <Icon group="lodgicons" name="plate-fork-and-knife" />
-![](./lodgicons/poker-cards.svg =30x30) | poker-cards | lodgicons | <Icon group="lodgicons" name="poker-cards" />
-![](./lodgicons/poker-playing-cards.svg =30x30) | poker-playing-cards | lodgicons | <Icon group="lodgicons" name="poker-playing-cards" />
-![](./lodgicons/pool-eight-ball-and-stick.svg =30x30) | pool-eight-ball-and-stick | lodgicons | <Icon group="lodgicons" name="pool-eight-ball-and-stick" />
-![](./lodgicons/pool-rectangular-hanging-sign.svg =30x30) | pool-rectangular-hanging-sign | lodgicons | <Icon group="lodgicons" name="pool-rectangular-hanging-sign" />
-![](./lodgicons/pool-table-top-view.svg =30x30) | pool-table-top-view | lodgicons | <Icon group="lodgicons" name="pool-table-top-view" />
-![](./lodgicons/port-map-marker-point.svg =30x30) | port-map-marker-point | lodgicons | <Icon group="lodgicons" name="port-map-marker-point" />
-![](./lodgicons/postcard-back-side.svg =30x30) | postcard-back-side | lodgicons | <Icon group="lodgicons" name="postcard-back-side" />
-![](./lodgicons/pound-bills.svg =30x30) | pound-bills | lodgicons | <Icon group="lodgicons" name="pound-bills" />
-![](./lodgicons/private-baggage-box-with-key.svg =30x30) | private-baggage-box-with-key | lodgicons | <Icon group="lodgicons" name="private-baggage-box-with-key" />
-![](./lodgicons/private-swimming-pool-sign.svg =30x30) | private-swimming-pool-sign | lodgicons | <Icon group="lodgicons" name="private-swimming-pool-sign" />
-![](./lodgicons/prohibition-of-wood-cutting-sign.svg =30x30) | prohibition-of-wood-cutting-sign | lodgicons | <Icon group="lodgicons" name="prohibition-of-wood-cutting-sign" />
-![](./lodgicons/public-elevator-sign.svg =30x30) | public-elevator-sign | lodgicons | <Icon group="lodgicons" name="public-elevator-sign" />
-![](./lodgicons/public-swimming-pool-sign.svg =30x30) | public-swimming-pool-sign | lodgicons | <Icon group="lodgicons" name="public-swimming-pool-sign" />
-![](./lodgicons/queen-size-bed.svg =30x30) | queen-size-bed | lodgicons | <Icon group="lodgicons" name="queen-size-bed" />
-![](./lodgicons/question-mark-inside-a-box-outline.svg =30x30) | question-mark-inside-a-box-outline | lodgicons | <Icon group="lodgicons" name="question-mark-inside-a-box-outline" />
-![](./lodgicons/rack-of-tall-thin-shape-for-hanging-clothes.svg =30x30) | rack-of-tall-thin-shape-for-hanging-clothes | lodgicons | <Icon group="lodgicons" name="rack-of-tall-thin-shape-for-hanging-clothes" />
-![](./lodgicons/radio-of-rectangular-rounded-simple-design.svg =30x30) | radio-of-rectangular-rounded-simple-design | lodgicons | <Icon group="lodgicons" name="radio-of-rectangular-rounded-simple-design" />
-![](./lodgicons/radio-outline.svg =30x30) | radio-outline | lodgicons | <Icon group="lodgicons" name="radio-outline" />
-![](./lodgicons/radio.svg =30x30) | radio | lodgicons | <Icon group="lodgicons" name="radio" />
-![](./lodgicons/registered-sign.svg =30x30) | registered-sign | lodgicons | <Icon group="lodgicons" name="registered-sign" />
-![](./lodgicons/restaurant-locator-for-map.svg =30x30) | restaurant-locator-for-map | lodgicons | <Icon group="lodgicons" name="restaurant-locator-for-map" />
-![](./lodgicons/restaurant-symbol-of-utensils.svg =30x30) | restaurant-symbol-of-utensils | lodgicons | <Icon group="lodgicons" name="restaurant-symbol-of-utensils" />
-![](./lodgicons/room-service-signal-for-hotel-doors.svg =30x30) | room-service-signal-for-hotel-doors | lodgicons | <Icon group="lodgicons" name="room-service-signal-for-hotel-doors" />
-![](./lodgicons/room-service-time.svg =30x30) | room-service-time | lodgicons | <Icon group="lodgicons" name="room-service-time" />
-![](./lodgicons/room-service.svg =30x30) | room-service | lodgicons | <Icon group="lodgicons" name="room-service" />
-![](./lodgicons/roulette.svg =30x30) | roulette | lodgicons | <Icon group="lodgicons" name="roulette" />
-![](./lodgicons/roundabout.svg =30x30) | roundabout | lodgicons | <Icon group="lodgicons" name="roundabout" />
-![](./lodgicons/rss-symbol-on-tablet-screen.svg =30x30) | rss-symbol-on-tablet-screen | lodgicons | <Icon group="lodgicons" name="rss-symbol-on-tablet-screen" />
-![](./lodgicons/safe-box-variant-outline.svg =30x30) | safe-box-variant-outline | lodgicons | <Icon group="lodgicons" name="safe-box-variant-outline" />
-![](./lodgicons/safe-box-with-wheel-system.svg =30x30) | safe-box-with-wheel-system | lodgicons | <Icon group="lodgicons" name="safe-box-with-wheel-system" />
-![](./lodgicons/sandals-pair-outline.svg =30x30) | sandals-pair-outline | lodgicons | <Icon group="lodgicons" name="sandals-pair-outline" />
-![](./lodgicons/satellite-tv-monitor-symbol.svg =30x30) | satellite-tv-monitor-symbol | lodgicons | <Icon group="lodgicons" name="satellite-tv-monitor-symbol" />
-![](./lodgicons/search-for-transport-interface-symbol.svg =30x30) | search-for-transport-interface-symbol | lodgicons | <Icon group="lodgicons" name="search-for-transport-interface-symbol" />
-![](./lodgicons/security-box-closed-outline.svg =30x30) | security-box-closed-outline | lodgicons | <Icon group="lodgicons" name="security-box-closed-outline" />
-![](./lodgicons/security-box.svg =30x30) | security-box | lodgicons | <Icon group="lodgicons" name="security-box" />
-![](./lodgicons/seven-persons-or-person-number-7-symbol-outline.svg =30x30) | seven-persons-or-person-number-7-symbol-outline | lodgicons | <Icon group="lodgicons" name="seven-persons-or-person-number-7-symbol-outline" />
-![](./lodgicons/seven-persons-symbol.svg =30x30) | seven-persons-symbol | lodgicons | <Icon group="lodgicons" name="seven-persons-symbol" />
-![](./lodgicons/shopping-bag-outline.svg =30x30) | shopping-bag-outline | lodgicons | <Icon group="lodgicons" name="shopping-bag-outline" />
-![](./lodgicons/shopping-cart-in-a-circle.svg =30x30) | shopping-cart-in-a-circle | lodgicons | <Icon group="lodgicons" name="shopping-cart-in-a-circle" />
-![](./lodgicons/shopping-zone-marker.svg =30x30) | shopping-zone-marker | lodgicons | <Icon group="lodgicons" name="shopping-zone-marker" />
-![](./lodgicons/shower.svg =30x30) | shower | lodgicons | <Icon group="lodgicons" name="shower" />
-![](./lodgicons/single-bed-outline.svg =30x30) | single-bed-outline | lodgicons | <Icon group="lodgicons" name="single-bed-outline" />
-![](./lodgicons/single-bed.svg =30x30) | single-bed | lodgicons | <Icon group="lodgicons" name="single-bed" />
-![](./lodgicons/six-persons-1.svg =30x30) | six-persons-1 | lodgicons | <Icon group="lodgicons" name="six-persons-1" />
-![](./lodgicons/six-persons-2.svg =30x30) | six-persons-2 | lodgicons | <Icon group="lodgicons" name="six-persons-2" />
-![](./lodgicons/six-persons-or-person-number-6-symbol.svg =30x30) | six-persons-or-person-number-6-symbol | lodgicons | <Icon group="lodgicons" name="six-persons-or-person-number-6-symbol" />
-![](./lodgicons/six-persons-sign.svg =30x30) | six-persons-sign | lodgicons | <Icon group="lodgicons" name="six-persons-sign" />
-![](./lodgicons/six-persons.svg =30x30) | six-persons | lodgicons | <Icon group="lodgicons" name="six-persons" />
-![](./lodgicons/slide-to-swimming-pool-water.svg =30x30) | slide-to-swimming-pool-water | lodgicons | <Icon group="lodgicons" name="slide-to-swimming-pool-water" />
-![](./lodgicons/smoking-not-allowed-symbol.svg =30x30) | smoking-not-allowed-symbol | lodgicons | <Icon group="lodgicons" name="smoking-not-allowed-symbol" />
-![](./lodgicons/smoking-prohibition-circular-signal.svg =30x30) | smoking-prohibition-circular-signal | lodgicons | <Icon group="lodgicons" name="smoking-prohibition-circular-signal" />
-![](./lodgicons/snow-weather-symbol.svg =30x30) | snow-weather-symbol | lodgicons | <Icon group="lodgicons" name="snow-weather-symbol" />
-![](./lodgicons/snowflake-weather-symbol.svg =30x30) | snowflake-weather-symbol | lodgicons | <Icon group="lodgicons" name="snowflake-weather-symbol" />
-![](./lodgicons/soccer-ball-outline.svg =30x30) | soccer-ball-outline | lodgicons | <Icon group="lodgicons" name="soccer-ball-outline" />
-![](./lodgicons/sofa-of-one-place-outline.svg =30x30) | sofa-of-one-place-outline | lodgicons | <Icon group="lodgicons" name="sofa-of-one-place-outline" />
-![](./lodgicons/sofa-of-three-places-outline.svg =30x30) | sofa-of-three-places-outline | lodgicons | <Icon group="lodgicons" name="sofa-of-three-places-outline" />
-![](./lodgicons/spoon-fork-and-knive-silhouettes-restaurant-symbol.svg =30x30) | spoon-fork-and-knive-silhouettes-restaurant-symbol | lodgicons | <Icon group="lodgicons" name="spoon-fork-and-knive-silhouettes-restaurant-symbol" />
-![](./lodgicons/stair-of-a-swimming-pool.svg =30x30) | stair-of-a-swimming-pool | lodgicons | <Icon group="lodgicons" name="stair-of-a-swimming-pool" />
-![](./lodgicons/stairs-in-a-square-sign.svg =30x30) | stairs-in-a-square-sign | lodgicons | <Icon group="lodgicons" name="stairs-in-a-square-sign" />
-![](./lodgicons/star-for-number-one.svg =30x30) | star-for-number-one | lodgicons | <Icon group="lodgicons" name="star-for-number-one" />
-![](./lodgicons/star-number-3.svg =30x30) | star-number-3 | lodgicons | <Icon group="lodgicons" name="star-number-3" />
-![](./lodgicons/star-number-five.svg =30x30) | star-number-five | lodgicons | <Icon group="lodgicons" name="star-number-five" />
-![](./lodgicons/star-outline-in-a-circle-line.svg =30x30) | star-outline-in-a-circle-line | lodgicons | <Icon group="lodgicons" name="star-outline-in-a-circle-line" />
-![](./lodgicons/star-outline-of-five-points.svg =30x30) | star-outline-of-five-points | lodgicons | <Icon group="lodgicons" name="star-outline-of-five-points" />
-![](./lodgicons/star-with-number-4.svg =30x30) | star-with-number-4 | lodgicons | <Icon group="lodgicons" name="star-with-number-4" />
-![](./lodgicons/star-with-number-two.svg =30x30) | star-with-number-two | lodgicons | <Icon group="lodgicons" name="star-with-number-two" />
-![](./lodgicons/store-with-open-signal.svg =30x30) | store-with-open-signal | lodgicons | <Icon group="lodgicons" name="store-with-open-signal" />
-![](./lodgicons/sweet-bread-in-a-square.svg =30x30) | sweet-bread-in-a-square | lodgicons | <Icon group="lodgicons" name="sweet-bread-in-a-square" />
-![](./lodgicons/swimmer-in-water-waves-under-the-sun.svg =30x30) | swimmer-in-water-waves-under-the-sun | lodgicons | <Icon group="lodgicons" name="swimmer-in-water-waves-under-the-sun" />
-![](./lodgicons/swimmer-swimming-in-an-interior-covered-swimming-pool.svg =30x30) | swimmer-swimming-in-an-interior-covered-swimming-pool | lodgicons | <Icon group="lodgicons" name="swimmer-swimming-in-an-interior-covered-swimming-pool" />
-![](./lodgicons/swimming-pool-covered-with-roof.svg =30x30) | swimming-pool-covered-with-roof | lodgicons | <Icon group="lodgicons" name="swimming-pool-covered-with-roof" />
-![](./lodgicons/swimming-pool-location-marker-for-maps.svg =30x30) | swimming-pool-location-marker-for-maps | lodgicons | <Icon group="lodgicons" name="swimming-pool-location-marker-for-maps" />
-![](./lodgicons/swimming-pool-location-marker.svg =30x30) | swimming-pool-location-marker | lodgicons | <Icon group="lodgicons" name="swimming-pool-location-marker" />
-![](./lodgicons/swimming-pool-opened-under-sunlight.svg =30x30) | swimming-pool-opened-under-sunlight | lodgicons | <Icon group="lodgicons" name="swimming-pool-opened-under-sunlight" />
-![](./lodgicons/swimming-pool-roofless-under-the-sun.svg =30x30) | swimming-pool-roofless-under-the-sun | lodgicons | <Icon group="lodgicons" name="swimming-pool-roofless-under-the-sun" />
-![](./lodgicons/swimming-pool-signal.svg =30x30) | swimming-pool-signal | lodgicons | <Icon group="lodgicons" name="swimming-pool-signal" />
-![](./lodgicons/swimming-pool-water-waves-with-ladder.svg =30x30) | swimming-pool-water-waves-with-ladder | lodgicons | <Icon group="lodgicons" name="swimming-pool-water-waves-with-ladder" />
-![](./lodgicons/swimming-pool-zone-marker.svg =30x30) | swimming-pool-zone-marker | lodgicons | <Icon group="lodgicons" name="swimming-pool-zone-marker" />
-![](./lodgicons/taxi-cab.svg =30x30) | taxi-cab | lodgicons | <Icon group="lodgicons" name="taxi-cab" />
-![](./lodgicons/taxi-outline.svg =30x30) | taxi-outline | lodgicons | <Icon group="lodgicons" name="taxi-outline" />
-![](./lodgicons/telephone-24-hours-sign.svg =30x30) | telephone-24-hours-sign | lodgicons | <Icon group="lodgicons" name="telephone-24-hours-sign" />
-![](./lodgicons/telephone-auricular-outline.svg =30x30) | telephone-auricular-outline | lodgicons | <Icon group="lodgicons" name="telephone-auricular-outline" />
-![](./lodgicons/telephone-outline-from-top-view.svg =30x30) | telephone-outline-from-top-view | lodgicons | <Icon group="lodgicons" name="telephone-outline-from-top-view" />
-![](./lodgicons/tennis-ball-and-raquet.svg =30x30) | tennis-ball-and-raquet | lodgicons | <Icon group="lodgicons" name="tennis-ball-and-raquet" />
-![](./lodgicons/tennis-racket-and-ball.svg =30x30) | tennis-racket-and-ball | lodgicons | <Icon group="lodgicons" name="tennis-racket-and-ball" />
-![](./lodgicons/tennis-raquet-and-ball.svg =30x30) | tennis-raquet-and-ball | lodgicons | <Icon group="lodgicons" name="tennis-raquet-and-ball" />
-![](./lodgicons/three-persons-sign.svg =30x30) | three-persons-sign | lodgicons | <Icon group="lodgicons" name="three-persons-sign" />
-![](./lodgicons/three-persons-silhouettes.svg =30x30) | three-persons-silhouettes | lodgicons | <Icon group="lodgicons" name="three-persons-silhouettes" />
-![](./lodgicons/three-persons.svg =30x30) | three-persons | lodgicons | <Icon group="lodgicons" name="three-persons" />
-![](./lodgicons/three-stars-hotel-sign.svg =30x30) | three-stars-hotel-sign | lodgicons | <Icon group="lodgicons" name="three-stars-hotel-sign" />
-![](./lodgicons/toaster-outline-tool.svg =30x30) | toaster-outline-tool | lodgicons | <Icon group="lodgicons" name="toaster-outline-tool" />
-![](./lodgicons/toilet-black-silhouette.svg =30x30) | toilet-black-silhouette | lodgicons | <Icon group="lodgicons" name="toilet-black-silhouette" />
-![](./lodgicons/toilet-hanging-sign.svg =30x30) | toilet-hanging-sign | lodgicons | <Icon group="lodgicons" name="toilet-hanging-sign" />
-![](./lodgicons/toilet-outline-in-a-square.svg =30x30) | toilet-outline-in-a-square | lodgicons | <Icon group="lodgicons" name="toilet-outline-in-a-square" />
-![](./lodgicons/towels-sale-symbol-with-dollar-sign.svg =30x30) | towels-sale-symbol-with-dollar-sign | lodgicons | <Icon group="lodgicons" name="towels-sale-symbol-with-dollar-sign" />
-![](./lodgicons/towels-with-checked-symbol.svg =30x30) | towels-with-checked-symbol | lodgicons | <Icon group="lodgicons" name="towels-with-checked-symbol" />
-![](./lodgicons/traveler-and-hotel-bed-outline.svg =30x30) | traveler-and-hotel-bed-outline | lodgicons | <Icon group="lodgicons" name="traveler-and-hotel-bed-outline" />
-![](./lodgicons/tub.svg =30x30) | tub | lodgicons | <Icon group="lodgicons" name="tub" />
-![](./lodgicons/tv-monitor.svg =30x30) | tv-monitor | lodgicons | <Icon group="lodgicons" name="tv-monitor" />
-![](./lodgicons/two-persons-or-person-number-two.svg =30x30) | two-persons-or-person-number-two | lodgicons | <Icon group="lodgicons" name="two-persons-or-person-number-two" />
-![](./lodgicons/two-persons-signal.svg =30x30) | two-persons-signal | lodgicons | <Icon group="lodgicons" name="two-persons-signal" />
-![](./lodgicons/two-persons-silhouettes.svg =30x30) | two-persons-silhouettes | lodgicons | <Icon group="lodgicons" name="two-persons-silhouettes" />
-![](./lodgicons/two-persons-symbol-1.svg =30x30) | two-persons-symbol-1 | lodgicons | <Icon group="lodgicons" name="two-persons-symbol-1" />
-![](./lodgicons/two-persons-symbol.svg =30x30) | two-persons-symbol | lodgicons | <Icon group="lodgicons" name="two-persons-symbol" />
-![](./lodgicons/two-stars-sign.svg =30x30) | two-stars-sign | lodgicons | <Icon group="lodgicons" name="two-stars-sign" />
-![](./lodgicons/umbrella-opened-outline.svg =30x30) | umbrella-opened-outline | lodgicons | <Icon group="lodgicons" name="umbrella-opened-outline" />
-![](./lodgicons/up-stairs-square-signal.svg =30x30) | up-stairs-square-signal | lodgicons | <Icon group="lodgicons" name="up-stairs-square-signal" />
-![](./lodgicons/urban-rest-hotel-sign-with-minus-symbol.svg =30x30) | urban-rest-hotel-sign-with-minus-symbol | lodgicons | <Icon group="lodgicons" name="urban-rest-hotel-sign-with-minus-symbol" />
-![](./lodgicons/vacancy-sign.svg =30x30) | vacancy-sign | lodgicons | <Icon group="lodgicons" name="vacancy-sign" />
-![](./lodgicons/ventilation-of-bedroom.svg =30x30) | ventilation-of-bedroom | lodgicons | <Icon group="lodgicons" name="ventilation-of-bedroom" />
-![](./lodgicons/washing-machine.svg =30x30) | washing-machine | lodgicons | <Icon group="lodgicons" name="washing-machine" />
-![](./lodgicons/wifi-usb-device-outline.svg =30x30) | wifi-usb-device-outline | lodgicons | <Icon group="lodgicons" name="wifi-usb-device-outline" />
-![](./lodgicons/wifi-zone-marker.svg =30x30) | wifi-zone-marker | lodgicons | <Icon group="lodgicons" name="wifi-zone-marker" />
-![](./lodgicons/wifi-zone-rectangular-signal.svg =30x30) | wifi-zone-rectangular-signal | lodgicons | <Icon group="lodgicons" name="wifi-zone-rectangular-signal" />
-![](./lodgicons/wifi-zone-symbol.svg =30x30) | wifi-zone-symbol | lodgicons | <Icon group="lodgicons" name="wifi-zone-symbol" />
-![](./lodgicons/wine-locator.svg =30x30) | wine-locator | lodgicons | <Icon group="lodgicons" name="wine-locator" />
-![](./lodgicons/yen-bills.svg =30x30) | yen-bills | lodgicons | <Icon group="lodgicons" name="yen-bills" />
+![](./lodgicons/1-star.svg) | lodgicons | 1-star | `<Icon group="lodgicons" name="1-star" />`
+![](./lodgicons/2-stars-symbol.svg) | lodgicons | 2-stars-symbol | `<Icon group="lodgicons" name="2-stars-symbol" />`
+![](./lodgicons/24-hours-circular-sign.svg) | lodgicons | 24-hours-circular-sign | `<Icon group="lodgicons" name="24-hours-circular-sign" />`
+![](./lodgicons/24-hours-room-service.svg) | lodgicons | 24-hours-room-service | `<Icon group="lodgicons" name="24-hours-room-service" />`
+![](./lodgicons/24-hours-sign.svg) | lodgicons | 24-hours-sign | `<Icon group="lodgicons" name="24-hours-sign" />`
+![](./lodgicons/3-persons-or-person-number-three-symbol.svg) | lodgicons | 3-persons-or-person-number-three-symbol | `<Icon group="lodgicons" name="3-persons-or-person-number-three-symbol" />`
+![](./lodgicons/3-persons-sign.svg) | lodgicons | 3-persons-sign | `<Icon group="lodgicons" name="3-persons-sign" />`
+![](./lodgicons/3-stars-outlines.svg) | lodgicons | 3-stars-outlines | `<Icon group="lodgicons" name="3-stars-outlines" />`
+![](./lodgicons/3-stars-symbol.svg) | lodgicons | 3-stars-symbol | `<Icon group="lodgicons" name="3-stars-symbol" />`
+![](./lodgicons/4-stars-hotel-signal.svg) | lodgicons | 4-stars-hotel-signal | `<Icon group="lodgicons" name="4-stars-hotel-signal" />`
+![](./lodgicons/4-stars-sign.svg) | lodgicons | 4-stars-sign | `<Icon group="lodgicons" name="4-stars-sign" />`
+![](./lodgicons/5-persons-symbol.svg) | lodgicons | 5-persons-symbol | `<Icon group="lodgicons" name="5-persons-symbol" />`
+![](./lodgicons/5-stars-sign.svg) | lodgicons | 5-stars-sign | `<Icon group="lodgicons" name="5-stars-sign" />`
+![](./lodgicons/7-persons-male-silhouettes.svg) | lodgicons | 7-persons-male-silhouettes | `<Icon group="lodgicons" name="7-persons-male-silhouettes" />`
+![](./lodgicons/7-persons-symbol.svg) | lodgicons | 7-persons-symbol | `<Icon group="lodgicons" name="7-persons-symbol" />`
+![](./lodgicons/8-persons.svg) | lodgicons | 8-persons | `<Icon group="lodgicons" name="8-persons" />`
+![](./lodgicons/add-button-sign-of-a-plus-symbol-inside-a-double-square-shape.svg) | lodgicons | add-button-sign-of-a-plus-symbol-inside-a-double-square-shape | `<Icon group="lodgicons" name="add-button-sign-of-a-plus-symbol-inside-a-double-square-shape" />`
+![](./lodgicons/add-hotel-symbol.svg) | lodgicons | add-hotel-symbol | `<Icon group="lodgicons" name="add-hotel-symbol" />`
+![](./lodgicons/air-conditioned.svg) | lodgicons | air-conditioned | `<Icon group="lodgicons" name="air-conditioned" />`
+![](./lodgicons/air-conditioner-sign.svg) | lodgicons | air-conditioner-sign | `<Icon group="lodgicons" name="air-conditioner-sign" />`
+![](./lodgicons/air-conditioner.svg) | lodgicons | air-conditioner | `<Icon group="lodgicons" name="air-conditioner" />`
+![](./lodgicons/airplane-black-shape-ascending-rotated-to-right.svg) | lodgicons | airplane-black-shape-ascending-rotated-to-right | `<Icon group="lodgicons" name="airplane-black-shape-ascending-rotated-to-right" />`
+![](./lodgicons/airplane-outline-pointing-up.svg) | lodgicons | airplane-outline-pointing-up | `<Icon group="lodgicons" name="airplane-outline-pointing-up" />`
+![](./lodgicons/alarm-clock-of-old-design.svg) | lodgicons | alarm-clock-of-old-design | `<Icon group="lodgicons" name="alarm-clock-of-old-design" />`
+![](./lodgicons/antenna-signal-symbol.svg) | lodgicons | antenna-signal-symbol | `<Icon group="lodgicons" name="antenna-signal-symbol" />`
+![](./lodgicons/arroba-sign.svg) | lodgicons | arroba-sign | `<Icon group="lodgicons" name="arroba-sign" />`
+![](./lodgicons/baby-crib.svg) | lodgicons | baby-crib | `<Icon group="lodgicons" name="baby-crib" />`
+![](./lodgicons/bag-for-ladies.svg) | lodgicons | bag-for-ladies | `<Icon group="lodgicons" name="bag-for-ladies" />`
+![](./lodgicons/bagagiste-with-baggage-on-a-platform-cart.svg) | lodgicons | bagagiste-with-baggage-on-a-platform-cart | `<Icon group="lodgicons" name="bagagiste-with-baggage-on-a-platform-cart" />`
+![](./lodgicons/baggage-cart-1.svg) | lodgicons | baggage-cart-1 | `<Icon group="lodgicons" name="baggage-cart-1" />`
+![](./lodgicons/baggage-cart.svg) | lodgicons | baggage-cart | `<Icon group="lodgicons" name="baggage-cart" />`
+![](./lodgicons/baggage-on-an-elegant-hotel-platform-cart.svg) | lodgicons | baggage-on-an-elegant-hotel-platform-cart | `<Icon group="lodgicons" name="baggage-on-an-elegant-hotel-platform-cart" />`
+![](./lodgicons/baggage-on-platform-cart-outline.svg) | lodgicons | baggage-on-platform-cart-outline | `<Icon group="lodgicons" name="baggage-on-platform-cart-outline" />`
+![](./lodgicons/baggage-outline.svg) | lodgicons | baggage-outline | `<Icon group="lodgicons" name="baggage-outline" />`
+![](./lodgicons/balcony-and-door.svg) | lodgicons | balcony-and-door | `<Icon group="lodgicons" name="balcony-and-door" />`
+![](./lodgicons/bar-24-hours-rounded-square-signal.svg) | lodgicons | bar-24-hours-rounded-square-signal | `<Icon group="lodgicons" name="bar-24-hours-rounded-square-signal" />`
+![](./lodgicons/barbecue.svg) | lodgicons | barbecue | `<Icon group="lodgicons" name="barbecue" />`
+![](./lodgicons/basketball-ball-outline.svg) | lodgicons | basketball-ball-outline | `<Icon group="lodgicons" name="basketball-ball-outline" />`
+![](./lodgicons/bath-tub.svg) | lodgicons | bath-tub | `<Icon group="lodgicons" name="bath-tub" />`
+![](./lodgicons/bathroom-sink.svg) | lodgicons | bathroom-sink | `<Icon group="lodgicons" name="bathroom-sink" />`
+![](./lodgicons/bathrooms-for-men-and-women-outlines-sign.svg) | lodgicons | bathrooms-for-men-and-women-outlines-sign | `<Icon group="lodgicons" name="bathrooms-for-men-and-women-outlines-sign" />`
+![](./lodgicons/baths-marker-point.svg) | lodgicons | baths-marker-point | `<Icon group="lodgicons" name="baths-marker-point" />`
+![](./lodgicons/beach-signal.svg) | lodgicons | beach-signal | `<Icon group="lodgicons" name="beach-signal" />`
+![](./lodgicons/beach-view-of-sea-sun-and-seagulls-couple.svg) | lodgicons | beach-view-of-sea-sun-and-seagulls-couple | `<Icon group="lodgicons" name="beach-view-of-sea-sun-and-seagulls-couple" />`
+![](./lodgicons/bed-for-a-couple.svg) | lodgicons | bed-for-a-couple | `<Icon group="lodgicons" name="bed-for-a-couple" />`
+![](./lodgicons/bed-for-two-persons.svg) | lodgicons | bed-for-two-persons | `<Icon group="lodgicons" name="bed-for-two-persons" />`
+![](./lodgicons/bed-for-two.svg) | lodgicons | bed-for-two | `<Icon group="lodgicons" name="bed-for-two" />`
+![](./lodgicons/bed-side-view.svg) | lodgicons | bed-side-view | `<Icon group="lodgicons" name="bed-side-view" />`
+![](./lodgicons/bedroom-card.svg) | lodgicons | bedroom-card | `<Icon group="lodgicons" name="bedroom-card" />`
+![](./lodgicons/beer-jar.svg) | lodgicons | beer-jar | `<Icon group="lodgicons" name="beer-jar" />`
+![](./lodgicons/bell-boy-portrait.svg) | lodgicons | bell-boy-portrait | `<Icon group="lodgicons" name="bell-boy-portrait" />`
+![](./lodgicons/bell-boy-with-baggage.svg) | lodgicons | bell-boy-with-baggage | `<Icon group="lodgicons" name="bell-boy-with-baggage" />`
+![](./lodgicons/bike-parking-signal.svg) | lodgicons | bike-parking-signal | `<Icon group="lodgicons" name="bike-parking-signal" />`
+![](./lodgicons/bike-shape.svg) | lodgicons | bike-shape | `<Icon group="lodgicons" name="bike-shape" />`
+![](./lodgicons/bike-zone-signal.svg) | lodgicons | bike-zone-signal | `<Icon group="lodgicons" name="bike-zone-signal" />`
+![](./lodgicons/bikes-sale-sign-in-dollars.svg) | lodgicons | bikes-sale-sign-in-dollars | `<Icon group="lodgicons" name="bikes-sale-sign-in-dollars" />`
+![](./lodgicons/bingo.svg) | lodgicons | bingo | `<Icon group="lodgicons" name="bingo" />`
+![](./lodgicons/black-beach-umbrella.svg) | lodgicons | black-beach-umbrella | `<Icon group="lodgicons" name="black-beach-umbrella" />`
+![](./lodgicons/blender-outline.svg) | lodgicons | blender-outline | `<Icon group="lodgicons" name="blender-outline" />`
+![](./lodgicons/blu-ray-sign.svg) | lodgicons | blu-ray-sign | `<Icon group="lodgicons" name="blu-ray-sign" />`
+![](./lodgicons/bowling-ball-and-pin.svg) | lodgicons | bowling-ball-and-pin | `<Icon group="lodgicons" name="bowling-ball-and-pin" />`
+![](./lodgicons/boy-with-headphones.svg) | lodgicons | boy-with-headphones | `<Icon group="lodgicons" name="boy-with-headphones" />`
+![](./lodgicons/broom-black-silhouette.svg) | lodgicons | broom-black-silhouette | `<Icon group="lodgicons" name="broom-black-silhouette" />`
+![](./lodgicons/brush-outline-in-diagonal.svg) | lodgicons | brush-outline-in-diagonal | `<Icon group="lodgicons" name="brush-outline-in-diagonal" />`
+![](./lodgicons/buffet.svg) | lodgicons | buffet | `<Icon group="lodgicons" name="buffet" />`
+![](./lodgicons/bunk-bed.svg) | lodgicons | bunk-bed | `<Icon group="lodgicons" name="bunk-bed" />`
+![](./lodgicons/burger-side-view-outline.svg) | lodgicons | burger-side-view-outline | `<Icon group="lodgicons" name="burger-side-view-outline" />`
+![](./lodgicons/bus-parking-sign.svg) | lodgicons | bus-parking-sign | `<Icon group="lodgicons" name="bus-parking-sign" />`
+![](./lodgicons/cable-tv-sign-with-monitor.svg) | lodgicons | cable-tv-sign-with-monitor | `<Icon group="lodgicons" name="cable-tv-sign-with-monitor" />`
+![](./lodgicons/calendar-daily-page-on-day-31.svg) | lodgicons | calendar-daily-page-on-day-31 | `<Icon group="lodgicons" name="calendar-daily-page-on-day-31" />`
+![](./lodgicons/call-a-taxi-symbol.svg) | lodgicons | call-a-taxi-symbol | `<Icon group="lodgicons" name="call-a-taxi-symbol" />`
+![](./lodgicons/call-cost-symbol.svg) | lodgicons | call-cost-symbol | `<Icon group="lodgicons" name="call-cost-symbol" />`
+![](./lodgicons/canoe-boat-with-rowing.svg) | lodgicons | canoe-boat-with-rowing | `<Icon group="lodgicons" name="canoe-boat-with-rowing" />`
+![](./lodgicons/car-parking-signal.svg) | lodgicons | car-parking-signal | `<Icon group="lodgicons" name="car-parking-signal" />`
+![](./lodgicons/caravan-can-outline-for-nomad-lifestyle.svg) | lodgicons | caravan-can-outline-for-nomad-lifestyle | `<Icon group="lodgicons" name="caravan-can-outline-for-nomad-lifestyle" />`
+![](./lodgicons/carpet-hanging-of-a-rope.svg) | lodgicons | carpet-hanging-of-a-rope | `<Icon group="lodgicons" name="carpet-hanging-of-a-rope" />`
+![](./lodgicons/casino-chip-with-number-11.svg) | lodgicons | casino-chip-with-number-11 | `<Icon group="lodgicons" name="casino-chip-with-number-11" />`
+![](./lodgicons/casino-map-marker.svg) | lodgicons | casino-map-marker | `<Icon group="lodgicons" name="casino-map-marker" />`
+![](./lodgicons/ceiling-covered-parking-signal.svg) | lodgicons | ceiling-covered-parking-signal | `<Icon group="lodgicons" name="ceiling-covered-parking-signal" />`
+![](./lodgicons/chapel.svg) | lodgicons | chapel | `<Icon group="lodgicons" name="chapel" />`
+![](./lodgicons/chef-toque-outline.svg) | lodgicons | chef-toque-outline | `<Icon group="lodgicons" name="chef-toque-outline" />`
+![](./lodgicons/chimney-with-fire.svg) | lodgicons | chimney-with-fire | `<Icon group="lodgicons" name="chimney-with-fire" />`
+![](./lodgicons/church-cross.svg) | lodgicons | church-cross | `<Icon group="lodgicons" name="church-cross" />`
+![](./lodgicons/church-localization-marker-sign.svg) | lodgicons | church-localization-marker-sign | `<Icon group="lodgicons" name="church-localization-marker-sign" />`
+![](./lodgicons/cigarette.svg) | lodgicons | cigarette | `<Icon group="lodgicons" name="cigarette" />`
+![](./lodgicons/clock-at-twelve.svg) | lodgicons | clock-at-twelve | `<Icon group="lodgicons" name="clock-at-twelve" />`
+![](./lodgicons/closed-baggage.svg) | lodgicons | closed-baggage | `<Icon group="lodgicons" name="closed-baggage" />`
+![](./lodgicons/cloth-hanging-of-a-hanger.svg) | lodgicons | cloth-hanging-of-a-hanger | `<Icon group="lodgicons" name="cloth-hanging-of-a-hanger" />`
+![](./lodgicons/cocktail-glass.svg) | lodgicons | cocktail-glass | `<Icon group="lodgicons" name="cocktail-glass" />`
+![](./lodgicons/cocktails-24-hours.svg) | lodgicons | cocktails-24-hours | `<Icon group="lodgicons" name="cocktails-24-hours" />`
+![](./lodgicons/coffee-cup-of-hot-drink-black-silhouette.svg) | lodgicons | coffee-cup-of-hot-drink-black-silhouette | `<Icon group="lodgicons" name="coffee-cup-of-hot-drink-black-silhouette" />`
+![](./lodgicons/coffee-jar.svg) | lodgicons | coffee-jar | `<Icon group="lodgicons" name="coffee-jar" />`
+![](./lodgicons/coffee-shop-marker.svg) | lodgicons | coffee-shop-marker | `<Icon group="lodgicons" name="coffee-shop-marker" />`
+![](./lodgicons/collective-elevator-sign.svg) | lodgicons | collective-elevator-sign | `<Icon group="lodgicons" name="collective-elevator-sign" />`
+![](./lodgicons/comb-on-hair.svg) | lodgicons | comb-on-hair | `<Icon group="lodgicons" name="comb-on-hair" />`
+![](./lodgicons/compact-disc.svg) | lodgicons | compact-disc | `<Icon group="lodgicons" name="compact-disc" />`
+![](./lodgicons/cot-black-silhouette-side-view.svg) | lodgicons | cot-black-silhouette-side-view | `<Icon group="lodgicons" name="cot-black-silhouette-side-view" />`
+![](./lodgicons/couple-in-sauna.svg) | lodgicons | couple-in-sauna | `<Icon group="lodgicons" name="couple-in-sauna" />`
+![](./lodgicons/couple-of-persons-resting-on-a-bunk.svg) | lodgicons | couple-of-persons-resting-on-a-bunk | `<Icon group="lodgicons" name="couple-of-persons-resting-on-a-bunk" />`
+![](./lodgicons/covered-swimming-pool-symbol.svg) | lodgicons | covered-swimming-pool-symbol | `<Icon group="lodgicons" name="covered-swimming-pool-symbol" />`
+![](./lodgicons/covered-swimming-pool-with-roof.svg) | lodgicons | covered-swimming-pool-with-roof | `<Icon group="lodgicons" name="covered-swimming-pool-with-roof" />`
+![](./lodgicons/credit-card-payment.svg) | lodgicons | credit-card-payment | `<Icon group="lodgicons" name="credit-card-payment" />`
+![](./lodgicons/dancer-with-music.svg) | lodgicons | dancer-with-music | `<Icon group="lodgicons" name="dancer-with-music" />`
+![](./lodgicons/delete-hotel-symbol.svg) | lodgicons | delete-hotel-symbol | `<Icon group="lodgicons" name="delete-hotel-symbol" />`
+![](./lodgicons/delete-transport-symbol.svg) | lodgicons | delete-transport-symbol | `<Icon group="lodgicons" name="delete-transport-symbol" />`
+![](./lodgicons/descend-signal.svg) | lodgicons | descend-signal | `<Icon group="lodgicons" name="descend-signal" />`
+![](./lodgicons/dices-couple.svg) | lodgicons | dices-couple | `<Icon group="lodgicons" name="dices-couple" />`
+![](./lodgicons/directional-arrows-signals-on-a-pole.svg) | lodgicons | directional-arrows-signals-on-a-pole | `<Icon group="lodgicons" name="directional-arrows-signals-on-a-pole" />`
+![](./lodgicons/disability.svg) | lodgicons | disability | `<Icon group="lodgicons" name="disability" />`
+![](./lodgicons/disco-ball-of-small-mirrors-with-musical-note-symbol.svg) | lodgicons | disco-ball-of-small-mirrors-with-musical-note-symbol | `<Icon group="lodgicons" name="disco-ball-of-small-mirrors-with-musical-note-symbol" />`
+![](./lodgicons/do-not-disturb-hanging-signal-for-hotel-doors.svg) | lodgicons | do-not-disturb-hanging-signal-for-hotel-doors | `<Icon group="lodgicons" name="do-not-disturb-hanging-signal-for-hotel-doors" />`
+![](./lodgicons/do-not-disturb-signal-to-hang-from-hotel-doors.svg) | lodgicons | do-not-disturb-signal-to-hang-from-hotel-doors | `<Icon group="lodgicons" name="do-not-disturb-signal-to-hang-from-hotel-doors" />`
+![](./lodgicons/do-not-entry-signal-for-hotel-door.svg) | lodgicons | do-not-entry-signal-for-hotel-door | `<Icon group="lodgicons" name="do-not-entry-signal-for-hotel-door" />`
+![](./lodgicons/do-not-pass-hanging-signal-for-door.svg) | lodgicons | do-not-pass-hanging-signal-for-door | `<Icon group="lodgicons" name="do-not-pass-hanging-signal-for-door" />`
+![](./lodgicons/do-not-pass-signal-for-hang-on-doors.svg) | lodgicons | do-not-pass-signal-for-hang-on-doors | `<Icon group="lodgicons" name="do-not-pass-signal-for-hang-on-doors" />`
+![](./lodgicons/do-not-swim-sign.svg) | lodgicons | do-not-swim-sign | `<Icon group="lodgicons" name="do-not-swim-sign" />`
+![](./lodgicons/dog-shape-outline-in-a-square.svg) | lodgicons | dog-shape-outline-in-a-square | `<Icon group="lodgicons" name="dog-shape-outline-in-a-square" />`
+![](./lodgicons/dont-smoke-signal-of-prohibition.svg) | lodgicons | dont-smoke-signal-of-prohibition | `<Icon group="lodgicons" name="dont-smoke-signal-of-prohibition" />`
+![](./lodgicons/dont-smoke-symbol.svg) | lodgicons | dont-smoke-symbol | `<Icon group="lodgicons" name="dont-smoke-symbol" />`
+![](./lodgicons/down-stair-symbol.svg) | lodgicons | down-stair-symbol | `<Icon group="lodgicons" name="down-stair-symbol" />`
+![](./lodgicons/drink-glass.svg) | lodgicons | drink-glass | `<Icon group="lodgicons" name="drink-glass" />`
+![](./lodgicons/drying-machine-outline.svg) | lodgicons | drying-machine-outline | `<Icon group="lodgicons" name="drying-machine-outline" />`
+![](./lodgicons/dumbbell-outline.svg) | lodgicons | dumbbell-outline | `<Icon group="lodgicons" name="dumbbell-outline" />`
+![](./lodgicons/dvd-player-outline.svg) | lodgicons | dvd-player-outline | `<Icon group="lodgicons" name="dvd-player-outline" />`
+![](./lodgicons/dvd-sign.svg) | lodgicons | dvd-sign | `<Icon group="lodgicons" name="dvd-sign" />`
+![](./lodgicons/dvd.svg) | lodgicons | dvd | `<Icon group="lodgicons" name="dvd" />`
+![](./lodgicons/eight-persons-or-person-number-8-symbol.svg) | lodgicons | eight-persons-or-person-number-8-symbol | `<Icon group="lodgicons" name="eight-persons-or-person-number-8-symbol" />`
+![](./lodgicons/eight-persons-or-person-number-8.svg) | lodgicons | eight-persons-or-person-number-8 | `<Icon group="lodgicons" name="eight-persons-or-person-number-8" />`
+![](./lodgicons/eight-persons-symbol.svg) | lodgicons | eight-persons-symbol | `<Icon group="lodgicons" name="eight-persons-symbol" />`
+![](./lodgicons/eight-persons.svg) | lodgicons | eight-persons | `<Icon group="lodgicons" name="eight-persons" />`
+![](./lodgicons/elevator-buttons.svg) | lodgicons | elevator-buttons | `<Icon group="lodgicons" name="elevator-buttons" />`
+![](./lodgicons/elevator-for-people.svg) | lodgicons | elevator-for-people | `<Icon group="lodgicons" name="elevator-for-people" />`
+![](./lodgicons/elevator-symbol.svg) | lodgicons | elevator-symbol | `<Icon group="lodgicons" name="elevator-symbol" />`
+![](./lodgicons/elevator-with-one-person-inside-and-up-and-down-arrows-at-sides.svg) | lodgicons | elevator-with-one-person-inside-and-up-and-down-arrows-at-sides | `<Icon group="lodgicons" name="elevator-with-one-person-inside-and-up-and-down-arrows-at-sides" />`
+![](./lodgicons/english-receptionist.svg) | lodgicons | english-receptionist | `<Icon group="lodgicons" name="english-receptionist" />`
+![](./lodgicons/entertainment-area-symbol-with-abc-cubes-and-house-outline.svg) | lodgicons | entertainment-area-symbol-with-abc-cubes-and-house-outline | `<Icon group="lodgicons" name="entertainment-area-symbol-with-abc-cubes-and-house-outline" />`
+![](./lodgicons/euro-bills.svg) | lodgicons | euro-bills | `<Icon group="lodgicons" name="euro-bills" />`
+![](./lodgicons/exit-door-symbol.svg) | lodgicons | exit-door-symbol | `<Icon group="lodgicons" name="exit-door-symbol" />`
+![](./lodgicons/exit-signal.svg) | lodgicons | exit-signal | `<Icon group="lodgicons" name="exit-signal" />`
+![](./lodgicons/extinguisher-outline.svg) | lodgicons | extinguisher-outline | `<Icon group="lodgicons" name="extinguisher-outline" />`
+![](./lodgicons/fan-black-silhouette.svg) | lodgicons | fan-black-silhouette | `<Icon group="lodgicons" name="fan-black-silhouette" />`
+![](./lodgicons/fan-of-square-shape-outline.svg) | lodgicons | fan-of-square-shape-outline | `<Icon group="lodgicons" name="fan-of-square-shape-outline" />`
+![](./lodgicons/fan-tool.svg) | lodgicons | fan-tool | `<Icon group="lodgicons" name="fan-tool" />`
+![](./lodgicons/fast-food-placeholder.svg) | lodgicons | fast-food-placeholder | `<Icon group="lodgicons" name="fast-food-placeholder" />`
+![](./lodgicons/fax-top-view.svg) | lodgicons | fax-top-view | `<Icon group="lodgicons" name="fax-top-view" />`
+![](./lodgicons/firewood-sale-symbol.svg) | lodgicons | firewood-sale-symbol | `<Icon group="lodgicons" name="firewood-sale-symbol" />`
+![](./lodgicons/firewood-signal.svg) | lodgicons | firewood-signal | `<Icon group="lodgicons" name="firewood-signal" />`
+![](./lodgicons/first-aid-case.svg) | lodgicons | first-aid-case | `<Icon group="lodgicons" name="first-aid-case" />`
+![](./lodgicons/first-aid-kit.svg) | lodgicons | first-aid-kit | `<Icon group="lodgicons" name="first-aid-kit" />`
+![](./lodgicons/five-persons-or-person-number-five.svg) | lodgicons | five-persons-or-person-number-five | `<Icon group="lodgicons" name="five-persons-or-person-number-five" />`
+![](./lodgicons/five-persons-silhouettes.svg) | lodgicons | five-persons-silhouettes | `<Icon group="lodgicons" name="five-persons-silhouettes" />`
+![](./lodgicons/five-persons-symbol-1.svg) | lodgicons | five-persons-symbol-1 | `<Icon group="lodgicons" name="five-persons-symbol-1" />`
+![](./lodgicons/five-persons-symbol.svg) | lodgicons | five-persons-symbol | `<Icon group="lodgicons" name="five-persons-symbol" />`
+![](./lodgicons/five-stars-hotel-signal-1.svg) | lodgicons | five-stars-hotel-signal-1 | `<Icon group="lodgicons" name="five-stars-hotel-signal-1" />`
+![](./lodgicons/five-stars-hotel-signal.svg) | lodgicons | five-stars-hotel-signal | `<Icon group="lodgicons" name="five-stars-hotel-signal" />`
+![](./lodgicons/five-stars-quality-symbol.svg) | lodgicons | five-stars-quality-symbol | `<Icon group="lodgicons" name="five-stars-quality-symbol" />`
+![](./lodgicons/flowers-shop.svg) | lodgicons | flowers-shop | `<Icon group="lodgicons" name="flowers-shop" />`
+![](./lodgicons/food-covered-by-a-bell-shape-outline.svg) | lodgicons | food-covered-by-a-bell-shape-outline | `<Icon group="lodgicons" name="food-covered-by-a-bell-shape-outline" />`
+![](./lodgicons/food-covered.svg) | lodgicons | food-covered | `<Icon group="lodgicons" name="food-covered" />`
+![](./lodgicons/food-in-bedroom.svg) | lodgicons | food-in-bedroom | `<Icon group="lodgicons" name="food-in-bedroom" />`
+![](./lodgicons/food-service-to-bedroom.svg) | lodgicons | food-service-to-bedroom | `<Icon group="lodgicons" name="food-service-to-bedroom" />`
+![](./lodgicons/four-persons-or-person-number-4-symbol.svg) | lodgicons | four-persons-or-person-number-4-symbol | `<Icon group="lodgicons" name="four-persons-or-person-number-4-symbol" />`
+![](./lodgicons/four-persons-sign.svg) | lodgicons | four-persons-sign | `<Icon group="lodgicons" name="four-persons-sign" />`
+![](./lodgicons/four-persons-symbol.svg) | lodgicons | four-persons-symbol | `<Icon group="lodgicons" name="four-persons-symbol" />`
+![](./lodgicons/four-persons.svg) | lodgicons | four-persons | `<Icon group="lodgicons" name="four-persons" />`
+![](./lodgicons/four-stars.svg) | lodgicons | four-stars | `<Icon group="lodgicons" name="four-stars" />`
+![](./lodgicons/free-wifi-signal.svg) | lodgicons | free-wifi-signal | `<Icon group="lodgicons" name="free-wifi-signal" />`
+![](./lodgicons/french-receptionist.svg) | lodgicons | french-receptionist | `<Icon group="lodgicons" name="french-receptionist" />`
+![](./lodgicons/gambling-coins-machine-with-winner-result-of-three-seven.svg) | lodgicons | gambling-coins-machine-with-winner-result-of-three-seven | `<Icon group="lodgicons" name="gambling-coins-machine-with-winner-result-of-three-seven" />`
+![](./lodgicons/garage-with-roof-and-parked-car.svg) | lodgicons | garage-with-roof-and-parked-car | `<Icon group="lodgicons" name="garage-with-roof-and-parked-car" />`
+![](./lodgicons/garage.svg) | lodgicons | garage | `<Icon group="lodgicons" name="garage" />`
+![](./lodgicons/gas-cylinder-outline.svg) | lodgicons | gas-cylinder-outline | `<Icon group="lodgicons" name="gas-cylinder-outline" />`
+![](./lodgicons/gift-box-outline.svg) | lodgicons | gift-box-outline | `<Icon group="lodgicons" name="gift-box-outline" />`
+![](./lodgicons/glass-with-water.svg) | lodgicons | glass-with-water | `<Icon group="lodgicons" name="glass-with-water" />`
+![](./lodgicons/golf-ball-and-tee.svg) | lodgicons | golf-ball-and-tee | `<Icon group="lodgicons" name="golf-ball-and-tee" />`
+![](./lodgicons/golf-elements.svg) | lodgicons | golf-elements | `<Icon group="lodgicons" name="golf-elements" />`
+![](./lodgicons/golf-hole-with-a-flag.svg) | lodgicons | golf-hole-with-a-flag | `<Icon group="lodgicons" name="golf-hole-with-a-flag" />`
+![](./lodgicons/golf-putter-ball-and-tee.svg) | lodgicons | golf-putter-ball-and-tee | `<Icon group="lodgicons" name="golf-putter-ball-and-tee" />`
+![](./lodgicons/gym-dumbbell-black-silhouette.svg) | lodgicons | gym-dumbbell-black-silhouette | `<Icon group="lodgicons" name="gym-dumbbell-black-silhouette" />`
+![](./lodgicons/hair-cutting.svg) | lodgicons | hair-cutting | `<Icon group="lodgicons" name="hair-cutting" />`
+![](./lodgicons/hairdryer-outline.svg) | lodgicons | hairdryer-outline | `<Icon group="lodgicons" name="hairdryer-outline" />`
+![](./lodgicons/hairdryer.svg) | lodgicons | hairdryer | `<Icon group="lodgicons" name="hairdryer" />`
+![](./lodgicons/half-star-shape.svg) | lodgicons | half-star-shape | `<Icon group="lodgicons" name="half-star-shape" />`
+![](./lodgicons/hammock-with-a-person-lying-and-resting-on-it.svg) | lodgicons | hammock-with-a-person-lying-and-resting-on-it | `<Icon group="lodgicons" name="hammock-with-a-person-lying-and-resting-on-it" />`
+![](./lodgicons/hand-with-a-dumbbell.svg) | lodgicons | hand-with-a-dumbbell | `<Icon group="lodgicons" name="hand-with-a-dumbbell" />`
+![](./lodgicons/hanger-line-tool.svg) | lodgicons | hanger-line-tool | `<Icon group="lodgicons" name="hanger-line-tool" />`
+![](./lodgicons/hdmi-cable.svg) | lodgicons | hdmi-cable | `<Icon group="lodgicons" name="hdmi-cable" />`
+![](./lodgicons/hdmi-high-definition-multimedia-interface.svg) | lodgicons | hdmi-high-definition-multimedia-interface | `<Icon group="lodgicons" name="hdmi-high-definition-multimedia-interface" />`
+![](./lodgicons/headphones.svg) | lodgicons | headphones | `<Icon group="lodgicons" name="headphones" />`
+![](./lodgicons/hearts-outlines-of-gross-lines.svg) | lodgicons | hearts-outlines-of-gross-lines | `<Icon group="lodgicons" name="hearts-outlines-of-gross-lines" />`
+![](./lodgicons/heating-black-tool.svg) | lodgicons | heating-black-tool | `<Icon group="lodgicons" name="heating-black-tool" />`
+![](./lodgicons/heating-device-for-winter.svg) | lodgicons | heating-device-for-winter | `<Icon group="lodgicons" name="heating-device-for-winter" />`
+![](./lodgicons/heating-device-in-a-bedroom.svg) | lodgicons | heating-device-in-a-bedroom | `<Icon group="lodgicons" name="heating-device-in-a-bedroom" />`
+![](./lodgicons/heating.svg) | lodgicons | heating | `<Icon group="lodgicons" name="heating" />`
+![](./lodgicons/hot-cakes.svg) | lodgicons | hot-cakes | `<Icon group="lodgicons" name="hot-cakes" />`
+![](./lodgicons/hot-coffee-mug-outline.svg) | lodgicons | hot-coffee-mug-outline | `<Icon group="lodgicons" name="hot-coffee-mug-outline" />`
+![](./lodgicons/hot-towels.svg) | lodgicons | hot-towels | `<Icon group="lodgicons" name="hot-towels" />`
+![](./lodgicons/hotel-1-star-signal.svg) | lodgicons | hotel-1-star-signal | `<Icon group="lodgicons" name="hotel-1-star-signal" />`
+![](./lodgicons/hotel-2-stars-signal.svg) | lodgicons | hotel-2-stars-signal | `<Icon group="lodgicons" name="hotel-2-stars-signal" />`
+![](./lodgicons/hotel-building.svg) | lodgicons | hotel-building | `<Icon group="lodgicons" name="hotel-building" />`
+![](./lodgicons/hotel-check-symbol.svg) | lodgicons | hotel-check-symbol | `<Icon group="lodgicons" name="hotel-check-symbol" />`
+![](./lodgicons/hotel-key-outline-in-horizontal-position.svg) | lodgicons | hotel-key-outline-in-horizontal-position | `<Icon group="lodgicons" name="hotel-key-outline-in-horizontal-position" />`
+![](./lodgicons/hotel-of-three-stars-signal.svg) | lodgicons | hotel-of-three-stars-signal | `<Icon group="lodgicons" name="hotel-of-three-stars-signal" />`
+![](./lodgicons/hotel-of-two-stars-quality.svg) | lodgicons | hotel-of-two-stars-quality | `<Icon group="lodgicons" name="hotel-of-two-stars-quality" />`
+![](./lodgicons/hotel-reception-bell.svg) | lodgicons | hotel-reception-bell | `<Icon group="lodgicons" name="hotel-reception-bell" />`
+![](./lodgicons/hotel-reception-outline.svg) | lodgicons | hotel-reception-outline | `<Icon group="lodgicons" name="hotel-reception-outline" />`
+![](./lodgicons/hotel-search-interface-symbol.svg) | lodgicons | hotel-search-interface-symbol | `<Icon group="lodgicons" name="hotel-search-interface-symbol" />`
+![](./lodgicons/hotel-sign.svg) | lodgicons | hotel-sign | `<Icon group="lodgicons" name="hotel-sign" />`
+![](./lodgicons/ice-cubes-in-a-square.svg) | lodgicons | ice-cubes-in-a-square | `<Icon group="lodgicons" name="ice-cubes-in-a-square" />`
+![](./lodgicons/indoor-temperature.svg) | lodgicons | indoor-temperature | `<Icon group="lodgicons" name="indoor-temperature" />`
+![](./lodgicons/info-sign.svg) | lodgicons | info-sign | `<Icon group="lodgicons" name="info-sign" />`
+![](./lodgicons/information-letter-sign-outline.svg) | lodgicons | information-letter-sign-outline | `<Icon group="lodgicons" name="information-letter-sign-outline" />`
+![](./lodgicons/information-marker.svg) | lodgicons | information-marker | `<Icon group="lodgicons" name="information-marker" />`
+![](./lodgicons/informative-map.svg) | lodgicons | informative-map | `<Icon group="lodgicons" name="informative-map" />`
+![](./lodgicons/international-reception-worker.svg) | lodgicons | international-reception-worker | `<Icon group="lodgicons" name="international-reception-worker" />`
+![](./lodgicons/international-telephone-symbol-outline.svg) | lodgicons | international-telephone-symbol-outline | `<Icon group="lodgicons" name="international-telephone-symbol-outline" />`
+![](./lodgicons/iron-outline-side-view.svg) | lodgicons | iron-outline-side-view | `<Icon group="lodgicons" name="iron-outline-side-view" />`
+![](./lodgicons/iron-table-outline-from-side-view.svg) | lodgicons | iron-table-outline-from-side-view | `<Icon group="lodgicons" name="iron-table-outline-from-side-view" />`
+![](./lodgicons/italian-receptionist-saying-ciao.svg) | lodgicons | italian-receptionist-saying-ciao | `<Icon group="lodgicons" name="italian-receptionist-saying-ciao" />`
+![](./lodgicons/jacuzzi.svg) | lodgicons | jacuzzi | `<Icon group="lodgicons" name="jacuzzi" />`
+![](./lodgicons/key-with-label.svg) | lodgicons | key-with-label | `<Icon group="lodgicons" name="key-with-label" />`
+![](./lodgicons/laptop-with-arroba-sign-on-screen.svg) | lodgicons | laptop-with-arroba-sign-on-screen | `<Icon group="lodgicons" name="laptop-with-arroba-sign-on-screen" />`
+![](./lodgicons/left-and-right-arrows-on-a-thin-column.svg) | lodgicons | left-and-right-arrows-on-a-thin-column | `<Icon group="lodgicons" name="left-and-right-arrows-on-a-thin-column" />`
+![](./lodgicons/letter-h-hotel-outline-with-five-stars.svg) | lodgicons | letter-h-hotel-outline-with-five-stars | `<Icon group="lodgicons" name="letter-h-hotel-outline-with-five-stars" />`
+![](./lodgicons/library-placeholder.svg) | lodgicons | library-placeholder | `<Icon group="lodgicons" name="library-placeholder" />`
+![](./lodgicons/library-symbol-outline.svg) | lodgicons | library-symbol-outline | `<Icon group="lodgicons" name="library-symbol-outline" />`
+![](./lodgicons/lobby-sign.svg) | lodgicons | lobby-sign | `<Icon group="lodgicons" name="lobby-sign" />`
+![](./lodgicons/love-symbol-of-a-heart-outline-in-a-square.svg) | lodgicons | love-symbol-of-a-heart-outline-in-a-square | `<Icon group="lodgicons" name="love-symbol-of-a-heart-outline-in-a-square" />`
+![](./lodgicons/map-location.svg) | lodgicons | map-location | `<Icon group="lodgicons" name="map-location" />`
+![](./lodgicons/margarita-glass-drink.svg) | lodgicons | margarita-glass-drink | `<Icon group="lodgicons" name="margarita-glass-drink" />`
+![](./lodgicons/massage-session.svg) | lodgicons | massage-session | `<Icon group="lodgicons" name="massage-session" />`
+![](./lodgicons/mastercard.svg) | lodgicons | mastercard | `<Icon group="lodgicons" name="mastercard" />`
+![](./lodgicons/microwaves.svg) | lodgicons | microwaves | `<Icon group="lodgicons" name="microwaves" />`
+![](./lodgicons/minibar.svg) | lodgicons | minibar | `<Icon group="lodgicons" name="minibar" />`
+![](./lodgicons/minisplit.svg) | lodgicons | minisplit | `<Icon group="lodgicons" name="minisplit" />`
+![](./lodgicons/money-bills.svg) | lodgicons | money-bills | `<Icon group="lodgicons" name="money-bills" />`
+![](./lodgicons/monitor-screen-with-keyhole-shape.svg) | lodgicons | monitor-screen-with-keyhole-shape | `<Icon group="lodgicons" name="monitor-screen-with-keyhole-shape" />`
+![](./lodgicons/musical-note-outline-symbol-inside-two-squares.svg) | lodgicons | musical-note-outline-symbol-inside-two-squares | `<Icon group="lodgicons" name="musical-note-outline-symbol-inside-two-squares" />`
+![](./lodgicons/nine-persons-symbol-1.svg) | lodgicons | nine-persons-symbol-1 | `<Icon group="lodgicons" name="nine-persons-symbol-1" />`
+![](./lodgicons/nine-persons-symbol.svg) | lodgicons | nine-persons-symbol | `<Icon group="lodgicons" name="nine-persons-symbol" />`
+![](./lodgicons/nine-persons.svg) | lodgicons | nine-persons | `<Icon group="lodgicons" name="nine-persons" />`
+![](./lodgicons/no-animals-symbol.svg) | lodgicons | no-animals-symbol | `<Icon group="lodgicons" name="no-animals-symbol" />`
+![](./lodgicons/no-cats-accepted.svg) | lodgicons | no-cats-accepted | `<Icon group="lodgicons" name="no-cats-accepted" />`
+![](./lodgicons/no-food-allowed.svg) | lodgicons | no-food-allowed | `<Icon group="lodgicons" name="no-food-allowed" />`
+![](./lodgicons/no-pets-allowed-symbol.svg) | lodgicons | no-pets-allowed-symbol | `<Icon group="lodgicons" name="no-pets-allowed-symbol" />`
+![](./lodgicons/no-vacancy-signal.svg) | lodgicons | no-vacancy-signal | `<Icon group="lodgicons" name="no-vacancy-signal" />`
+![](./lodgicons/one-bed-for-two.svg) | lodgicons | one-bed-for-two | `<Icon group="lodgicons" name="one-bed-for-two" />`
+![](./lodgicons/one-star-hotel-sign.svg) | lodgicons | one-star-hotel-sign | `<Icon group="lodgicons" name="one-star-hotel-sign" />`
+![](./lodgicons/one-star-hotel-signal.svg) | lodgicons | one-star-hotel-signal | `<Icon group="lodgicons" name="one-star-hotel-signal" />`
+![](./lodgicons/one-star-symbol.svg) | lodgicons | one-star-symbol | `<Icon group="lodgicons" name="one-star-symbol" />`
+![](./lodgicons/online-location.svg) | lodgicons | online-location | `<Icon group="lodgicons" name="online-location" />`
+![](./lodgicons/open-garage-under-the-sun.svg) | lodgicons | open-garage-under-the-sun | `<Icon group="lodgicons" name="open-garage-under-the-sun" />`
+![](./lodgicons/outdoors-table-with-chairs-couple-and-umbrella.svg) | lodgicons | outdoors-table-with-chairs-couple-and-umbrella | `<Icon group="lodgicons" name="outdoors-table-with-chairs-couple-and-umbrella" />`
+![](./lodgicons/oven.svg) | lodgicons | oven | `<Icon group="lodgicons" name="oven" />`
+![](./lodgicons/padlock-symbol-of-security-24-hours-a-day.svg) | lodgicons | padlock-symbol-of-security-24-hours-a-day | `<Icon group="lodgicons" name="padlock-symbol-of-security-24-hours-a-day" />`
+![](./lodgicons/parking-for-disabled-persons-sign.svg) | lodgicons | parking-for-disabled-persons-sign | `<Icon group="lodgicons" name="parking-for-disabled-persons-sign" />`
+![](./lodgicons/parking-garage-sign-in-rounded-square.svg) | lodgicons | parking-garage-sign-in-rounded-square | `<Icon group="lodgicons" name="parking-garage-sign-in-rounded-square" />`
+![](./lodgicons/parking-meter.svg) | lodgicons | parking-meter | `<Icon group="lodgicons" name="parking-meter" />`
+![](./lodgicons/parking-sign.svg) | lodgicons | parking-sign | `<Icon group="lodgicons" name="parking-sign" />`
+![](./lodgicons/parking-square-signal.svg) | lodgicons | parking-square-signal | `<Icon group="lodgicons" name="parking-square-signal" />`
+![](./lodgicons/parking-ticket.svg) | lodgicons | parking-ticket | `<Icon group="lodgicons" name="parking-ticket" />`
+![](./lodgicons/parking.svg) | lodgicons | parking | `<Icon group="lodgicons" name="parking" />`
+![](./lodgicons/pc-computer-and-monitor-outlines.svg) | lodgicons | pc-computer-and-monitor-outlines | `<Icon group="lodgicons" name="pc-computer-and-monitor-outlines" />`
+![](./lodgicons/persian-blinds-outline.svg) | lodgicons | persian-blinds-outline | `<Icon group="lodgicons" name="persian-blinds-outline" />`
+![](./lodgicons/person-ascending-on-electric-stairs.svg) | lodgicons | person-ascending-on-electric-stairs | `<Icon group="lodgicons" name="person-ascending-on-electric-stairs" />`
+![](./lodgicons/person-enjoying-jacuzzi-hot-water-bath.svg) | lodgicons | person-enjoying-jacuzzi-hot-water-bath | `<Icon group="lodgicons" name="person-enjoying-jacuzzi-hot-water-bath" />`
+![](./lodgicons/person-in-sauna-treatment.svg) | lodgicons | person-in-sauna-treatment | `<Icon group="lodgicons" name="person-in-sauna-treatment" />`
+![](./lodgicons/person-in-spa.svg) | lodgicons | person-in-spa | `<Icon group="lodgicons" name="person-in-spa" />`
+![](./lodgicons/person-lying-in-an-artificial-solar-tan-bed-for-indoor-bronze-skin-tone.svg) | lodgicons | person-lying-in-an-artificial-solar-tan-bed-for-indoor-bronze-skin-tone | `<Icon group="lodgicons" name="person-lying-in-an-artificial-solar-tan-bed-for-indoor-bronze-skin-tone" />`
+![](./lodgicons/person-lying-on-a-beach-under-an-umbrella.svg) | lodgicons | person-lying-on-a-beach-under-an-umbrella | `<Icon group="lodgicons" name="person-lying-on-a-beach-under-an-umbrella" />`
+![](./lodgicons/person-number-7-or-seven-persons.svg) | lodgicons | person-number-7-or-seven-persons | `<Icon group="lodgicons" name="person-number-7-or-seven-persons" />`
+![](./lodgicons/person-riding-on-a-bicycle-side-view-silhouette.svg) | lodgicons | person-riding-on-a-bicycle-side-view-silhouette | `<Icon group="lodgicons" name="person-riding-on-a-bicycle-side-view-silhouette" />`
+![](./lodgicons/person-rowing-on-a-kayak.svg) | lodgicons | person-rowing-on-a-kayak | `<Icon group="lodgicons" name="person-rowing-on-a-kayak" />`
+![](./lodgicons/person-running-on-a-treadmill-silhouette-from-side-view.svg) | lodgicons | person-running-on-a-treadmill-silhouette-from-side-view | `<Icon group="lodgicons" name="person-running-on-a-treadmill-silhouette-from-side-view" />`
+![](./lodgicons/person-silhouette-in-sauna.svg) | lodgicons | person-silhouette-in-sauna | `<Icon group="lodgicons" name="person-silhouette-in-sauna" />`
+![](./lodgicons/person-sweating-in-a-sauna.svg) | lodgicons | person-sweating-in-a-sauna | `<Icon group="lodgicons" name="person-sweating-in-a-sauna" />`
+![](./lodgicons/personal-elevator-signal.svg) | lodgicons | personal-elevator-signal | `<Icon group="lodgicons" name="personal-elevator-signal" />`
+![](./lodgicons/persons-in-group-of-four.svg) | lodgicons | persons-in-group-of-four | `<Icon group="lodgicons" name="persons-in-group-of-four" />`
+![](./lodgicons/persons-nine-silhouettes.svg) | lodgicons | persons-nine-silhouettes | `<Icon group="lodgicons" name="persons-nine-silhouettes" />`
+![](./lodgicons/persons-number-symbol.svg) | lodgicons | persons-number-symbol | `<Icon group="lodgicons" name="persons-number-symbol" />`
+![](./lodgicons/pets-circular-sign.svg) | lodgicons | pets-circular-sign | `<Icon group="lodgicons" name="pets-circular-sign" />`
+![](./lodgicons/photo-camera-frontal-outline.svg) | lodgicons | photo-camera-frontal-outline | `<Icon group="lodgicons" name="photo-camera-frontal-outline" />`
+![](./lodgicons/plate-fork-and-knife.svg) | lodgicons | plate-fork-and-knife | `<Icon group="lodgicons" name="plate-fork-and-knife" />`
+![](./lodgicons/poker-cards.svg) | lodgicons | poker-cards | `<Icon group="lodgicons" name="poker-cards" />`
+![](./lodgicons/poker-playing-cards.svg) | lodgicons | poker-playing-cards | `<Icon group="lodgicons" name="poker-playing-cards" />`
+![](./lodgicons/pool-eight-ball-and-stick.svg) | lodgicons | pool-eight-ball-and-stick | `<Icon group="lodgicons" name="pool-eight-ball-and-stick" />`
+![](./lodgicons/pool-rectangular-hanging-sign.svg) | lodgicons | pool-rectangular-hanging-sign | `<Icon group="lodgicons" name="pool-rectangular-hanging-sign" />`
+![](./lodgicons/pool-table-top-view.svg) | lodgicons | pool-table-top-view | `<Icon group="lodgicons" name="pool-table-top-view" />`
+![](./lodgicons/port-map-marker-point.svg) | lodgicons | port-map-marker-point | `<Icon group="lodgicons" name="port-map-marker-point" />`
+![](./lodgicons/postcard-back-side.svg) | lodgicons | postcard-back-side | `<Icon group="lodgicons" name="postcard-back-side" />`
+![](./lodgicons/pound-bills.svg) | lodgicons | pound-bills | `<Icon group="lodgicons" name="pound-bills" />`
+![](./lodgicons/private-baggage-box-with-key.svg) | lodgicons | private-baggage-box-with-key | `<Icon group="lodgicons" name="private-baggage-box-with-key" />`
+![](./lodgicons/private-swimming-pool-sign.svg) | lodgicons | private-swimming-pool-sign | `<Icon group="lodgicons" name="private-swimming-pool-sign" />`
+![](./lodgicons/prohibition-of-wood-cutting-sign.svg) | lodgicons | prohibition-of-wood-cutting-sign | `<Icon group="lodgicons" name="prohibition-of-wood-cutting-sign" />`
+![](./lodgicons/public-elevator-sign.svg) | lodgicons | public-elevator-sign | `<Icon group="lodgicons" name="public-elevator-sign" />`
+![](./lodgicons/public-swimming-pool-sign.svg) | lodgicons | public-swimming-pool-sign | `<Icon group="lodgicons" name="public-swimming-pool-sign" />`
+![](./lodgicons/queen-size-bed.svg) | lodgicons | queen-size-bed | `<Icon group="lodgicons" name="queen-size-bed" />`
+![](./lodgicons/question-mark-inside-a-box-outline.svg) | lodgicons | question-mark-inside-a-box-outline | `<Icon group="lodgicons" name="question-mark-inside-a-box-outline" />`
+![](./lodgicons/rack-of-tall-thin-shape-for-hanging-clothes.svg) | lodgicons | rack-of-tall-thin-shape-for-hanging-clothes | `<Icon group="lodgicons" name="rack-of-tall-thin-shape-for-hanging-clothes" />`
+![](./lodgicons/radio-of-rectangular-rounded-simple-design.svg) | lodgicons | radio-of-rectangular-rounded-simple-design | `<Icon group="lodgicons" name="radio-of-rectangular-rounded-simple-design" />`
+![](./lodgicons/radio-outline.svg) | lodgicons | radio-outline | `<Icon group="lodgicons" name="radio-outline" />`
+![](./lodgicons/radio.svg) | lodgicons | radio | `<Icon group="lodgicons" name="radio" />`
+![](./lodgicons/registered-sign.svg) | lodgicons | registered-sign | `<Icon group="lodgicons" name="registered-sign" />`
+![](./lodgicons/restaurant-locator-for-map.svg) | lodgicons | restaurant-locator-for-map | `<Icon group="lodgicons" name="restaurant-locator-for-map" />`
+![](./lodgicons/restaurant-symbol-of-utensils.svg) | lodgicons | restaurant-symbol-of-utensils | `<Icon group="lodgicons" name="restaurant-symbol-of-utensils" />`
+![](./lodgicons/room-service-signal-for-hotel-doors.svg) | lodgicons | room-service-signal-for-hotel-doors | `<Icon group="lodgicons" name="room-service-signal-for-hotel-doors" />`
+![](./lodgicons/room-service-time.svg) | lodgicons | room-service-time | `<Icon group="lodgicons" name="room-service-time" />`
+![](./lodgicons/room-service.svg) | lodgicons | room-service | `<Icon group="lodgicons" name="room-service" />`
+![](./lodgicons/roulette.svg) | lodgicons | roulette | `<Icon group="lodgicons" name="roulette" />`
+![](./lodgicons/roundabout.svg) | lodgicons | roundabout | `<Icon group="lodgicons" name="roundabout" />`
+![](./lodgicons/rss-symbol-on-tablet-screen.svg) | lodgicons | rss-symbol-on-tablet-screen | `<Icon group="lodgicons" name="rss-symbol-on-tablet-screen" />`
+![](./lodgicons/safe-box-variant-outline.svg) | lodgicons | safe-box-variant-outline | `<Icon group="lodgicons" name="safe-box-variant-outline" />`
+![](./lodgicons/safe-box-with-wheel-system.svg) | lodgicons | safe-box-with-wheel-system | `<Icon group="lodgicons" name="safe-box-with-wheel-system" />`
+![](./lodgicons/sandals-pair-outline.svg) | lodgicons | sandals-pair-outline | `<Icon group="lodgicons" name="sandals-pair-outline" />`
+![](./lodgicons/satellite-tv-monitor-symbol.svg) | lodgicons | satellite-tv-monitor-symbol | `<Icon group="lodgicons" name="satellite-tv-monitor-symbol" />`
+![](./lodgicons/search-for-transport-interface-symbol.svg) | lodgicons | search-for-transport-interface-symbol | `<Icon group="lodgicons" name="search-for-transport-interface-symbol" />`
+![](./lodgicons/security-box-closed-outline.svg) | lodgicons | security-box-closed-outline | `<Icon group="lodgicons" name="security-box-closed-outline" />`
+![](./lodgicons/security-box.svg) | lodgicons | security-box | `<Icon group="lodgicons" name="security-box" />`
+![](./lodgicons/seven-persons-or-person-number-7-symbol-outline.svg) | lodgicons | seven-persons-or-person-number-7-symbol-outline | `<Icon group="lodgicons" name="seven-persons-or-person-number-7-symbol-outline" />`
+![](./lodgicons/seven-persons-symbol.svg) | lodgicons | seven-persons-symbol | `<Icon group="lodgicons" name="seven-persons-symbol" />`
+![](./lodgicons/shopping-bag-outline.svg) | lodgicons | shopping-bag-outline | `<Icon group="lodgicons" name="shopping-bag-outline" />`
+![](./lodgicons/shopping-cart-in-a-circle.svg) | lodgicons | shopping-cart-in-a-circle | `<Icon group="lodgicons" name="shopping-cart-in-a-circle" />`
+![](./lodgicons/shopping-zone-marker.svg) | lodgicons | shopping-zone-marker | `<Icon group="lodgicons" name="shopping-zone-marker" />`
+![](./lodgicons/shower.svg) | lodgicons | shower | `<Icon group="lodgicons" name="shower" />`
+![](./lodgicons/single-bed-outline.svg) | lodgicons | single-bed-outline | `<Icon group="lodgicons" name="single-bed-outline" />`
+![](./lodgicons/single-bed.svg) | lodgicons | single-bed | `<Icon group="lodgicons" name="single-bed" />`
+![](./lodgicons/six-persons-1.svg) | lodgicons | six-persons-1 | `<Icon group="lodgicons" name="six-persons-1" />`
+![](./lodgicons/six-persons-2.svg) | lodgicons | six-persons-2 | `<Icon group="lodgicons" name="six-persons-2" />`
+![](./lodgicons/six-persons-or-person-number-6-symbol.svg) | lodgicons | six-persons-or-person-number-6-symbol | `<Icon group="lodgicons" name="six-persons-or-person-number-6-symbol" />`
+![](./lodgicons/six-persons-sign.svg) | lodgicons | six-persons-sign | `<Icon group="lodgicons" name="six-persons-sign" />`
+![](./lodgicons/six-persons.svg) | lodgicons | six-persons | `<Icon group="lodgicons" name="six-persons" />`
+![](./lodgicons/slide-to-swimming-pool-water.svg) | lodgicons | slide-to-swimming-pool-water | `<Icon group="lodgicons" name="slide-to-swimming-pool-water" />`
+![](./lodgicons/smoking-not-allowed-symbol.svg) | lodgicons | smoking-not-allowed-symbol | `<Icon group="lodgicons" name="smoking-not-allowed-symbol" />`
+![](./lodgicons/smoking-prohibition-circular-signal.svg) | lodgicons | smoking-prohibition-circular-signal | `<Icon group="lodgicons" name="smoking-prohibition-circular-signal" />`
+![](./lodgicons/snow-weather-symbol.svg) | lodgicons | snow-weather-symbol | `<Icon group="lodgicons" name="snow-weather-symbol" />`
+![](./lodgicons/snowflake-weather-symbol.svg) | lodgicons | snowflake-weather-symbol | `<Icon group="lodgicons" name="snowflake-weather-symbol" />`
+![](./lodgicons/soccer-ball-outline.svg) | lodgicons | soccer-ball-outline | `<Icon group="lodgicons" name="soccer-ball-outline" />`
+![](./lodgicons/sofa-of-one-place-outline.svg) | lodgicons | sofa-of-one-place-outline | `<Icon group="lodgicons" name="sofa-of-one-place-outline" />`
+![](./lodgicons/sofa-of-three-places-outline.svg) | lodgicons | sofa-of-three-places-outline | `<Icon group="lodgicons" name="sofa-of-three-places-outline" />`
+![](./lodgicons/spoon-fork-and-knive-silhouettes-restaurant-symbol.svg) | lodgicons | spoon-fork-and-knive-silhouettes-restaurant-symbol | `<Icon group="lodgicons" name="spoon-fork-and-knive-silhouettes-restaurant-symbol" />`
+![](./lodgicons/stair-of-a-swimming-pool.svg) | lodgicons | stair-of-a-swimming-pool | `<Icon group="lodgicons" name="stair-of-a-swimming-pool" />`
+![](./lodgicons/stairs-in-a-square-sign.svg) | lodgicons | stairs-in-a-square-sign | `<Icon group="lodgicons" name="stairs-in-a-square-sign" />`
+![](./lodgicons/star-for-number-one.svg) | lodgicons | star-for-number-one | `<Icon group="lodgicons" name="star-for-number-one" />`
+![](./lodgicons/star-number-3.svg) | lodgicons | star-number-3 | `<Icon group="lodgicons" name="star-number-3" />`
+![](./lodgicons/star-number-five.svg) | lodgicons | star-number-five | `<Icon group="lodgicons" name="star-number-five" />`
+![](./lodgicons/star-outline-in-a-circle-line.svg) | lodgicons | star-outline-in-a-circle-line | `<Icon group="lodgicons" name="star-outline-in-a-circle-line" />`
+![](./lodgicons/star-outline-of-five-points.svg) | lodgicons | star-outline-of-five-points | `<Icon group="lodgicons" name="star-outline-of-five-points" />`
+![](./lodgicons/star-with-number-4.svg) | lodgicons | star-with-number-4 | `<Icon group="lodgicons" name="star-with-number-4" />`
+![](./lodgicons/star-with-number-two.svg) | lodgicons | star-with-number-two | `<Icon group="lodgicons" name="star-with-number-two" />`
+![](./lodgicons/store-with-open-signal.svg) | lodgicons | store-with-open-signal | `<Icon group="lodgicons" name="store-with-open-signal" />`
+![](./lodgicons/sweet-bread-in-a-square.svg) | lodgicons | sweet-bread-in-a-square | `<Icon group="lodgicons" name="sweet-bread-in-a-square" />`
+![](./lodgicons/swimmer-in-water-waves-under-the-sun.svg) | lodgicons | swimmer-in-water-waves-under-the-sun | `<Icon group="lodgicons" name="swimmer-in-water-waves-under-the-sun" />`
+![](./lodgicons/swimmer-swimming-in-an-interior-covered-swimming-pool.svg) | lodgicons | swimmer-swimming-in-an-interior-covered-swimming-pool | `<Icon group="lodgicons" name="swimmer-swimming-in-an-interior-covered-swimming-pool" />`
+![](./lodgicons/swimming-pool-covered-with-roof.svg) | lodgicons | swimming-pool-covered-with-roof | `<Icon group="lodgicons" name="swimming-pool-covered-with-roof" />`
+![](./lodgicons/swimming-pool-location-marker-for-maps.svg) | lodgicons | swimming-pool-location-marker-for-maps | `<Icon group="lodgicons" name="swimming-pool-location-marker-for-maps" />`
+![](./lodgicons/swimming-pool-location-marker.svg) | lodgicons | swimming-pool-location-marker | `<Icon group="lodgicons" name="swimming-pool-location-marker" />`
+![](./lodgicons/swimming-pool-opened-under-sunlight.svg) | lodgicons | swimming-pool-opened-under-sunlight | `<Icon group="lodgicons" name="swimming-pool-opened-under-sunlight" />`
+![](./lodgicons/swimming-pool-roofless-under-the-sun.svg) | lodgicons | swimming-pool-roofless-under-the-sun | `<Icon group="lodgicons" name="swimming-pool-roofless-under-the-sun" />`
+![](./lodgicons/swimming-pool-signal.svg) | lodgicons | swimming-pool-signal | `<Icon group="lodgicons" name="swimming-pool-signal" />`
+![](./lodgicons/swimming-pool-water-waves-with-ladder.svg) | lodgicons | swimming-pool-water-waves-with-ladder | `<Icon group="lodgicons" name="swimming-pool-water-waves-with-ladder" />`
+![](./lodgicons/swimming-pool-zone-marker.svg) | lodgicons | swimming-pool-zone-marker | `<Icon group="lodgicons" name="swimming-pool-zone-marker" />`
+![](./lodgicons/taxi-cab.svg) | lodgicons | taxi-cab | `<Icon group="lodgicons" name="taxi-cab" />`
+![](./lodgicons/taxi-outline.svg) | lodgicons | taxi-outline | `<Icon group="lodgicons" name="taxi-outline" />`
+![](./lodgicons/telephone-24-hours-sign.svg) | lodgicons | telephone-24-hours-sign | `<Icon group="lodgicons" name="telephone-24-hours-sign" />`
+![](./lodgicons/telephone-auricular-outline.svg) | lodgicons | telephone-auricular-outline | `<Icon group="lodgicons" name="telephone-auricular-outline" />`
+![](./lodgicons/telephone-outline-from-top-view.svg) | lodgicons | telephone-outline-from-top-view | `<Icon group="lodgicons" name="telephone-outline-from-top-view" />`
+![](./lodgicons/tennis-ball-and-raquet.svg) | lodgicons | tennis-ball-and-raquet | `<Icon group="lodgicons" name="tennis-ball-and-raquet" />`
+![](./lodgicons/tennis-racket-and-ball.svg) | lodgicons | tennis-racket-and-ball | `<Icon group="lodgicons" name="tennis-racket-and-ball" />`
+![](./lodgicons/tennis-raquet-and-ball.svg) | lodgicons | tennis-raquet-and-ball | `<Icon group="lodgicons" name="tennis-raquet-and-ball" />`
+![](./lodgicons/three-persons-sign.svg) | lodgicons | three-persons-sign | `<Icon group="lodgicons" name="three-persons-sign" />`
+![](./lodgicons/three-persons-silhouettes.svg) | lodgicons | three-persons-silhouettes | `<Icon group="lodgicons" name="three-persons-silhouettes" />`
+![](./lodgicons/three-persons.svg) | lodgicons | three-persons | `<Icon group="lodgicons" name="three-persons" />`
+![](./lodgicons/three-stars-hotel-sign.svg) | lodgicons | three-stars-hotel-sign | `<Icon group="lodgicons" name="three-stars-hotel-sign" />`
+![](./lodgicons/toaster-outline-tool.svg) | lodgicons | toaster-outline-tool | `<Icon group="lodgicons" name="toaster-outline-tool" />`
+![](./lodgicons/toilet-black-silhouette.svg) | lodgicons | toilet-black-silhouette | `<Icon group="lodgicons" name="toilet-black-silhouette" />`
+![](./lodgicons/toilet-hanging-sign.svg) | lodgicons | toilet-hanging-sign | `<Icon group="lodgicons" name="toilet-hanging-sign" />`
+![](./lodgicons/toilet-outline-in-a-square.svg) | lodgicons | toilet-outline-in-a-square | `<Icon group="lodgicons" name="toilet-outline-in-a-square" />`
+![](./lodgicons/towels-sale-symbol-with-dollar-sign.svg) | lodgicons | towels-sale-symbol-with-dollar-sign | `<Icon group="lodgicons" name="towels-sale-symbol-with-dollar-sign" />`
+![](./lodgicons/towels-with-checked-symbol.svg) | lodgicons | towels-with-checked-symbol | `<Icon group="lodgicons" name="towels-with-checked-symbol" />`
+![](./lodgicons/traveler-and-hotel-bed-outline.svg) | lodgicons | traveler-and-hotel-bed-outline | `<Icon group="lodgicons" name="traveler-and-hotel-bed-outline" />`
+![](./lodgicons/tub.svg) | lodgicons | tub | `<Icon group="lodgicons" name="tub" />`
+![](./lodgicons/tv-monitor.svg) | lodgicons | tv-monitor | `<Icon group="lodgicons" name="tv-monitor" />`
+![](./lodgicons/two-persons-or-person-number-two.svg) | lodgicons | two-persons-or-person-number-two | `<Icon group="lodgicons" name="two-persons-or-person-number-two" />`
+![](./lodgicons/two-persons-signal.svg) | lodgicons | two-persons-signal | `<Icon group="lodgicons" name="two-persons-signal" />`
+![](./lodgicons/two-persons-silhouettes.svg) | lodgicons | two-persons-silhouettes | `<Icon group="lodgicons" name="two-persons-silhouettes" />`
+![](./lodgicons/two-persons-symbol-1.svg) | lodgicons | two-persons-symbol-1 | `<Icon group="lodgicons" name="two-persons-symbol-1" />`
+![](./lodgicons/two-persons-symbol.svg) | lodgicons | two-persons-symbol | `<Icon group="lodgicons" name="two-persons-symbol" />`
+![](./lodgicons/two-stars-sign.svg) | lodgicons | two-stars-sign | `<Icon group="lodgicons" name="two-stars-sign" />`
+![](./lodgicons/umbrella-opened-outline.svg) | lodgicons | umbrella-opened-outline | `<Icon group="lodgicons" name="umbrella-opened-outline" />`
+![](./lodgicons/up-stairs-square-signal.svg) | lodgicons | up-stairs-square-signal | `<Icon group="lodgicons" name="up-stairs-square-signal" />`
+![](./lodgicons/urban-rest-hotel-sign-with-minus-symbol.svg) | lodgicons | urban-rest-hotel-sign-with-minus-symbol | `<Icon group="lodgicons" name="urban-rest-hotel-sign-with-minus-symbol" />`
+![](./lodgicons/vacancy-sign.svg) | lodgicons | vacancy-sign | `<Icon group="lodgicons" name="vacancy-sign" />`
+![](./lodgicons/ventilation-of-bedroom.svg) | lodgicons | ventilation-of-bedroom | `<Icon group="lodgicons" name="ventilation-of-bedroom" />`
+![](./lodgicons/washing-machine.svg) | lodgicons | washing-machine | `<Icon group="lodgicons" name="washing-machine" />`
+![](./lodgicons/wifi-usb-device-outline.svg) | lodgicons | wifi-usb-device-outline | `<Icon group="lodgicons" name="wifi-usb-device-outline" />`
+![](./lodgicons/wifi-zone-marker.svg) | lodgicons | wifi-zone-marker | `<Icon group="lodgicons" name="wifi-zone-marker" />`
+![](./lodgicons/wifi-zone-rectangular-signal.svg) | lodgicons | wifi-zone-rectangular-signal | `<Icon group="lodgicons" name="wifi-zone-rectangular-signal" />`
+![](./lodgicons/wifi-zone-symbol.svg) | lodgicons | wifi-zone-symbol | `<Icon group="lodgicons" name="wifi-zone-symbol" />`
+![](./lodgicons/wine-locator.svg) | lodgicons | wine-locator | `<Icon group="lodgicons" name="wine-locator" />`
+![](./lodgicons/yen-bills.svg) | lodgicons | yen-bills | `<Icon group="lodgicons" name="yen-bills" />`

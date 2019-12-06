@@ -1,5 +1,6 @@
- | name | group | usage
+## menu
+ image | group | name | usage
 --|--|--
-![](./menu/Groups.svg =30x30) | Groups | menu | <Icon group="menu" name="Groups" />
-![](./menu/Quiz.svg =30x30) | Quiz | menu | <Icon group="menu" name="Quiz" />
-![](./menu/Words.svg =30x30) | Words | menu | <Icon group="menu" name="Words" />
+![](./menu/Groups.svg) | menu | Groups | `<Icon group="menu" name="Groups" />`
+![](./menu/Quiz.svg) | menu | Quiz | `<Icon group="menu" name="Quiz" />`
+![](./menu/Words.svg) | menu | Words | `<Icon group="menu" name="Words" />`
