@@ -2,383 +2,383 @@
 
 |image | group | name | usage
 |--|--|--
-| <dl><img src="./essential/add-1.svg" alt="add-1" width="25" height="25"/></dl> | essential | add-1 | `<Icon group="essential" name="add-1" />`
-| <dl><img src="./essential/add-2.svg" alt="add-2" width="25" height="25"/></dl> | essential | add-2 | `<Icon group="essential" name="add-2" />`
-| <dl><img src="./essential/add-3.svg" alt="add-3" width="25" height="25"/></dl> | essential | add-3 | `<Icon group="essential" name="add-3" />`
-| <dl><img src="./essential/add.svg" alt="add" width="25" height="25"/></dl> | essential | add | `<Icon group="essential" name="add" />`
-| <dl><img src="./essential/agenda.svg" alt="agenda" width="25" height="25"/></dl> | essential | agenda | `<Icon group="essential" name="agenda" />`
-| <dl><img src="./essential/alarm-1.svg" alt="alarm-1" width="25" height="25"/></dl> | essential | alarm-1 | `<Icon group="essential" name="alarm-1" />`
-| <dl><img src="./essential/alarm-clock-1.svg" alt="alarm-clock-1" width="25" height="25"/></dl> | essential | alarm-clock-1 | `<Icon group="essential" name="alarm-clock-1" />`
-| <dl><img src="./essential/alarm-clock.svg" alt="alarm-clock" width="25" height="25"/></dl> | essential | alarm-clock | `<Icon group="essential" name="alarm-clock" />`
-| <dl><img src="./essential/alarm.svg" alt="alarm" width="25" height="25"/></dl> | essential | alarm | `<Icon group="essential" name="alarm" />`
-| <dl><img src="./essential/albums.svg" alt="albums" width="25" height="25"/></dl> | essential | albums | `<Icon group="essential" name="albums" />`
-| <dl><img src="./essential/app.svg" alt="app" width="25" height="25"/></dl> | essential | app | `<Icon group="essential" name="app" />`
-| <dl><img src="./essential/archive-1.svg" alt="archive-1" width="25" height="25"/></dl> | essential | archive-1 | `<Icon group="essential" name="archive-1" />`
-| <dl><img src="./essential/archive-2.svg" alt="archive-2" width="25" height="25"/></dl> | essential | archive-2 | `<Icon group="essential" name="archive-2" />`
-| <dl><img src="./essential/archive-3.svg" alt="archive-3" width="25" height="25"/></dl> | essential | archive-3 | `<Icon group="essential" name="archive-3" />`
-| <dl><img src="./essential/archive.svg" alt="archive" width="25" height="25"/></dl> | essential | archive | `<Icon group="essential" name="archive" />`
-| <dl><img src="./essential/attachment.svg" alt="attachment" width="25" height="25"/></dl> | essential | attachment | `<Icon group="essential" name="attachment" />`
-| <dl><img src="./essential/back.svg" alt="back" width="25" height="25"/></dl> | essential | back | `<Icon group="essential" name="back" />`
-| <dl><img src="./essential/battery-1.svg" alt="battery-1" width="25" height="25"/></dl> | essential | battery-1 | `<Icon group="essential" name="battery-1" />`
-| <dl><img src="./essential/battery-2.svg" alt="battery-2" width="25" height="25"/></dl> | essential | battery-2 | `<Icon group="essential" name="battery-2" />`
-| <dl><img src="./essential/battery-3.svg" alt="battery-3" width="25" height="25"/></dl> | essential | battery-3 | `<Icon group="essential" name="battery-3" />`
-| <dl><img src="./essential/battery-4.svg" alt="battery-4" width="25" height="25"/></dl> | essential | battery-4 | `<Icon group="essential" name="battery-4" />`
-| <dl><img src="./essential/battery-5.svg" alt="battery-5" width="25" height="25"/></dl> | essential | battery-5 | `<Icon group="essential" name="battery-5" />`
-| <dl><img src="./essential/battery-6.svg" alt="battery-6" width="25" height="25"/></dl> | essential | battery-6 | `<Icon group="essential" name="battery-6" />`
-| <dl><img src="./essential/battery-7.svg" alt="battery-7" width="25" height="25"/></dl> | essential | battery-7 | `<Icon group="essential" name="battery-7" />`
-| <dl><img src="./essential/battery-8.svg" alt="battery-8" width="25" height="25"/></dl> | essential | battery-8 | `<Icon group="essential" name="battery-8" />`
-| <dl><img src="./essential/battery-9.svg" alt="battery-9" width="25" height="25"/></dl> | essential | battery-9 | `<Icon group="essential" name="battery-9" />`
-| <dl><img src="./essential/battery.svg" alt="battery" width="25" height="25"/></dl> | essential | battery | `<Icon group="essential" name="battery" />`
-| <dl><img src="./essential/binoculars.svg" alt="binoculars" width="25" height="25"/></dl> | essential | binoculars | `<Icon group="essential" name="binoculars" />`
-| <dl><img src="./essential/blueprint.svg" alt="blueprint" width="25" height="25"/></dl> | essential | blueprint | `<Icon group="essential" name="blueprint" />`
-| <dl><img src="./essential/bluetooth-1.svg" alt="bluetooth-1" width="25" height="25"/></dl> | essential | bluetooth-1 | `<Icon group="essential" name="bluetooth-1" />`
-| <dl><img src="./essential/bluetooth.svg" alt="bluetooth" width="25" height="25"/></dl> | essential | bluetooth | `<Icon group="essential" name="bluetooth" />`
-| <dl><img src="./essential/bookmark-1.svg" alt="bookmark-1" width="25" height="25"/></dl> | essential | bookmark-1 | `<Icon group="essential" name="bookmark-1" />`
-| <dl><img src="./essential/bookmark.svg" alt="bookmark" width="25" height="25"/></dl> | essential | bookmark | `<Icon group="essential" name="bookmark" />`
-| <dl><img src="./essential/briefcase.svg" alt="briefcase" width="25" height="25"/></dl> | essential | briefcase | `<Icon group="essential" name="briefcase" />`
-| <dl><img src="./essential/broken-link.svg" alt="broken-link" width="25" height="25"/></dl> | essential | broken-link | `<Icon group="essential" name="broken-link" />`
-| <dl><img src="./essential/calculator-1.svg" alt="calculator-1" width="25" height="25"/></dl> | essential | calculator-1 | `<Icon group="essential" name="calculator-1" />`
-| <dl><img src="./essential/calculator.svg" alt="calculator" width="25" height="25"/></dl> | essential | calculator | `<Icon group="essential" name="calculator" />`
-| <dl><img src="./essential/calendar-1.svg" alt="calendar-1" width="25" height="25"/></dl> | essential | calendar-1 | `<Icon group="essential" name="calendar-1" />`
-| <dl><img src="./essential/calendar-2.svg" alt="calendar-2" width="25" height="25"/></dl> | essential | calendar-2 | `<Icon group="essential" name="calendar-2" />`
-| <dl><img src="./essential/calendar-3.svg" alt="calendar-3" width="25" height="25"/></dl> | essential | calendar-3 | `<Icon group="essential" name="calendar-3" />`
-| <dl><img src="./essential/calendar-4.svg" alt="calendar-4" width="25" height="25"/></dl> | essential | calendar-4 | `<Icon group="essential" name="calendar-4" />`
-| <dl><img src="./essential/calendar-5.svg" alt="calendar-5" width="25" height="25"/></dl> | essential | calendar-5 | `<Icon group="essential" name="calendar-5" />`
-| <dl><img src="./essential/calendar-6.svg" alt="calendar-6" width="25" height="25"/></dl> | essential | calendar-6 | `<Icon group="essential" name="calendar-6" />`
-| <dl><img src="./essential/calendar-7.svg" alt="calendar-7" width="25" height="25"/></dl> | essential | calendar-7 | `<Icon group="essential" name="calendar-7" />`
-| <dl><img src="./essential/calendar.svg" alt="calendar" width="25" height="25"/></dl> | essential | calendar | `<Icon group="essential" name="calendar" />`
-| <dl><img src="./essential/checked-1.svg" alt="checked-1" width="25" height="25"/></dl> | essential | checked-1 | `<Icon group="essential" name="checked-1" />`
-| <dl><img src="./essential/checked.svg" alt="checked" width="25" height="25"/></dl> | essential | checked | `<Icon group="essential" name="checked" />`
-| <dl><img src="./essential/clock-1.svg" alt="clock-1" width="25" height="25"/></dl> | essential | clock-1 | `<Icon group="essential" name="clock-1" />`
-| <dl><img src="./essential/clock.svg" alt="clock" width="25" height="25"/></dl> | essential | clock | `<Icon group="essential" name="clock" />`
-| <dl><img src="./essential/close.svg" alt="close" width="25" height="25"/></dl> | essential | close | `<Icon group="essential" name="close" />`
-| <dl><img src="./essential/cloud-computing-1.svg" alt="cloud-computing-1" width="25" height="25"/></dl> | essential | cloud-computing-1 | `<Icon group="essential" name="cloud-computing-1" />`
-| <dl><img src="./essential/cloud-computing-2.svg" alt="cloud-computing-2" width="25" height="25"/></dl> | essential | cloud-computing-2 | `<Icon group="essential" name="cloud-computing-2" />`
-| <dl><img src="./essential/cloud-computing-3.svg" alt="cloud-computing-3" width="25" height="25"/></dl> | essential | cloud-computing-3 | `<Icon group="essential" name="cloud-computing-3" />`
-| <dl><img src="./essential/cloud-computing-4.svg" alt="cloud-computing-4" width="25" height="25"/></dl> | essential | cloud-computing-4 | `<Icon group="essential" name="cloud-computing-4" />`
-| <dl><img src="./essential/cloud-computing-5.svg" alt="cloud-computing-5" width="25" height="25"/></dl> | essential | cloud-computing-5 | `<Icon group="essential" name="cloud-computing-5" />`
-| <dl><img src="./essential/cloud-computing.svg" alt="cloud-computing" width="25" height="25"/></dl> | essential | cloud-computing | `<Icon group="essential" name="cloud-computing" />`
-| <dl><img src="./essential/cloud.svg" alt="cloud" width="25" height="25"/></dl> | essential | cloud | `<Icon group="essential" name="cloud" />`
-| <dl><img src="./essential/command.svg" alt="command" width="25" height="25"/></dl> | essential | command | `<Icon group="essential" name="command" />`
-| <dl><img src="./essential/compact-disc-1.svg" alt="compact-disc-1" width="25" height="25"/></dl> | essential | compact-disc-1 | `<Icon group="essential" name="compact-disc-1" />`
-| <dl><img src="./essential/compact-disc-2.svg" alt="compact-disc-2" width="25" height="25"/></dl> | essential | compact-disc-2 | `<Icon group="essential" name="compact-disc-2" />`
-| <dl><img src="./essential/compact-disc.svg" alt="compact-disc" width="25" height="25"/></dl> | essential | compact-disc | `<Icon group="essential" name="compact-disc" />`
-| <dl><img src="./essential/compass.svg" alt="compass" width="25" height="25"/></dl> | essential | compass | `<Icon group="essential" name="compass" />`
-| <dl><img src="./essential/compose.svg" alt="compose" width="25" height="25"/></dl> | essential | compose | `<Icon group="essential" name="compose" />`
-| <dl><img src="./essential/controls-1.svg" alt="controls-1" width="25" height="25"/></dl> | essential | controls-1 | `<Icon group="essential" name="controls-1" />`
-| <dl><img src="./essential/controls-2.svg" alt="controls-2" width="25" height="25"/></dl> | essential | controls-2 | `<Icon group="essential" name="controls-2" />`
-| <dl><img src="./essential/controls-3.svg" alt="controls-3" width="25" height="25"/></dl> | essential | controls-3 | `<Icon group="essential" name="controls-3" />`
-| <dl><img src="./essential/controls-4.svg" alt="controls-4" width="25" height="25"/></dl> | essential | controls-4 | `<Icon group="essential" name="controls-4" />`
-| <dl><img src="./essential/controls-5.svg" alt="controls-5" width="25" height="25"/></dl> | essential | controls-5 | `<Icon group="essential" name="controls-5" />`
-| <dl><img src="./essential/controls-6.svg" alt="controls-6" width="25" height="25"/></dl> | essential | controls-6 | `<Icon group="essential" name="controls-6" />`
-| <dl><img src="./essential/controls-7.svg" alt="controls-7" width="25" height="25"/></dl> | essential | controls-7 | `<Icon group="essential" name="controls-7" />`
-| <dl><img src="./essential/controls-8.svg" alt="controls-8" width="25" height="25"/></dl> | essential | controls-8 | `<Icon group="essential" name="controls-8" />`
-| <dl><img src="./essential/controls-9.svg" alt="controls-9" width="25" height="25"/></dl> | essential | controls-9 | `<Icon group="essential" name="controls-9" />`
-| <dl><img src="./essential/controls.svg" alt="controls" width="25" height="25"/></dl> | essential | controls | `<Icon group="essential" name="controls" />`
-| <dl><img src="./essential/database-1.svg" alt="database-1" width="25" height="25"/></dl> | essential | database-1 | `<Icon group="essential" name="database-1" />`
-| <dl><img src="./essential/database-2.svg" alt="database-2" width="25" height="25"/></dl> | essential | database-2 | `<Icon group="essential" name="database-2" />`
-| <dl><img src="./essential/database-3.svg" alt="database-3" width="25" height="25"/></dl> | essential | database-3 | `<Icon group="essential" name="database-3" />`
-| <dl><img src="./essential/database.svg" alt="database" width="25" height="25"/></dl> | essential | database | `<Icon group="essential" name="database" />`
-| <dl><img src="./essential/diamond.svg" alt="diamond" width="25" height="25"/></dl> | essential | diamond | `<Icon group="essential" name="diamond" />`
-| <dl><img src="./essential/diploma.svg" alt="diploma" width="25" height="25"/></dl> | essential | diploma | `<Icon group="essential" name="diploma" />`
-| <dl><img src="./essential/dislike-1.svg" alt="dislike-1" width="25" height="25"/></dl> | essential | dislike-1 | `<Icon group="essential" name="dislike-1" />`
-| <dl><img src="./essential/dislike.svg" alt="dislike" width="25" height="25"/></dl> | essential | dislike | `<Icon group="essential" name="dislike" />`
-| <dl><img src="./essential/divide-1.svg" alt="divide-1" width="25" height="25"/></dl> | essential | divide-1 | `<Icon group="essential" name="divide-1" />`
-| <dl><img src="./essential/divide.svg" alt="divide" width="25" height="25"/></dl> | essential | divide | `<Icon group="essential" name="divide" />`
-| <dl><img src="./essential/division.svg" alt="division" width="25" height="25"/></dl> | essential | division | `<Icon group="essential" name="division" />`
-| <dl><img src="./essential/document.svg" alt="document" width="25" height="25"/></dl> | essential | document | `<Icon group="essential" name="document" />`
-| <dl><img src="./essential/download.svg" alt="download" width="25" height="25"/></dl> | essential | download | `<Icon group="essential" name="download" />`
-| <dl><img src="./essential/edit-1.svg" alt="edit-1" width="25" height="25"/></dl> | essential | edit-1 | `<Icon group="essential" name="edit-1" />`
-| <dl><img src="./essential/edit.svg" alt="edit" width="25" height="25"/></dl> | essential | edit | `<Icon group="essential" name="edit" />`
-| <dl><img src="./essential/eject-1.svg" alt="eject-1" width="25" height="25"/></dl> | essential | eject-1 | `<Icon group="essential" name="eject-1" />`
-| <dl><img src="./essential/eject.svg" alt="eject" width="25" height="25"/></dl> | essential | eject | `<Icon group="essential" name="eject" />`
-| <dl><img src="./essential/equal-1.svg" alt="equal-1" width="25" height="25"/></dl> | essential | equal-1 | `<Icon group="essential" name="equal-1" />`
-| <dl><img src="./essential/equal-2.svg" alt="equal-2" width="25" height="25"/></dl> | essential | equal-2 | `<Icon group="essential" name="equal-2" />`
-| <dl><img src="./essential/equal.svg" alt="equal" width="25" height="25"/></dl> | essential | equal | `<Icon group="essential" name="equal" />`
-| <dl><img src="./essential/error.svg" alt="error" width="25" height="25"/></dl> | essential | error | `<Icon group="essential" name="error" />`
-| <dl><img src="./essential/exit-1.svg" alt="exit-1" width="25" height="25"/></dl> | essential | exit-1 | `<Icon group="essential" name="exit-1" />`
-| <dl><img src="./essential/exit-2.svg" alt="exit-2" width="25" height="25"/></dl> | essential | exit-2 | `<Icon group="essential" name="exit-2" />`
-| <dl><img src="./essential/exit.svg" alt="exit" width="25" height="25"/></dl> | essential | exit | `<Icon group="essential" name="exit" />`
-| <dl><img src="./essential/eyeglasses.svg" alt="eyeglasses" width="25" height="25"/></dl> | essential | eyeglasses | `<Icon group="essential" name="eyeglasses" />`
-| <dl><img src="./essential/fast-forward-1.svg" alt="fast-forward-1" width="25" height="25"/></dl> | essential | fast-forward-1 | `<Icon group="essential" name="fast-forward-1" />`
-| <dl><img src="./essential/fast-forward.svg" alt="fast-forward" width="25" height="25"/></dl> | essential | fast-forward | `<Icon group="essential" name="fast-forward" />`
-| <dl><img src="./essential/fax.svg" alt="fax" width="25" height="25"/></dl> | essential | fax | `<Icon group="essential" name="fax" />`
-| <dl><img src="./essential/file-1.svg" alt="file-1" width="25" height="25"/></dl> | essential | file-1 | `<Icon group="essential" name="file-1" />`
-| <dl><img src="./essential/file-2.svg" alt="file-2" width="25" height="25"/></dl> | essential | file-2 | `<Icon group="essential" name="file-2" />`
-| <dl><img src="./essential/file.svg" alt="file" width="25" height="25"/></dl> | essential | file | `<Icon group="essential" name="file" />`
-| <dl><img src="./essential/film.svg" alt="film" width="25" height="25"/></dl> | essential | film | `<Icon group="essential" name="film" />`
-| <dl><img src="./essential/fingerprint.svg" alt="fingerprint" width="25" height="25"/></dl> | essential | fingerprint | `<Icon group="essential" name="fingerprint" />`
-| <dl><img src="./essential/flag-1.svg" alt="flag-1" width="25" height="25"/></dl> | essential | flag-1 | `<Icon group="essential" name="flag-1" />`
-| <dl><img src="./essential/flag-2.svg" alt="flag-2" width="25" height="25"/></dl> | essential | flag-2 | `<Icon group="essential" name="flag-2" />`
-| <dl><img src="./essential/flag-3.svg" alt="flag-3" width="25" height="25"/></dl> | essential | flag-3 | `<Icon group="essential" name="flag-3" />`
-| <dl><img src="./essential/flag-4.svg" alt="flag-4" width="25" height="25"/></dl> | essential | flag-4 | `<Icon group="essential" name="flag-4" />`
-| <dl><img src="./essential/flag.svg" alt="flag" width="25" height="25"/></dl> | essential | flag | `<Icon group="essential" name="flag" />`
-| <dl><img src="./essential/focus.svg" alt="focus" width="25" height="25"/></dl> | essential | focus | `<Icon group="essential" name="focus" />`
-| <dl><img src="./essential/folder-1.svg" alt="folder-1" width="25" height="25"/></dl> | essential | folder-1 | `<Icon group="essential" name="folder-1" />`
-| <dl><img src="./essential/folder-10.svg" alt="folder-10" width="25" height="25"/></dl> | essential | folder-10 | `<Icon group="essential" name="folder-10" />`
-| <dl><img src="./essential/folder-11.svg" alt="folder-11" width="25" height="25"/></dl> | essential | folder-11 | `<Icon group="essential" name="folder-11" />`
-| <dl><img src="./essential/folder-12.svg" alt="folder-12" width="25" height="25"/></dl> | essential | folder-12 | `<Icon group="essential" name="folder-12" />`
-| <dl><img src="./essential/folder-13.svg" alt="folder-13" width="25" height="25"/></dl> | essential | folder-13 | `<Icon group="essential" name="folder-13" />`
-| <dl><img src="./essential/folder-14.svg" alt="folder-14" width="25" height="25"/></dl> | essential | folder-14 | `<Icon group="essential" name="folder-14" />`
-| <dl><img src="./essential/folder-15.svg" alt="folder-15" width="25" height="25"/></dl> | essential | folder-15 | `<Icon group="essential" name="folder-15" />`
-| <dl><img src="./essential/folder-16.svg" alt="folder-16" width="25" height="25"/></dl> | essential | folder-16 | `<Icon group="essential" name="folder-16" />`
-| <dl><img src="./essential/folder-17.svg" alt="folder-17" width="25" height="25"/></dl> | essential | folder-17 | `<Icon group="essential" name="folder-17" />`
-| <dl><img src="./essential/folder-18.svg" alt="folder-18" width="25" height="25"/></dl> | essential | folder-18 | `<Icon group="essential" name="folder-18" />`
-| <dl><img src="./essential/folder-19.svg" alt="folder-19" width="25" height="25"/></dl> | essential | folder-19 | `<Icon group="essential" name="folder-19" />`
-| <dl><img src="./essential/folder-2.svg" alt="folder-2" width="25" height="25"/></dl> | essential | folder-2 | `<Icon group="essential" name="folder-2" />`
-| <dl><img src="./essential/folder-3.svg" alt="folder-3" width="25" height="25"/></dl> | essential | folder-3 | `<Icon group="essential" name="folder-3" />`
-| <dl><img src="./essential/folder-4.svg" alt="folder-4" width="25" height="25"/></dl> | essential | folder-4 | `<Icon group="essential" name="folder-4" />`
-| <dl><img src="./essential/folder-5.svg" alt="folder-5" width="25" height="25"/></dl> | essential | folder-5 | `<Icon group="essential" name="folder-5" />`
-| <dl><img src="./essential/folder-6.svg" alt="folder-6" width="25" height="25"/></dl> | essential | folder-6 | `<Icon group="essential" name="folder-6" />`
-| <dl><img src="./essential/folder-7.svg" alt="folder-7" width="25" height="25"/></dl> | essential | folder-7 | `<Icon group="essential" name="folder-7" />`
-| <dl><img src="./essential/folder-8.svg" alt="folder-8" width="25" height="25"/></dl> | essential | folder-8 | `<Icon group="essential" name="folder-8" />`
-| <dl><img src="./essential/folder-9.svg" alt="folder-9" width="25" height="25"/></dl> | essential | folder-9 | `<Icon group="essential" name="folder-9" />`
-| <dl><img src="./essential/folder.svg" alt="folder" width="25" height="25"/></dl> | essential | folder | `<Icon group="essential" name="folder" />`
-| <dl><img src="./essential/forbidden.svg" alt="forbidden" width="25" height="25"/></dl> | essential | forbidden | `<Icon group="essential" name="forbidden" />`
-| <dl><img src="./essential/funnel.svg" alt="funnel" width="25" height="25"/></dl> | essential | funnel | `<Icon group="essential" name="funnel" />`
-| <dl><img src="./essential/garbage-1.svg" alt="garbage-1" width="25" height="25"/></dl> | essential | garbage-1 | `<Icon group="essential" name="garbage-1" />`
-| <dl><img src="./essential/garbage-2.svg" alt="garbage-2" width="25" height="25"/></dl> | essential | garbage-2 | `<Icon group="essential" name="garbage-2" />`
-| <dl><img src="./essential/garbage.svg" alt="garbage" width="25" height="25"/></dl> | essential | garbage | `<Icon group="essential" name="garbage" />`
-| <dl><img src="./essential/gift.svg" alt="gift" width="25" height="25"/></dl> | essential | gift | `<Icon group="essential" name="gift" />`
-| <dl><img src="./essential/help.svg" alt="help" width="25" height="25"/></dl> | essential | help | `<Icon group="essential" name="help" />`
-| <dl><img src="./essential/hide.svg" alt="hide" width="25" height="25"/></dl> | essential | hide | `<Icon group="essential" name="hide" />`
-| <dl><img src="./essential/hold.svg" alt="hold" width="25" height="25"/></dl> | essential | hold | `<Icon group="essential" name="hold" />`
-| <dl><img src="./essential/home-1.svg" alt="home-1" width="25" height="25"/></dl> | essential | home-1 | `<Icon group="essential" name="home-1" />`
-| <dl><img src="./essential/home-2.svg" alt="home-2" width="25" height="25"/></dl> | essential | home-2 | `<Icon group="essential" name="home-2" />`
-| <dl><img src="./essential/home.svg" alt="home" width="25" height="25"/></dl> | essential | home | `<Icon group="essential" name="home" />`
-| <dl><img src="./essential/hourglass-1.svg" alt="hourglass-1" width="25" height="25"/></dl> | essential | hourglass-1 | `<Icon group="essential" name="hourglass-1" />`
-| <dl><img src="./essential/hourglass-2.svg" alt="hourglass-2" width="25" height="25"/></dl> | essential | hourglass-2 | `<Icon group="essential" name="hourglass-2" />`
-| <dl><img src="./essential/hourglass-3.svg" alt="hourglass-3" width="25" height="25"/></dl> | essential | hourglass-3 | `<Icon group="essential" name="hourglass-3" />`
-| <dl><img src="./essential/hourglass.svg" alt="hourglass" width="25" height="25"/></dl> | essential | hourglass | `<Icon group="essential" name="hourglass" />`
-| <dl><img src="./essential/house.svg" alt="house" width="25" height="25"/></dl> | essential | house | `<Icon group="essential" name="house" />`
-| <dl><img src="./essential/id-card-1.svg" alt="id-card-1" width="25" height="25"/></dl> | essential | id-card-1 | `<Icon group="essential" name="id-card-1" />`
-| <dl><img src="./essential/id-card-2.svg" alt="id-card-2" width="25" height="25"/></dl> | essential | id-card-2 | `<Icon group="essential" name="id-card-2" />`
-| <dl><img src="./essential/id-card-3.svg" alt="id-card-3" width="25" height="25"/></dl> | essential | id-card-3 | `<Icon group="essential" name="id-card-3" />`
-| <dl><img src="./essential/id-card-4.svg" alt="id-card-4" width="25" height="25"/></dl> | essential | id-card-4 | `<Icon group="essential" name="id-card-4" />`
-| <dl><img src="./essential/id-card-5.svg" alt="id-card-5" width="25" height="25"/></dl> | essential | id-card-5 | `<Icon group="essential" name="id-card-5" />`
-| <dl><img src="./essential/id-card.svg" alt="id-card" width="25" height="25"/></dl> | essential | id-card | `<Icon group="essential" name="id-card" />`
-| <dl><img src="./essential/idea.svg" alt="idea" width="25" height="25"/></dl> | essential | idea | `<Icon group="essential" name="idea" />`
-| <dl><img src="./essential/incoming.svg" alt="incoming" width="25" height="25"/></dl> | essential | incoming | `<Icon group="essential" name="incoming" />`
-| <dl><img src="./essential/infinity.svg" alt="infinity" width="25" height="25"/></dl> | essential | infinity | `<Icon group="essential" name="infinity" />`
-| <dl><img src="./essential/info.svg" alt="info" width="25" height="25"/></dl> | essential | info | `<Icon group="essential" name="info" />`
-| <dl><img src="./essential/internet.svg" alt="internet" width="25" height="25"/></dl> | essential | internet | `<Icon group="essential" name="internet" />`
-| <dl><img src="./essential/key.svg" alt="key" width="25" height="25"/></dl> | essential | key | `<Icon group="essential" name="key" />`
-| <dl><img src="./essential/lamp.svg" alt="lamp" width="25" height="25"/></dl> | essential | lamp | `<Icon group="essential" name="lamp" />`
-| <dl><img src="./essential/layers-1.svg" alt="layers-1" width="25" height="25"/></dl> | essential | layers-1 | `<Icon group="essential" name="layers-1" />`
-| <dl><img src="./essential/layers.svg" alt="layers" width="25" height="25"/></dl> | essential | layers | `<Icon group="essential" name="layers" />`
-| <dl><img src="./essential/like-1.svg" alt="like-1" width="25" height="25"/></dl> | essential | like-1 | `<Icon group="essential" name="like-1" />`
-| <dl><img src="./essential/like-2.svg" alt="like-2" width="25" height="25"/></dl> | essential | like-2 | `<Icon group="essential" name="like-2" />`
-| <dl><img src="./essential/like.svg" alt="like" width="25" height="25"/></dl> | essential | like | `<Icon group="essential" name="like" />`
-| <dl><img src="./essential/link.svg" alt="link" width="25" height="25"/></dl> | essential | link | `<Icon group="essential" name="link" />`
-| <dl><img src="./essential/list-1.svg" alt="list-1" width="25" height="25"/></dl> | essential | list-1 | `<Icon group="essential" name="list-1" />`
-| <dl><img src="./essential/list.svg" alt="list" width="25" height="25"/></dl> | essential | list | `<Icon group="essential" name="list" />`
-| <dl><img src="./essential/lock-1.svg" alt="lock-1" width="25" height="25"/></dl> | essential | lock-1 | `<Icon group="essential" name="lock-1" />`
-| <dl><img src="./essential/lock.svg" alt="lock" width="25" height="25"/></dl> | essential | lock | `<Icon group="essential" name="lock" />`
-| <dl><img src="./essential/locked-1.svg" alt="locked-1" width="25" height="25"/></dl> | essential | locked-1 | `<Icon group="essential" name="locked-1" />`
-| <dl><img src="./essential/locked-2.svg" alt="locked-2" width="25" height="25"/></dl> | essential | locked-2 | `<Icon group="essential" name="locked-2" />`
-| <dl><img src="./essential/locked-3.svg" alt="locked-3" width="25" height="25"/></dl> | essential | locked-3 | `<Icon group="essential" name="locked-3" />`
-| <dl><img src="./essential/locked-4.svg" alt="locked-4" width="25" height="25"/></dl> | essential | locked-4 | `<Icon group="essential" name="locked-4" />`
-| <dl><img src="./essential/locked-5.svg" alt="locked-5" width="25" height="25"/></dl> | essential | locked-5 | `<Icon group="essential" name="locked-5" />`
-| <dl><img src="./essential/locked-6.svg" alt="locked-6" width="25" height="25"/></dl> | essential | locked-6 | `<Icon group="essential" name="locked-6" />`
-| <dl><img src="./essential/locked.svg" alt="locked" width="25" height="25"/></dl> | essential | locked | `<Icon group="essential" name="locked" />`
-| <dl><img src="./essential/login.svg" alt="login" width="25" height="25"/></dl> | essential | login | `<Icon group="essential" name="login" />`
-| <dl><img src="./essential/magic-wand.svg" alt="magic-wand" width="25" height="25"/></dl> | essential | magic-wand | `<Icon group="essential" name="magic-wand" />`
-| <dl><img src="./essential/magnet-1.svg" alt="magnet-1" width="25" height="25"/></dl> | essential | magnet-1 | `<Icon group="essential" name="magnet-1" />`
-| <dl><img src="./essential/magnet-2.svg" alt="magnet-2" width="25" height="25"/></dl> | essential | magnet-2 | `<Icon group="essential" name="magnet-2" />`
-| <dl><img src="./essential/magnet.svg" alt="magnet" width="25" height="25"/></dl> | essential | magnet | `<Icon group="essential" name="magnet" />`
-| <dl><img src="./essential/map-1.svg" alt="map-1" width="25" height="25"/></dl> | essential | map-1 | `<Icon group="essential" name="map-1" />`
-| <dl><img src="./essential/map-2.svg" alt="map-2" width="25" height="25"/></dl> | essential | map-2 | `<Icon group="essential" name="map-2" />`
-| <dl><img src="./essential/map-location.svg" alt="map-location" width="25" height="25"/></dl> | essential | map-location | `<Icon group="essential" name="map-location" />`
-| <dl><img src="./essential/map.svg" alt="map" width="25" height="25"/></dl> | essential | map | `<Icon group="essential" name="map" />`
-| <dl><img src="./essential/megaphone-1.svg" alt="megaphone-1" width="25" height="25"/></dl> | essential | megaphone-1 | `<Icon group="essential" name="megaphone-1" />`
-| <dl><img src="./essential/megaphone.svg" alt="megaphone" width="25" height="25"/></dl> | essential | megaphone | `<Icon group="essential" name="megaphone" />`
-| <dl><img src="./essential/menu-1.svg" alt="menu-1" width="25" height="25"/></dl> | essential | menu-1 | `<Icon group="essential" name="menu-1" />`
-| <dl><img src="./essential/menu-2.svg" alt="menu-2" width="25" height="25"/></dl> | essential | menu-2 | `<Icon group="essential" name="menu-2" />`
-| <dl><img src="./essential/menu-3.svg" alt="menu-3" width="25" height="25"/></dl> | essential | menu-3 | `<Icon group="essential" name="menu-3" />`
-| <dl><img src="./essential/menu-4.svg" alt="menu-4" width="25" height="25"/></dl> | essential | menu-4 | `<Icon group="essential" name="menu-4" />`
-| <dl><img src="./essential/menu.svg" alt="menu" width="25" height="25"/></dl> | essential | menu | `<Icon group="essential" name="menu" />`
-| <dl><img src="./essential/microphone-1.svg" alt="microphone-1" width="25" height="25"/></dl> | essential | microphone-1 | `<Icon group="essential" name="microphone-1" />`
-| <dl><img src="./essential/microphone.svg" alt="microphone" width="25" height="25"/></dl> | essential | microphone | `<Icon group="essential" name="microphone" />`
-| <dl><img src="./essential/minus-1.svg" alt="minus-1" width="25" height="25"/></dl> | essential | minus-1 | `<Icon group="essential" name="minus-1" />`
-| <dl><img src="./essential/minus.svg" alt="minus" width="25" height="25"/></dl> | essential | minus | `<Icon group="essential" name="minus" />`
-| <dl><img src="./essential/more-1.svg" alt="more-1" width="25" height="25"/></dl> | essential | more-1 | `<Icon group="essential" name="more-1" />`
-| <dl><img src="./essential/more-2.svg" alt="more-2" width="25" height="25"/></dl> | essential | more-2 | `<Icon group="essential" name="more-2" />`
-| <dl><img src="./essential/more.svg" alt="more" width="25" height="25"/></dl> | essential | more | `<Icon group="essential" name="more" />`
-| <dl><img src="./essential/multiply-1.svg" alt="multiply-1" width="25" height="25"/></dl> | essential | multiply-1 | `<Icon group="essential" name="multiply-1" />`
-| <dl><img src="./essential/multiply.svg" alt="multiply" width="25" height="25"/></dl> | essential | multiply | `<Icon group="essential" name="multiply" />`
-| <dl><img src="./essential/music-player-1.svg" alt="music-player-1" width="25" height="25"/></dl> | essential | music-player-1 | `<Icon group="essential" name="music-player-1" />`
-| <dl><img src="./essential/music-player-2.svg" alt="music-player-2" width="25" height="25"/></dl> | essential | music-player-2 | `<Icon group="essential" name="music-player-2" />`
-| <dl><img src="./essential/music-player-3.svg" alt="music-player-3" width="25" height="25"/></dl> | essential | music-player-3 | `<Icon group="essential" name="music-player-3" />`
-| <dl><img src="./essential/music-player.svg" alt="music-player" width="25" height="25"/></dl> | essential | music-player | `<Icon group="essential" name="music-player" />`
-| <dl><img src="./essential/mute.svg" alt="mute" width="25" height="25"/></dl> | essential | mute | `<Icon group="essential" name="mute" />`
-| <dl><img src="./essential/muted.svg" alt="muted" width="25" height="25"/></dl> | essential | muted | `<Icon group="essential" name="muted" />`
-| <dl><img src="./essential/navigation-1.svg" alt="navigation-1" width="25" height="25"/></dl> | essential | navigation-1 | `<Icon group="essential" name="navigation-1" />`
-| <dl><img src="./essential/navigation.svg" alt="navigation" width="25" height="25"/></dl> | essential | navigation | `<Icon group="essential" name="navigation" />`
-| <dl><img src="./essential/network.svg" alt="network" width="25" height="25"/></dl> | essential | network | `<Icon group="essential" name="network" />`
-| <dl><img src="./essential/newspaper.svg" alt="newspaper" width="25" height="25"/></dl> | essential | newspaper | `<Icon group="essential" name="newspaper" />`
-| <dl><img src="./essential/next.svg" alt="next" width="25" height="25"/></dl> | essential | next | `<Icon group="essential" name="next" />`
-| <dl><img src="./essential/note.svg" alt="note" width="25" height="25"/></dl> | essential | note | `<Icon group="essential" name="note" />`
-| <dl><img src="./essential/notebook-1.svg" alt="notebook-1" width="25" height="25"/></dl> | essential | notebook-1 | `<Icon group="essential" name="notebook-1" />`
-| <dl><img src="./essential/notebook-2.svg" alt="notebook-2" width="25" height="25"/></dl> | essential | notebook-2 | `<Icon group="essential" name="notebook-2" />`
-| <dl><img src="./essential/notebook-3.svg" alt="notebook-3" width="25" height="25"/></dl> | essential | notebook-3 | `<Icon group="essential" name="notebook-3" />`
-| <dl><img src="./essential/notebook-4.svg" alt="notebook-4" width="25" height="25"/></dl> | essential | notebook-4 | `<Icon group="essential" name="notebook-4" />`
-| <dl><img src="./essential/notebook-5.svg" alt="notebook-5" width="25" height="25"/></dl> | essential | notebook-5 | `<Icon group="essential" name="notebook-5" />`
-| <dl><img src="./essential/notebook.svg" alt="notebook" width="25" height="25"/></dl> | essential | notebook | `<Icon group="essential" name="notebook" />`
-| <dl><img src="./essential/notepad-1.svg" alt="notepad-1" width="25" height="25"/></dl> | essential | notepad-1 | `<Icon group="essential" name="notepad-1" />`
-| <dl><img src="./essential/notepad-2.svg" alt="notepad-2" width="25" height="25"/></dl> | essential | notepad-2 | `<Icon group="essential" name="notepad-2" />`
-| <dl><img src="./essential/notepad.svg" alt="notepad" width="25" height="25"/></dl> | essential | notepad | `<Icon group="essential" name="notepad" />`
-| <dl><img src="./essential/notification.svg" alt="notification" width="25" height="25"/></dl> | essential | notification | `<Icon group="essential" name="notification" />`
-| <dl><img src="./essential/paper-plane-1.svg" alt="paper-plane-1" width="25" height="25"/></dl> | essential | paper-plane-1 | `<Icon group="essential" name="paper-plane-1" />`
-| <dl><img src="./essential/paper-plane.svg" alt="paper-plane" width="25" height="25"/></dl> | essential | paper-plane | `<Icon group="essential" name="paper-plane" />`
-| <dl><img src="./essential/pause-1.svg" alt="pause-1" width="25" height="25"/></dl> | essential | pause-1 | `<Icon group="essential" name="pause-1" />`
-| <dl><img src="./essential/pause.svg" alt="pause" width="25" height="25"/></dl> | essential | pause | `<Icon group="essential" name="pause" />`
-| <dl><img src="./essential/percent-1.svg" alt="percent-1" width="25" height="25"/></dl> | essential | percent-1 | `<Icon group="essential" name="percent-1" />`
-| <dl><img src="./essential/percent.svg" alt="percent" width="25" height="25"/></dl> | essential | percent | `<Icon group="essential" name="percent" />`
-| <dl><img src="./essential/perspective.svg" alt="perspective" width="25" height="25"/></dl> | essential | perspective | `<Icon group="essential" name="perspective" />`
-| <dl><img src="./essential/photo-camera-1.svg" alt="photo-camera-1" width="25" height="25"/></dl> | essential | photo-camera-1 | `<Icon group="essential" name="photo-camera-1" />`
-| <dl><img src="./essential/photo-camera.svg" alt="photo-camera" width="25" height="25"/></dl> | essential | photo-camera | `<Icon group="essential" name="photo-camera" />`
-| <dl><img src="./essential/photos.svg" alt="photos" width="25" height="25"/></dl> | essential | photos | `<Icon group="essential" name="photos" />`
-| <dl><img src="./essential/picture-1.svg" alt="picture-1" width="25" height="25"/></dl> | essential | picture-1 | `<Icon group="essential" name="picture-1" />`
-| <dl><img src="./essential/picture-2.svg" alt="picture-2" width="25" height="25"/></dl> | essential | picture-2 | `<Icon group="essential" name="picture-2" />`
-| <dl><img src="./essential/picture.svg" alt="picture" width="25" height="25"/></dl> | essential | picture | `<Icon group="essential" name="picture" />`
-| <dl><img src="./essential/pin.svg" alt="pin" width="25" height="25"/></dl> | essential | pin | `<Icon group="essential" name="pin" />`
-| <dl><img src="./essential/placeholder-1.svg" alt="placeholder-1" width="25" height="25"/></dl> | essential | placeholder-1 | `<Icon group="essential" name="placeholder-1" />`
-| <dl><img src="./essential/placeholder-2.svg" alt="placeholder-2" width="25" height="25"/></dl> | essential | placeholder-2 | `<Icon group="essential" name="placeholder-2" />`
-| <dl><img src="./essential/placeholder-3.svg" alt="placeholder-3" width="25" height="25"/></dl> | essential | placeholder-3 | `<Icon group="essential" name="placeholder-3" />`
-| <dl><img src="./essential/placeholder.svg" alt="placeholder" width="25" height="25"/></dl> | essential | placeholder | `<Icon group="essential" name="placeholder" />`
-| <dl><img src="./essential/placeholders.svg" alt="placeholders" width="25" height="25"/></dl> | essential | placeholders | `<Icon group="essential" name="placeholders" />`
-| <dl><img src="./essential/play-button-1.svg" alt="play-button-1" width="25" height="25"/></dl> | essential | play-button-1 | `<Icon group="essential" name="play-button-1" />`
-| <dl><img src="./essential/play-button.svg" alt="play-button" width="25" height="25"/></dl> | essential | play-button | `<Icon group="essential" name="play-button" />`
-| <dl><img src="./essential/plus.svg" alt="plus" width="25" height="25"/></dl> | essential | plus | `<Icon group="essential" name="plus" />`
-| <dl><img src="./essential/power.svg" alt="power" width="25" height="25"/></dl> | essential | power | `<Icon group="essential" name="power" />`
-| <dl><img src="./essential/previous.svg" alt="previous" width="25" height="25"/></dl> | essential | previous | `<Icon group="essential" name="previous" />`
-| <dl><img src="./essential/price-tag.svg" alt="price-tag" width="25" height="25"/></dl> | essential | price-tag | `<Icon group="essential" name="price-tag" />`
-| <dl><img src="./essential/print.svg" alt="print" width="25" height="25"/></dl> | essential | print | `<Icon group="essential" name="print" />`
-| <dl><img src="./essential/push-pin.svg" alt="push-pin" width="25" height="25"/></dl> | essential | push-pin | `<Icon group="essential" name="push-pin" />`
-| <dl><img src="./essential/radar.svg" alt="radar" width="25" height="25"/></dl> | essential | radar | `<Icon group="essential" name="radar" />`
-| <dl><img src="./essential/reading.svg" alt="reading" width="25" height="25"/></dl> | essential | reading | `<Icon group="essential" name="reading" />`
-| <dl><img src="./essential/record.svg" alt="record" width="25" height="25"/></dl> | essential | record | `<Icon group="essential" name="record" />`
-| <dl><img src="./essential/repeat-1.svg" alt="repeat-1" width="25" height="25"/></dl> | essential | repeat-1 | `<Icon group="essential" name="repeat-1" />`
-| <dl><img src="./essential/repeat.svg" alt="repeat" width="25" height="25"/></dl> | essential | repeat | `<Icon group="essential" name="repeat" />`
-| <dl><img src="./essential/restart.svg" alt="restart" width="25" height="25"/></dl> | essential | restart | `<Icon group="essential" name="restart" />`
-| <dl><img src="./essential/resume.svg" alt="resume" width="25" height="25"/></dl> | essential | resume | `<Icon group="essential" name="resume" />`
-| <dl><img src="./essential/rewind-1.svg" alt="rewind-1" width="25" height="25"/></dl> | essential | rewind-1 | `<Icon group="essential" name="rewind-1" />`
-| <dl><img src="./essential/rewind.svg" alt="rewind" width="25" height="25"/></dl> | essential | rewind | `<Icon group="essential" name="rewind" />`
-| <dl><img src="./essential/route.svg" alt="route" width="25" height="25"/></dl> | essential | route | `<Icon group="essential" name="route" />`
-| <dl><img src="./essential/save.svg" alt="save" width="25" height="25"/></dl> | essential | save | `<Icon group="essential" name="save" />`
-| <dl><img src="./essential/search-1.svg" alt="search-1" width="25" height="25"/></dl> | essential | search-1 | `<Icon group="essential" name="search-1" />`
-| <dl><img src="./essential/search.svg" alt="search" width="25" height="25"/></dl> | essential | search | `<Icon group="essential" name="search" />`
-| <dl><img src="./essential/send.svg" alt="send" width="25" height="25"/></dl> | essential | send | `<Icon group="essential" name="send" />`
-| <dl><img src="./essential/server-1.svg" alt="server-1" width="25" height="25"/></dl> | essential | server-1 | `<Icon group="essential" name="server-1" />`
-| <dl><img src="./essential/server-2.svg" alt="server-2" width="25" height="25"/></dl> | essential | server-2 | `<Icon group="essential" name="server-2" />`
-| <dl><img src="./essential/server-3.svg" alt="server-3" width="25" height="25"/></dl> | essential | server-3 | `<Icon group="essential" name="server-3" />`
-| <dl><img src="./essential/server.svg" alt="server" width="25" height="25"/></dl> | essential | server | `<Icon group="essential" name="server" />`
-| <dl><img src="./essential/settings-1.svg" alt="settings-1" width="25" height="25"/></dl> | essential | settings-1 | `<Icon group="essential" name="settings-1" />`
-| <dl><img src="./essential/settings-2.svg" alt="settings-2" width="25" height="25"/></dl> | essential | settings-2 | `<Icon group="essential" name="settings-2" />`
-| <dl><img src="./essential/settings-3.svg" alt="settings-3" width="25" height="25"/></dl> | essential | settings-3 | `<Icon group="essential" name="settings-3" />`
-| <dl><img src="./essential/settings-4.svg" alt="settings-4" width="25" height="25"/></dl> | essential | settings-4 | `<Icon group="essential" name="settings-4" />`
-| <dl><img src="./essential/settings-5.svg" alt="settings-5" width="25" height="25"/></dl> | essential | settings-5 | `<Icon group="essential" name="settings-5" />`
-| <dl><img src="./essential/settings-6.svg" alt="settings-6" width="25" height="25"/></dl> | essential | settings-6 | `<Icon group="essential" name="settings-6" />`
-| <dl><img src="./essential/settings-7.svg" alt="settings-7" width="25" height="25"/></dl> | essential | settings-7 | `<Icon group="essential" name="settings-7" />`
-| <dl><img src="./essential/settings-8.svg" alt="settings-8" width="25" height="25"/></dl> | essential | settings-8 | `<Icon group="essential" name="settings-8" />`
-| <dl><img src="./essential/settings-9.svg" alt="settings-9" width="25" height="25"/></dl> | essential | settings-9 | `<Icon group="essential" name="settings-9" />`
-| <dl><img src="./essential/settings.svg" alt="settings" width="25" height="25"/></dl> | essential | settings | `<Icon group="essential" name="settings" />`
-| <dl><img src="./essential/share-1.svg" alt="share-1" width="25" height="25"/></dl> | essential | share-1 | `<Icon group="essential" name="share-1" />`
-| <dl><img src="./essential/share-2.svg" alt="share-2" width="25" height="25"/></dl> | essential | share-2 | `<Icon group="essential" name="share-2" />`
-| <dl><img src="./essential/share.svg" alt="share" width="25" height="25"/></dl> | essential | share | `<Icon group="essential" name="share" />`
-| <dl><img src="./essential/shuffle-1.svg" alt="shuffle-1" width="25" height="25"/></dl> | essential | shuffle-1 | `<Icon group="essential" name="shuffle-1" />`
-| <dl><img src="./essential/shuffle.svg" alt="shuffle" width="25" height="25"/></dl> | essential | shuffle | `<Icon group="essential" name="shuffle" />`
-| <dl><img src="./essential/shutdown.svg" alt="shutdown" width="25" height="25"/></dl> | essential | shutdown | `<Icon group="essential" name="shutdown" />`
-| <dl><img src="./essential/sign-1.svg" alt="sign-1" width="25" height="25"/></dl> | essential | sign-1 | `<Icon group="essential" name="sign-1" />`
-| <dl><img src="./essential/sign.svg" alt="sign" width="25" height="25"/></dl> | essential | sign | `<Icon group="essential" name="sign" />`
-| <dl><img src="./essential/skip.svg" alt="skip" width="25" height="25"/></dl> | essential | skip | `<Icon group="essential" name="skip" />`
-| <dl><img src="./essential/smartphone-1.svg" alt="smartphone-1" width="25" height="25"/></dl> | essential | smartphone-1 | `<Icon group="essential" name="smartphone-1" />`
-| <dl><img src="./essential/smartphone-10.svg" alt="smartphone-10" width="25" height="25"/></dl> | essential | smartphone-10 | `<Icon group="essential" name="smartphone-10" />`
-| <dl><img src="./essential/smartphone-11.svg" alt="smartphone-11" width="25" height="25"/></dl> | essential | smartphone-11 | `<Icon group="essential" name="smartphone-11" />`
-| <dl><img src="./essential/smartphone-2.svg" alt="smartphone-2" width="25" height="25"/></dl> | essential | smartphone-2 | `<Icon group="essential" name="smartphone-2" />`
-| <dl><img src="./essential/smartphone-3.svg" alt="smartphone-3" width="25" height="25"/></dl> | essential | smartphone-3 | `<Icon group="essential" name="smartphone-3" />`
-| <dl><img src="./essential/smartphone-4.svg" alt="smartphone-4" width="25" height="25"/></dl> | essential | smartphone-4 | `<Icon group="essential" name="smartphone-4" />`
-| <dl><img src="./essential/smartphone-5.svg" alt="smartphone-5" width="25" height="25"/></dl> | essential | smartphone-5 | `<Icon group="essential" name="smartphone-5" />`
-| <dl><img src="./essential/smartphone-6.svg" alt="smartphone-6" width="25" height="25"/></dl> | essential | smartphone-6 | `<Icon group="essential" name="smartphone-6" />`
-| <dl><img src="./essential/smartphone-7.svg" alt="smartphone-7" width="25" height="25"/></dl> | essential | smartphone-7 | `<Icon group="essential" name="smartphone-7" />`
-| <dl><img src="./essential/smartphone-8.svg" alt="smartphone-8" width="25" height="25"/></dl> | essential | smartphone-8 | `<Icon group="essential" name="smartphone-8" />`
-| <dl><img src="./essential/smartphone-9.svg" alt="smartphone-9" width="25" height="25"/></dl> | essential | smartphone-9 | `<Icon group="essential" name="smartphone-9" />`
-| <dl><img src="./essential/smartphone.svg" alt="smartphone" width="25" height="25"/></dl> | essential | smartphone | `<Icon group="essential" name="smartphone" />`
-| <dl><img src="./essential/speaker-1.svg" alt="speaker-1" width="25" height="25"/></dl> | essential | speaker-1 | `<Icon group="essential" name="speaker-1" />`
-| <dl><img src="./essential/speaker-2.svg" alt="speaker-2" width="25" height="25"/></dl> | essential | speaker-2 | `<Icon group="essential" name="speaker-2" />`
-| <dl><img src="./essential/speaker-3.svg" alt="speaker-3" width="25" height="25"/></dl> | essential | speaker-3 | `<Icon group="essential" name="speaker-3" />`
-| <dl><img src="./essential/speaker-4.svg" alt="speaker-4" width="25" height="25"/></dl> | essential | speaker-4 | `<Icon group="essential" name="speaker-4" />`
-| <dl><img src="./essential/speaker-5.svg" alt="speaker-5" width="25" height="25"/></dl> | essential | speaker-5 | `<Icon group="essential" name="speaker-5" />`
-| <dl><img src="./essential/speaker-6.svg" alt="speaker-6" width="25" height="25"/></dl> | essential | speaker-6 | `<Icon group="essential" name="speaker-6" />`
-| <dl><img src="./essential/speaker-7.svg" alt="speaker-7" width="25" height="25"/></dl> | essential | speaker-7 | `<Icon group="essential" name="speaker-7" />`
-| <dl><img src="./essential/speaker-8.svg" alt="speaker-8" width="25" height="25"/></dl> | essential | speaker-8 | `<Icon group="essential" name="speaker-8" />`
-| <dl><img src="./essential/speaker.svg" alt="speaker" width="25" height="25"/></dl> | essential | speaker | `<Icon group="essential" name="speaker" />`
-| <dl><img src="./essential/spotlight.svg" alt="spotlight" width="25" height="25"/></dl> | essential | spotlight | `<Icon group="essential" name="spotlight" />`
-| <dl><img src="./essential/star-1.svg" alt="star-1" width="25" height="25"/></dl> | essential | star-1 | `<Icon group="essential" name="star-1" />`
-| <dl><img src="./essential/star.svg" alt="star" width="25" height="25"/></dl> | essential | star | `<Icon group="essential" name="star" />`
-| <dl><img src="./essential/stop-1.svg" alt="stop-1" width="25" height="25"/></dl> | essential | stop-1 | `<Icon group="essential" name="stop-1" />`
-| <dl><img src="./essential/stop.svg" alt="stop" width="25" height="25"/></dl> | essential | stop | `<Icon group="essential" name="stop" />`
-| <dl><img src="./essential/stopwatch-1.svg" alt="stopwatch-1" width="25" height="25"/></dl> | essential | stopwatch-1 | `<Icon group="essential" name="stopwatch-1" />`
-| <dl><img src="./essential/stopwatch-2.svg" alt="stopwatch-2" width="25" height="25"/></dl> | essential | stopwatch-2 | `<Icon group="essential" name="stopwatch-2" />`
-| <dl><img src="./essential/stopwatch-3.svg" alt="stopwatch-3" width="25" height="25"/></dl> | essential | stopwatch-3 | `<Icon group="essential" name="stopwatch-3" />`
-| <dl><img src="./essential/stopwatch-4.svg" alt="stopwatch-4" width="25" height="25"/></dl> | essential | stopwatch-4 | `<Icon group="essential" name="stopwatch-4" />`
-| <dl><img src="./essential/stopwatch.svg" alt="stopwatch" width="25" height="25"/></dl> | essential | stopwatch | `<Icon group="essential" name="stopwatch" />`
-| <dl><img src="./essential/street-1.svg" alt="street-1" width="25" height="25"/></dl> | essential | street-1 | `<Icon group="essential" name="street-1" />`
-| <dl><img src="./essential/street.svg" alt="street" width="25" height="25"/></dl> | essential | street | `<Icon group="essential" name="street" />`
-| <dl><img src="./essential/substract-1.svg" alt="substract-1" width="25" height="25"/></dl> | essential | substract-1 | `<Icon group="essential" name="substract-1" />`
-| <dl><img src="./essential/substract.svg" alt="substract" width="25" height="25"/></dl> | essential | substract | `<Icon group="essential" name="substract" />`
-| <dl><img src="./essential/success.svg" alt="success" width="25" height="25"/></dl> | essential | success | `<Icon group="essential" name="success" />`
-| <dl><img src="./essential/switch-1.svg" alt="switch-1" width="25" height="25"/></dl> | essential | switch-1 | `<Icon group="essential" name="switch-1" />`
-| <dl><img src="./essential/switch-2.svg" alt="switch-2" width="25" height="25"/></dl> | essential | switch-2 | `<Icon group="essential" name="switch-2" />`
-| <dl><img src="./essential/switch-3.svg" alt="switch-3" width="25" height="25"/></dl> | essential | switch-3 | `<Icon group="essential" name="switch-3" />`
-| <dl><img src="./essential/switch-4.svg" alt="switch-4" width="25" height="25"/></dl> | essential | switch-4 | `<Icon group="essential" name="switch-4" />`
-| <dl><img src="./essential/switch-5.svg" alt="switch-5" width="25" height="25"/></dl> | essential | switch-5 | `<Icon group="essential" name="switch-5" />`
-| <dl><img src="./essential/switch-6.svg" alt="switch-6" width="25" height="25"/></dl> | essential | switch-6 | `<Icon group="essential" name="switch-6" />`
-| <dl><img src="./essential/switch-7.svg" alt="switch-7" width="25" height="25"/></dl> | essential | switch-7 | `<Icon group="essential" name="switch-7" />`
-| <dl><img src="./essential/switch.svg" alt="switch" width="25" height="25"/></dl> | essential | switch | `<Icon group="essential" name="switch" />`
-| <dl><img src="./essential/tabs-1.svg" alt="tabs-1" width="25" height="25"/></dl> | essential | tabs-1 | `<Icon group="essential" name="tabs-1" />`
-| <dl><img src="./essential/tabs.svg" alt="tabs" width="25" height="25"/></dl> | essential | tabs | `<Icon group="essential" name="tabs" />`
-| <dl><img src="./essential/target.svg" alt="target" width="25" height="25"/></dl> | essential | target | `<Icon group="essential" name="target" />`
-| <dl><img src="./essential/television-1.svg" alt="television-1" width="25" height="25"/></dl> | essential | television-1 | `<Icon group="essential" name="television-1" />`
-| <dl><img src="./essential/television.svg" alt="television" width="25" height="25"/></dl> | essential | television | `<Icon group="essential" name="television" />`
-| <dl><img src="./essential/time.svg" alt="time" width="25" height="25"/></dl> | essential | time | `<Icon group="essential" name="time" />`
-| <dl><img src="./essential/trash.svg" alt="trash" width="25" height="25"/></dl> | essential | trash | `<Icon group="essential" name="trash" />`
-| <dl><img src="./essential/umbrella.svg" alt="umbrella" width="25" height="25"/></dl> | essential | umbrella | `<Icon group="essential" name="umbrella" />`
-| <dl><img src="./essential/unlink.svg" alt="unlink" width="25" height="25"/></dl> | essential | unlink | `<Icon group="essential" name="unlink" />`
-| <dl><img src="./essential/unlocked-1.svg" alt="unlocked-1" width="25" height="25"/></dl> | essential | unlocked-1 | `<Icon group="essential" name="unlocked-1" />`
-| <dl><img src="./essential/unlocked-2.svg" alt="unlocked-2" width="25" height="25"/></dl> | essential | unlocked-2 | `<Icon group="essential" name="unlocked-2" />`
-| <dl><img src="./essential/unlocked.svg" alt="unlocked" width="25" height="25"/></dl> | essential | unlocked | `<Icon group="essential" name="unlocked" />`
-| <dl><img src="./essential/upload.svg" alt="upload" width="25" height="25"/></dl> | essential | upload | `<Icon group="essential" name="upload" />`
-| <dl><img src="./essential/user-1.svg" alt="user-1" width="25" height="25"/></dl> | essential | user-1 | `<Icon group="essential" name="user-1" />`
-| <dl><img src="./essential/user-2.svg" alt="user-2" width="25" height="25"/></dl> | essential | user-2 | `<Icon group="essential" name="user-2" />`
-| <dl><img src="./essential/user-3.svg" alt="user-3" width="25" height="25"/></dl> | essential | user-3 | `<Icon group="essential" name="user-3" />`
-| <dl><img src="./essential/user-4.svg" alt="user-4" width="25" height="25"/></dl> | essential | user-4 | `<Icon group="essential" name="user-4" />`
-| <dl><img src="./essential/user-5.svg" alt="user-5" width="25" height="25"/></dl> | essential | user-5 | `<Icon group="essential" name="user-5" />`
-| <dl><img src="./essential/user-6.svg" alt="user-6" width="25" height="25"/></dl> | essential | user-6 | `<Icon group="essential" name="user-6" />`
-| <dl><img src="./essential/user-7.svg" alt="user-7" width="25" height="25"/></dl> | essential | user-7 | `<Icon group="essential" name="user-7" />`
-| <dl><img src="./essential/user.svg" alt="user" width="25" height="25"/></dl> | essential | user | `<Icon group="essential" name="user" />`
-| <dl><img src="./essential/users-1.svg" alt="users-1" width="25" height="25"/></dl> | essential | users-1 | `<Icon group="essential" name="users-1" />`
-| <dl><img src="./essential/users.svg" alt="users" width="25" height="25"/></dl> | essential | users | `<Icon group="essential" name="users" />`
-| <dl><img src="./essential/video-camera-1.svg" alt="video-camera-1" width="25" height="25"/></dl> | essential | video-camera-1 | `<Icon group="essential" name="video-camera-1" />`
-| <dl><img src="./essential/video-camera.svg" alt="video-camera" width="25" height="25"/></dl> | essential | video-camera | `<Icon group="essential" name="video-camera" />`
-| <dl><img src="./essential/video-player-1.svg" alt="video-player-1" width="25" height="25"/></dl> | essential | video-player-1 | `<Icon group="essential" name="video-player-1" />`
-| <dl><img src="./essential/video-player-2.svg" alt="video-player-2" width="25" height="25"/></dl> | essential | video-player-2 | `<Icon group="essential" name="video-player-2" />`
-| <dl><img src="./essential/video-player.svg" alt="video-player" width="25" height="25"/></dl> | essential | video-player | `<Icon group="essential" name="video-player" />`
-| <dl><img src="./essential/view-1.svg" alt="view-1" width="25" height="25"/></dl> | essential | view-1 | `<Icon group="essential" name="view-1" />`
-| <dl><img src="./essential/view-2.svg" alt="view-2" width="25" height="25"/></dl> | essential | view-2 | `<Icon group="essential" name="view-2" />`
-| <dl><img src="./essential/view.svg" alt="view" width="25" height="25"/></dl> | essential | view | `<Icon group="essential" name="view" />`
-| <dl><img src="./essential/volume-control-1.svg" alt="volume-control-1" width="25" height="25"/></dl> | essential | volume-control-1 | `<Icon group="essential" name="volume-control-1" />`
-| <dl><img src="./essential/volume-control.svg" alt="volume-control" width="25" height="25"/></dl> | essential | volume-control | `<Icon group="essential" name="volume-control" />`
-| <dl><img src="./essential/warning.svg" alt="warning" width="25" height="25"/></dl> | essential | warning | `<Icon group="essential" name="warning" />`
-| <dl><img src="./essential/wifi-1.svg" alt="wifi-1" width="25" height="25"/></dl> | essential | wifi-1 | `<Icon group="essential" name="wifi-1" />`
-| <dl><img src="./essential/wifi.svg" alt="wifi" width="25" height="25"/></dl> | essential | wifi | `<Icon group="essential" name="wifi" />`
-| <dl><img src="./essential/windows-1.svg" alt="windows-1" width="25" height="25"/></dl> | essential | windows-1 | `<Icon group="essential" name="windows-1" />`
-| <dl><img src="./essential/windows-2.svg" alt="windows-2" width="25" height="25"/></dl> | essential | windows-2 | `<Icon group="essential" name="windows-2" />`
-| <dl><img src="./essential/windows-3.svg" alt="windows-3" width="25" height="25"/></dl> | essential | windows-3 | `<Icon group="essential" name="windows-3" />`
-| <dl><img src="./essential/windows-4.svg" alt="windows-4" width="25" height="25"/></dl> | essential | windows-4 | `<Icon group="essential" name="windows-4" />`
-| <dl><img src="./essential/windows.svg" alt="windows" width="25" height="25"/></dl> | essential | windows | `<Icon group="essential" name="windows" />`
-| <dl><img src="./essential/wireless-internet.svg" alt="wireless-internet" width="25" height="25"/></dl> | essential | wireless-internet | `<Icon group="essential" name="wireless-internet" />`
-| <dl><img src="./essential/worldwide-1.svg" alt="worldwide-1" width="25" height="25"/></dl> | essential | worldwide-1 | `<Icon group="essential" name="worldwide-1" />`
-| <dl><img src="./essential/worldwide.svg" alt="worldwide" width="25" height="25"/></dl> | essential | worldwide | `<Icon group="essential" name="worldwide" />`
-| <dl><img src="./essential/zoom-in.svg" alt="zoom-in" width="25" height="25"/></dl> | essential | zoom-in | `<Icon group="essential" name="zoom-in" />`
-| <dl><img src="./essential/zoom-out.svg" alt="zoom-out" width="25" height="25"/></dl> | essential | zoom-out | `<Icon group="essential" name="zoom-out" />`
+| ![](./essential/add-1.svg){:height="30px" width="30px"} | essential | add-1 | `<Icon group="essential" name="add-1" />`
+| ![](./essential/add-2.svg){:height="30px" width="30px"} | essential | add-2 | `<Icon group="essential" name="add-2" />`
+| ![](./essential/add-3.svg){:height="30px" width="30px"} | essential | add-3 | `<Icon group="essential" name="add-3" />`
+| ![](./essential/add.svg){:height="30px" width="30px"} | essential | add | `<Icon group="essential" name="add" />`
+| ![](./essential/agenda.svg){:height="30px" width="30px"} | essential | agenda | `<Icon group="essential" name="agenda" />`
+| ![](./essential/alarm-1.svg){:height="30px" width="30px"} | essential | alarm-1 | `<Icon group="essential" name="alarm-1" />`
+| ![](./essential/alarm-clock-1.svg){:height="30px" width="30px"} | essential | alarm-clock-1 | `<Icon group="essential" name="alarm-clock-1" />`
+| ![](./essential/alarm-clock.svg){:height="30px" width="30px"} | essential | alarm-clock | `<Icon group="essential" name="alarm-clock" />`
+| ![](./essential/alarm.svg){:height="30px" width="30px"} | essential | alarm | `<Icon group="essential" name="alarm" />`
+| ![](./essential/albums.svg){:height="30px" width="30px"} | essential | albums | `<Icon group="essential" name="albums" />`
+| ![](./essential/app.svg){:height="30px" width="30px"} | essential | app | `<Icon group="essential" name="app" />`
+| ![](./essential/archive-1.svg){:height="30px" width="30px"} | essential | archive-1 | `<Icon group="essential" name="archive-1" />`
+| ![](./essential/archive-2.svg){:height="30px" width="30px"} | essential | archive-2 | `<Icon group="essential" name="archive-2" />`
+| ![](./essential/archive-3.svg){:height="30px" width="30px"} | essential | archive-3 | `<Icon group="essential" name="archive-3" />`
+| ![](./essential/archive.svg){:height="30px" width="30px"} | essential | archive | `<Icon group="essential" name="archive" />`
+| ![](./essential/attachment.svg){:height="30px" width="30px"} | essential | attachment | `<Icon group="essential" name="attachment" />`
+| ![](./essential/back.svg){:height="30px" width="30px"} | essential | back | `<Icon group="essential" name="back" />`
+| ![](./essential/battery-1.svg){:height="30px" width="30px"} | essential | battery-1 | `<Icon group="essential" name="battery-1" />`
+| ![](./essential/battery-2.svg){:height="30px" width="30px"} | essential | battery-2 | `<Icon group="essential" name="battery-2" />`
+| ![](./essential/battery-3.svg){:height="30px" width="30px"} | essential | battery-3 | `<Icon group="essential" name="battery-3" />`
+| ![](./essential/battery-4.svg){:height="30px" width="30px"} | essential | battery-4 | `<Icon group="essential" name="battery-4" />`
+| ![](./essential/battery-5.svg){:height="30px" width="30px"} | essential | battery-5 | `<Icon group="essential" name="battery-5" />`
+| ![](./essential/battery-6.svg){:height="30px" width="30px"} | essential | battery-6 | `<Icon group="essential" name="battery-6" />`
+| ![](./essential/battery-7.svg){:height="30px" width="30px"} | essential | battery-7 | `<Icon group="essential" name="battery-7" />`
+| ![](./essential/battery-8.svg){:height="30px" width="30px"} | essential | battery-8 | `<Icon group="essential" name="battery-8" />`
+| ![](./essential/battery-9.svg){:height="30px" width="30px"} | essential | battery-9 | `<Icon group="essential" name="battery-9" />`
+| ![](./essential/battery.svg){:height="30px" width="30px"} | essential | battery | `<Icon group="essential" name="battery" />`
+| ![](./essential/binoculars.svg){:height="30px" width="30px"} | essential | binoculars | `<Icon group="essential" name="binoculars" />`
+| ![](./essential/blueprint.svg){:height="30px" width="30px"} | essential | blueprint | `<Icon group="essential" name="blueprint" />`
+| ![](./essential/bluetooth-1.svg){:height="30px" width="30px"} | essential | bluetooth-1 | `<Icon group="essential" name="bluetooth-1" />`
+| ![](./essential/bluetooth.svg){:height="30px" width="30px"} | essential | bluetooth | `<Icon group="essential" name="bluetooth" />`
+| ![](./essential/bookmark-1.svg){:height="30px" width="30px"} | essential | bookmark-1 | `<Icon group="essential" name="bookmark-1" />`
+| ![](./essential/bookmark.svg){:height="30px" width="30px"} | essential | bookmark | `<Icon group="essential" name="bookmark" />`
+| ![](./essential/briefcase.svg){:height="30px" width="30px"} | essential | briefcase | `<Icon group="essential" name="briefcase" />`
+| ![](./essential/broken-link.svg){:height="30px" width="30px"} | essential | broken-link | `<Icon group="essential" name="broken-link" />`
+| ![](./essential/calculator-1.svg){:height="30px" width="30px"} | essential | calculator-1 | `<Icon group="essential" name="calculator-1" />`
+| ![](./essential/calculator.svg){:height="30px" width="30px"} | essential | calculator | `<Icon group="essential" name="calculator" />`
+| ![](./essential/calendar-1.svg){:height="30px" width="30px"} | essential | calendar-1 | `<Icon group="essential" name="calendar-1" />`
+| ![](./essential/calendar-2.svg){:height="30px" width="30px"} | essential | calendar-2 | `<Icon group="essential" name="calendar-2" />`
+| ![](./essential/calendar-3.svg){:height="30px" width="30px"} | essential | calendar-3 | `<Icon group="essential" name="calendar-3" />`
+| ![](./essential/calendar-4.svg){:height="30px" width="30px"} | essential | calendar-4 | `<Icon group="essential" name="calendar-4" />`
+| ![](./essential/calendar-5.svg){:height="30px" width="30px"} | essential | calendar-5 | `<Icon group="essential" name="calendar-5" />`
+| ![](./essential/calendar-6.svg){:height="30px" width="30px"} | essential | calendar-6 | `<Icon group="essential" name="calendar-6" />`
+| ![](./essential/calendar-7.svg){:height="30px" width="30px"} | essential | calendar-7 | `<Icon group="essential" name="calendar-7" />`
+| ![](./essential/calendar.svg){:height="30px" width="30px"} | essential | calendar | `<Icon group="essential" name="calendar" />`
+| ![](./essential/checked-1.svg){:height="30px" width="30px"} | essential | checked-1 | `<Icon group="essential" name="checked-1" />`
+| ![](./essential/checked.svg){:height="30px" width="30px"} | essential | checked | `<Icon group="essential" name="checked" />`
+| ![](./essential/clock-1.svg){:height="30px" width="30px"} | essential | clock-1 | `<Icon group="essential" name="clock-1" />`
+| ![](./essential/clock.svg){:height="30px" width="30px"} | essential | clock | `<Icon group="essential" name="clock" />`
+| ![](./essential/close.svg){:height="30px" width="30px"} | essential | close | `<Icon group="essential" name="close" />`
+| ![](./essential/cloud-computing-1.svg){:height="30px" width="30px"} | essential | cloud-computing-1 | `<Icon group="essential" name="cloud-computing-1" />`
+| ![](./essential/cloud-computing-2.svg){:height="30px" width="30px"} | essential | cloud-computing-2 | `<Icon group="essential" name="cloud-computing-2" />`
+| ![](./essential/cloud-computing-3.svg){:height="30px" width="30px"} | essential | cloud-computing-3 | `<Icon group="essential" name="cloud-computing-3" />`
+| ![](./essential/cloud-computing-4.svg){:height="30px" width="30px"} | essential | cloud-computing-4 | `<Icon group="essential" name="cloud-computing-4" />`
+| ![](./essential/cloud-computing-5.svg){:height="30px" width="30px"} | essential | cloud-computing-5 | `<Icon group="essential" name="cloud-computing-5" />`
+| ![](./essential/cloud-computing.svg){:height="30px" width="30px"} | essential | cloud-computing | `<Icon group="essential" name="cloud-computing" />`
+| ![](./essential/cloud.svg){:height="30px" width="30px"} | essential | cloud | `<Icon group="essential" name="cloud" />`
+| ![](./essential/command.svg){:height="30px" width="30px"} | essential | command | `<Icon group="essential" name="command" />`
+| ![](./essential/compact-disc-1.svg){:height="30px" width="30px"} | essential | compact-disc-1 | `<Icon group="essential" name="compact-disc-1" />`
+| ![](./essential/compact-disc-2.svg){:height="30px" width="30px"} | essential | compact-disc-2 | `<Icon group="essential" name="compact-disc-2" />`
+| ![](./essential/compact-disc.svg){:height="30px" width="30px"} | essential | compact-disc | `<Icon group="essential" name="compact-disc" />`
+| ![](./essential/compass.svg){:height="30px" width="30px"} | essential | compass | `<Icon group="essential" name="compass" />`
+| ![](./essential/compose.svg){:height="30px" width="30px"} | essential | compose | `<Icon group="essential" name="compose" />`
+| ![](./essential/controls-1.svg){:height="30px" width="30px"} | essential | controls-1 | `<Icon group="essential" name="controls-1" />`
+| ![](./essential/controls-2.svg){:height="30px" width="30px"} | essential | controls-2 | `<Icon group="essential" name="controls-2" />`
+| ![](./essential/controls-3.svg){:height="30px" width="30px"} | essential | controls-3 | `<Icon group="essential" name="controls-3" />`
+| ![](./essential/controls-4.svg){:height="30px" width="30px"} | essential | controls-4 | `<Icon group="essential" name="controls-4" />`
+| ![](./essential/controls-5.svg){:height="30px" width="30px"} | essential | controls-5 | `<Icon group="essential" name="controls-5" />`
+| ![](./essential/controls-6.svg){:height="30px" width="30px"} | essential | controls-6 | `<Icon group="essential" name="controls-6" />`
+| ![](./essential/controls-7.svg){:height="30px" width="30px"} | essential | controls-7 | `<Icon group="essential" name="controls-7" />`
+| ![](./essential/controls-8.svg){:height="30px" width="30px"} | essential | controls-8 | `<Icon group="essential" name="controls-8" />`
+| ![](./essential/controls-9.svg){:height="30px" width="30px"} | essential | controls-9 | `<Icon group="essential" name="controls-9" />`
+| ![](./essential/controls.svg){:height="30px" width="30px"} | essential | controls | `<Icon group="essential" name="controls" />`
+| ![](./essential/database-1.svg){:height="30px" width="30px"} | essential | database-1 | `<Icon group="essential" name="database-1" />`
+| ![](./essential/database-2.svg){:height="30px" width="30px"} | essential | database-2 | `<Icon group="essential" name="database-2" />`
+| ![](./essential/database-3.svg){:height="30px" width="30px"} | essential | database-3 | `<Icon group="essential" name="database-3" />`
+| ![](./essential/database.svg){:height="30px" width="30px"} | essential | database | `<Icon group="essential" name="database" />`
+| ![](./essential/diamond.svg){:height="30px" width="30px"} | essential | diamond | `<Icon group="essential" name="diamond" />`
+| ![](./essential/diploma.svg){:height="30px" width="30px"} | essential | diploma | `<Icon group="essential" name="diploma" />`
+| ![](./essential/dislike-1.svg){:height="30px" width="30px"} | essential | dislike-1 | `<Icon group="essential" name="dislike-1" />`
+| ![](./essential/dislike.svg){:height="30px" width="30px"} | essential | dislike | `<Icon group="essential" name="dislike" />`
+| ![](./essential/divide-1.svg){:height="30px" width="30px"} | essential | divide-1 | `<Icon group="essential" name="divide-1" />`
+| ![](./essential/divide.svg){:height="30px" width="30px"} | essential | divide | `<Icon group="essential" name="divide" />`
+| ![](./essential/division.svg){:height="30px" width="30px"} | essential | division | `<Icon group="essential" name="division" />`
+| ![](./essential/document.svg){:height="30px" width="30px"} | essential | document | `<Icon group="essential" name="document" />`
+| ![](./essential/download.svg){:height="30px" width="30px"} | essential | download | `<Icon group="essential" name="download" />`
+| ![](./essential/edit-1.svg){:height="30px" width="30px"} | essential | edit-1 | `<Icon group="essential" name="edit-1" />`
+| ![](./essential/edit.svg){:height="30px" width="30px"} | essential | edit | `<Icon group="essential" name="edit" />`
+| ![](./essential/eject-1.svg){:height="30px" width="30px"} | essential | eject-1 | `<Icon group="essential" name="eject-1" />`
+| ![](./essential/eject.svg){:height="30px" width="30px"} | essential | eject | `<Icon group="essential" name="eject" />`
+| ![](./essential/equal-1.svg){:height="30px" width="30px"} | essential | equal-1 | `<Icon group="essential" name="equal-1" />`
+| ![](./essential/equal-2.svg){:height="30px" width="30px"} | essential | equal-2 | `<Icon group="essential" name="equal-2" />`
+| ![](./essential/equal.svg){:height="30px" width="30px"} | essential | equal | `<Icon group="essential" name="equal" />`
+| ![](./essential/error.svg){:height="30px" width="30px"} | essential | error | `<Icon group="essential" name="error" />`
+| ![](./essential/exit-1.svg){:height="30px" width="30px"} | essential | exit-1 | `<Icon group="essential" name="exit-1" />`
+| ![](./essential/exit-2.svg){:height="30px" width="30px"} | essential | exit-2 | `<Icon group="essential" name="exit-2" />`
+| ![](./essential/exit.svg){:height="30px" width="30px"} | essential | exit | `<Icon group="essential" name="exit" />`
+| ![](./essential/eyeglasses.svg){:height="30px" width="30px"} | essential | eyeglasses | `<Icon group="essential" name="eyeglasses" />`
+| ![](./essential/fast-forward-1.svg){:height="30px" width="30px"} | essential | fast-forward-1 | `<Icon group="essential" name="fast-forward-1" />`
+| ![](./essential/fast-forward.svg){:height="30px" width="30px"} | essential | fast-forward | `<Icon group="essential" name="fast-forward" />`
+| ![](./essential/fax.svg){:height="30px" width="30px"} | essential | fax | `<Icon group="essential" name="fax" />`
+| ![](./essential/file-1.svg){:height="30px" width="30px"} | essential | file-1 | `<Icon group="essential" name="file-1" />`
+| ![](./essential/file-2.svg){:height="30px" width="30px"} | essential | file-2 | `<Icon group="essential" name="file-2" />`
+| ![](./essential/file.svg){:height="30px" width="30px"} | essential | file | `<Icon group="essential" name="file" />`
+| ![](./essential/film.svg){:height="30px" width="30px"} | essential | film | `<Icon group="essential" name="film" />`
+| ![](./essential/fingerprint.svg){:height="30px" width="30px"} | essential | fingerprint | `<Icon group="essential" name="fingerprint" />`
+| ![](./essential/flag-1.svg){:height="30px" width="30px"} | essential | flag-1 | `<Icon group="essential" name="flag-1" />`
+| ![](./essential/flag-2.svg){:height="30px" width="30px"} | essential | flag-2 | `<Icon group="essential" name="flag-2" />`
+| ![](./essential/flag-3.svg){:height="30px" width="30px"} | essential | flag-3 | `<Icon group="essential" name="flag-3" />`
+| ![](./essential/flag-4.svg){:height="30px" width="30px"} | essential | flag-4 | `<Icon group="essential" name="flag-4" />`
+| ![](./essential/flag.svg){:height="30px" width="30px"} | essential | flag | `<Icon group="essential" name="flag" />`
+| ![](./essential/focus.svg){:height="30px" width="30px"} | essential | focus | `<Icon group="essential" name="focus" />`
+| ![](./essential/folder-1.svg){:height="30px" width="30px"} | essential | folder-1 | `<Icon group="essential" name="folder-1" />`
+| ![](./essential/folder-10.svg){:height="30px" width="30px"} | essential | folder-10 | `<Icon group="essential" name="folder-10" />`
+| ![](./essential/folder-11.svg){:height="30px" width="30px"} | essential | folder-11 | `<Icon group="essential" name="folder-11" />`
+| ![](./essential/folder-12.svg){:height="30px" width="30px"} | essential | folder-12 | `<Icon group="essential" name="folder-12" />`
+| ![](./essential/folder-13.svg){:height="30px" width="30px"} | essential | folder-13 | `<Icon group="essential" name="folder-13" />`
+| ![](./essential/folder-14.svg){:height="30px" width="30px"} | essential | folder-14 | `<Icon group="essential" name="folder-14" />`
+| ![](./essential/folder-15.svg){:height="30px" width="30px"} | essential | folder-15 | `<Icon group="essential" name="folder-15" />`
+| ![](./essential/folder-16.svg){:height="30px" width="30px"} | essential | folder-16 | `<Icon group="essential" name="folder-16" />`
+| ![](./essential/folder-17.svg){:height="30px" width="30px"} | essential | folder-17 | `<Icon group="essential" name="folder-17" />`
+| ![](./essential/folder-18.svg){:height="30px" width="30px"} | essential | folder-18 | `<Icon group="essential" name="folder-18" />`
+| ![](./essential/folder-19.svg){:height="30px" width="30px"} | essential | folder-19 | `<Icon group="essential" name="folder-19" />`
+| ![](./essential/folder-2.svg){:height="30px" width="30px"} | essential | folder-2 | `<Icon group="essential" name="folder-2" />`
+| ![](./essential/folder-3.svg){:height="30px" width="30px"} | essential | folder-3 | `<Icon group="essential" name="folder-3" />`
+| ![](./essential/folder-4.svg){:height="30px" width="30px"} | essential | folder-4 | `<Icon group="essential" name="folder-4" />`
+| ![](./essential/folder-5.svg){:height="30px" width="30px"} | essential | folder-5 | `<Icon group="essential" name="folder-5" />`
+| ![](./essential/folder-6.svg){:height="30px" width="30px"} | essential | folder-6 | `<Icon group="essential" name="folder-6" />`
+| ![](./essential/folder-7.svg){:height="30px" width="30px"} | essential | folder-7 | `<Icon group="essential" name="folder-7" />`
+| ![](./essential/folder-8.svg){:height="30px" width="30px"} | essential | folder-8 | `<Icon group="essential" name="folder-8" />`
+| ![](./essential/folder-9.svg){:height="30px" width="30px"} | essential | folder-9 | `<Icon group="essential" name="folder-9" />`
+| ![](./essential/folder.svg){:height="30px" width="30px"} | essential | folder | `<Icon group="essential" name="folder" />`
+| ![](./essential/forbidden.svg){:height="30px" width="30px"} | essential | forbidden | `<Icon group="essential" name="forbidden" />`
+| ![](./essential/funnel.svg){:height="30px" width="30px"} | essential | funnel | `<Icon group="essential" name="funnel" />`
+| ![](./essential/garbage-1.svg){:height="30px" width="30px"} | essential | garbage-1 | `<Icon group="essential" name="garbage-1" />`
+| ![](./essential/garbage-2.svg){:height="30px" width="30px"} | essential | garbage-2 | `<Icon group="essential" name="garbage-2" />`
+| ![](./essential/garbage.svg){:height="30px" width="30px"} | essential | garbage | `<Icon group="essential" name="garbage" />`
+| ![](./essential/gift.svg){:height="30px" width="30px"} | essential | gift | `<Icon group="essential" name="gift" />`
+| ![](./essential/help.svg){:height="30px" width="30px"} | essential | help | `<Icon group="essential" name="help" />`
+| ![](./essential/hide.svg){:height="30px" width="30px"} | essential | hide | `<Icon group="essential" name="hide" />`
+| ![](./essential/hold.svg){:height="30px" width="30px"} | essential | hold | `<Icon group="essential" name="hold" />`
+| ![](./essential/home-1.svg){:height="30px" width="30px"} | essential | home-1 | `<Icon group="essential" name="home-1" />`
+| ![](./essential/home-2.svg){:height="30px" width="30px"} | essential | home-2 | `<Icon group="essential" name="home-2" />`
+| ![](./essential/home.svg){:height="30px" width="30px"} | essential | home | `<Icon group="essential" name="home" />`
+| ![](./essential/hourglass-1.svg){:height="30px" width="30px"} | essential | hourglass-1 | `<Icon group="essential" name="hourglass-1" />`
+| ![](./essential/hourglass-2.svg){:height="30px" width="30px"} | essential | hourglass-2 | `<Icon group="essential" name="hourglass-2" />`
+| ![](./essential/hourglass-3.svg){:height="30px" width="30px"} | essential | hourglass-3 | `<Icon group="essential" name="hourglass-3" />`
+| ![](./essential/hourglass.svg){:height="30px" width="30px"} | essential | hourglass | `<Icon group="essential" name="hourglass" />`
+| ![](./essential/house.svg){:height="30px" width="30px"} | essential | house | `<Icon group="essential" name="house" />`
+| ![](./essential/id-card-1.svg){:height="30px" width="30px"} | essential | id-card-1 | `<Icon group="essential" name="id-card-1" />`
+| ![](./essential/id-card-2.svg){:height="30px" width="30px"} | essential | id-card-2 | `<Icon group="essential" name="id-card-2" />`
+| ![](./essential/id-card-3.svg){:height="30px" width="30px"} | essential | id-card-3 | `<Icon group="essential" name="id-card-3" />`
+| ![](./essential/id-card-4.svg){:height="30px" width="30px"} | essential | id-card-4 | `<Icon group="essential" name="id-card-4" />`
+| ![](./essential/id-card-5.svg){:height="30px" width="30px"} | essential | id-card-5 | `<Icon group="essential" name="id-card-5" />`
+| ![](./essential/id-card.svg){:height="30px" width="30px"} | essential | id-card | `<Icon group="essential" name="id-card" />`
+| ![](./essential/idea.svg){:height="30px" width="30px"} | essential | idea | `<Icon group="essential" name="idea" />`
+| ![](./essential/incoming.svg){:height="30px" width="30px"} | essential | incoming | `<Icon group="essential" name="incoming" />`
+| ![](./essential/infinity.svg){:height="30px" width="30px"} | essential | infinity | `<Icon group="essential" name="infinity" />`
+| ![](./essential/info.svg){:height="30px" width="30px"} | essential | info | `<Icon group="essential" name="info" />`
+| ![](./essential/internet.svg){:height="30px" width="30px"} | essential | internet | `<Icon group="essential" name="internet" />`
+| ![](./essential/key.svg){:height="30px" width="30px"} | essential | key | `<Icon group="essential" name="key" />`
+| ![](./essential/lamp.svg){:height="30px" width="30px"} | essential | lamp | `<Icon group="essential" name="lamp" />`
+| ![](./essential/layers-1.svg){:height="30px" width="30px"} | essential | layers-1 | `<Icon group="essential" name="layers-1" />`
+| ![](./essential/layers.svg){:height="30px" width="30px"} | essential | layers | `<Icon group="essential" name="layers" />`
+| ![](./essential/like-1.svg){:height="30px" width="30px"} | essential | like-1 | `<Icon group="essential" name="like-1" />`
+| ![](./essential/like-2.svg){:height="30px" width="30px"} | essential | like-2 | `<Icon group="essential" name="like-2" />`
+| ![](./essential/like.svg){:height="30px" width="30px"} | essential | like | `<Icon group="essential" name="like" />`
+| ![](./essential/link.svg){:height="30px" width="30px"} | essential | link | `<Icon group="essential" name="link" />`
+| ![](./essential/list-1.svg){:height="30px" width="30px"} | essential | list-1 | `<Icon group="essential" name="list-1" />`
+| ![](./essential/list.svg){:height="30px" width="30px"} | essential | list | `<Icon group="essential" name="list" />`
+| ![](./essential/lock-1.svg){:height="30px" width="30px"} | essential | lock-1 | `<Icon group="essential" name="lock-1" />`
+| ![](./essential/lock.svg){:height="30px" width="30px"} | essential | lock | `<Icon group="essential" name="lock" />`
+| ![](./essential/locked-1.svg){:height="30px" width="30px"} | essential | locked-1 | `<Icon group="essential" name="locked-1" />`
+| ![](./essential/locked-2.svg){:height="30px" width="30px"} | essential | locked-2 | `<Icon group="essential" name="locked-2" />`
+| ![](./essential/locked-3.svg){:height="30px" width="30px"} | essential | locked-3 | `<Icon group="essential" name="locked-3" />`
+| ![](./essential/locked-4.svg){:height="30px" width="30px"} | essential | locked-4 | `<Icon group="essential" name="locked-4" />`
+| ![](./essential/locked-5.svg){:height="30px" width="30px"} | essential | locked-5 | `<Icon group="essential" name="locked-5" />`
+| ![](./essential/locked-6.svg){:height="30px" width="30px"} | essential | locked-6 | `<Icon group="essential" name="locked-6" />`
+| ![](./essential/locked.svg){:height="30px" width="30px"} | essential | locked | `<Icon group="essential" name="locked" />`
+| ![](./essential/login.svg){:height="30px" width="30px"} | essential | login | `<Icon group="essential" name="login" />`
+| ![](./essential/magic-wand.svg){:height="30px" width="30px"} | essential | magic-wand | `<Icon group="essential" name="magic-wand" />`
+| ![](./essential/magnet-1.svg){:height="30px" width="30px"} | essential | magnet-1 | `<Icon group="essential" name="magnet-1" />`
+| ![](./essential/magnet-2.svg){:height="30px" width="30px"} | essential | magnet-2 | `<Icon group="essential" name="magnet-2" />`
+| ![](./essential/magnet.svg){:height="30px" width="30px"} | essential | magnet | `<Icon group="essential" name="magnet" />`
+| ![](./essential/map-1.svg){:height="30px" width="30px"} | essential | map-1 | `<Icon group="essential" name="map-1" />`
+| ![](./essential/map-2.svg){:height="30px" width="30px"} | essential | map-2 | `<Icon group="essential" name="map-2" />`
+| ![](./essential/map-location.svg){:height="30px" width="30px"} | essential | map-location | `<Icon group="essential" name="map-location" />`
+| ![](./essential/map.svg){:height="30px" width="30px"} | essential | map | `<Icon group="essential" name="map" />`
+| ![](./essential/megaphone-1.svg){:height="30px" width="30px"} | essential | megaphone-1 | `<Icon group="essential" name="megaphone-1" />`
+| ![](./essential/megaphone.svg){:height="30px" width="30px"} | essential | megaphone | `<Icon group="essential" name="megaphone" />`
+| ![](./essential/menu-1.svg){:height="30px" width="30px"} | essential | menu-1 | `<Icon group="essential" name="menu-1" />`
+| ![](./essential/menu-2.svg){:height="30px" width="30px"} | essential | menu-2 | `<Icon group="essential" name="menu-2" />`
+| ![](./essential/menu-3.svg){:height="30px" width="30px"} | essential | menu-3 | `<Icon group="essential" name="menu-3" />`
+| ![](./essential/menu-4.svg){:height="30px" width="30px"} | essential | menu-4 | `<Icon group="essential" name="menu-4" />`
+| ![](./essential/menu.svg){:height="30px" width="30px"} | essential | menu | `<Icon group="essential" name="menu" />`
+| ![](./essential/microphone-1.svg){:height="30px" width="30px"} | essential | microphone-1 | `<Icon group="essential" name="microphone-1" />`
+| ![](./essential/microphone.svg){:height="30px" width="30px"} | essential | microphone | `<Icon group="essential" name="microphone" />`
+| ![](./essential/minus-1.svg){:height="30px" width="30px"} | essential | minus-1 | `<Icon group="essential" name="minus-1" />`
+| ![](./essential/minus.svg){:height="30px" width="30px"} | essential | minus | `<Icon group="essential" name="minus" />`
+| ![](./essential/more-1.svg){:height="30px" width="30px"} | essential | more-1 | `<Icon group="essential" name="more-1" />`
+| ![](./essential/more-2.svg){:height="30px" width="30px"} | essential | more-2 | `<Icon group="essential" name="more-2" />`
+| ![](./essential/more.svg){:height="30px" width="30px"} | essential | more | `<Icon group="essential" name="more" />`
+| ![](./essential/multiply-1.svg){:height="30px" width="30px"} | essential | multiply-1 | `<Icon group="essential" name="multiply-1" />`
+| ![](./essential/multiply.svg){:height="30px" width="30px"} | essential | multiply | `<Icon group="essential" name="multiply" />`
+| ![](./essential/music-player-1.svg){:height="30px" width="30px"} | essential | music-player-1 | `<Icon group="essential" name="music-player-1" />`
+| ![](./essential/music-player-2.svg){:height="30px" width="30px"} | essential | music-player-2 | `<Icon group="essential" name="music-player-2" />`
+| ![](./essential/music-player-3.svg){:height="30px" width="30px"} | essential | music-player-3 | `<Icon group="essential" name="music-player-3" />`
+| ![](./essential/music-player.svg){:height="30px" width="30px"} | essential | music-player | `<Icon group="essential" name="music-player" />`
+| ![](./essential/mute.svg){:height="30px" width="30px"} | essential | mute | `<Icon group="essential" name="mute" />`
+| ![](./essential/muted.svg){:height="30px" width="30px"} | essential | muted | `<Icon group="essential" name="muted" />`
+| ![](./essential/navigation-1.svg){:height="30px" width="30px"} | essential | navigation-1 | `<Icon group="essential" name="navigation-1" />`
+| ![](./essential/navigation.svg){:height="30px" width="30px"} | essential | navigation | `<Icon group="essential" name="navigation" />`
+| ![](./essential/network.svg){:height="30px" width="30px"} | essential | network | `<Icon group="essential" name="network" />`
+| ![](./essential/newspaper.svg){:height="30px" width="30px"} | essential | newspaper | `<Icon group="essential" name="newspaper" />`
+| ![](./essential/next.svg){:height="30px" width="30px"} | essential | next | `<Icon group="essential" name="next" />`
+| ![](./essential/note.svg){:height="30px" width="30px"} | essential | note | `<Icon group="essential" name="note" />`
+| ![](./essential/notebook-1.svg){:height="30px" width="30px"} | essential | notebook-1 | `<Icon group="essential" name="notebook-1" />`
+| ![](./essential/notebook-2.svg){:height="30px" width="30px"} | essential | notebook-2 | `<Icon group="essential" name="notebook-2" />`
+| ![](./essential/notebook-3.svg){:height="30px" width="30px"} | essential | notebook-3 | `<Icon group="essential" name="notebook-3" />`
+| ![](./essential/notebook-4.svg){:height="30px" width="30px"} | essential | notebook-4 | `<Icon group="essential" name="notebook-4" />`
+| ![](./essential/notebook-5.svg){:height="30px" width="30px"} | essential | notebook-5 | `<Icon group="essential" name="notebook-5" />`
+| ![](./essential/notebook.svg){:height="30px" width="30px"} | essential | notebook | `<Icon group="essential" name="notebook" />`
+| ![](./essential/notepad-1.svg){:height="30px" width="30px"} | essential | notepad-1 | `<Icon group="essential" name="notepad-1" />`
+| ![](./essential/notepad-2.svg){:height="30px" width="30px"} | essential | notepad-2 | `<Icon group="essential" name="notepad-2" />`
+| ![](./essential/notepad.svg){:height="30px" width="30px"} | essential | notepad | `<Icon group="essential" name="notepad" />`
+| ![](./essential/notification.svg){:height="30px" width="30px"} | essential | notification | `<Icon group="essential" name="notification" />`
+| ![](./essential/paper-plane-1.svg){:height="30px" width="30px"} | essential | paper-plane-1 | `<Icon group="essential" name="paper-plane-1" />`
+| ![](./essential/paper-plane.svg){:height="30px" width="30px"} | essential | paper-plane | `<Icon group="essential" name="paper-plane" />`
+| ![](./essential/pause-1.svg){:height="30px" width="30px"} | essential | pause-1 | `<Icon group="essential" name="pause-1" />`
+| ![](./essential/pause.svg){:height="30px" width="30px"} | essential | pause | `<Icon group="essential" name="pause" />`
+| ![](./essential/percent-1.svg){:height="30px" width="30px"} | essential | percent-1 | `<Icon group="essential" name="percent-1" />`
+| ![](./essential/percent.svg){:height="30px" width="30px"} | essential | percent | `<Icon group="essential" name="percent" />`
+| ![](./essential/perspective.svg){:height="30px" width="30px"} | essential | perspective | `<Icon group="essential" name="perspective" />`
+| ![](./essential/photo-camera-1.svg){:height="30px" width="30px"} | essential | photo-camera-1 | `<Icon group="essential" name="photo-camera-1" />`
+| ![](./essential/photo-camera.svg){:height="30px" width="30px"} | essential | photo-camera | `<Icon group="essential" name="photo-camera" />`
+| ![](./essential/photos.svg){:height="30px" width="30px"} | essential | photos | `<Icon group="essential" name="photos" />`
+| ![](./essential/picture-1.svg){:height="30px" width="30px"} | essential | picture-1 | `<Icon group="essential" name="picture-1" />`
+| ![](./essential/picture-2.svg){:height="30px" width="30px"} | essential | picture-2 | `<Icon group="essential" name="picture-2" />`
+| ![](./essential/picture.svg){:height="30px" width="30px"} | essential | picture | `<Icon group="essential" name="picture" />`
+| ![](./essential/pin.svg){:height="30px" width="30px"} | essential | pin | `<Icon group="essential" name="pin" />`
+| ![](./essential/placeholder-1.svg){:height="30px" width="30px"} | essential | placeholder-1 | `<Icon group="essential" name="placeholder-1" />`
+| ![](./essential/placeholder-2.svg){:height="30px" width="30px"} | essential | placeholder-2 | `<Icon group="essential" name="placeholder-2" />`
+| ![](./essential/placeholder-3.svg){:height="30px" width="30px"} | essential | placeholder-3 | `<Icon group="essential" name="placeholder-3" />`
+| ![](./essential/placeholder.svg){:height="30px" width="30px"} | essential | placeholder | `<Icon group="essential" name="placeholder" />`
+| ![](./essential/placeholders.svg){:height="30px" width="30px"} | essential | placeholders | `<Icon group="essential" name="placeholders" />`
+| ![](./essential/play-button-1.svg){:height="30px" width="30px"} | essential | play-button-1 | `<Icon group="essential" name="play-button-1" />`
+| ![](./essential/play-button.svg){:height="30px" width="30px"} | essential | play-button | `<Icon group="essential" name="play-button" />`
+| ![](./essential/plus.svg){:height="30px" width="30px"} | essential | plus | `<Icon group="essential" name="plus" />`
+| ![](./essential/power.svg){:height="30px" width="30px"} | essential | power | `<Icon group="essential" name="power" />`
+| ![](./essential/previous.svg){:height="30px" width="30px"} | essential | previous | `<Icon group="essential" name="previous" />`
+| ![](./essential/price-tag.svg){:height="30px" width="30px"} | essential | price-tag | `<Icon group="essential" name="price-tag" />`
+| ![](./essential/print.svg){:height="30px" width="30px"} | essential | print | `<Icon group="essential" name="print" />`
+| ![](./essential/push-pin.svg){:height="30px" width="30px"} | essential | push-pin | `<Icon group="essential" name="push-pin" />`
+| ![](./essential/radar.svg){:height="30px" width="30px"} | essential | radar | `<Icon group="essential" name="radar" />`
+| ![](./essential/reading.svg){:height="30px" width="30px"} | essential | reading | `<Icon group="essential" name="reading" />`
+| ![](./essential/record.svg){:height="30px" width="30px"} | essential | record | `<Icon group="essential" name="record" />`
+| ![](./essential/repeat-1.svg){:height="30px" width="30px"} | essential | repeat-1 | `<Icon group="essential" name="repeat-1" />`
+| ![](./essential/repeat.svg){:height="30px" width="30px"} | essential | repeat | `<Icon group="essential" name="repeat" />`
+| ![](./essential/restart.svg){:height="30px" width="30px"} | essential | restart | `<Icon group="essential" name="restart" />`
+| ![](./essential/resume.svg){:height="30px" width="30px"} | essential | resume | `<Icon group="essential" name="resume" />`
+| ![](./essential/rewind-1.svg){:height="30px" width="30px"} | essential | rewind-1 | `<Icon group="essential" name="rewind-1" />`
+| ![](./essential/rewind.svg){:height="30px" width="30px"} | essential | rewind | `<Icon group="essential" name="rewind" />`
+| ![](./essential/route.svg){:height="30px" width="30px"} | essential | route | `<Icon group="essential" name="route" />`
+| ![](./essential/save.svg){:height="30px" width="30px"} | essential | save | `<Icon group="essential" name="save" />`
+| ![](./essential/search-1.svg){:height="30px" width="30px"} | essential | search-1 | `<Icon group="essential" name="search-1" />`
+| ![](./essential/search.svg){:height="30px" width="30px"} | essential | search | `<Icon group="essential" name="search" />`
+| ![](./essential/send.svg){:height="30px" width="30px"} | essential | send | `<Icon group="essential" name="send" />`
+| ![](./essential/server-1.svg){:height="30px" width="30px"} | essential | server-1 | `<Icon group="essential" name="server-1" />`
+| ![](./essential/server-2.svg){:height="30px" width="30px"} | essential | server-2 | `<Icon group="essential" name="server-2" />`
+| ![](./essential/server-3.svg){:height="30px" width="30px"} | essential | server-3 | `<Icon group="essential" name="server-3" />`
+| ![](./essential/server.svg){:height="30px" width="30px"} | essential | server | `<Icon group="essential" name="server" />`
+| ![](./essential/settings-1.svg){:height="30px" width="30px"} | essential | settings-1 | `<Icon group="essential" name="settings-1" />`
+| ![](./essential/settings-2.svg){:height="30px" width="30px"} | essential | settings-2 | `<Icon group="essential" name="settings-2" />`
+| ![](./essential/settings-3.svg){:height="30px" width="30px"} | essential | settings-3 | `<Icon group="essential" name="settings-3" />`
+| ![](./essential/settings-4.svg){:height="30px" width="30px"} | essential | settings-4 | `<Icon group="essential" name="settings-4" />`
+| ![](./essential/settings-5.svg){:height="30px" width="30px"} | essential | settings-5 | `<Icon group="essential" name="settings-5" />`
+| ![](./essential/settings-6.svg){:height="30px" width="30px"} | essential | settings-6 | `<Icon group="essential" name="settings-6" />`
+| ![](./essential/settings-7.svg){:height="30px" width="30px"} | essential | settings-7 | `<Icon group="essential" name="settings-7" />`
+| ![](./essential/settings-8.svg){:height="30px" width="30px"} | essential | settings-8 | `<Icon group="essential" name="settings-8" />`
+| ![](./essential/settings-9.svg){:height="30px" width="30px"} | essential | settings-9 | `<Icon group="essential" name="settings-9" />`
+| ![](./essential/settings.svg){:height="30px" width="30px"} | essential | settings | `<Icon group="essential" name="settings" />`
+| ![](./essential/share-1.svg){:height="30px" width="30px"} | essential | share-1 | `<Icon group="essential" name="share-1" />`
+| ![](./essential/share-2.svg){:height="30px" width="30px"} | essential | share-2 | `<Icon group="essential" name="share-2" />`
+| ![](./essential/share.svg){:height="30px" width="30px"} | essential | share | `<Icon group="essential" name="share" />`
+| ![](./essential/shuffle-1.svg){:height="30px" width="30px"} | essential | shuffle-1 | `<Icon group="essential" name="shuffle-1" />`
+| ![](./essential/shuffle.svg){:height="30px" width="30px"} | essential | shuffle | `<Icon group="essential" name="shuffle" />`
+| ![](./essential/shutdown.svg){:height="30px" width="30px"} | essential | shutdown | `<Icon group="essential" name="shutdown" />`
+| ![](./essential/sign-1.svg){:height="30px" width="30px"} | essential | sign-1 | `<Icon group="essential" name="sign-1" />`
+| ![](./essential/sign.svg){:height="30px" width="30px"} | essential | sign | `<Icon group="essential" name="sign" />`
+| ![](./essential/skip.svg){:height="30px" width="30px"} | essential | skip | `<Icon group="essential" name="skip" />`
+| ![](./essential/smartphone-1.svg){:height="30px" width="30px"} | essential | smartphone-1 | `<Icon group="essential" name="smartphone-1" />`
+| ![](./essential/smartphone-10.svg){:height="30px" width="30px"} | essential | smartphone-10 | `<Icon group="essential" name="smartphone-10" />`
+| ![](./essential/smartphone-11.svg){:height="30px" width="30px"} | essential | smartphone-11 | `<Icon group="essential" name="smartphone-11" />`
+| ![](./essential/smartphone-2.svg){:height="30px" width="30px"} | essential | smartphone-2 | `<Icon group="essential" name="smartphone-2" />`
+| ![](./essential/smartphone-3.svg){:height="30px" width="30px"} | essential | smartphone-3 | `<Icon group="essential" name="smartphone-3" />`
+| ![](./essential/smartphone-4.svg){:height="30px" width="30px"} | essential | smartphone-4 | `<Icon group="essential" name="smartphone-4" />`
+| ![](./essential/smartphone-5.svg){:height="30px" width="30px"} | essential | smartphone-5 | `<Icon group="essential" name="smartphone-5" />`
+| ![](./essential/smartphone-6.svg){:height="30px" width="30px"} | essential | smartphone-6 | `<Icon group="essential" name="smartphone-6" />`
+| ![](./essential/smartphone-7.svg){:height="30px" width="30px"} | essential | smartphone-7 | `<Icon group="essential" name="smartphone-7" />`
+| ![](./essential/smartphone-8.svg){:height="30px" width="30px"} | essential | smartphone-8 | `<Icon group="essential" name="smartphone-8" />`
+| ![](./essential/smartphone-9.svg){:height="30px" width="30px"} | essential | smartphone-9 | `<Icon group="essential" name="smartphone-9" />`
+| ![](./essential/smartphone.svg){:height="30px" width="30px"} | essential | smartphone | `<Icon group="essential" name="smartphone" />`
+| ![](./essential/speaker-1.svg){:height="30px" width="30px"} | essential | speaker-1 | `<Icon group="essential" name="speaker-1" />`
+| ![](./essential/speaker-2.svg){:height="30px" width="30px"} | essential | speaker-2 | `<Icon group="essential" name="speaker-2" />`
+| ![](./essential/speaker-3.svg){:height="30px" width="30px"} | essential | speaker-3 | `<Icon group="essential" name="speaker-3" />`
+| ![](./essential/speaker-4.svg){:height="30px" width="30px"} | essential | speaker-4 | `<Icon group="essential" name="speaker-4" />`
+| ![](./essential/speaker-5.svg){:height="30px" width="30px"} | essential | speaker-5 | `<Icon group="essential" name="speaker-5" />`
+| ![](./essential/speaker-6.svg){:height="30px" width="30px"} | essential | speaker-6 | `<Icon group="essential" name="speaker-6" />`
+| ![](./essential/speaker-7.svg){:height="30px" width="30px"} | essential | speaker-7 | `<Icon group="essential" name="speaker-7" />`
+| ![](./essential/speaker-8.svg){:height="30px" width="30px"} | essential | speaker-8 | `<Icon group="essential" name="speaker-8" />`
+| ![](./essential/speaker.svg){:height="30px" width="30px"} | essential | speaker | `<Icon group="essential" name="speaker" />`
+| ![](./essential/spotlight.svg){:height="30px" width="30px"} | essential | spotlight | `<Icon group="essential" name="spotlight" />`
+| ![](./essential/star-1.svg){:height="30px" width="30px"} | essential | star-1 | `<Icon group="essential" name="star-1" />`
+| ![](./essential/star.svg){:height="30px" width="30px"} | essential | star | `<Icon group="essential" name="star" />`
+| ![](./essential/stop-1.svg){:height="30px" width="30px"} | essential | stop-1 | `<Icon group="essential" name="stop-1" />`
+| ![](./essential/stop.svg){:height="30px" width="30px"} | essential | stop | `<Icon group="essential" name="stop" />`
+| ![](./essential/stopwatch-1.svg){:height="30px" width="30px"} | essential | stopwatch-1 | `<Icon group="essential" name="stopwatch-1" />`
+| ![](./essential/stopwatch-2.svg){:height="30px" width="30px"} | essential | stopwatch-2 | `<Icon group="essential" name="stopwatch-2" />`
+| ![](./essential/stopwatch-3.svg){:height="30px" width="30px"} | essential | stopwatch-3 | `<Icon group="essential" name="stopwatch-3" />`
+| ![](./essential/stopwatch-4.svg){:height="30px" width="30px"} | essential | stopwatch-4 | `<Icon group="essential" name="stopwatch-4" />`
+| ![](./essential/stopwatch.svg){:height="30px" width="30px"} | essential | stopwatch | `<Icon group="essential" name="stopwatch" />`
+| ![](./essential/street-1.svg){:height="30px" width="30px"} | essential | street-1 | `<Icon group="essential" name="street-1" />`
+| ![](./essential/street.svg){:height="30px" width="30px"} | essential | street | `<Icon group="essential" name="street" />`
+| ![](./essential/substract-1.svg){:height="30px" width="30px"} | essential | substract-1 | `<Icon group="essential" name="substract-1" />`
+| ![](./essential/substract.svg){:height="30px" width="30px"} | essential | substract | `<Icon group="essential" name="substract" />`
+| ![](./essential/success.svg){:height="30px" width="30px"} | essential | success | `<Icon group="essential" name="success" />`
+| ![](./essential/switch-1.svg){:height="30px" width="30px"} | essential | switch-1 | `<Icon group="essential" name="switch-1" />`
+| ![](./essential/switch-2.svg){:height="30px" width="30px"} | essential | switch-2 | `<Icon group="essential" name="switch-2" />`
+| ![](./essential/switch-3.svg){:height="30px" width="30px"} | essential | switch-3 | `<Icon group="essential" name="switch-3" />`
+| ![](./essential/switch-4.svg){:height="30px" width="30px"} | essential | switch-4 | `<Icon group="essential" name="switch-4" />`
+| ![](./essential/switch-5.svg){:height="30px" width="30px"} | essential | switch-5 | `<Icon group="essential" name="switch-5" />`
+| ![](./essential/switch-6.svg){:height="30px" width="30px"} | essential | switch-6 | `<Icon group="essential" name="switch-6" />`
+| ![](./essential/switch-7.svg){:height="30px" width="30px"} | essential | switch-7 | `<Icon group="essential" name="switch-7" />`
+| ![](./essential/switch.svg){:height="30px" width="30px"} | essential | switch | `<Icon group="essential" name="switch" />`
+| ![](./essential/tabs-1.svg){:height="30px" width="30px"} | essential | tabs-1 | `<Icon group="essential" name="tabs-1" />`
+| ![](./essential/tabs.svg){:height="30px" width="30px"} | essential | tabs | `<Icon group="essential" name="tabs" />`
+| ![](./essential/target.svg){:height="30px" width="30px"} | essential | target | `<Icon group="essential" name="target" />`
+| ![](./essential/television-1.svg){:height="30px" width="30px"} | essential | television-1 | `<Icon group="essential" name="television-1" />`
+| ![](./essential/television.svg){:height="30px" width="30px"} | essential | television | `<Icon group="essential" name="television" />`
+| ![](./essential/time.svg){:height="30px" width="30px"} | essential | time | `<Icon group="essential" name="time" />`
+| ![](./essential/trash.svg){:height="30px" width="30px"} | essential | trash | `<Icon group="essential" name="trash" />`
+| ![](./essential/umbrella.svg){:height="30px" width="30px"} | essential | umbrella | `<Icon group="essential" name="umbrella" />`
+| ![](./essential/unlink.svg){:height="30px" width="30px"} | essential | unlink | `<Icon group="essential" name="unlink" />`
+| ![](./essential/unlocked-1.svg){:height="30px" width="30px"} | essential | unlocked-1 | `<Icon group="essential" name="unlocked-1" />`
+| ![](./essential/unlocked-2.svg){:height="30px" width="30px"} | essential | unlocked-2 | `<Icon group="essential" name="unlocked-2" />`
+| ![](./essential/unlocked.svg){:height="30px" width="30px"} | essential | unlocked | `<Icon group="essential" name="unlocked" />`
+| ![](./essential/upload.svg){:height="30px" width="30px"} | essential | upload | `<Icon group="essential" name="upload" />`
+| ![](./essential/user-1.svg){:height="30px" width="30px"} | essential | user-1 | `<Icon group="essential" name="user-1" />`
+| ![](./essential/user-2.svg){:height="30px" width="30px"} | essential | user-2 | `<Icon group="essential" name="user-2" />`
+| ![](./essential/user-3.svg){:height="30px" width="30px"} | essential | user-3 | `<Icon group="essential" name="user-3" />`
+| ![](./essential/user-4.svg){:height="30px" width="30px"} | essential | user-4 | `<Icon group="essential" name="user-4" />`
+| ![](./essential/user-5.svg){:height="30px" width="30px"} | essential | user-5 | `<Icon group="essential" name="user-5" />`
+| ![](./essential/user-6.svg){:height="30px" width="30px"} | essential | user-6 | `<Icon group="essential" name="user-6" />`
+| ![](./essential/user-7.svg){:height="30px" width="30px"} | essential | user-7 | `<Icon group="essential" name="user-7" />`
+| ![](./essential/user.svg){:height="30px" width="30px"} | essential | user | `<Icon group="essential" name="user" />`
+| ![](./essential/users-1.svg){:height="30px" width="30px"} | essential | users-1 | `<Icon group="essential" name="users-1" />`
+| ![](./essential/users.svg){:height="30px" width="30px"} | essential | users | `<Icon group="essential" name="users" />`
+| ![](./essential/video-camera-1.svg){:height="30px" width="30px"} | essential | video-camera-1 | `<Icon group="essential" name="video-camera-1" />`
+| ![](./essential/video-camera.svg){:height="30px" width="30px"} | essential | video-camera | `<Icon group="essential" name="video-camera" />`
+| ![](./essential/video-player-1.svg){:height="30px" width="30px"} | essential | video-player-1 | `<Icon group="essential" name="video-player-1" />`
+| ![](./essential/video-player-2.svg){:height="30px" width="30px"} | essential | video-player-2 | `<Icon group="essential" name="video-player-2" />`
+| ![](./essential/video-player.svg){:height="30px" width="30px"} | essential | video-player | `<Icon group="essential" name="video-player" />`
+| ![](./essential/view-1.svg){:height="30px" width="30px"} | essential | view-1 | `<Icon group="essential" name="view-1" />`
+| ![](./essential/view-2.svg){:height="30px" width="30px"} | essential | view-2 | `<Icon group="essential" name="view-2" />`
+| ![](./essential/view.svg){:height="30px" width="30px"} | essential | view | `<Icon group="essential" name="view" />`
+| ![](./essential/volume-control-1.svg){:height="30px" width="30px"} | essential | volume-control-1 | `<Icon group="essential" name="volume-control-1" />`
+| ![](./essential/volume-control.svg){:height="30px" width="30px"} | essential | volume-control | `<Icon group="essential" name="volume-control" />`
+| ![](./essential/warning.svg){:height="30px" width="30px"} | essential | warning | `<Icon group="essential" name="warning" />`
+| ![](./essential/wifi-1.svg){:height="30px" width="30px"} | essential | wifi-1 | `<Icon group="essential" name="wifi-1" />`
+| ![](./essential/wifi.svg){:height="30px" width="30px"} | essential | wifi | `<Icon group="essential" name="wifi" />`
+| ![](./essential/windows-1.svg){:height="30px" width="30px"} | essential | windows-1 | `<Icon group="essential" name="windows-1" />`
+| ![](./essential/windows-2.svg){:height="30px" width="30px"} | essential | windows-2 | `<Icon group="essential" name="windows-2" />`
+| ![](./essential/windows-3.svg){:height="30px" width="30px"} | essential | windows-3 | `<Icon group="essential" name="windows-3" />`
+| ![](./essential/windows-4.svg){:height="30px" width="30px"} | essential | windows-4 | `<Icon group="essential" name="windows-4" />`
+| ![](./essential/windows.svg){:height="30px" width="30px"} | essential | windows | `<Icon group="essential" name="windows" />`
+| ![](./essential/wireless-internet.svg){:height="30px" width="30px"} | essential | wireless-internet | `<Icon group="essential" name="wireless-internet" />`
+| ![](./essential/worldwide-1.svg){:height="30px" width="30px"} | essential | worldwide-1 | `<Icon group="essential" name="worldwide-1" />`
+| ![](./essential/worldwide.svg){:height="30px" width="30px"} | essential | worldwide | `<Icon group="essential" name="worldwide" />`
+| ![](./essential/zoom-in.svg){:height="30px" width="30px"} | essential | zoom-in | `<Icon group="essential" name="zoom-in" />`
+| ![](./essential/zoom-out.svg){:height="30px" width="30px"} | essential | zoom-out | `<Icon group="essential" name="zoom-out" />`
