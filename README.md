@@ -1,6 +1,26 @@
-# 2212 Icons for React Native
+# Icons for React Native ( 3039 )
 
-### react-native-ico
+### react-native-ico v12.1.1
+
+## Usage
+
+```
+import Icon from 'react-native-ico';
+
+
+// Inside some view component
+render() {
+    return (
+        <Fragment>
+          <Icon name="heart" />
+          <Icon name="home" group="font-awesome" />
+          <Icon name="speaker" height="40" width="40" />
+          <Icon name="essential/trash" color="red" />
+        </Fragment>
+    );
+}
+
+```
 
 ## Installation
 
@@ -28,45 +48,46 @@ react-native link react-native-svg
 cd ios && pod install && cd ..
 ```
 
-## Usage
+## API
 
-```
-import Icon from 'react-native-ico';
+### <Icon name [group color width height ...rest] />
 
+Returns a SvgXml icon by name and group.
 
-// Inside some view component
-render() {
-    return (
-        <Fragment>
-          <Icon name="heart" />
-          <Icon group="font-awesome" name="home" />
-          <Icon name="speaker" height="20" width="20" />
-          <Icon name="essential/trash" color="red" />
-        </Fragment>
-    );
-}
-
-```
+ name | optional | default value | description | examples
+------|----------|---------------|-------------|---------
+name | no |  | name of file in selected group, can contain group name before '/' sign | "home", "font-awesome/home"
+group | yes | default | name of the group | "essential"
+color | yes | | line color, css style | "#00ff00", "#0f0", "green"
+width | yes | 20 | width of the icon | 40
+height | yes | 20 | height of the icon | 40
+...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
 ## List of icons
 
-- [font-awesome](static/font-awesome.md)
+- [balloons](static/balloons.md)
 
 - [coolicons](static/coolicons.md)
 
+- [default](static/default.md)
+
 - [essential](static/essential.md)
 
-- [universalicons](static/universalicons.md)
-
-- [lodgicons](static/lodgicons.md)
+- [file-folder](static/file-folder.md)
 
 - [flags](static/flags.md)
 
+- [font-awesome](static/font-awesome.md)
+
+- [interaction](static/interaction.md)
+
+- [lodgicons](static/lodgicons.md)
+
+- [payment-method](static/payment-method.md)
+
 - [social-media](static/social-media.md)
 
-- [default](static/default.md)
-
-- [menu](static/menu.md)
+- [universalicons](static/universalicons.md)
 
 
 ## Example

@@ -3,15 +3,18 @@ import { SvgXml } from 'react-native-svg';
 import { View } from 'react-native';
 
 const iconsSet = {
-  'font-awesome': require('./data/font-awesome'),
-  'essential': require('./data/essential'),
+  'balloons': require('./data/balloons'),
   'coolicons': require('./data/coolicons'),
-  'lodgicons': require('./data/lodgicons'),
-  'universalicons': require('./data/universalicons'),
-  'flags': require('./data/flags'),
-  'social-media': require('./data/social-media'),
-  'menu': require('./data/menu'),
   'default': require('./data/default'),
+  'essential': require('./data/essential'),
+  'file-folder': require('./data/file-folder'),
+  'flags': require('./data/flags'),
+  'font-awesome': require('./data/font-awesome'),
+  'interaction': require('./data/interaction'),
+  'lodgicons': require('./data/lodgicons'),
+  'payment-method': require('./data/payment-method'),
+  'social-media': require('./data/social-media'),
+  'universalicons': require('./data/universalicons'),
 };
 
 const defaultSet = 'default';
