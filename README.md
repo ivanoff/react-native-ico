@@ -1,6 +1,8 @@
-# Icons for React Native ( 3039 )
+# Icons for React Native
 
-### react-native-ico v12.1.1
+### react-native-ico
+
+3800+ Icons for React Native
 
 ## Usage
 
@@ -65,30 +67,35 @@ height | yes | 20 | height of the icon | 40
 
 ## List of icons
 
-- [balloons](static/balloons.md)
+- [balloons](https://github.com/ivanoff/react-native-ico-balloons/blob/master/static/balloons.md)
 
-- [coolicons](static/coolicons.md)
+- [business](https://github.com/ivanoff/react-native-ico-business/blob/master/static/business.md)
 
-- [default](static/default.md)
+- [coolicons](https://github.com/ivanoff/react-native-ico-coolicons/blob/master/static/coolicons.md)
 
-- [essential](static/essential.md)
+- [essential](https://github.com/ivanoff/react-native-ico-essential/blob/master/static/essential.md)
 
-- [file-folder](static/file-folder.md)
+- [file-folder](https://github.com/ivanoff/react-native-ico-file-folder/blob/master/static/file-folder.md)
 
-- [flags](static/flags.md)
+- [flags](https://github.com/ivanoff/react-native-ico-flags/blob/master/static/flags.md)
 
-- [font-awesome](static/font-awesome.md)
+- [font-awesome](https://github.com/ivanoff/react-native-ico-font-awesome/blob/master/static/font-awesome.md)
 
-- [interaction](static/interaction.md)
+- [interaction](https://github.com/ivanoff/react-native-ico-interaction/blob/master/static/interaction.md)
 
-- [lodgicons](static/lodgicons.md)
+- [lodgicons](https://github.com/ivanoff/react-native-ico-lodgicons/blob/master/static/lodgicons.md)
 
-- [payment-method](static/payment-method.md)
+- [miscellaneous](https://github.com/ivanoff/react-native-ico-miscellaneous/blob/master/static/miscellaneous.md)
 
-- [social-media](static/social-media.md)
+- [new-year](https://github.com/ivanoff/react-native-ico-new-year/blob/master/static/new-year.md)
 
-- [universalicons](static/universalicons.md)
+- [payment-method](https://github.com/ivanoff/react-native-ico-payment-method/blob/master/static/payment-method.md)
 
+- [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
+
+- [ui-interface](https://github.com/ivanoff/react-native-ico-ui-interface/blob/master/static/ui-interface.md)
+
+- [universalicons](https://github.com/ivanoff/react-native-ico-universalicons/blob/master/static/universalicons.md)
 
 ## Example
 
