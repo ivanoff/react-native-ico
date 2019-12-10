@@ -1,6 +1,8 @@
-# Icons for React Native ( 3039 )
+# Icons for React Native
 
-### react-native-ico v12.1.1
+### react-native-ico
+
+3k+ Icons for React Native
 
 ## Usage
 
@@ -65,29 +67,29 @@ height | yes | 20 | height of the icon | 40
 
 ## List of icons
 
-- [balloons](static/balloons.md)
+- [balloons](https://github.com/ivanoff/react-native-ico-balloons/blob/master/static/balloons.md)
 
-- [coolicons](static/coolicons.md)
+- [coolicons](https://github.com/ivanoff/react-native-ico-coolicons/blob/master/static/coolicons.md)
 
-- [default](static/default.md)
+- [default](https://github.com/ivanoff/react-native-ico-default/blob/master/static/default.md)
 
-- [essential](static/essential.md)
+- [essential](https://github.com/ivanoff/react-native-ico-essential/blob/master/static/essential.md)
 
-- [file-folder](static/file-folder.md)
+- [file-folder](https://github.com/ivanoff/react-native-ico-file-folder/blob/master/static/file-folder.md)
 
-- [flags](static/flags.md)
+- [flags](https://github.com/ivanoff/react-native-ico-flags/blob/master/static/flags.md)
 
-- [font-awesome](static/font-awesome.md)
+- [font-awesome](https://github.com/ivanoff/react-native-ico-font-awesome/blob/master/static/font-awesome.md)
 
-- [interaction](static/interaction.md)
+- [interaction](https://github.com/ivanoff/react-native-ico-interaction/blob/master/static/interaction.md)
 
-- [lodgicons](static/lodgicons.md)
+- [lodgicons](https://github.com/ivanoff/react-native-ico-lodgicons/blob/master/static/lodgicons.md)
 
-- [payment-method](static/payment-method.md)
+- [payment-method](https://github.com/ivanoff/react-native-ico-payment-method/blob/master/static/payment-method.md)
 
-- [social-media](static/social-media.md)
+- [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
 
-- [universalicons](static/universalicons.md)
+- [universalicons](https://github.com/ivanoff/react-native-ico-universalicons/blob/master/static/universalicons.md)
 
 
 ## Example

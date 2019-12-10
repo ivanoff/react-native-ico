@@ -1,12 +1,22 @@
 {
   "name": "react-native-ico",
-  "version": "12.1.1",
-  "description": "Icons for React Native ( 3039 )",
+  "version": "14.0.1",
+  "description": "Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native-ico-baloons": "^1.2.1",
+    "react-native-ico-coolicons": "^1.2.1",
+    "react-native-ico-essential": "^1.2.1",
+    "react-native-ico-file-folder": "^1.2.1",
+    "react-native-ico-flags": "^1.2.1",
+    "react-native-ico-font-awesome": "^1.2.1",
+    "react-native-ico-interaction": "^1.2.1",
+    "react-native-ico-lodgicons": "^1.2.1",
+    "react-native-ico-payment-method": "^1.2.1",
+    "react-native-ico-social-media": "^1.2.1",
+    "react-native-ico-universalicons": "^1.2.1",
     "react-native-svg": "^9.13.3"
   },
   "repository": {

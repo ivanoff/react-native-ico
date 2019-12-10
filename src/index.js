@@ -1,23 +1,9 @@
 import React, { Component } from 'react';
 import { SvgXml } from 'react-native-svg';
-import { View } from 'react-native';
 
-const iconsSet = {
-  'balloons': require('./data/balloons'),
-  'coolicons': require('./data/coolicons'),
-  'default': require('./data/default'),
-  'essential': require('./data/essential'),
-  'file-folder': require('./data/file-folder'),
-  'flags': require('./data/flags'),
-  'font-awesome': require('./data/font-awesome'),
-  'interaction': require('./data/interaction'),
-  'lodgicons': require('./data/lodgicons'),
-  'payment-method': require('./data/payment-method'),
-  'social-media': require('./data/social-media'),
-  'universalicons': require('./data/universalicons'),
-};
+const iconsSet = require('./data');
 
-const defaultSet = 'default';
+const defaultSet = 'font-awesome';
 
 export default class Icon extends Component {
   constructor(props) {
