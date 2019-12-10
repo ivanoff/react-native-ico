@@ -1,5 +1,4 @@
 module.exports = {
-  'default': require('./data/default'),
   'balloons': require('react-native-ico-balloons/src/data/balloons'),
   'business': require('react-native-ico-business/src/data/business'),
   'coolicons': require('react-native-ico-coolicons/src/data/coolicons'),

@@ -3,7 +3,7 @@ import { SvgXml } from 'react-native-svg';
 
 const iconsSet = require('./data');
 
-const defaultSet = 'font-awesome';
+const defaultSet = 'miscellaneous';
 
 export default class Icon extends Component {
   constructor(props) {
@@ -16,7 +16,7 @@ export default class Icon extends Component {
     const [, group, name] = sourceName.match(/(.*?)\/(.*)/) || [, sourceGroup || defaultSet, sourceName];
 
     let icon = iconsSet[group][name];
-    if(typeof icon !== 'string') icon = iconsSet.default.question;
+    if(typeof icon !== 'string') icon = iconsSet[defaultSet].question;
 
     if(color) icon = icon.replace(/<path /g, `<path fill="${color}" `)
     if(stroke) icon = icon.replace(/<path /g, `<path stroke="${stroke}" `)
