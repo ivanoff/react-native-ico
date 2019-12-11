@@ -2,7 +2,7 @@
 
 ### react-native-ico
 
-3k+ Icons for React Native
+3800+ Icons for React Native
 
 ## Usage
 
@@ -69,9 +69,9 @@ height | yes | 20 | height of the icon | 40
 
 - [balloons](https://github.com/ivanoff/react-native-ico-balloons/blob/master/static/balloons.md)
 
-- [coolicons](https://github.com/ivanoff/react-native-ico-coolicons/blob/master/static/coolicons.md)
+- [business](https://github.com/ivanoff/react-native-ico-business/blob/master/static/business.md)
 
-- [default](https://github.com/ivanoff/react-native-ico-default/blob/master/static/default.md)
+- [coolicons](https://github.com/ivanoff/react-native-ico-coolicons/blob/master/static/coolicons.md)
 
 - [essential](https://github.com/ivanoff/react-native-ico-essential/blob/master/static/essential.md)
 
@@ -85,12 +85,17 @@ height | yes | 20 | height of the icon | 40
 
 - [lodgicons](https://github.com/ivanoff/react-native-ico-lodgicons/blob/master/static/lodgicons.md)
 
+- [miscellaneous](https://github.com/ivanoff/react-native-ico-miscellaneous/blob/master/static/miscellaneous.md)
+
+- [new-year](https://github.com/ivanoff/react-native-ico-new-year/blob/master/static/new-year.md)
+
 - [payment-method](https://github.com/ivanoff/react-native-ico-payment-method/blob/master/static/payment-method.md)
 
 - [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
 
-- [universalicons](https://github.com/ivanoff/react-native-ico-universalicons/blob/master/static/universalicons.md)
+- [ui-interface](https://github.com/ivanoff/react-native-ico-ui-interface/blob/master/static/ui-interface.md)
 
+- [universalicons](https://github.com/ivanoff/react-native-ico-universalicons/blob/master/static/universalicons.md)
 
 ## Example
 
