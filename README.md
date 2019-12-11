@@ -2,7 +2,7 @@
 
 ### react-native-ico
 
-3800+ Icons for React Native
+4300+ Icons for React Native
 
 ## Usage
 
@@ -69,6 +69,8 @@ height | yes | 20 | height of the icon | 40
 
 - [balloons](https://github.com/ivanoff/react-native-ico-balloons/blob/master/static/balloons.md)
 
+- [basic](https://github.com/ivanoff/react-native-ico-basic/blob/master/static/basic.md)
+
 - [business](https://github.com/ivanoff/react-native-ico-business/blob/master/static/business.md)
 
 - [coolicons](https://github.com/ivanoff/react-native-ico-coolicons/blob/master/static/coolicons.md)
@@ -90,6 +92,8 @@ height | yes | 20 | height of the icon | 40
 - [new-year](https://github.com/ivanoff/react-native-ico-new-year/blob/master/static/new-year.md)
 
 - [payment-method](https://github.com/ivanoff/react-native-ico-payment-method/blob/master/static/payment-method.md)
+
+- [shopping](https://github.com/ivanoff/react-native-ico-shopping/blob/master/static/shopping.md)
 
 - [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
 
