@@ -1,5 +1,6 @@
 module.exports = {
   'balloons': require('react-native-ico-balloons/src/data/balloons'),
+  'basic': require('react-native-ico-basic/src/data/basic'),
   'business': require('react-native-ico-business/src/data/business'),
   'coolicons': require('react-native-ico-coolicons/src/data/coolicons'),
   'essential': require('react-native-ico-essential/src/data/essential'),
@@ -11,9 +12,8 @@ module.exports = {
   'miscellaneous': require('react-native-ico-miscellaneous/src/data/miscellaneous'),
   'new-year': require('react-native-ico-new-year/src/data/new-year'),
   'payment-method': require('react-native-ico-payment-method/src/data/payment-method'),
+  'shopping': require('react-native-ico-shopping/src/data/shopping'),
   'social-media': require('react-native-ico-social-media/src/data/social-media'),
   'ui-interface': require('react-native-ico-ui-interface/src/data/ui-interface'),
-  'payment-method': require('react-native-ico-payment-method/src/data/payment-method'),
-  'social-media': require('react-native-ico-social-media/src/data/social-media'),
   'universalicons': require('react-native-ico-universalicons/src/data/universalicons'),
 };
