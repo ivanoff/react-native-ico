@@ -9,6 +9,7 @@ module.exports = {
   'font-awesome': require('react-native-ico-font-awesome/src/data/font-awesome'),
   'interaction': require('react-native-ico-interaction/src/data/interaction'),
   'lodgicons': require('react-native-ico-lodgicons/src/data/lodgicons'),
+  'logistics-delivery': require('react-native-ico-logistics-delivery/src/data/logistics-delivery'),
   'miscellaneous': require('react-native-ico-miscellaneous/src/data/miscellaneous'),
   'new-year': require('react-native-ico-new-year/src/data/new-year'),
   'payment-method': require('react-native-ico-payment-method/src/data/payment-method'),

@@ -2,7 +2,9 @@
 
 ### react-native-ico
 
-4300+ Icons for React Native
+4400+ Icons for React Native
+
+v.18.1.2
 
 ## Usage
 
@@ -86,6 +88,8 @@ height | yes | 20 | height of the icon | 40
 - [interaction](https://github.com/ivanoff/react-native-ico-interaction/blob/master/static/interaction.md)
 
 - [lodgicons](https://github.com/ivanoff/react-native-ico-lodgicons/blob/master/static/lodgicons.md)
+
+- [logistics-delivery](https://github.com/ivanoff/react-native-ico-logistics-delivery/blob/master/static/logistics-delivery.md)
 
 - [miscellaneous](https://github.com/ivanoff/react-native-ico-miscellaneous/blob/master/static/miscellaneous.md)
 

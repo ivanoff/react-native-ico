@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico",
-  "version": "17.2.1",
+  "version": "18.1.2",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
@@ -16,6 +16,7 @@
     "react-native-ico-font-awesome": "^1.5.2",
     "react-native-ico-interaction": "^1.5.2",
     "react-native-ico-lodgicons": "^1.5.2",
+    "react-native-ico-logistics-delivery": "^1.5.2",
     "react-native-ico-miscellaneous": "^1.5.2",
     "react-native-ico-new-year": "^1.5.2",
     "react-native-ico-payment-method": "^1.5.2",
