@@ -1,12 +1,12 @@
 {
   "name": "react-native-ico",
-  "version": "18.1.2",
+  "version": "18.2.1",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
   "dependencies": {
-    "react": "16.9.0",
-    "react-native-ico-balloons": "^1.5.2",
+    "react": "16.12.0",
+    "react-native-ico-balloons": "^1.6.1",
     "react-native-ico-basic": "^1.5.2",
     "react-native-ico-business": "^1.5.2",
     "react-native-ico-coolicons": "^1.5.2",
@@ -24,7 +24,7 @@
     "react-native-ico-social-media": "^1.5.2",
     "react-native-ico-ui-interface": "^1.5.2",
     "react-native-ico-universalicons": "^1.5.2",
-    "react-native-svg": "^9.13.3"
+    "react-native-svg": "^9.13.6"
   },
   "repository": {
     "type": "git",
