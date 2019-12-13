@@ -10,6 +10,7 @@ module.exports = {
   'interaction': require('react-native-ico-interaction/src/data/interaction'),
   'lodgicons': require('react-native-ico-lodgicons/src/data/lodgicons'),
   'logistics-delivery': require('react-native-ico-logistics-delivery/src/data/logistics-delivery'),
+  'material-design': require('react-native-ico-material-design/src/data/material-design'),
   'miscellaneous': require('react-native-ico-miscellaneous/src/data/miscellaneous'),
   'new-year': require('react-native-ico-new-year/src/data/new-year'),
   'payment-method': require('react-native-ico-payment-method/src/data/payment-method'),
