@@ -15,6 +15,7 @@ module.exports = {
   'payment-method': require('react-native-ico-payment-method/src/data/payment-method'),
   'shopping': require('react-native-ico-shopping/src/data/shopping'),
   'social-media': require('react-native-ico-social-media/src/data/social-media'),
+  'stylish': require('react-native-ico-stylish/src/data/stylish'),
   'ui-interface': require('react-native-ico-ui-interface/src/data/ui-interface'),
   'universalicons': require('react-native-ico-universalicons/src/data/universalicons'),
 };

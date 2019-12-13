@@ -4,7 +4,7 @@
 
 4600+ Icons for React Native
 
-v.19.1.1
+v.19.2.2
 
 ## Usage
 
