@@ -2,9 +2,9 @@
 
 ### react-native-ico
 
-4400+ Icons for React Native
+4600+ Icons for React Native
 
-v.18.1.2
+v.19.1.1
 
 ## Usage
 
@@ -100,6 +100,8 @@ height | yes | 20 | height of the icon | 40
 - [shopping](https://github.com/ivanoff/react-native-ico-shopping/blob/master/static/shopping.md)
 
 - [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
+
+- [universalicons](https://github.com/ivanoff/react-native-ico-stylish/blob/master/static/stylish.md)
 
 - [ui-interface](https://github.com/ivanoff/react-native-ico-ui-interface/blob/master/static/ui-interface.md)
 

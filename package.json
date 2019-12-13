@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico",
-  "version": "18.2.1",
+  "version": "19.1.1",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
@@ -22,6 +22,7 @@
     "react-native-ico-payment-method": "^1.5.2",
     "react-native-ico-shopping": "^1.5.2",
     "react-native-ico-social-media": "^1.5.2",
+    "react-native-ico-stylish": "^1.5.2",
     "react-native-ico-ui-interface": "^1.5.2",
     "react-native-ico-universalicons": "^1.5.2",
     "react-native-svg": "^9.13.6"
