@@ -101,7 +101,7 @@ height | yes | 20 | height of the icon | 40
 
 - [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
 
-- [universalicons](https://github.com/ivanoff/react-native-ico-stylish/blob/master/static/stylish.md)
+- [stylish](https://github.com/ivanoff/react-native-ico-stylish/blob/master/static/stylish.md)
 
 - [ui-interface](https://github.com/ivanoff/react-native-ico-ui-interface/blob/master/static/ui-interface.md)
 
