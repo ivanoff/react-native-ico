@@ -4,7 +4,11 @@
 
 5100 Icons for React Native
 
-v.20.1.1
+v.20.1.2
+
+## List of Icons
+
+- [List of all packs](http://ico.simpleness.org/packs)
 
 ## Usage
 
@@ -66,48 +70,6 @@ color | yes | | line color, css style | "#00ff00", "#0f0", "green"
 width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
-
-## List of icons
-
-- [balloons](https://github.com/ivanoff/react-native-ico-balloons/blob/master/static/balloons.md)
-
-- [basic](https://github.com/ivanoff/react-native-ico-basic/blob/master/static/basic.md)
-
-- [business](https://github.com/ivanoff/react-native-ico-business/blob/master/static/business.md)
-
-- [coolicons](https://github.com/ivanoff/react-native-ico-coolicons/blob/master/static/coolicons.md)
-
-- [essential](https://github.com/ivanoff/react-native-ico-essential/blob/master/static/essential.md)
-
-- [file-folder](https://github.com/ivanoff/react-native-ico-file-folder/blob/master/static/file-folder.md)
-
-- [flags](https://github.com/ivanoff/react-native-ico-flags/blob/master/static/flags.md)
-
-- [font-awesome](https://github.com/ivanoff/react-native-ico-font-awesome/blob/master/static/font-awesome.md)
-
-- [interaction](https://github.com/ivanoff/react-native-ico-interaction/blob/master/static/interaction.md)
-
-- [lodgicons](https://github.com/ivanoff/react-native-ico-lodgicons/blob/master/static/lodgicons.md)
-
-- [logistics-delivery](https://github.com/ivanoff/react-native-ico-logistics-delivery/blob/master/static/logistics-delivery.md)
-
-- [material-design](https://github.com/ivanoff/react-native-ico-material-design/blob/master/static/material-design.md)
-
-- [miscellaneous](https://github.com/ivanoff/react-native-ico-miscellaneous/blob/master/static/miscellaneous.md)
-
-- [new-year](https://github.com/ivanoff/react-native-ico-new-year/blob/master/static/new-year.md)
-
-- [payment-method](https://github.com/ivanoff/react-native-ico-payment-method/blob/master/static/payment-method.md)
-
-- [shopping](https://github.com/ivanoff/react-native-ico-shopping/blob/master/static/shopping.md)
-
-- [social-media](https://github.com/ivanoff/react-native-ico-social-media/blob/master/static/social-media.md)
-
-- [stylish](https://github.com/ivanoff/react-native-ico-stylish/blob/master/static/stylish.md)
-
-- [ui-interface](https://github.com/ivanoff/react-native-ico-ui-interface/blob/master/static/ui-interface.md)
-
-- [universalicons](https://github.com/ivanoff/react-native-ico-universalicons/blob/master/static/universalicons.md)
 
 ## Example
 
