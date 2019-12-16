@@ -1,30 +1,30 @@
 {
   "name": "react-native-ico",
-  "version": "20.2.2",
+  "version": "20.3.1",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
-    "react-native-ico-balloons": "^2.2.1",
-    "react-native-ico-basic": "^2.2.1",
-    "react-native-ico-business": "^2.2.1",
-    "react-native-ico-coolicons": "^2.2.1",
-    "react-native-ico-essential": "^2.2.1",
-    "react-native-ico-file-folder": "^2.2.1",
-    "react-native-ico-flags": "^2.2.1",
-    "react-native-ico-font-awesome": "^2.2.1",
-    "react-native-ico-interaction": "^2.2.1",
-    "react-native-ico-lodgicons": "^2.2.1",
-    "react-native-ico-logistics-delivery": "^2.2.1",
-    "react-native-ico-material-design": "^2.2.1",
-    "react-native-ico-miscellaneous": "^2.2.1",
-    "react-native-ico-new-year": "^2.2.1",
-    "react-native-ico-payment-method": "^2.2.1",
-    "react-native-ico-shopping": "^2.2.1",
-    "react-native-ico-social-media": "^2.2.1",
-    "react-native-ico-stylish": "^2.2.1",
-    "react-native-ico-ui-interface": "^2.2.1",
-    "react-native-ico-universalicons": "^2.2.1",
-    "react-svg-main": "^0.2.3"
+    "react-native-ico-balloons": "^2.3.1",
+    "react-native-ico-basic": "^2.3.1",
+    "react-native-ico-business": "^2.3.1",
+    "react-native-ico-coolicons": "^2.3.1",
+    "react-native-ico-essential": "^2.3.1",
+    "react-native-ico-file-folder": "^2.3.1",
+    "react-native-ico-flags": "^2.3.1",
+    "react-native-ico-font-awesome": "^2.3.1",
+    "react-native-ico-interaction": "^2.3.1",
+    "react-native-ico-lodgicons": "^2.3.1",
+    "react-native-ico-logistics-delivery": "^2.3.1",
+    "react-native-ico-material-design": "^2.3.1",
+    "react-native-ico-miscellaneous": "^2.3.1",
+    "react-native-ico-new-year": "^2.3.1",
+    "react-native-ico-payment-method": "^2.3.1",
+    "react-native-ico-shopping": "^2.3.1",
+    "react-native-ico-social-media": "^2.3.1",
+    "react-native-ico-stylish": "^2.3.1",
+    "react-native-ico-ui-interface": "^2.3.1",
+    "react-native-ico-universalicons": "^2.3.1",
+    "react-svg-main": "^0.3.1"
   },
   "repository": {
     "type": "git",
@@ -41,5 +41,5 @@
   "bugs": {
     "url": "https://github.com/ivanoff/react-native-ico/issues"
   },
-  "homepage": "https://github.com/ivanoff/react-native-ico"
+  "homepage": "http://ico.simpleness.org"
 }
