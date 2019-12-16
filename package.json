@@ -3,7 +3,6 @@
   "version": "20.1.3",
   "description": "Icons for React Native",
   "main": "src/index.js",
-  "module": "src/index.js",
   "dependencies": {
     "react-native-ico-balloons": "^2.1.1",
     "react-native-ico-basic": "^2.1.1",
@@ -25,7 +24,7 @@
     "react-native-ico-stylish": "^2.1.1",
     "react-native-ico-ui-interface": "^2.1.1",
     "react-native-ico-universalicons": "^2.1.1",
-    "react-svg-main": "^0.2.1"
+    "react-svg-main": "^0.2.2"
   },
   "repository": {
     "type": "git",
