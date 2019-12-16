@@ -24,7 +24,7 @@
     "react-native-ico-stylish": "^2.2.1",
     "react-native-ico-ui-interface": "^2.2.1",
     "react-native-ico-universalicons": "^2.2.1",
-    "react-svg-main": "^0.2.2"
+    "react-svg-main": "^0.2.3"
   },
   "repository": {
     "type": "git",
