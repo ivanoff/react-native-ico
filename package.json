@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico",
-  "version": "20.5.1",
+  "version": "28.5.1",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
@@ -9,7 +9,6 @@
     "react-native-ico-business": "^2.5.1",
     "react-native-ico-christmas": "^2.5.1",
     "react-native-ico-coolicons": "^2.5.1",
-    "react-native-ico-default": "^2.5.1",
     "react-native-ico-essential": "^2.5.1",
     "react-native-ico-file-folder": "^2.5.1",
     "react-native-ico-flags": "^2.5.1",
