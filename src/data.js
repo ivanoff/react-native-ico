@@ -4,7 +4,6 @@ module.exports = {
   'business': require('react-native-ico-business/src/data'),
   'christmas': require('react-native-ico-christmas/src/data'),
   'coolicons': require('react-native-ico-coolicons/src/data'),
-  'default': require('react-native-ico-default/src/data'),
   'essential': require('react-native-ico-essential/src/data'),
   'file-folder': require('react-native-ico-file-folder/src/data'),
   'flags': require('react-native-ico-flags/src/data'),
