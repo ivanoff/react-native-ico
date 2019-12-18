@@ -2,7 +2,7 @@
 
 ### react-native-ico
 
-5100 Icons for React Native
+5900 Icons for React Native
 
 v.20.2.1
 
