@@ -33,7 +33,7 @@
     "react-native-ico-transport-logos": "^2.5.2",
     "react-native-ico-ui-interface": "^2.5.2",
     "react-native-ico-universalicons": "^2.5.2",
-    "react-svg-main": "^0.3.3"
+    "react-svg-main": "^0.4.3"
   },
   "repository": {
     "type": "git",
