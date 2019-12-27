@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico",
-  "version": "28.5.2",
+  "version": "28.6.2",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
@@ -32,7 +32,7 @@
     "react-native-ico-transport-logos": "^2.5.1",
     "react-native-ico-ui-interface": "^2.5.1",
     "react-native-ico-universalicons": "^2.5.1",
-    "react-svg-main": "^0.3.3"
+    "react-svg-main": "^0.4.3"
   },
   "repository": {
     "type": "git",
