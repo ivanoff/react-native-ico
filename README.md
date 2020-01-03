@@ -4,7 +4,7 @@
 
 5900 Icons for React Native
 
-v.20.2.1
+v.20.6.2
 
 ## List of Icons
 
