@@ -4,7 +4,7 @@
 
 5900 Icons for React Native
 
-v.20.6.2
+v.28.7.1
 
 ## List of Icons
 
@@ -24,6 +24,10 @@ render() {
           <Icon name="home" group="font-awesome" />
           <Icon name="speaker" height="40" width="40" />
           <Icon name="essential/trash" color="red" />
+          <Icon name="home" background="circle" />
+          <Icon name="home" background={{ type: "button", color: 'green' }} />
+          <Icon name="home" badge="10" />
+          <Icon name="home" badge={{value: 'A', fontSize: 25, radius: 22, position:'top_left', color:'orange', backgroundColor:'blue'}}/>
         </Fragment>
     );
 }
@@ -58,7 +62,7 @@ cd ios && pod install && cd ..
 
 ## API
 
-### <Icon name [group color width height ...rest] />
+### <Icon name [group color width height background badge ...rest] />
 
 Returns a SvgXml icon by name and group.
 
@@ -69,6 +73,10 @@ group | yes | default | name of the group | "essential"
 color | yes | | line color, css style | "#00ff00", "#0f0", "green"
 width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
+background | no | | background type | "circle"
+background | no | | background object | {type: "circle", color: 'yellow'}
+badge | no | | badge string | "10"
+badge | no | | badge object | {value: 'A', fontSize: 25, radius: 22, position:'top_left', color:'orange', backgroundColor:'blue'}
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
 ## Example

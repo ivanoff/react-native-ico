@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico",
-  "version": "28.6.2",
+  "version": "28.7.3",
   "description": "Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
