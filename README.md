@@ -2,9 +2,9 @@
 
 ### react-native-ico
 
-5900 Icons for React Native
+20000 Icons for React Native
 
-v.28.7.4
+v.44.7.4
 
 ## List of Icons
 
@@ -108,16 +108,40 @@ class App extends React.Component {
 <Icon name="clock" group="basic" height="80" width="80" badge="5" background={true} />
 <Icon name="contacs" group="basic" height="80" width="80" background="button" />
 <Icon name="contacs" group="basic" height="80" width="80" background={{ type: "button", color: 'green' }} />
-<Icon name="share-1" group="business" height="80" width="80" badge="9+" />
-<Icon name="idea-2" group="business" height="80" width="80" badge="4K" />
-<Icon name="thinking" group="business" height="80" width="80" badge="10" />
-<Icon name="list-1" group="christmas" height="80" width="80" badge="10" />
-<Icon name="list" group="christmas" height="80" width="80" badge="10" />
+<Icon name="speech-bubble-1" group="balloons" height="80" width="80" />
+<Icon name="speech-bubble-10" group="balloons" height="80" width="80" />
+<Icon name="speech-bubble-11" group="balloons" height="80" width="80" />
+<Icon name="contacs" group="basic" height="80" width="80" />
+<Icon name="aim" group="basic" height="80" width="80" />
+<Icon name="clock" group="basic" height="80" width="80" />
+<Icon name="share-1" group="business" height="80" width="80" />
+<Icon name="idea-2" group="business" height="80" width="80" />
+<Icon name="thinking" group="business" height="80" width="80" />
+<Icon name="list-1" group="christmas" height="80" width="80" />
+<Icon name="list" group="christmas" height="80" width="80" />
 <Icon name="zambomba" group="christmas" height="80" width="80" />
 <Icon name="airplane-black-shape" group="coolicons" height="80" width="80" />
 <Icon name="alphabetical-order-from-a-to-z" group="coolicons" height="80" width="80" />
 <Icon name="ambulance" group="coolicons" height="80" width="80" />
+<Icon name="abt" group="cryptocurrency" height="80" width="80" />
+<Icon name="act" group="cryptocurrency" height="80" width="80" />
+<Icon name="actn" group="cryptocurrency" height="80" width="80" />
+<Icon name="airpods-alt" group="dazzle-line" height="80" width="80" />
+<Icon name="airpods" group="dazzle-line" height="80" width="80" />
+<Icon name="alarm-clock-alt" group="dazzle-line" height="80" width="80" />
 <Icon name="leftArrow" group="default" height="80" width="80" />
+<Icon name="menu" group="default" height="80" width="80" />
+<Icon name="question" group="default" height="80" width="80" />
+<Icon name="battery-with-recycle-symbol" group="ecologism" height="80" width="80" />
+<Icon name="corn" group="ecologism" height="80" width="80" />
+<Icon name="danger-signal" group="ecologism" height="80" width="80" />
+<Icon name="a-button" group="emojione-emojis" height="80" width="80" />
+<Icon name="ab-button" group="emojione-emojis" height="80" width="80" />
+<Icon name="admission-tickets" group="emojione-emojis" height="80" width="80" />
+<Icon name="a-button" group="emojione-emojis-mono" height="80" width="80" />
+<Icon name="ab-button" group="emojione-emojis-mono" height="80" width="80" />
+<Icon name="admission-tickets" group="emojione-emojis-mono" height="80" width="80" />
+<Icon name="add" group="essential" height="80" width="80" />
 <Icon name="agenda" group="essential" height="80" width="80" />
 <Icon name="alarm-1" group="essential" height="80" width="80" />
 <Icon name="folder-41" group="file-folder" height="80" width="80" />
@@ -129,6 +153,9 @@ class App extends React.Component {
 <Icon name="align-to-left" group="font-awesome" height="80" width="80" />
 <Icon name="align-to-right" group="font-awesome" height="80" width="80" />
 <Icon name="ambulance" group="font-awesome" height="80" width="80" />
+<Icon name="aubergine" group="gastronomy-set" height="80" width="80" />
+<Icon name="avocado" group="gastronomy-set" height="80" width="80" />
+<Icon name="bacon" group="gastronomy-set" height="80" width="80" />
 <Icon name="archive-12" group="interaction" height="80" width="80" />
 <Icon name="archive-13" group="interaction" height="80" width="80" />
 <Icon name="archive-14" group="interaction" height="80" width="80" />
@@ -141,24 +168,48 @@ class App extends React.Component {
 <Icon name="windows-media-player" group="logo" height="80" width="80" />
 <Icon name="wechat" group="logo" height="80" width="80" />
 <Icon name="waze" group="logo" height="80" width="80" />
+<Icon name="adyen" group="logos" height="80" width="80" />
+<Icon name="aerospike-icon" group="logos" height="80" width="80" />
+<Icon name="aerospike" group="logos" height="80" width="80" />
 <Icon name="add-label-button" group="material-design" height="80" width="80" />
 <Icon name="add-plus-button" group="material-design" height="80" width="80" />
 <Icon name="add-to-queue-button" group="material-design" height="80" width="80" />
+<Icon name="airbnb" group="mingcute-tiny-bold-filled" height="80" width="80" />
+<Icon name="airplane" group="mingcute-tiny-bold-filled" height="80" width="80" />
+<Icon name="airplay" group="mingcute-tiny-bold-filled" height="80" width="80" />
 <Icon name="right-arrow" group="miscellaneous" height="80" width="80" />
 <Icon name="diagonal-arrow" group="miscellaneous" height="80" width="80" />
 <Icon name="diagonal-arrow-1" group="miscellaneous" height="80" width="80" />
+<Icon name="3d" group="modern-ui" height="80" width="80" />
+<Icon name="acorn" group="modern-ui" height="80" width="80" />
+<Icon name="add-multiple" group="modern-ui" height="80" width="80" />
 <Icon name="santa-claus" group="new-year" height="80" width="80" />
 <Icon name="candelabra" group="new-year" height="80" width="80" />
 <Icon name="star" group="new-year" height="80" width="80" />
+<Icon name="a-button-blood-type" group="noto-emojis" height="80" width="80" />
+<Icon name="ab-button-blood-type" group="noto-emojis" height="80" width="80" />
+<Icon name="abacus" group="noto-emojis" height="80" width="80" />
 <Icon name="western-union-1" group="payment-method" height="80" width="80" />
 <Icon name="western-union" group="payment-method" height="80" width="80" />
 <Icon name="wepay" group="payment-method" height="80" width="80" />
 <Icon name="4g" group="phones-and-mobiles" height="80" width="80" />
 <Icon name="4g plus" group="phones-and-mobiles" height="80" width="80" />
-<Icon name="4g" group="phones-and-mobiles" height="80" width="80"/>
+<Icon name="4g" group="phones-and-mobiles" height="80" width="80" />
+<Icon name="alert-box" group="pixel" height="80" width="80" />
+<Icon name="alert-circle-fill" group="pixel" height="80" width="80" />
+<Icon name="alert-circle" group="pixel" height="80" width="80" />
+<Icon name="all-for-one" group="rpg-game" height="80" width="80" />
+<Icon name="alligator-clip" group="rpg-game" height="80" width="80" />
+<Icon name="ammo-bag" group="rpg-game" height="80" width="80" />
+<Icon name="anxious-face-with-sweat" group="sensa-emoji-vectors" height="80" width="80" />
+<Icon name="astonished-face" group="sensa-emoji-vectors" height="80" width="80" />
+<Icon name="avocado" group="sensa-emoji-vectors" height="80" width="80" />
 <Icon name="invoice" group="shopping" height="80" width="80" />
 <Icon name="shopping-cart" group="shopping" height="80" width="80" />
 <Icon name="shopping-cart-1" group="shopping" height="80" width="80" />
+<Icon name="15-s-for-menu" group="sign-and-symbols" height="80" width="80" />
+<Icon name="16-weather-illustrations" group="sign-and-symbols" height="80" width="80" />
+<Icon name="1st-place-37" group="sign-and-symbols" height="80" width="80" />
 <Icon name="56-social-logo" group="social-icons" height="80" width="80" />
 <Icon name="ads-of-the-world-logo" group="social-icons" height="80" width="80" />
 <Icon name="ads-scuttlepad-logo" group="social-icons" height="80" width="80" />
@@ -174,6 +225,9 @@ class App extends React.Component {
 <Icon name="bikini" group="stylish" height="80" width="80" />
 <Icon name="blush-makeup-circular-opened-case" group="stylish" height="80" width="80" />
 <Icon name="bottle-black-and-rounded-shape" group="stylish" height="80" width="80" />
+<Icon name="add-song-interface-symbol" group="supraicons" height="80" width="80" />
+<Icon name="add-to-cart-commercial-symbol" group="supraicons" height="80" width="80" />
+<Icon name="add-to-shopping-cart-e-commerce-symbol" group="supraicons" height="80" width="80" />
 <Icon name="t-mobile" group="technology-logos" height="80" width="80" />
 <Icon name="oppo" group="technology-logos" height="80" width="80" />
 <Icon name="asus" group="technology-logos" height="80" width="80" />
@@ -186,9 +240,6 @@ class App extends React.Component {
 <Icon name="arrow-pointing-to-left" group="universalicons" height="80" width="80" />
 <Icon name="arrow-turning-to-right" group="universalicons" height="80" width="80" />
 <Icon name="arrows-circle" group="universalicons" height="80" width="80" />
-<Icon name="menu" group="default" height="80" width="80" />
-<Icon name="question" group="default" height="80" width="80" />
-<Icon name="add" group="essential" height="80" width="80" />
 </View>
           </View>
         </ScrollView>
