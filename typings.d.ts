@@ -23,11 +23,11 @@ declare module 'react-native-ico-business' {
     };
 
     interface IconProps {
-      name: string;
-      group: string;
+      name: iconNames;
       width?: number;
       height?: number;
       color?: string;
+      colors?: colorsType;
       stroke?: number;
       background?: backgroundType | backgroundTypeObj;
       badge?: number | string | badgeTypeObj;
